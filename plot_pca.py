@@ -3,7 +3,6 @@ import numpy as np
 import matplotlib.pyplot as plt
 from sklearn.decomposition import PCA
 from sklearn.impute import SimpleImputer
-from sklearn.preprocessing import normalize, MinMaxScaler
 
 
 if __name__ == "__main__":
