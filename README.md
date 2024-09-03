@@ -1,4 +1,4 @@
-# Informed-Dataset-Selection-via-APS
+# Informed Dataset Selection with ‘Algorithm Performance Spaces’ 
 Code and Supplementary Material for our paper _Informed Dataset Selection with ‘Algorithm Performance Spaces’_ (ACM RecSys 2024)
 
 If you want cite the work, please cite:
