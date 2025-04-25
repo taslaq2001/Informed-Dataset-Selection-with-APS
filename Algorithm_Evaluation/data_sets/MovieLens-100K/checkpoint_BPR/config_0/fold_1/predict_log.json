@@ -1,5 +1,5 @@
 {
-    "model_file": "./data_sets/MovieLens-100K/checkpoint_BPR/config_0/fold_1/BPR-Apr-24-2025_15-18-34.pth",
+    "model_file": "./data_sets/MovieLens-100K/checkpoint_BPR/config_0/fold_1/BPR-Apr-25-2025_15-04-44.pth",
     "data_set_name": "MovieLens-100K",
     "algorithm_name": "BPR",
     "algorithm_config_index": 0,
@@ -11,5 +11,5 @@
     "train_users": 711,
     "test_users": 711,
     "users_to_predict": 711,
-    "prediction_time": 0.337299108505249
+    "prediction_time": 0.4053671360015869
 }

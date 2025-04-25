@@ -1,0 +1,15 @@
+{
+    "model_file": "./data_sets/MovieLens-100K/checkpoint_EASE/config_0/fold_2/EASE-Apr-25-2025_18-48-05.pth",
+    "data_set_name": "MovieLens-100K",
+    "algorithm_name": "EASE",
+    "algorithm_config_index": 0,
+    "algorithm_configuration": {
+        "epochs": 1,
+        "reg_weight": 250
+    },
+    "fold": 2,
+    "train_users": 711,
+    "test_users": 711,
+    "users_to_predict": 711,
+    "prediction_time": 0.5316622257232666
+}

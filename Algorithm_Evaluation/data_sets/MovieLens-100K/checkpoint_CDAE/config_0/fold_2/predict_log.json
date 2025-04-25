@@ -1,5 +1,5 @@
 {
-    "model_file": "./data_sets/MovieLens-100K/checkpoint_CDAE/config_0/fold_2/CDAE-Apr-24-2025_15-34-39.pth",
+    "model_file": "./data_sets/MovieLens-100K/checkpoint_CDAE/config_0/fold_2/CDAE-Apr-25-2025_15-06-48.pth",
     "data_set_name": "MovieLens-100K",
     "algorithm_name": "CDAE",
     "algorithm_config_index": 0,
@@ -11,5 +11,5 @@
     "train_users": 711,
     "test_users": 711,
     "users_to_predict": 711,
-    "prediction_time": 0.5734314918518066
+    "prediction_time": 0.6292471885681152
 }

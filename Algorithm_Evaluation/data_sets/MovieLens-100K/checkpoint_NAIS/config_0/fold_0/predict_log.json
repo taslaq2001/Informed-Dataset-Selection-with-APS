@@ -1,0 +1,16 @@
+{
+    "model_file": "./data_sets/MovieLens-100K/checkpoint_NAIS/config_0/fold_0/NAIS-Apr-25-2025_19-33-58.pth",
+    "data_set_name": "MovieLens-100K",
+    "algorithm_name": "NAIS",
+    "algorithm_config_index": 0,
+    "algorithm_configuration": {
+        "embedding_size": 64,
+        "learning_rate": 0.01,
+        "split_to": 20
+    },
+    "fold": 0,
+    "train_users": 711,
+    "test_users": 711,
+    "users_to_predict": 711,
+    "prediction_time": 14.478666067123413
+}

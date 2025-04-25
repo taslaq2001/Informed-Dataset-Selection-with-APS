@@ -1,0 +1,16 @@
+{
+    "model_file": "./data_sets/MovieLens-100K/checkpoint_NeuMF/config_0/fold_3/NeuMF-Apr-25-2025_15-52-40.pth",
+    "data_set_name": "MovieLens-100K",
+    "algorithm_name": "NeuMF",
+    "algorithm_config_index": 0,
+    "algorithm_configuration": {
+        "mf_embedding_size": 64,
+        "mlp_embedding_size": 64,
+        "learning_rate": 0.01
+    },
+    "fold": 3,
+    "train_users": 711,
+    "test_users": 711,
+    "users_to_predict": 711,
+    "prediction_time": 1.1495692729949951
+}
