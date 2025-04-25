@@ -1,0 +1,27 @@
+{
+    "model_file": "./data_sets/MovieLens-100K/checkpoint_GCMC/config_0/fold_4/GCMC-Apr-25-2025_19-27-37.pth",
+    "data_set_name": "MovieLens-100K",
+    "algorithm_name": "GCMC",
+    "algorithm_config_index": 0,
+    "algorithm_configuration": {
+        "embedding_size": 64,
+        "learning_rate": 0.01
+    },
+    "fold": 4,
+    "evaluation_time": 1.0416150093078613,
+    "NDCG@1": 0.015471167369901548,
+    "HR@1": 0.015471167369901548,
+    "Recall@1": 0.015471167369901548,
+    "NDCG@3": 0.012815406845432356,
+    "HR@3": 0.035161744022503515,
+    "Recall@3": 0.012189404594467882,
+    "NDCG@5": 0.012566384569055788,
+    "HR@5": 0.05485232067510549,
+    "Recall@5": 0.012095639943741214,
+    "NDCG@10": 0.013365276793107653,
+    "HR@10": 0.10970464135021098,
+    "Recall@10": 0.014080325050789173,
+    "NDCG@20": 0.014580778286523767,
+    "HR@20": 0.21659634317862167,
+    "Recall@20": 0.019016736086891948
+}

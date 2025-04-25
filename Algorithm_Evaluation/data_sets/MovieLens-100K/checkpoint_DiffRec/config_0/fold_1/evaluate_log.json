@@ -1,0 +1,27 @@
+{
+    "model_file": "./data_sets/MovieLens-100K/checkpoint_DiffRec/config_0/fold_1/DiffRec-Apr-25-2025_18-44-04.pth",
+    "data_set_name": "MovieLens-100K",
+    "algorithm_name": "DiffRec",
+    "algorithm_config_index": 0,
+    "algorithm_configuration": {
+        "steps": 5,
+        "learning_rate": 0.01
+    },
+    "fold": 1,
+    "evaluation_time": 0.8906729221343994,
+    "NDCG@1": 0.4936708860759494,
+    "HR@1": 0.4936708860759494,
+    "Recall@1": 0.4936708860759494,
+    "NDCG@3": 0.4422996724753091,
+    "HR@3": 0.7580872011251758,
+    "Recall@3": 0.42780121894045947,
+    "NDCG@5": 0.41502508642341973,
+    "HR@5": 0.8410689170182841,
+    "Recall@5": 0.39556962025316433,
+    "NDCG@10": 0.3664557101297988,
+    "HR@10": 0.9338959212376934,
+    "Recall@10": 0.35395262652646603,
+    "NDCG@20": 0.31498571677122167,
+    "HR@20": 0.9746835443037974,
+    "Recall@20": 0.364824709561225
+}

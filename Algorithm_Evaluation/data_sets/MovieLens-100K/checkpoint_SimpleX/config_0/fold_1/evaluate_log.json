@@ -1,0 +1,26 @@
+{
+    "model_file": "./data_sets/MovieLens-100K/checkpoint_SimpleX/config_0/fold_1/SimpleX-Apr-25-2025_17-08-57.pth",
+    "data_set_name": "MovieLens-100K",
+    "algorithm_name": "SimpleX",
+    "algorithm_config_index": 0,
+    "algorithm_configuration": {
+        "embedding_size": 64
+    },
+    "fold": 1,
+    "evaluation_time": 0.8395867347717285,
+    "NDCG@1": 0.4092827004219409,
+    "HR@1": 0.4092827004219409,
+    "Recall@1": 0.4092827004219409,
+    "NDCG@3": 0.37841112759373813,
+    "HR@3": 0.7187060478199718,
+    "Recall@3": 0.36849507735583725,
+    "NDCG@5": 0.3508458886174216,
+    "HR@5": 0.8284106891701828,
+    "Recall@5": 0.3339193624003742,
+    "NDCG@10": 0.30880395630673824,
+    "HR@10": 0.9212376933895922,
+    "Recall@10": 0.29939890161409155,
+    "NDCG@20": 0.2608016647901437,
+    "HR@20": 0.9620253164556962,
+    "Recall@20": 0.30512842118046535
+}

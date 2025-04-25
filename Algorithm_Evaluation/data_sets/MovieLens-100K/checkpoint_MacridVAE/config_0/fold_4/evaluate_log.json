@@ -1,0 +1,27 @@
+{
+    "model_file": "./data_sets/MovieLens-100K/checkpoint_MacridVAE/config_0/fold_4/MacridVAE-Apr-25-2025_19-33-28.pth",
+    "data_set_name": "MovieLens-100K",
+    "algorithm_name": "MacridVAE",
+    "algorithm_config_index": 0,
+    "algorithm_configuration": {
+        "embedding_size": 64,
+        "learning_rate": 0.01
+    },
+    "fold": 4,
+    "evaluation_time": 0.9668064117431641,
+    "NDCG@1": 0.4120956399437412,
+    "HR@1": 0.4120956399437412,
+    "Recall@1": 0.4120956399437412,
+    "NDCG@3": 0.39869096867232495,
+    "HR@3": 0.7032348804500703,
+    "Recall@3": 0.3942803563056729,
+    "NDCG@5": 0.3859695992776118,
+    "HR@5": 0.8143459915611815,
+    "Recall@5": 0.37852789498359063,
+    "NDCG@10": 0.3478270445754778,
+    "HR@10": 0.9043600562587905,
+    "Recall@10": 0.34190275266224635,
+    "NDCG@20": 0.3022973364522028,
+    "HR@20": 0.9563994374120957,
+    "Recall@20": 0.3493236985229256
+}

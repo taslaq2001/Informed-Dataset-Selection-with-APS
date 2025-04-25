@@ -1,0 +1,28 @@
+{
+    "model_file": "./data_sets/MovieLens-100K/checkpoint_NeuMF/config_0/fold_2/NeuMF-Apr-25-2025_15-52-13.pth",
+    "data_set_name": "MovieLens-100K",
+    "algorithm_name": "NeuMF",
+    "algorithm_config_index": 0,
+    "algorithm_configuration": {
+        "mf_embedding_size": 64,
+        "mlp_embedding_size": 64,
+        "learning_rate": 0.01
+    },
+    "fold": 2,
+    "evaluation_time": 0.8726229667663574,
+    "NDCG@1": 0.2489451476793249,
+    "HR@1": 0.2489451476793249,
+    "Recall@1": 0.2489451476793249,
+    "NDCG@3": 0.23040178953043097,
+    "HR@3": 0.49929676511954996,
+    "Recall@3": 0.22456633849038932,
+    "NDCG@5": 0.22507671356923686,
+    "HR@5": 0.6694796061884669,
+    "Recall@5": 0.2201593999062357,
+    "NDCG@10": 0.20444076550850862,
+    "HR@10": 0.8115330520393812,
+    "Recall@10": 0.2061187015828365,
+    "NDCG@20": 0.18338189933878574,
+    "HR@20": 0.9226441631504922,
+    "Recall@20": 0.22310462719356847
+}

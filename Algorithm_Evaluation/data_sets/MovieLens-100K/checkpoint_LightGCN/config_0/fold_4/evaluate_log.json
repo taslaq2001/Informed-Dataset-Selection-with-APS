@@ -1,0 +1,27 @@
+{
+    "model_file": "./data_sets/MovieLens-100K/checkpoint_LightGCN/config_0/fold_4/LightGCN-Apr-25-2025_15-41-53.pth",
+    "data_set_name": "MovieLens-100K",
+    "algorithm_name": "LightGCN",
+    "algorithm_config_index": 0,
+    "algorithm_configuration": {
+        "embedding_size": 64,
+        "learning_rate": 0.01
+    },
+    "fold": 4,
+    "evaluation_time": 1.0711407661437988,
+    "NDCG@1": 0.4191279887482419,
+    "HR@1": 0.4191279887482419,
+    "Recall@1": 0.4191279887482419,
+    "NDCG@3": 0.37404268052878653,
+    "HR@3": 0.6779184247538678,
+    "Recall@3": 0.36146272855133615,
+    "NDCG@5": 0.3546945849661328,
+    "HR@5": 0.7960618846694796,
+    "Recall@5": 0.3390295358649785,
+    "NDCG@10": 0.3222473778374718,
+    "HR@10": 0.909985935302391,
+    "Recall@10": 0.31660918000580446,
+    "NDCG@20": 0.28413607597434226,
+    "HR@20": 0.9718706047819972,
+    "Recall@20": 0.3365601908555301
+}

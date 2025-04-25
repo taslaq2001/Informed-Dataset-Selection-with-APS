@@ -1,0 +1,28 @@
+{
+    "model_file": "./data_sets/MovieLens-100K/checkpoint_NAIS/config_0/fold_4/NAIS-Apr-25-2025_20-37-33.pth",
+    "data_set_name": "MovieLens-100K",
+    "algorithm_name": "NAIS",
+    "algorithm_config_index": 0,
+    "algorithm_configuration": {
+        "embedding_size": 64,
+        "learning_rate": 0.01,
+        "split_to": 20
+    },
+    "fold": 4,
+    "evaluation_time": 0.9269022941589355,
+    "NDCG@1": 0.08438818565400844,
+    "HR@1": 0.08438818565400844,
+    "Recall@1": 0.08438818565400844,
+    "NDCG@3": 0.07810228027282316,
+    "HR@3": 0.20815752461322082,
+    "Recall@3": 0.07594936708860772,
+    "NDCG@5": 0.074590961843908,
+    "HR@5": 0.29535864978902954,
+    "Recall@5": 0.07172995780590734,
+    "NDCG@10": 0.07266797357331868,
+    "HR@10": 0.46835443037974683,
+    "Recall@10": 0.07196213694104027,
+    "NDCG@20": 0.06926942641955963,
+    "HR@20": 0.6526019690576652,
+    "Recall@20": 0.08067802120231235
+}

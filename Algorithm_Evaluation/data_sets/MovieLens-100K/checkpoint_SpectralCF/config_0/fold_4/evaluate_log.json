@@ -1,0 +1,27 @@
+{
+    "model_file": "./data_sets/MovieLens-100K/checkpoint_SpectralCF/config_0/fold_4/SpectralCF-Apr-25-2025_17-33-14.pth",
+    "data_set_name": "MovieLens-100K",
+    "algorithm_name": "SpectralCF",
+    "algorithm_config_index": 0,
+    "algorithm_configuration": {
+        "embedding_size": 64,
+        "learning_rate": 0.01
+    },
+    "fold": 4,
+    "evaluation_time": 1.017087459564209,
+    "NDCG@1": 0.3150492264416315,
+    "HR@1": 0.3150492264416315,
+    "Recall@1": 0.3150492264416315,
+    "NDCG@3": 0.2822921329014849,
+    "HR@3": 0.5766526019690577,
+    "Recall@3": 0.2737927801218946,
+    "NDCG@5": 0.2642227693237951,
+    "HR@5": 0.6919831223628692,
+    "Recall@5": 0.25196905766525973,
+    "NDCG@10": 0.24131396772362737,
+    "HR@10": 0.8410689170182841,
+    "Recall@10": 0.2355395932400151,
+    "NDCG@20": 0.2180444632174392,
+    "HR@20": 0.9324894514767933,
+    "Recall@20": 0.2602213684286422
+}

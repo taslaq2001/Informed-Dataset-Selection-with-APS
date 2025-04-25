@@ -1,0 +1,27 @@
+{
+    "model_file": "./data_sets/MovieLens-100K/checkpoint_ConvNCF/config_0/fold_2/ConvNCF-Apr-25-2025_18-04-50.pth",
+    "data_set_name": "MovieLens-100K",
+    "algorithm_name": "ConvNCF",
+    "algorithm_config_index": 0,
+    "algorithm_configuration": {
+        "embedding_size": 64,
+        "learning_rate": 0.01
+    },
+    "fold": 2,
+    "evaluation_time": 0.8822524547576904,
+    "NDCG@1": 0.15752461322081576,
+    "HR@1": 0.15752461322081576,
+    "Recall@1": 0.15752461322081576,
+    "NDCG@3": 0.1553009381249998,
+    "HR@3": 0.38255977496483823,
+    "Recall@3": 0.1551804969526485,
+    "NDCG@5": 0.15220227320337848,
+    "HR@5": 0.5119549929676512,
+    "Recall@5": 0.15159399906235432,
+    "NDCG@10": 0.14512822989972174,
+    "HR@10": 0.6779184247538678,
+    "Recall@10": 0.14833456120375935,
+    "NDCG@20": 0.1395529077761486,
+    "HR@20": 0.8410689170182841,
+    "Recall@20": 0.17025420562555968
+}

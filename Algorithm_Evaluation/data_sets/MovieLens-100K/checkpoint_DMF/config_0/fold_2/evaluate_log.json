@@ -1,0 +1,28 @@
+{
+    "model_file": "./data_sets/MovieLens-100K/checkpoint_DMF/config_0/fold_2/DMF-Apr-25-2025_13-42-33.pth",
+    "data_set_name": "MovieLens-100K",
+    "algorithm_name": "DMF",
+    "algorithm_config_index": 0,
+    "algorithm_configuration": {
+        "user_embedding_size": 64,
+        "item_embedding_size": 64,
+        "learning_rate": 0.01
+    },
+    "fold": 2,
+    "evaluation_time": 0.860072135925293,
+    "NDCG@1": 0.3656821378340366,
+    "HR@1": 0.3656821378340366,
+    "Recall@1": 0.3656821378340366,
+    "NDCG@3": 0.35366828114938986,
+    "HR@3": 0.6258790436005626,
+    "Recall@3": 0.35021097046413563,
+    "NDCG@5": 0.33816230816541865,
+    "HR@5": 0.7369901547116737,
+    "Recall@5": 0.32979371776840094,
+    "NDCG@10": 0.29953796196564275,
+    "HR@10": 0.8452883263009845,
+    "Recall@10": 0.28894191056638296,
+    "NDCG@20": 0.26344828856120783,
+    "HR@20": 0.939521800281294,
+    "Recall@20": 0.2983747658649032
+}

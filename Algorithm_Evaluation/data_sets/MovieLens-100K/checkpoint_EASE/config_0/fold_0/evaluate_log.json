@@ -1,0 +1,27 @@
+{
+    "model_file": "./data_sets/MovieLens-100K/checkpoint_EASE/config_0/fold_0/EASE-Apr-25-2025_18-47-26.pth",
+    "data_set_name": "MovieLens-100K",
+    "algorithm_name": "EASE",
+    "algorithm_config_index": 0,
+    "algorithm_configuration": {
+        "epochs": 1,
+        "reg_weight": 250
+    },
+    "fold": 0,
+    "evaluation_time": 0.8549306392669678,
+    "NDCG@1": 0.549929676511955,
+    "HR@1": 0.549929676511955,
+    "Recall@1": 0.549929676511955,
+    "NDCG@3": 0.5034848640539905,
+    "HR@3": 0.7946554149085795,
+    "Recall@3": 0.4889826535396153,
+    "NDCG@5": 0.4737580067718401,
+    "HR@5": 0.8720112517580872,
+    "Recall@5": 0.4526019690576645,
+    "NDCG@10": 0.4237705897533718,
+    "HR@10": 0.9549929676511955,
+    "Recall@10": 0.41057866184448455,
+    "NDCG@20": 0.35899599803615523,
+    "HR@20": 0.9789029535864979,
+    "Recall@20": 0.4049186048317351
+}

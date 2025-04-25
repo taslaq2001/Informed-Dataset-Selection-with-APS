@@ -1,0 +1,27 @@
+{
+    "model_file": "./data_sets/MovieLens-100K/checkpoint_NCEPLRec/config_0/fold_2/NCEPLRec-Apr-25-2025_20-52-16.pth",
+    "data_set_name": "MovieLens-100K",
+    "algorithm_name": "NCEPLRec",
+    "algorithm_config_index": 0,
+    "algorithm_configuration": {
+        "epochs": 1,
+        "rank": 450
+    },
+    "fold": 2,
+    "evaluation_time": 0.8730955123901367,
+    "NDCG@1": 0.24050632911392406,
+    "HR@1": 0.24050632911392406,
+    "Recall@1": 0.24050632911392406,
+    "NDCG@3": 0.2067905064156606,
+    "HR@3": 0.47257383966244726,
+    "Recall@3": 0.19690576652601938,
+    "NDCG@5": 0.190856844154333,
+    "HR@5": 0.5850914205344585,
+    "Recall@5": 0.1783403656821389,
+    "NDCG@10": 0.16693622125656393,
+    "HR@10": 0.7412095639943741,
+    "Recall@10": 0.15814971089232696,
+    "NDCG@20": 0.14163541938936683,
+    "HR@20": 0.8649789029535865,
+    "Recall@20": 0.16430824092383087
+}

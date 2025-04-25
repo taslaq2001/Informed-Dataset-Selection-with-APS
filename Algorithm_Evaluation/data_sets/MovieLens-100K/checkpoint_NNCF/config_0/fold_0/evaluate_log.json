@@ -1,0 +1,28 @@
+{
+    "model_file": "./data_sets/MovieLens-100K/checkpoint_NNCF/config_0/fold_0/NNCF-Apr-25-2025_21-09-43.pth",
+    "data_set_name": "MovieLens-100K",
+    "algorithm_name": "NNCF",
+    "algorithm_config_index": 0,
+    "algorithm_configuration": {
+        "ui_embedding_size": 64,
+        "neigh_embedding_size": 64,
+        "learning_rate": 0.01
+    },
+    "fold": 0,
+    "evaluation_time": 0.8625719547271729,
+    "NDCG@1": 0.38959212376933894,
+    "HR@1": 0.38959212376933894,
+    "Recall@1": 0.38959212376933894,
+    "NDCG@3": 0.37882755784826133,
+    "HR@3": 0.6765119549929677,
+    "Recall@3": 0.37576183778715416,
+    "NDCG@5": 0.37223010660293315,
+    "HR@5": 0.8115330520393812,
+    "Recall@5": 0.36856540084388145,
+    "NDCG@10": 0.34294392680552827,
+    "HR@10": 0.9113924050632911,
+    "Recall@10": 0.3426997521934231,
+    "NDCG@20": 0.29903484991404095,
+    "HR@20": 0.9662447257383966,
+    "Recall@20": 0.35048588218060234
+}

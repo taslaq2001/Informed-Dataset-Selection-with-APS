@@ -1,5 +1,5 @@
 {
-    "model_file": "./data_sets/MovieLens-100K/checkpoint_BPR/config_0/fold_2/BPR-Apr-24-2025_15-19-02.pth",
+    "model_file": "./data_sets/MovieLens-100K/checkpoint_BPR/config_0/fold_2/BPR-Apr-25-2025_15-04-56.pth",
     "data_set_name": "MovieLens-100K",
     "algorithm_name": "BPR",
     "algorithm_config_index": 0,
@@ -8,7 +8,7 @@
         "learning_rate": 0.01
     },
     "fold": 2,
-    "evaluation_time": 0.8210489749908447,
+    "evaluation_time": 0.8993892669677734,
     "NDCG@1": 0.2967651195499297,
     "HR@1": 0.2967651195499297,
     "Recall@1": 0.2967651195499297,

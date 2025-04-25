@@ -1,0 +1,27 @@
+{
+    "model_file": "./data_sets/MovieLens-100K/checkpoint_MultiVAE/config_0/fold_1/MultiVAE-Apr-25-2025_15-47-20.pth",
+    "data_set_name": "MovieLens-100K",
+    "algorithm_name": "MultiVAE",
+    "algorithm_config_index": 0,
+    "algorithm_configuration": {
+        "latent_dimension": 64,
+        "learning_rate": 0.01
+    },
+    "fold": 1,
+    "evaluation_time": 0.8829131126403809,
+    "NDCG@1": 0.4444444444444444,
+    "HR@1": 0.4444444444444444,
+    "Recall@1": 0.4444444444444444,
+    "NDCG@3": 0.41156148225522726,
+    "HR@3": 0.7552742616033755,
+    "Recall@3": 0.40178152836380654,
+    "NDCG@5": 0.3937915669418541,
+    "HR@5": 0.8466947960618847,
+    "Recall@5": 0.3812470698546644,
+    "NDCG@10": 0.3548924131935187,
+    "HR@10": 0.9353023909985936,
+    "Recall@10": 0.3501791574576384,
+    "NDCG@20": 0.3106072506881138,
+    "HR@20": 0.9817158931082982,
+    "Recall@20": 0.3692464626180387
+}

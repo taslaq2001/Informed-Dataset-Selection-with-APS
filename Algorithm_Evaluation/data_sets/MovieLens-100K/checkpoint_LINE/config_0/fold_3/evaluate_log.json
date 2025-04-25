@@ -1,0 +1,27 @@
+{
+    "model_file": "./data_sets/MovieLens-100K/checkpoint_LINE/config_0/fold_3/LINE-Apr-25-2025_15-45-09.pth",
+    "data_set_name": "MovieLens-100K",
+    "algorithm_name": "LINE",
+    "algorithm_config_index": 0,
+    "algorithm_configuration": {
+        "embedding_size": 64,
+        "learning_rate": 0.01
+    },
+    "fold": 3,
+    "evaluation_time": 0.8446722030639648,
+    "NDCG@1": 0.20534458509142053,
+    "HR@1": 0.20534458509142053,
+    "Recall@1": 0.20534458509142053,
+    "NDCG@3": 0.19333072840677382,
+    "HR@3": 0.4289732770745429,
+    "Recall@3": 0.18987341772151878,
+    "NDCG@5": 0.19204845227553669,
+    "HR@5": 0.5682137834036568,
+    "Recall@5": 0.18942803563056787,
+    "NDCG@10": 0.17946541478031494,
+    "HR@10": 0.7412095639943741,
+    "Recall@10": 0.17999854888040528,
+    "NDCG@20": 0.16245574486898526,
+    "HR@20": 0.8720112517580872,
+    "Recall@20": 0.19104134114943905
+}

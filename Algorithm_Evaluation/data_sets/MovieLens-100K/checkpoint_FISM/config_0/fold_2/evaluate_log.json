@@ -1,0 +1,28 @@
+{
+    "model_file": "./data_sets/MovieLens-100K/checkpoint_FISM/config_0/fold_2/FISM-Apr-25-2025_19-02-17.pth",
+    "data_set_name": "MovieLens-100K",
+    "algorithm_name": "FISM",
+    "algorithm_config_index": 0,
+    "algorithm_configuration": {
+        "embedding_size": 64,
+        "learning_rate": 0.01,
+        "split_to": 5
+    },
+    "fold": 2,
+    "evaluation_time": 0.8521273136138916,
+    "NDCG@1": 0.2559774964838256,
+    "HR@1": 0.2559774964838256,
+    "Recall@1": 0.2559774964838256,
+    "NDCG@3": 0.25485407436932717,
+    "HR@3": 0.5274261603375527,
+    "Recall@3": 0.25597749648382606,
+    "NDCG@5": 0.25161757647726357,
+    "HR@5": 0.6905766526019691,
+    "Recall@5": 0.25178152836380685,
+    "NDCG@10": 0.23859904276208035,
+    "HR@10": 0.829817158931083,
+    "Recall@10": 0.24386790346705925,
+    "NDCG@20": 0.20948363253449934,
+    "HR@20": 0.909985935302391,
+    "Recall@20": 0.2399102884655004
+}

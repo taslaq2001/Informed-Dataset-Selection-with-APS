@@ -1,0 +1,27 @@
+{
+    "model_file": "./data_sets/MovieLens-100K/checkpoint_ItemKNN/config_0/fold_0/ItemKNN-Apr-25-2025_15-09-15.pth",
+    "data_set_name": "MovieLens-100K",
+    "algorithm_name": "ItemKNN",
+    "algorithm_config_index": 0,
+    "algorithm_configuration": {
+        "epochs": 1,
+        "k": 100
+    },
+    "fold": 0,
+    "evaluation_time": 0.9689321517944336,
+    "NDCG@1": 0.5049226441631505,
+    "HR@1": 0.5049226441631505,
+    "Recall@1": 0.5049226441631505,
+    "NDCG@3": 0.46606813458741014,
+    "HR@3": 0.770745428973277,
+    "Recall@3": 0.45475855602437837,
+    "NDCG@5": 0.4401490526058253,
+    "HR@5": 0.8537271448663853,
+    "Recall@5": 0.42238631036099356,
+    "NDCG@10": 0.39746531650697553,
+    "HR@10": 0.9212376933895922,
+    "Recall@10": 0.3842704217176792,
+    "NDCG@20": 0.3399839270074082,
+    "HR@20": 0.9690576652601969,
+    "Recall@20": 0.384845919729364
+}
