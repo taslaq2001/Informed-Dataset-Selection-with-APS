@@ -1,0 +1,12 @@
+{
+    "model_file": "./data_sets/MovieLens-100K/checkpoint_Pop/config_0/fold_1/Pop-Apr-25-2025_16-02-43.pth",
+    "data_set_name": "MovieLens-100K",
+    "algorithm_name": "Pop",
+    "algorithm_config_index": 0,
+    "algorithm_configuration": {
+        "epochs": 1
+    },
+    "fold": 1,
+    "setup_time": 1.448690414428711,
+    "training_time": 0.10095453262329102
+}

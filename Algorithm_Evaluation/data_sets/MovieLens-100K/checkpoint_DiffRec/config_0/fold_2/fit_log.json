@@ -1,0 +1,13 @@
+{
+    "model_file": "./data_sets/MovieLens-100K/checkpoint_DiffRec/config_0/fold_2/DiffRec-Apr-25-2025_18-44-50.pth",
+    "data_set_name": "MovieLens-100K",
+    "algorithm_name": "DiffRec",
+    "algorithm_config_index": 0,
+    "algorithm_configuration": {
+        "steps": 5,
+        "learning_rate": 0.01
+    },
+    "fold": 2,
+    "setup_time": 3.4411957263946533,
+    "training_time": 5.582611560821533
+}

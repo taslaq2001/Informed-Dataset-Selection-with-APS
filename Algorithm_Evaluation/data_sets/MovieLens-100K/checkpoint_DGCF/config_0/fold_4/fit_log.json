@@ -1,0 +1,13 @@
+{
+    "model_file": "./data_sets/MovieLens-100K/checkpoint_DGCF/config_0/fold_4/DGCF-Apr-25-2025_14-51-02.pth",
+    "data_set_name": "MovieLens-100K",
+    "algorithm_name": "DGCF",
+    "algorithm_config_index": 0,
+    "algorithm_configuration": {
+        "embedding_size": 64,
+        "learning_rate": 0.01
+    },
+    "fold": 4,
+    "setup_time": 1.4826147556304932,
+    "training_time": 681.371068239212
+}

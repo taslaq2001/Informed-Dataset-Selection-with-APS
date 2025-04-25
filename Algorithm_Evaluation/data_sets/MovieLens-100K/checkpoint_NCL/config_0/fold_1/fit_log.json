@@ -1,0 +1,13 @@
+{
+    "model_file": "./data_sets/MovieLens-100K/checkpoint_NCL/config_0/fold_1/NCL-Apr-25-2025_20-58-10.pth",
+    "data_set_name": "MovieLens-100K",
+    "algorithm_name": "NCL",
+    "algorithm_config_index": 0,
+    "algorithm_configuration": {
+        "embedding_size": 64,
+        "num_clusters": 100
+    },
+    "fold": 1,
+    "setup_time": 1.5215659141540527,
+    "training_time": 101.47314286231995
+}

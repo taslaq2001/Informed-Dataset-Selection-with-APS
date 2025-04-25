@@ -1,0 +1,13 @@
+{
+    "model_file": "./data_sets/MovieLens-100K/checkpoint_GCMC/config_0/fold_2/GCMC-Apr-25-2025_19-22-16.pth",
+    "data_set_name": "MovieLens-100K",
+    "algorithm_name": "GCMC",
+    "algorithm_config_index": 0,
+    "algorithm_configuration": {
+        "embedding_size": 64,
+        "learning_rate": 0.01
+    },
+    "fold": 2,
+    "setup_time": 1.6112327575683594,
+    "training_time": 147.11417269706726
+}

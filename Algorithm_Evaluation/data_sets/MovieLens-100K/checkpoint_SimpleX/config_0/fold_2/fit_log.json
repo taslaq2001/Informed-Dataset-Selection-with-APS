@@ -1,0 +1,12 @@
+{
+    "model_file": "./data_sets/MovieLens-100K/checkpoint_SimpleX/config_0/fold_2/SimpleX-Apr-25-2025_17-10-16.pth",
+    "data_set_name": "MovieLens-100K",
+    "algorithm_name": "SimpleX",
+    "algorithm_config_index": 0,
+    "algorithm_configuration": {
+        "embedding_size": 64
+    },
+    "fold": 2,
+    "setup_time": 3.4428629875183105,
+    "training_time": 64.74344253540039
+}

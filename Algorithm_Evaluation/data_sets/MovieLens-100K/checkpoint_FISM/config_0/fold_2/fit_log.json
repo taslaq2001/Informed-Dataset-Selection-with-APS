@@ -1,0 +1,14 @@
+{
+    "model_file": "./data_sets/MovieLens-100K/checkpoint_FISM/config_0/fold_2/FISM-Apr-25-2025_19-02-17.pth",
+    "data_set_name": "MovieLens-100K",
+    "algorithm_name": "FISM",
+    "algorithm_config_index": 0,
+    "algorithm_configuration": {
+        "embedding_size": 64,
+        "learning_rate": 0.01,
+        "split_to": 5
+    },
+    "fold": 2,
+    "setup_time": 1.4781315326690674,
+    "training_time": 156.86486101150513
+}

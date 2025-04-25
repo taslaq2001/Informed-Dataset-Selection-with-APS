@@ -1,0 +1,13 @@
+{
+    "model_file": "./data_sets/MovieLens-100K/checkpoint_RecVAE/config_0/fold_3/RecVAE-Apr-25-2025_16-05-07.pth",
+    "data_set_name": "MovieLens-100K",
+    "algorithm_name": "RecVAE",
+    "algorithm_config_index": 0,
+    "algorithm_configuration": {
+        "latent_dimension": 200,
+        "learning_rate": 0.01
+    },
+    "fold": 3,
+    "setup_time": 1.5620765686035156,
+    "training_time": 12.916757822036743
+}

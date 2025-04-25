@@ -1,0 +1,13 @@
+{
+    "model_file": "./data_sets/MovieLens-100K/checkpoint_MacridVAE/config_0/fold_1/MacridVAE-Apr-25-2025_19-32-42.pth",
+    "data_set_name": "MovieLens-100K",
+    "algorithm_name": "MacridVAE",
+    "algorithm_config_index": 0,
+    "algorithm_configuration": {
+        "embedding_size": 64,
+        "learning_rate": 0.01
+    },
+    "fold": 1,
+    "setup_time": 1.5105106830596924,
+    "training_time": 7.075095891952515
+}

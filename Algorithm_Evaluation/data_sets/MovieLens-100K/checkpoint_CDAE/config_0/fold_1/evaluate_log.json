@@ -1,0 +1,27 @@
+{
+    "model_file": "./data_sets/MovieLens-100K/checkpoint_CDAE/config_0/fold_1/CDAE-Apr-24-2025_15-34-23.pth",
+    "data_set_name": "MovieLens-100K",
+    "algorithm_name": "CDAE",
+    "algorithm_config_index": 0,
+    "algorithm_configuration": {
+        "embedding_size": 64,
+        "learning_rate": 0.01
+    },
+    "fold": 1,
+    "evaluation_time": 0.8283562660217285,
+    "NDCG@1": 0.4669479606188467,
+    "HR@1": 0.4669479606188467,
+    "Recall@1": 0.4669479606188467,
+    "NDCG@3": 0.42608206168209145,
+    "HR@3": 0.7580872011251758,
+    "Recall@3": 0.414908579465542,
+    "NDCG@5": 0.4032659853859155,
+    "HR@5": 0.8410689170182841,
+    "Recall@5": 0.3872714486638529,
+    "NDCG@10": 0.3631907602234383,
+    "HR@10": 0.9268635724331927,
+    "Recall@10": 0.35504375683700573,
+    "NDCG@20": 0.3164208501707551,
+    "HR@20": 0.9704641350210971,
+    "Recall@20": 0.37017569601647543
+}

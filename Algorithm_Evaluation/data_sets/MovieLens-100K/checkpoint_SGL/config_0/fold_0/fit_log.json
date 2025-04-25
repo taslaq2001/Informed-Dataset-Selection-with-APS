@@ -1,0 +1,12 @@
+{
+    "model_file": "./data_sets/MovieLens-100K/checkpoint_SGL/config_0/fold_0/SGL-Apr-25-2025_16-11-17.pth",
+    "data_set_name": "MovieLens-100K",
+    "algorithm_name": "SGL",
+    "algorithm_config_index": 0,
+    "algorithm_configuration": {
+        "embedding_size": 64
+    },
+    "fold": 0,
+    "setup_time": 1.500610589981079,
+    "training_time": 478.82174348831177
+}

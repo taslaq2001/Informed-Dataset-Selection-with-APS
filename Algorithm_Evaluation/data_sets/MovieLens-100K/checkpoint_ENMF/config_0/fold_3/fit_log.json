@@ -1,0 +1,13 @@
+{
+    "model_file": "./data_sets/MovieLens-100K/checkpoint_ENMF/config_0/fold_3/ENMF-Apr-25-2025_15-08-35.pth",
+    "data_set_name": "MovieLens-100K",
+    "algorithm_name": "ENMF",
+    "algorithm_config_index": 0,
+    "algorithm_configuration": {
+        "embedding_size": 64,
+        "learning_rate": 0.01
+    },
+    "fold": 3,
+    "setup_time": 1.4216318130493164,
+    "training_time": 2.9057016372680664
+}

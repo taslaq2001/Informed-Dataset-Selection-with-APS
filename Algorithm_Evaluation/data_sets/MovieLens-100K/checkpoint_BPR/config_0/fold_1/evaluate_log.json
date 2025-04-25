@@ -1,0 +1,27 @@
+{
+    "model_file": "./data_sets/MovieLens-100K/checkpoint_BPR/config_0/fold_1/BPR-Apr-24-2025_15-18-34.pth",
+    "data_set_name": "MovieLens-100K",
+    "algorithm_name": "BPR",
+    "algorithm_config_index": 0,
+    "algorithm_configuration": {
+        "embedding_size": 64,
+        "learning_rate": 0.01
+    },
+    "fold": 1,
+    "evaluation_time": 0.8263108730316162,
+    "NDCG@1": 0.26582278481012656,
+    "HR@1": 0.26582278481012656,
+    "Recall@1": 0.26582278481012656,
+    "NDCG@3": 0.2571247149875336,
+    "HR@3": 0.5569620253164557,
+    "Recall@3": 0.25457102672292603,
+    "NDCG@5": 0.24457101115616459,
+    "HR@5": 0.6877637130801688,
+    "Recall@5": 0.23790436005625876,
+    "NDCG@10": 0.22582456712888777,
+    "HR@10": 0.8382559774964838,
+    "Recall@10": 0.22615531444645337,
+    "NDCG@20": 0.20404655690220408,
+    "HR@20": 0.9282700421940928,
+    "Recall@20": 0.2491139383804079
+}

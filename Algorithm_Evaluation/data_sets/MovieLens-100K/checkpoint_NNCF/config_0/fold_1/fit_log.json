@@ -1,0 +1,14 @@
+{
+    "model_file": "./data_sets/MovieLens-100K/checkpoint_NNCF/config_0/fold_1/NNCF-Apr-25-2025_21-14-02.pth",
+    "data_set_name": "MovieLens-100K",
+    "algorithm_name": "NNCF",
+    "algorithm_config_index": 0,
+    "algorithm_configuration": {
+        "ui_embedding_size": 64,
+        "neigh_embedding_size": 64,
+        "learning_rate": 0.01
+    },
+    "fold": 1,
+    "setup_time": 1.494330883026123,
+    "training_time": 268.25985860824585
+}

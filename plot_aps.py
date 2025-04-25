@@ -5,7 +5,7 @@ import math
 
 if __name__ == "__main__":
     metric = "NDCG@10"
-    highlight = False
+    highlight = True
 
     data = pd.read_csv("results.csv", usecols=["data_set_name", "algorithm_name", metric, "num_interactions"])
     alg_list = data["algorithm_name"].unique().tolist()

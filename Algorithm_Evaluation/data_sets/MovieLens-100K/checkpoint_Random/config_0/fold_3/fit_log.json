@@ -1,0 +1,12 @@
+{
+    "model_file": "./data_sets/MovieLens-100K/checkpoint_Random/config_0/fold_3/Random-Apr-25-2025_21-43-53.pth",
+    "data_set_name": "MovieLens-100K",
+    "algorithm_name": "Random",
+    "algorithm_config_index": 0,
+    "algorithm_configuration": {
+        "epochs": 1
+    },
+    "fold": 3,
+    "setup_time": 3.3140323162078857,
+    "training_time": 0.2601010799407959
+}

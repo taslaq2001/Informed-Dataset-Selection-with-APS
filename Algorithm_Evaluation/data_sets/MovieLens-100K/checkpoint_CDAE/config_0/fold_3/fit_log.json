@@ -1,0 +1,13 @@
+{
+    "model_file": "./data_sets/MovieLens-100K/checkpoint_CDAE/config_0/fold_3/CDAE-Apr-25-2025_15-06-58.pth",
+    "data_set_name": "MovieLens-100K",
+    "algorithm_name": "CDAE",
+    "algorithm_config_index": 0,
+    "algorithm_configuration": {
+        "embedding_size": 64,
+        "learning_rate": 0.01
+    },
+    "fold": 3,
+    "setup_time": 1.4049391746520996,
+    "training_time": 0.6971516609191895
+}

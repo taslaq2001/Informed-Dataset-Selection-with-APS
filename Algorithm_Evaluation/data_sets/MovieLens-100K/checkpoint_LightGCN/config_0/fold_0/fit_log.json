@@ -1,0 +1,13 @@
+{
+    "model_file": "./data_sets/MovieLens-100K/checkpoint_LightGCN/config_0/fold_0/LightGCN-Apr-25-2025_15-35-51.pth",
+    "data_set_name": "MovieLens-100K",
+    "algorithm_name": "LightGCN",
+    "algorithm_config_index": 0,
+    "algorithm_configuration": {
+        "embedding_size": 64,
+        "learning_rate": 0.01
+    },
+    "fold": 0,
+    "setup_time": 6.864101409912109,
+    "training_time": 52.45662808418274
+}
