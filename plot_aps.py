@@ -40,8 +40,8 @@ if __name__ == "__main__":
                     merged = pd.merge(merged, movielens, indicator=True, how="outer").query("_merge=='left_only'").drop("_merge", axis=1)
 
                     # normalize
-                    xm = movielens[f"{metric}_x"] # / max_total
-                    ym = movielens[f"{metric}_y"] # / max_total
+                    xm = movielens[f"{metric}_x"] / max_total
+                    ym = movielens[f"{metric}_y"]  / max_total
                     xa = amazon[f"{metric}_x"] / max_total
                     ya = amazon[f"{metric}_y"] / max_total
 
