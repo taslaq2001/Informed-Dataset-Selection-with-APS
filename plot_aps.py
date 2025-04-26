@@ -7,7 +7,7 @@ if __name__ == "__main__":
     metric = "NDCG@10"
     highlight = True
 
-    data = pd.read_csv("results.csv", usecols=["data_set_name", "algorithm_name", metric, "num_interactions"])
+    data = pd.read_csv("merged.csv", usecols=["data_set_name", "algorithm_name", metric, "num_interactions"])
     alg_list = data["algorithm_name"].unique().tolist()
     data = data.groupby(["data_set_name", "algorithm_name"])[metric].mean().to_frame().reset_index()
     data = data[data["data_set_name"] != "Amazon2018-Fashion"]
