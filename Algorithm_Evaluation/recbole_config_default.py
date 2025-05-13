@@ -28,7 +28,7 @@ config_dict = {
     "TIME_FIELD": "timestamp",  # default: "timestamp"
     "seq_len": {},  # default: {}
     # label for point-wise dataloader
-    "LABEL_FIELD": "label",  # default: "label"
+    "LABEL_FIELD": "rating",  # default: "label"
     "threshold": None,  # default: None
     # negative sampling prefix for pair-wise dataloader
     "NEG_PREFIX": "neg_",  # default: "neg_"

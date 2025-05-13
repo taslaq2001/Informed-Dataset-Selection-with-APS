@@ -1,96 +1,47 @@
 import itertools
 
-
 def retrieve_configurations(algorithm_name):
     configuration_space = {}
-    if algorithm_name == "Pop":
-        configuration_space["epochs"] = [1]
-    elif algorithm_name == "ItemKNN":
-        configuration_space["epochs"] = [1]
-        configuration_space["k"] = [100]
-    elif algorithm_name == "BPR":
-        configuration_space["embedding_size"] = [64]
-        configuration_space["learning_rate"] = [0.01]
-    elif algorithm_name == "NeuMF":
-        configuration_space["mf_embedding_size"] = [64]
-        configuration_space["mlp_embedding_size"] = [64]
-        configuration_space["learning_rate"] = [0.01]
-    elif algorithm_name == "ConvNCF":
-        configuration_space["embedding_size"] = [64]
-        configuration_space["learning_rate"] = [0.01]
-    elif algorithm_name == "DMF":
-        configuration_space["user_embedding_size"] = [64]
-        configuration_space["item_embedding_size"] = [64]
-        configuration_space["learning_rate"] = [0.01]
-    elif algorithm_name == "FISM":
-        configuration_space["embedding_size"] = [64]
-        configuration_space["learning_rate"] = [0.01]
-        configuration_space["split_to"] = [5]
-    elif algorithm_name == "NAIS":
-        configuration_space["embedding_size"] = [64]
-        configuration_space["learning_rate"] = [0.01]
-        configuration_space["split_to"] = [20]
-    elif algorithm_name == "SpectralCF":
-        configuration_space["embedding_size"] = [64]
-        configuration_space["learning_rate"] = [0.01]
-    elif algorithm_name == "GCMC":
-        configuration_space["embedding_size"] = [64]
-        configuration_space["learning_rate"] = [0.01]
-    elif algorithm_name == "NGCF":
-        configuration_space["embedding_size"] = [64]
-        configuration_space["learning_rate"] = [0.01]
-    elif algorithm_name == "LightGCN":
-        configuration_space["embedding_size"] = [64]
-        configuration_space["learning_rate"] = [0.01]
-    elif algorithm_name == "DGCF":
-        configuration_space["embedding_size"] = [64]
-        configuration_space["learning_rate"] = [0.01]
-    elif algorithm_name == "LINE":
-        configuration_space["embedding_size"] = [64]
-        configuration_space["learning_rate"] = [0.01]
-    elif algorithm_name == "MultiVAE":
-        configuration_space["latent_dimension"] = [64]
-        configuration_space["learning_rate"] = [0.01]
-    elif algorithm_name == "MultiDAE":
-        configuration_space["latent_dimension"] = [64]
-        configuration_space["learning_rate"] = [0.01]
-    elif algorithm_name == "MacridVAE":
-        configuration_space["embedding_size"] = [64]
-        configuration_space["learning_rate"] = [0.01]
-    elif algorithm_name == "CDAE":
-        configuration_space["embedding_size"] = [64]
-        configuration_space["learning_rate"] = [0.01]
-    elif algorithm_name == "ENMF":
-        configuration_space["embedding_size"] = [64]
-        configuration_space["learning_rate"] = [0.01]
-    elif algorithm_name == "NNCF":
-        configuration_space["ui_embedding_size"] = [64]
-        configuration_space["neigh_embedding_size"] = [64]
-        configuration_space["learning_rate"] = [0.01]
-    elif algorithm_name == "RecVAE":
-        configuration_space["latent_dimension"] = [200]
-        configuration_space["learning_rate"] = [0.01]
-    elif algorithm_name == "EASE":
-        configuration_space["epochs"] = [1]
-        configuration_space["reg_weight"] = [250]
-    elif algorithm_name == "SGL":
-        configuration_space["embedding_size"] = [64]
-    elif algorithm_name == "NCEPLRec":
-        configuration_space["epochs"] = [1]
-        configuration_space["rank"] = [450]
-    elif algorithm_name == "SimpleX":
-        configuration_space["embedding_size"] = [64]
-    elif algorithm_name == "NCL":
-        configuration_space["embedding_size"] = [64]
-        configuration_space["num_clusters"] = [100]
-    elif algorithm_name == "Random":
-        configuration_space["epochs"] = [1]
-    elif algorithm_name == "DiffRec":
-        configuration_space["steps"] = [5]
-        configuration_space["learning_rate"] = [0.01]
-    elif algorithm_name == "LDiffRec":
-        configuration_space["steps"] = [5]
-        configuration_space["learning_rate"] = [0.01]
+
+    if algorithm_name == "NFM":
+        configuration_space["n_factors"] = [15, 30]
+        configuration_space["n_epochs"] = [10]
+    elif algorithm_name == "ADMM-Slim":
+        configuration_space["n_factors"] = [10, 20, 50]  # Latent factors
+        configuration_space["n_epochs"] = [10, 20]  # Number of training epochs
+        configuration_space["lambda_reg"] = [0.1, 0.01, 0.001]  # Regularization term for sparsity
+        configuration_space["learning_rate"] = [0.01, 0.001]  # Learning rate
+        configuration_space["batch_size"] = [64, 128, 256]  # Mini-batch size (if using mini-batch ADMM)
+        configuration_space["alpha"] = [1.0, 0.5]  # ADMM specific parameter (regularization weight)
+        configuration_space["rho"] = [1.0, 2.0]  # ADMM specific parameter (stepsize)    
+    elif algorithm_name == "SlopeOne":
+        configuration_space["dummy"] = [0]  
+    elif algorithm_name == "CoClustering":
+        configuration_space["n_cltr_u"] = [3]
+        configuration_space["n_cltr_i"] = [3]
+        configuration_space["n_epochs"] = [10]
+    elif algorithm_name == "SVDpp":
+        configuration_space["n_factors"] = [20]
+        configuration_space["n_epochs"] = [10]
+    elif algorithm_name == "TFIDF_Cosine":
+        configuration_space["top_k"] = [20, 50]
+    elif algorithm_name == "ALS":
+        configuration_space["factors"] = [50]
+        configuration_space["regularization"] = [0.01]
+        configuration_space["iterations"] = [10]
+    elif algorithm_name == "Autoencoder":
+        configuration_space["hidden_dim"] = [64, 128]
+        configuration_space["learning_rate"] = [0.001]
+        configuration_space["epochs"] = [10]
+    elif algorithm_name == "FM":
+        configuration_space["task"] = ["rating"]
+        configuration_space["epoch"] = [10]
+        configuration_space["lr"] = [0.05]
+    elif algorithm_name == "Apriori":
+        configuration_space["min_support"] = [0.01]
+    elif algorithm_name == "UserBasedCF":
+        configuration_space["k"] = [20]
+        configuration_space["sim_option"] = [{"name": "cosine", "user_based": True}]
 
     experiments = [dict(zip(configuration_space.keys(), v)) for v in itertools.product(*configuration_space.values())]
     return experiments

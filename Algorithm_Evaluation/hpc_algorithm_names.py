@@ -1,8 +1,28 @@
-algorithm_names = ["BPR", "CDAE", "DGCF", "DMF", "ENMF", "ItemKNN", "LightGCN", "LINE", "MultiDAE", "MultiVAE", "NeuMF",
-                   "NGCF", "Pop", "RecVAE", "SGL", "SimpleX", "SpectralCF", "ConvNCF", "DiffRec", "EASE", "FISM",
-                   "GCMC", "LDiffRec", "MacridVAE", "NAIS", "NCEPLRec", "NCL", "NNCF", "Random"]
+algorithm_names = [
+    "NFM",
+    "ADMM-Slim",
+    "SlopeOne",
+    "CoClustering",
+    "SVDpp",
+    "TFIDF_Cosine",
+    "ALS",
+    "Autoencoder",
+    "FactorizationMachine",
+    "Apriori",
+    "UserBasedCF"
+]
 
-available_algorithm_names = ["BPR", "CDAE", "DGCF", "DMF", "ENMF", "ItemKNN", "LightGCN", "LINE", "MultiDAE",
-                             "MultiVAE", "NeuMF", "NGCF", "Pop", "RecVAE", "SGL", "SimpleX", "SpectralCF", "ConvNCF",
-                             "DiffRec", "EASE", "FISM", "GCMC", "LDiffRec", "MacridVAE", "NAIS", "NCEPLRec", "NCL",
-                             "NNCF", "Random"]
+
+available_algorithm_names = [ 
+    "NFM",
+    "ADMM-Slim",
+    "SlopeOne",
+    "CoClustering",
+    "SVDpp",
+    "TFIDF_Cosine",
+    "ALS",
+    "Autoencoder",
+    "FactorizationMachine",
+    "Apriori",
+    "UserBasedCF"
+]

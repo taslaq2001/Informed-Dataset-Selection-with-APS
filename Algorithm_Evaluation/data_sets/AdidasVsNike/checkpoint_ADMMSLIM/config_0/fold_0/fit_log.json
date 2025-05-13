@@ -1,0 +1,10 @@
+{
+    "model_file": "./data_sets/AdidasVsNike/checkpoint_ADMMSLIM/config_0/fold_0/ADMMSLIM-May-13-2025_18-43-02.pth",
+    "data_set_name": "AdidasVsNike",
+    "algorithm_name": "ADMMSLIM",
+    "algorithm_config_index": 0,
+    "algorithm_configuration": {},
+    "fold": 0,
+    "setup_time": 46.495206117630005,
+    "training_time": 0.357663631439209
+}
