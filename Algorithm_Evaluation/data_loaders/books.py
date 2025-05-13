@@ -4,23 +4,23 @@ import pandas as pd
 from .loader import Loader
 
 
-class AdidasVsNike (Loader) :
+class books (Loader) :
 
     @staticmethod
     def load_from_file(source_path, user_column_name, item_column_name, rating_column_name, timestamp_column_name,
                        **additional_parameters):
-        file_path = f"{source_path}/Adidas Vs Nike.csv"
-
+        file_path = f"{source_path}/books.csv"
 
         df = pd.read_csv(file_path)
         import numpy as np
-        df['user'] = np.random.randint(1, 101, size=len(df))  # 100 fake users
+        df['user'] = np.random.randint(1, 101, size=len(df))  # 100 fake 
+
         df = df.rename(columns={
             'user':user_column_name,
-            'Product ID': item_column_name,
-            'Rating': rating_column_name,          
-            'Last Visited': timestamp_column_name,
-            'Sale Price': 'feature'
+            'isbn': item_column_name,
+            'average_rating': rating_column_name,          
+            'publication_date': timestamp_column_name,
+            'publisher': 'feature'
         })
 
         df = df.dropna(subset=[rating_column_name, timestamp_column_name])
