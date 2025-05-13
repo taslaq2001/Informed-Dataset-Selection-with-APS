@@ -4,7 +4,7 @@ import pandas as pd
 from .loader import Loader
 
 
-class AdidasVsNike (Loader) :
+class adidasvsnike (Loader) :
 
     @staticmethod
     def load_from_file(source_path, user_column_name, item_column_name, rating_column_name, timestamp_column_name,
@@ -13,10 +13,10 @@ class AdidasVsNike (Loader) :
 
 
         df = pd.read_csv(file_path)
-        import numpy as np
-        df['user'] = np.random.randint(1, 101, size=len(df))  # 100 fake users
+        #import numpy as np
+        #df['user'] = np.random.randint(1, 101, size=len(df))  # 100 fake users
         df = df.rename(columns={
-            'user':user_column_name,
+            'Product Name':user_column_name,
             'Product ID': item_column_name,
             'Rating': rating_column_name,          
             'Last Visited': timestamp_column_name,

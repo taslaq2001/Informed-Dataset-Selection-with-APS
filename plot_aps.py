@@ -45,8 +45,8 @@ if __name__ == "__main__":
                     xa = amazon[f"{metric}_x"] / max_total
                     ya = amazon[f"{metric}_y"] / max_total
 
-                x = merged[f"{metric}_x"] #/ max_total
-                y = merged[f"{metric}_y"] #/ max_total
+                x = merged[f"{metric}_x"] / max_total
+                y = merged[f"{metric}_y"] / max_total
                 axs[h, w].set(xlabel=alg1, ylabel=alg2)
                 axs[h, w].set_xlim(0, 1)
                 axs[h, w].set_ylim(0, 1)

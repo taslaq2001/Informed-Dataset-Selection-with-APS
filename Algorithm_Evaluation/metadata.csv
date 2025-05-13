@@ -1,2 +1,2 @@
 data_set_name,num_users,num_items,num_interactions,density,feedback_type,user_item_ratio,item_user_ratio,highest_num_rating_by_single_user,lowest_num_rating_by_single_user,highest_num_rating_on_single_item,lowest_num_rating_on_single_item,mean_num_ratings_by_user,mean_num_ratings_on_item
-MovieLens-100K,711,782,85636,15.402102870133561,implicit,0.9092071611253197,1.09985935302391,494,30,521,31,120.44444444444444,109.50895140664962
+AdidasVsNike,1531,3179,3179,0.06531678641410843,implicit,0.4815979867882982,2.076420640104507,16,1,1,1,2.076420640104507,1.0
