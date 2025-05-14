@@ -4,14 +4,14 @@ import pandas as pd
 from .loader import Loader
 
 
-class RottenTomatoesMovies (Loader) :
+class rottentomatoesmovies (Loader) :
 
     @staticmethod
     def load_from_file(source_path, user_column_name, item_column_name, rating_column_name, timestamp_column_name,
                        **additional_parameters):
         file_path = f"{source_path}/Rotten Tomatoes Movies.csv"
 
-        df = pd.read_csv(file_path)
+        df = pd.read_csv(file_path, on_bad_lines='skip')
         import numpy as np
         df['user'] = np.random.randint(1, 101, size=len(df))  # 100 fake 
 
@@ -20,11 +20,9 @@ class RottenTomatoesMovies (Loader) :
             'movie_title': item_column_name,
             'tomatometer_rating': rating_column_name,          
             'on_streaming_date': timestamp_column_name,
-            'genre':'feature',
-            'cast':'feature1',
-            'writers':'feature2'
+            'genre':'feature'
         })
 
         df = df.dropna(subset=[rating_column_name, timestamp_column_name])
 
-        return df[[ user_column_name,item_column_name, rating_column_name,timestamp_column_name,'feature','feature1','feature2']]
+        return df[[ user_column_name,item_column_name, rating_column_name,timestamp_column_name,'feature']]

@@ -11,7 +11,7 @@ class books (Loader) :
                        **additional_parameters):
         file_path = f"{source_path}/books.csv"
 
-        df = pd.read_csv(file_path)
+        df = pd.read_csv(file_path, on_bad_lines='skip')
         import numpy as np
         df['user'] = np.random.randint(1, 101, size=len(df))  # 100 fake 
 

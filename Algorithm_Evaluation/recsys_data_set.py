@@ -26,8 +26,7 @@ def filter_invalid(data, counts, column, core, shared_dict):
 
 
 class RecSysDataSet:
-    available_data_sets = ["AdidasVsNike","airlines_reviews.csv","Bankrupt","books","Books1","Boston","California_Houses","DisneylandReviews.csv","hashed_wab_reviews.csv","Rotten Tomatoes Movies","eyanair_reviews","wind_dataset","wines_SPA"]
-
+    available_data_sets =  ["adidasvsnike","airlinesreviews","books","bookssecond","disneylandreviews","hashedwabreviews","rottentomatoesmovies","ryanairreviews","winesspa"]
     def __init__(self, data_set_name):
         self.data_set_name = data_set_name
 
@@ -483,7 +482,7 @@ class RecSysDataSet:
             self.log_and_print(f"Converting processed data to atomic data.")
             Path.mkdir(Path(self.atomic_folder_path), exist_ok=True)
             self.load_data()
-            rename_dict = {self.user_column_name: "user_id:token", self.item_column_name: "item_id:token"}
+            rename_dict = {self.user_column_name: "user_id:token", self.item_column_name: "item_id:token",self.rating_column_name : "rating:float"}
             if self.rating_column_name in list(self.data):
                 rename_dict[self.rating_column_name] = "rating:float"
             if self.timestamp_column_name in list(self.data):

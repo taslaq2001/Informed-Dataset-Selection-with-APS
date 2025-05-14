@@ -1,0 +1,38 @@
+Converting raw data to processed data.
+No data set already loaded.
+Loading raw data set.
+Loaded raw data set.
+Dropping duplicate interactions.
+Number of interactions before: 6762
+Number of interactions after: 6755
+Normalizing identifiers.
+Checking and ordering columns.
+Data columns: ['user', 'item', 'rating', 'timestamp', 'feature', 'feature1']
+Data contains more than four columns.
+Checking and converting data types.
+Converting data type of column user from int64 to str.
+Converting data type of column item from object to str.
+Converting data type of column timestamp from float64 to str.
+Converting data type of column rating from float64 to np.float64.
+Processed raw data.
+Function process_data executed in 187 milliseconds.
+Data set already loaded.
+Writing processed data set to file.
+Written processed data set to file.
+Function write_data executed in 49 milliseconds.
+Data set already loaded.
+Calculating metadata.
+Calculated metadata.
+Function calculate_metadata executed in 16 milliseconds.
+Writing processed metadata to file.
+Written processed metadata to file.
+Function write_metadata executed in 5 milliseconds.
+Processed data set already exists.
+Skipping raw data to processed data conversion.
+Function process_data executed in 0 milliseconds.
+No data set already loaded.
+Function write_data executed in 0 milliseconds.
+No data set already loaded.
+Function calculate_metadata executed in 0 milliseconds.
+Metadata not calculated.
+Function write_metadata executed in 0 milliseconds.

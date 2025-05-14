@@ -1,0 +1,9 @@
+Processed data set already exists.
+Skipping raw data to processed data conversion.
+Function process_data executed in 0 milliseconds.
+No data set already loaded.
+Function write_data executed in 0 milliseconds.
+No data set already loaded.
+Function calculate_metadata executed in 0 milliseconds.
+Metadata not calculated.
+Function write_metadata executed in 0 milliseconds.
