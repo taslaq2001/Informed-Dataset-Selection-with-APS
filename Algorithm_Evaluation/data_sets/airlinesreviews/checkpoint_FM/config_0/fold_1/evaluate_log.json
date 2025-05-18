@@ -1,0 +1,28 @@
+{
+    "model_file": "./data_sets/airlinesreviews/checkpoint_FM/config_0/fold_1/FM-May-18-2025_21-23-09.pth",
+    "data_set_name": "airlinesreviews",
+    "algorithm_name": "FM",
+    "algorithm_config_index": 0,
+    "algorithm_configuration": {
+        "task": "rating",
+        "epoch": 10,
+        "lr": 0.05
+    },
+    "fold": 1,
+    "evaluation_time": 0.03371429443359375,
+    "NDCG@1": 0.14035087719298245,
+    "HR@1": 0.14035087719298245,
+    "Recall@1": 0.14035087719298245,
+    "NDCG@3": 0.12854040675338785,
+    "HR@3": 0.35964912280701755,
+    "Recall@3": 0.34649122807017546,
+    "NDCG@5": 0.12182548501926273,
+    "HR@5": 0.5614035087719298,
+    "Recall@5": 0.543859649122807,
+    "NDCG@10": 0.11389751039479941,
+    "HR@10": 1.0,
+    "Recall@10": 1.0,
+    "NDCG@20": 0.0735057342796803,
+    "HR@20": 1.0,
+    "Recall@20": 1.0
+}

@@ -1,0 +1,27 @@
+{
+    "model_file": "./data_sets/ryanairreviews/checkpoint_NFM/config_0/fold_3/NFM-May-18-2025_21-53-47.pth",
+    "data_set_name": "ryanairreviews",
+    "algorithm_name": "NFM",
+    "algorithm_config_index": 0,
+    "algorithm_configuration": {
+        "n_factors": 15,
+        "n_epochs": 10
+    },
+    "fold": 3,
+    "evaluation_time": 0.024834632873535156,
+    "NDCG@1": 0.864406779661017,
+    "HR@1": 0.864406779661017,
+    "Recall@1": 0.864406779661017,
+    "NDCG@3": 0.5648157961440787,
+    "HR@3": 0.9830508474576272,
+    "Recall@3": 0.9519774011299434,
+    "NDCG@5": 0.42058605823842327,
+    "HR@5": 1.0,
+    "Recall@5": 1.0,
+    "NDCG@10": 0.2729315733352721,
+    "HR@10": 1.0,
+    "Recall@10": 1.0,
+    "NDCG@20": 0.17614112579438468,
+    "HR@20": 1.0,
+    "Recall@20": 1.0
+}

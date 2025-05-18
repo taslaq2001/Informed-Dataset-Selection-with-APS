@@ -1,0 +1,28 @@
+{
+    "model_file": "./data_sets/winesspa/checkpoint_FM/config_0/fold_1/FM-May-18-2025_21-04-04.pth",
+    "data_set_name": "winesspa",
+    "algorithm_name": "FM",
+    "algorithm_config_index": 0,
+    "algorithm_configuration": {
+        "task": "rating",
+        "epoch": 10,
+        "lr": 0.05
+    },
+    "fold": 1,
+    "evaluation_time": 0.03482770919799805,
+    "NDCG@1": 0.48,
+    "HR@1": 0.48,
+    "Recall@1": 0.48,
+    "NDCG@3": 0.5259216382193173,
+    "HR@3": 0.88,
+    "Recall@3": 0.5433333333333333,
+    "NDCG@5": 0.5099957994916365,
+    "HR@5": 0.96,
+    "Recall@5": 0.5215,
+    "NDCG@10": 0.4448456820997354,
+    "HR@10": 0.98,
+    "Recall@10": 0.5462619047619048,
+    "NDCG@20": 0.30208507772160437,
+    "HR@20": 0.98,
+    "Recall@20": 0.5809801726051728
+}
