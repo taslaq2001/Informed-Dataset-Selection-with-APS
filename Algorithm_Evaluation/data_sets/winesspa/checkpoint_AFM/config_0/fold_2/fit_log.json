@@ -1,0 +1,10 @@
+{
+    "model_file": "./data_sets/winesspa/checkpoint_AFM/config_0/fold_2/AFM-May-18-2025_20-59-17.pth",
+    "data_set_name": "winesspa",
+    "algorithm_name": "AFM",
+    "algorithm_config_index": 0,
+    "algorithm_configuration": {},
+    "fold": 2,
+    "setup_time": 1.702850580215454,
+    "training_time": 0.746851921081543
+}

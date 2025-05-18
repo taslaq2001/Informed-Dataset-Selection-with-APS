@@ -1,0 +1,10 @@
+{
+    "model_file": "./data_sets/adidasvsnike/checkpoint_LR/config_0/fold_4/LR-May-18-2025_20-10-13.pth",
+    "data_set_name": "adidasvsnike",
+    "algorithm_name": "LR",
+    "algorithm_config_index": 0,
+    "algorithm_configuration": {},
+    "fold": 4,
+    "setup_time": 1.799811601638794,
+    "training_time": 0.3778541088104248
+}

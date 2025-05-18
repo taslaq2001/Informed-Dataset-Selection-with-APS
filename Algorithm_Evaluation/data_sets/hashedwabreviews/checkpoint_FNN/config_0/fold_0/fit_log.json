@@ -1,0 +1,10 @@
+{
+    "model_file": "./data_sets/hashedwabreviews/checkpoint_FNN/config_0/fold_0/FNN-May-18-2025_20-46-10.pth",
+    "data_set_name": "hashedwabreviews",
+    "algorithm_name": "FNN",
+    "algorithm_config_index": 0,
+    "algorithm_configuration": {},
+    "fold": 0,
+    "setup_time": 1.7175121307373047,
+    "training_time": 0.9440531730651855
+}

@@ -1,0 +1,10 @@
+{
+    "model_file": "./data_sets/hashedwabreviews/checkpoint_AutoInt/config_0/fold_3/AutoInt-May-18-2025_20-44-57.pth",
+    "data_set_name": "hashedwabreviews",
+    "algorithm_name": "AutoInt",
+    "algorithm_config_index": 0,
+    "algorithm_configuration": {},
+    "fold": 3,
+    "setup_time": 1.666006088256836,
+    "training_time": 1.0007500648498535
+}

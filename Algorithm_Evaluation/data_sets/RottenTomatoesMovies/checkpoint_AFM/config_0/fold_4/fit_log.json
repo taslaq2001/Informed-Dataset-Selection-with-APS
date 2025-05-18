@@ -1,0 +1,10 @@
+{
+    "model_file": "./data_sets/rottentomatoesmovies/checkpoint_AFM/config_0/fold_4/AFM-May-18-2025_21-39-38.pth",
+    "data_set_name": "rottentomatoesmovies",
+    "algorithm_name": "AFM",
+    "algorithm_config_index": 0,
+    "algorithm_configuration": {},
+    "fold": 4,
+    "setup_time": 1.675640344619751,
+    "training_time": 2.1289288997650146
+}

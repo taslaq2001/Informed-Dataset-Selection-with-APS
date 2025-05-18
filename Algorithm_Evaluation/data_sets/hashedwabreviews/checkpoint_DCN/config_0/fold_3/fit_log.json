@@ -1,0 +1,10 @@
+{
+    "model_file": "./data_sets/hashedwabreviews/checkpoint_DCN/config_0/fold_3/DCN-May-18-2025_20-42-23.pth",
+    "data_set_name": "hashedwabreviews",
+    "algorithm_name": "DCN",
+    "algorithm_config_index": 0,
+    "algorithm_configuration": {},
+    "fold": 3,
+    "setup_time": 1.5152032375335693,
+    "training_time": 1.3451013565063477
+}

@@ -1,0 +1,10 @@
+{
+    "model_file": "./data_sets/disneylandreviews/checkpoint_FwFM/config_0/fold_0/FwFM-May-18-2025_20-38-45.pth",
+    "data_set_name": "disneylandreviews",
+    "algorithm_name": "FwFM",
+    "algorithm_config_index": 0,
+    "algorithm_configuration": {},
+    "fold": 0,
+    "setup_time": 1.5457212924957275,
+    "training_time": 0.3249087333679199
+}

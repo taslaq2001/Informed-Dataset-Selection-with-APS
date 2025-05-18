@@ -18,9 +18,9 @@ class airlinesreviews (Loader) :
             'Airline': item_column_name,
             'Overall Rating': rating_column_name,          
             'Review Date': timestamp_column_name,
-            'Class': 'feature'
+            'Class': 'feature Str'
         })
 
         df = df.dropna(subset=[rating_column_name, timestamp_column_name])
 
-        return df[[ user_column_name,item_column_name, rating_column_name,timestamp_column_name,'feature']]
+        return df[[ user_column_name,item_column_name, rating_column_name,timestamp_column_name,'feature Str']]

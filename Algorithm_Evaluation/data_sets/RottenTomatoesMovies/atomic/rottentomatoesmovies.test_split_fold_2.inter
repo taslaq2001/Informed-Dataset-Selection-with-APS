@@ -1,0 +1,3277 @@
+user_id:token,item_id:token,feature Str:token,rating:float
+10,12,Drama,64.0
+16,20,"Action & Adventure, Classics, Romance",89.0
+20,26,"Art House & International, Drama",80.0
+22,28,Comedy,61.0
+24,30,"Action & Adventure, Documentary, Drama, Special Interest",48.0
+4,34,"Classics, Drama, Romance",36.0
+37,48,"Drama, Mystery & Suspense",67.0
+42,57,Drama,70.0
+43,58,"Art House & International, Drama",65.0
+26,66,"Art House & International, Comedy, Drama",48.0
+36,69,"Drama, Mystery & Suspense",85.0
+56,87,Drama,69.0
+60,91,"Animation, Drama, Kids & Family, Science Fiction & Fantasy",58.0
+62,100,"Drama, Horror, Mystery & Suspense",50.0
+60,104,"Action & Adventure, Drama, Mystery & Suspense",21.0
+71,118,"Art House & International, Drama, Musical & Performing Arts, Romance",46.0
+27,120,"Drama, Mystery & Suspense",54.0
+74,122,"Action & Adventure, Western",55.0
+4,132,"Comedy, Drama",61.0
+36,151,Comedy,90.0
+7,156,"Drama, Sports & Fitness",80.0
+65,164,"Comedy, Drama",38.0
+2,171,"Comedy, Drama, Kids & Family",44.0
+66,172,"Action & Adventure, Comedy, Mystery & Suspense, Science Fiction & Fantasy",38.0
+32,175,"Comedy, Musical & Performing Arts",58.0
+60,177,Comedy,41.0
+72,197,"Horror, Mystery & Suspense",49.0
+26,208,"Horror, Mystery & Suspense",34.0
+69,210,"Comedy, Drama",67.0
+67,211,"Art House & International, Special Interest",100.0
+21,219,"Action & Adventure, Horror, Mystery & Suspense, Science Fiction & Fantasy",32.0
+38,221,"Comedy, Drama, Mystery & Suspense",44.0
+72,222,"Art House & International, Drama",38.0
+5,227,"Art House & International, Drama",72.0
+24,228,"Classics, Comedy, Drama, Romance",94.0
+33,230,"Classics, Drama, Horror, Science Fiction & Fantasy",12.0
+9,232,Documentary,76.0
+25,236,"Action & Adventure, Art House & International, Mystery & Suspense",60.0
+80,239,"Action & Adventure, Art House & International, Horror, Science Fiction & Fantasy",33.0
+65,245,"Drama, Mystery & Suspense",32.0
+46,249,"Comedy, Horror, Musical & Performing Arts",53.0
+19,252,"Kids & Family, Mystery & Suspense, Science Fiction & Fantasy",46.0
+46,260,"Comedy, Drama",50.0
+6,264,"Comedy, Drama",61.0
+87,270,"Art House & International, Horror, Mystery & Suspense",68.0
+7,281,"Documentary, Special Interest",79.0
+83,290,"Action & Adventure, Drama, Western",71.0
+80,294,"Action & Adventure, Classics, Drama",83.0
+39,296,Drama,46.0
+26,298,"Action & Adventure, Drama, Mystery & Suspense",52.0
+86,302,"Art House & International, Drama, Mystery & Suspense",26.0
+20,305,"Action & Adventure, Kids & Family, Science Fiction & Fantasy",45.0
+18,309,"Drama, Mystery & Suspense",40.0
+11,310,"Classics, Drama, Mystery & Suspense",65.0
+47,316,"Action & Adventure, Drama, Mystery & Suspense",53.0
+50,321,"Mystery & Suspense, Science Fiction & Fantasy",55.0
+69,325,"Classics, Drama, Romance",91.0
+61,329,"Classics, Horror, Mystery & Suspense, Science Fiction & Fantasy",25.0
+10,331,"Comedy, Drama, Romance",62.0
+3,334,"Classics, Comedy, Musical & Performing Arts, Western, Romance",88.0
+32,340,"Classics, Comedy, Horror, Mystery & Suspense",73.0
+25,341,Horror,77.0
+34,344,"Classics, Horror, Mystery & Suspense",74.0
+1,346,"Drama, Horror, Mystery & Suspense",45.0
+90,350,"Classics, Comedy, Drama, Mystery & Suspense",92.0
+96,351,"Animation, Kids & Family",67.0
+15,352,"Classics, Drama",74.0
+70,357,"Classics, Comedy",75.0
+10,359,"Classics, Drama, Western",25.0
+60,362,"Action & Adventure, Drama",72.0
+39,364,Action & Adventure,67.0
+41,371,"Comedy, Drama, Horror",22.0
+24,374,Drama,83.0
+47,388,Drama,45.0
+25,392,"Drama, Horror",79.0
+74,394,"Horror, Mystery & Suspense",40.0
+43,394,"Art House & International, Drama, Horror, Romance",58.0
+31,395,"Action & Adventure, Comedy",41.0
+43,396,Comedy,61.0
+25,410,"Classics, Science Fiction & Fantasy",72.0
+86,413,"Drama, Romance",77.0
+76,423,"Action & Adventure, Classics, Drama",69.0
+37,428,Horror,76.0
+40,435,"Action & Adventure, Horror, Mystery & Suspense, Science Fiction & Fantasy",29.0
+32,436,"Art House & International, Drama",83.0
+14,443,Drama,93.0
+62,444,"Classics, Comedy, Musical & Performing Arts, Western",59.0
+94,447,"Art House & International, Classics, Comedy, Drama, Romance",87.0
+9,451,"Horror, Mystery & Suspense",29.0
+37,453,"Action & Adventure, Drama, Western",89.0
+4,454,Comedy,45.0
+39,461,Drama,67.0
+89,462,"Classics, Drama, Mystery & Suspense",80.0
+49,469,"Horror, Mystery & Suspense",54.0
+83,471,"Action & Adventure, Comedy, Drama, Mystery & Suspense",75.0
+8,480,"Art House & International, Drama, Mystery & Suspense",22.0
+91,483,"Action & Adventure, Classics, Drama, Mystery & Suspense",46.0
+94,484,"Action & Adventure, Drama, Mystery & Suspense",38.0
+53,487,"Action & Adventure, Drama, Mystery & Suspense",17.0
+77,490,"Classics, Comedy, Romance",69.0
+64,494,"Classics, Science Fiction & Fantasy",55.0
+8,494,"Horror, Mystery & Suspense, Science Fiction & Fantasy",33.0
+98,495,"Classics, Mystery & Suspense, Science Fiction & Fantasy",85.0
+34,496,"Classics, Comedy, Horror, Science Fiction & Fantasy",85.0
+69,500,"Classics, Comedy, Drama, Romance",82.0
+38,502,"Action & Adventure, Art House & International, Classics, Drama, Romance",65.0
+12,507,"Classics, Drama, Musical & Performing Arts",57.0
+18,510,"Action & Adventure, Art House & International, Classics, Drama",82.0
+72,512,"Action & Adventure, Classics, Drama",56.0
+19,518,"Action & Adventure, Horror, Science Fiction & Fantasy",31.0
+2,524,"Classics, Mystery & Suspense",91.0
+76,528,"Classics, Comedy, Drama",86.0
+66,530,"Animation, Art House & International, Kids & Family",53.0
+16,531,"Classics, Drama, Kids & Family",72.0
+13,532,"Classics, Comedy, Drama, Kids & Family, Musical & Performing Arts",81.0
+82,534,"Classics, Comedy, Cult Movies, Horror",55.0
+48,535,"Comedy, Horror, Musical & Performing Arts, Science Fiction & Fantasy",79.0
+59,538,"Classics, Comedy, Drama",84.0
+73,544,"Action & Adventure, Classics, Comedy, Kids & Family, Science Fiction & Fantasy",66.0
+88,547,"Art House & International, Drama, Mystery & Suspense",95.0
+17,562,"Action & Adventure, Classics, Drama, Mystery & Suspense",66.0
+83,568,"Classics, Drama",88.0
+70,571,"Classics, Comedy, Drama",85.0
+56,577,"Classics, Comedy, Romance",49.0
+18,580,"Classics, Drama, Mystery & Suspense",39.0
+29,582,"Action & Adventure, Classics, Drama",84.0
+11,583,"Classics, Comedy, Drama, Romance",90.0
+93,584,"Action & Adventure, Kids & Family, Science Fiction & Fantasy",63.0
+12,596,"Classics, Comedy",67.0
+34,597,"Drama, Mystery & Suspense",59.0
+35,598,"Classics, Comedy, Drama",89.0
+32,602,"Classics, Drama, Science Fiction & Fantasy",69.0
+39,605,"Classics, Drama",43.0
+77,606,"Comedy, Drama, Horror, Mystery & Suspense",29.0
+28,616,"Comedy, Horror, Science Fiction & Fantasy",41.0
+0,619,"Classics, Science Fiction & Fantasy",87.0
+80,621,"Drama, Kids & Family",79.0
+46,623,"Action & Adventure, Comedy, Kids & Family, Musical & Performing Arts",38.0
+46,627,Drama,44.0
+60,633,"Action & Adventure, Comedy, Drama, Science Fiction & Fantasy",55.0
+7,643,Action & Adventure,28.0
+65,650,"Art House & International, Drama",91.0
+44,653,"Comedy, Drama",38.0
+31,655,"Action & Adventure, Mystery & Suspense",66.0
+99,656,"Action & Adventure, Animation, Kids & Family, Musical & Performing Arts, Romance",81.0
+90,659,"Drama, Sports & Fitness",69.0
+47,660,"Drama, Romance",74.0
+77,670,"Drama, Kids & Family, Musical & Performing Arts, Science Fiction & Fantasy",84.0
+1,678,"Action & Adventure, Drama, Mystery & Suspense",41.0
+35,682,"Classics, Comedy, Drama",87.0
+10,683,"Classics, Drama, Musical & Performing Arts",70.0
+39,686,"Action & Adventure, Comedy, Romance",71.0
+1,688,"Action & Adventure, Drama, Science Fiction & Fantasy, Romance",61.0
+95,699,"Classics, Documentary, Drama, Mystery & Suspense",68.0
+98,700,"Comedy, Mystery & Suspense",56.0
+57,707,"Classics, Drama",90.0
+72,710,"Action & Adventure, Classics, Drama",63.0
+81,713,"Classics, Drama, Mystery & Suspense",78.0
+77,715,"Classics, Drama",72.0
+38,719,"Classics, Comedy, Drama, Romance",74.0
+84,722,"Comedy, Documentary, Drama, Special Interest",74.0
+79,723,"Classics, Drama, Faith & Spirituality",87.0
+64,727,"Horror, Science Fiction & Fantasy",59.0
+92,729,"Action & Adventure, Drama, Mystery & Suspense",81.0
+86,730,"Classics, Horror, Science Fiction & Fantasy",73.0
+21,734,"Comedy, Western",67.0
+9,740,"Art House & International, Horror, Mystery & Suspense",55.0
+42,746,"Action & Adventure, Classics, Drama",87.0
+36,752,"Action & Adventure, Drama",71.0
+94,759,"Classics, Kids & Family, Musical & Performing Arts, Special Interest",88.0
+7,760,"Classics, Western",86.0
+41,164,"Classics, Comedy, Drama",88.0
+48,764,"Classics, Drama, Romance",85.0
+48,769,"Comedy, Drama",58.0
+54,770,"Horror, Mystery & Suspense",32.0
+88,775,"Animation, Classics, Comedy, Kids & Family, Science Fiction & Fantasy",78.0
+38,447,"Drama, Musical & Performing Arts, Romance",71.0
+66,781,"Comedy, Kids & Family",32.0
+23,783,"Drama, Romance",79.0
+92,785,"Comedy, Drama, Mystery & Suspense, Science Fiction & Fantasy, Romance",80.0
+84,788,"Action & Adventure, Classics, Drama",84.0
+0,791,"Classics, Drama",59.0
+19,796,"Classics, Drama, Romance",83.0
+78,804,"Drama, Mystery & Suspense",71.0
+20,805,"Classics, Drama",80.0
+79,807,"Classics, Drama, Horror, Mystery & Suspense",78.0
+70,808,Drama,89.0
+47,811,"Comedy, Science Fiction & Fantasy",44.0
+86,812,"Art House & International, Drama",81.0
+27,813,"Comedy, Drama, Mystery & Suspense",63.0
+15,817,"Classics, Drama",76.0
+99,818,"Action & Adventure, Drama, Mystery & Suspense",66.0
+35,828,"Comedy, Drama, Musical & Performing Arts",90.0
+84,834,"Comedy, Drama, Kids & Family",77.0
+9,839,"Action & Adventure, Drama, Mystery & Suspense",72.0
+17,841,"Classics, Comedy, Romance",66.0
+64,845,"Art House & International, Comedy, Drama, Romance",83.0
+66,848,"Action & Adventure, Drama",69.0
+55,853,"Comedy, Romance",59.0
+5,856,Drama,82.0
+57,857,"Horror, Mystery & Suspense",33.0
+47,861,"Classics, Science Fiction & Fantasy",27.0
+74,869,"Drama, Kids & Family, Science Fiction & Fantasy, Romance",53.0
+69,872,"Comedy, Drama",46.0
+64,880,"Action & Adventure, Art House & International, Drama, Mystery & Suspense",21.0
+15,883,"Action & Adventure, Drama, Mystery & Suspense",50.0
+1,899,"Comedy, Drama, Romance",86.0
+80,903,"Mystery & Suspense, Western",89.0
+53,431,"Action & Adventure, Drama, Mystery & Suspense",89.0
+12,905,Drama,79.0
+75,906,"Horror, Mystery & Suspense",41.0
+26,909,"Comedy, Romance",38.0
+62,735,"Action & Adventure, Comedy, Kids & Family, Romance",62.0
+76,925,"Action & Adventure, Classics, Comedy, Drama, Kids & Family, Special Interest",94.0
+10,942,"Comedy, Science Fiction & Fantasy",22.0
+72,951,"Action & Adventure, Comedy",33.0
+93,953,"Drama, Horror, Mystery & Suspense",39.0
+95,954,"Drama, Mystery & Suspense",16.0
+11,955,"Classics, Comedy, Horror, Mystery & Suspense",72.0
+97,960,"Comedy, Drama",89.0
+63,964,"Horror, Mystery & Suspense, Science Fiction & Fantasy",64.0
+94,972,"Drama, Romance",83.0
+42,975,"Classics, Drama, Mystery & Suspense",64.0
+23,978,Drama,85.0
+37,980,"Action & Adventure, Art House & International",67.0
+76,984,"Drama, Mystery & Suspense",86.0
+26,764,"Art House & International, Classics, Drama, Romance",63.0
+20,990,"Drama, Romance",65.0
+94,996,"Comedy, Drama, Romance",48.0
+38,1000,"Drama, Horror, Mystery & Suspense",63.0
+54,1003,"Cult Movies, Drama, Mystery & Suspense",50.0
+54,1006,"Art House & International, Comedy",82.0
+95,1014,"Action & Adventure, Mystery & Suspense",27.0
+54,1017,"Action & Adventure, Kids & Family",44.0
+21,411,"Action & Adventure, Drama, Mystery & Suspense",34.0
+19,1022,"Action & Adventure, Comedy",44.0
+24,1023,Drama,65.0
+72,1027,Drama,77.0
+44,1038,"Comedy, Drama",68.0
+96,1041,"Action & Adventure, Comedy",37.0
+51,1044,"Comedy, Drama, Mystery & Suspense",54.0
+39,1046,"Comedy, Drama",72.0
+2,1048,"Animation, Kids & Family",53.0
+5,1052,"Action & Adventure, Comedy, Kids & Family",41.0
+4,1053,"Mystery & Suspense, Science Fiction & Fantasy",78.0
+80,1059,"Comedy, Romance",37.0
+27,1068,"Classics, Drama, Mystery & Suspense, Romance",89.0
+88,1069,"Classics, Drama, Sports & Fitness",89.0
+68,1070,"Drama, Mystery & Suspense",77.0
+50,1071,"Animation, Drama, Mystery & Suspense",72.0
+65,1073,"Drama, Kids & Family, Romance",78.0
+26,1075,"Action & Adventure, Drama, Science Fiction & Fantasy",73.0
+52,1082,Mystery & Suspense,51.0
+30,1088,"Action & Adventure, Horror, Science Fiction & Fantasy",78.0
+98,1098,"Comedy, Drama",89.0
+67,1100,"Art House & International, Comedy, Drama",96.0
+8,538,"Drama, Romance",75.0
+39,442,"Action & Adventure, Drama, Mystery & Suspense",30.0
+91,1105,Comedy,73.0
+23,1106,"Action & Adventure, Drama, Mystery & Suspense",53.0
+81,1108,"Action & Adventure, Horror, Science Fiction & Fantasy",21.0
+36,1112,Drama,77.0
+34,1118,"Comedy, Kids & Family",41.0
+47,1121,"Art House & International, Drama",72.0
+31,1130,"Art House & International, Drama, Romance",93.0
+55,1131,"Comedy, Drama, Kids & Family, Television",38.0
+82,1136,"Action & Adventure, Mystery & Suspense",61.0
+66,1138,"Comedy, Drama, Mystery & Suspense",27.0
+35,1139,"Drama, Romance",74.0
+39,1147,"Comedy, Drama",85.0
+73,1148,"Drama, Kids & Family",63.0
+35,1149,"Drama, Mystery & Suspense, Romance",32.0
+24,1150,"Art House & International, Comedy, Drama",95.0
+92,1158,"Comedy, Drama, Romance",26.0
+3,1161,Comedy,48.0
+10,676,"Action & Adventure, Drama",41.0
+68,1167,"Action & Adventure, Drama",81.0
+65,1183,Comedy,11.0
+25,1187,Mystery & Suspense,19.0
+87,1210,"Drama, Romance",76.0
+77,1217,"Comedy, Drama",93.0
+22,1218,"Horror, Mystery & Suspense",47.0
+43,1221,"Comedy, Science Fiction & Fantasy",28.0
+62,1222,"Comedy, Science Fiction & Fantasy",48.0
+5,1227,"Action & Adventure, Drama",67.0
+98,1234,Comedy,65.0
+47,1235,"Action & Adventure, Mystery & Suspense",27.0
+84,1238,"Art House & International, Drama",52.0
+85,1239,"Action & Adventure, Western",29.0
+34,1243,"Comedy, Kids & Family",38.0
+22,1252,"Comedy, Drama, Mystery & Suspense",76.0
+27,1253,"Drama, Mystery & Suspense",67.0
+37,1257,"Action & Adventure, Drama, Mystery & Suspense",48.0
+96,1266,"Action & Adventure, Drama",62.0
+11,1269,Drama,75.0
+21,1271,"Drama, Mystery & Suspense",79.0
+8,1274,"Action & Adventure, Comedy",34.0
+10,1276,"Art House & International, Drama, Musical & Performing Arts, Romance",88.0
+29,1283,"Horror, Mystery & Suspense",44.0
+7,1292,"Comedy, Drama",89.0
+60,1307,"Action & Adventure, Drama",59.0
+70,1308,"Documentary, Special Interest",44.0
+61,1313,"Documentary, Special Interest",69.0
+36,628,"Comedy, Romance",56.0
+4,1322,Comedy,62.0
+26,1325,"Action & Adventure, Comedy, Kids & Family, Romance",45.0
+40,1327,"Documentary, Drama, Special Interest",62.0
+59,1330,"Documentary, Drama, Special Interest",55.0
+38,1331,Horror,30.0
+57,1332,"Action & Adventure, Comedy, Kids & Family, Science Fiction & Fantasy",57.0
+43,1334,Horror,42.0
+47,1339,Drama,88.0
+62,1343,"Kids & Family, Musical & Performing Arts",36.0
+61,1350,"Drama, Horror, Mystery & Suspense",41.0
+71,1351,Drama,81.0
+17,1354,Drama,83.0
+18,1359,"Action & Adventure, Drama, Romance",58.0
+64,1364,"Action & Adventure, Art House & International, Comedy, Documentary, Drama",83.0
+43,1368,Drama,81.0
+44,1374,"Animation, Kids & Family, Science Fiction & Fantasy",22.0
+63,1376,"Comedy, Drama",56.0
+46,1377,"Comedy, Drama",72.0
+49,1379,"Classics, Drama",75.0
+31,1380,Drama,60.0
+26,1381,"Drama, Mystery & Suspense",57.0
+50,1385,"Documentary, Drama",56.0
+9,1389,Comedy,35.0
+45,1392,Comedy,43.0
+94,1397,"Action & Adventure, Drama",38.0
+95,1399,"Comedy, Drama",56.0
+41,1402,Drama,63.0
+41,1411,Horror,29.0
+51,1414,"Horror, Mystery & Suspense",37.0
+61,1419,"Art House & International, Drama",53.0
+28,1426,"Action & Adventure, Mystery & Suspense, Science Fiction & Fantasy",69.0
+77,1427,"Drama, Romance",29.0
+50,1438,"Art House & International, Comedy, Drama",72.0
+46,1443,"Art House & International, Drama, Mystery & Suspense",33.0
+35,1446,"Comedy, Drama",68.0
+75,1450,"Comedy, Drama, Romance",59.0
+70,197,"Action & Adventure, Mystery & Suspense",28.0
+55,1453,"Comedy, Drama, Romance",49.0
+67,1454,"Action & Adventure, Comedy, Mystery & Suspense",67.0
+63,1455,"Art House & International, Documentary, Drama, Special Interest, Television",60.0
+79,1460,"Art House & International, Documentary, Special Interest",80.0
+85,1462,"Comedy, Drama",61.0
+35,1464,"Documentary, Musical & Performing Arts",92.0
+99,1467,"Drama, Mystery & Suspense",47.0
+32,1468,"Comedy, Drama",48.0
+65,1469,"Horror, Mystery & Suspense",45.0
+12,1471,"Art House & International, Drama",22.0
+99,1473,"Drama, Horror, Mystery & Suspense, Science Fiction & Fantasy",52.0
+96,1474,"Drama, Romance",85.0
+55,1475,"Comedy, Drama",49.0
+25,1478,"Drama, Horror",30.0
+74,1479,"Comedy, Science Fiction & Fantasy, Romance",42.0
+57,1482,"Drama, Mystery & Suspense",82.0
+32,1491,Horror,45.0
+65,1499,"Comedy, Drama",60.0
+50,1505,"Action & Adventure, Animation, Comedy, Kids & Family",62.0
+82,1509,Documentary,83.0
+45,1510,"Drama, Science Fiction & Fantasy",70.0
+84,1512,"Art House & International, Comedy, Drama, Musical & Performing Arts, Romance",75.0
+63,1524,"Drama, Mystery & Suspense",39.0
+48,1527,Drama,50.0
+56,1550,"Comedy, Drama, Mystery & Suspense",44.0
+18,1557,"Comedy, Kids & Family, Science Fiction & Fantasy",41.0
+1,1560,"Drama, Horror, Musical & Performing Arts, Mystery & Suspense",42.0
+33,1564,"Documentary, Drama, Special Interest",96.0
+28,1566,"Action & Adventure, Horror",51.0
+57,1580,"Classics, Comedy, Drama, Mystery & Suspense",77.0
+71,1583,"Drama, Kids & Family",54.0
+93,1584,"Art House & International, Drama, Horror, Mystery & Suspense",60.0
+63,1587,"Action & Adventure, Mystery & Suspense",52.0
+0,1588,"Drama, Mystery & Suspense",46.0
+34,1606,"Comedy, Mystery & Suspense",64.0
+51,1609,"Art House & International, Comedy, Drama",79.0
+77,1613,Comedy,19.0
+25,1617,"Animation, Drama, Special Interest",58.0
+54,1626,Comedy,62.0
+90,1629,"Comedy, Drama, Sports & Fitness",85.0
+31,1630,"Action & Adventure, Comedy, Drama",58.0
+33,1640,"Action & Adventure, Mystery & Suspense",59.0
+69,1641,"Comedy, Drama, Romance",27.0
+50,1642,"Comedy, Drama",67.0
+59,1655,Drama,52.0
+61,1657,"Drama, Horror",40.0
+91,1663,Drama,76.0
+12,1668,Drama,79.0
+97,1673,"Documentary, Musical & Performing Arts, Television",90.0
+56,1676,"Action & Adventure, Comedy, Drama",81.0
+89,1680,Comedy,52.0
+85,1683,Drama,57.0
+21,1684,Drama,66.0
+93,1686,"Documentary, Special Interest",100.0
+77,1692,"Art House & International, Drama",75.0
+73,775,"Kids & Family, Science Fiction & Fantasy",58.0
+18,1697,"Action & Adventure, Drama, Mystery & Suspense",54.0
+65,1708,"Comedy, Romance",70.0
+4,1717,Horror,24.0
+69,1720,"Action & Adventure, Drama, Mystery & Suspense, Television",37.0
+49,1724,"Art House & International, Drama",68.0
+67,1731,"Action & Adventure, Comedy",48.0
+53,1736,"Drama, Romance",60.0
+35,1740,"Art House & International, Comedy, Romance",29.0
+79,1747,"Action & Adventure, Drama",9.0
+18,1750,"Action & Adventure, Comedy",82.0
+43,1760,"Documentary, Special Interest",40.0
+64,1761,"Action & Adventure, Drama, Mystery & Suspense",30.0
+61,1766,"Comedy, Drama",50.0
+59,1767,"Horror, Science Fiction & Fantasy",85.0
+55,1771,"Art House & International, Comedy, Drama",48.0
+53,1772,Comedy,37.0
+64,1776,"Action & Adventure, Drama, Mystery & Suspense",50.0
+69,1777,"Action & Adventure, Drama, Mystery & Suspense",66.0
+28,1782,"Action & Adventure, Drama, Mystery & Suspense",46.0
+12,1788,Comedy,67.0
+51,1792,"Drama, Romance",32.0
+28,1793,"Art House & International, Drama, Mystery & Suspense",23.0
+78,1809,"Art House & International, Classics, Drama",94.0
+92,1811,"Comedy, Mystery & Suspense, Romance",43.0
+60,1815,Musical & Performing Arts,74.0
+42,1817,"Drama, Science Fiction & Fantasy",19.0
+60,1818,"Comedy, Drama, Mystery & Suspense",36.0
+79,1821,"Action & Adventure, Drama, Science Fiction & Fantasy",48.0
+72,1823,"Action & Adventure, Classics, Drama, Mystery & Suspense",77.0
+52,1827,Drama,45.0
+41,1839,"Drama, Kids & Family, Science Fiction & Fantasy",42.0
+62,1850,"Horror, Mystery & Suspense",45.0
+1,1862,"Documentary, Special Interest, Faith & Spirituality",72.0
+86,1865,"Drama, Mystery & Suspense",44.0
+77,1872,"Documentary, Drama, Special Interest",82.0
+45,1878,"Drama, Romance",72.0
+51,1881,"Comedy, Mystery & Suspense",60.0
+88,1891,"Comedy, Drama",66.0
+69,1900,Drama,77.0
+66,1902,"Art House & International, Science Fiction & Fantasy",48.0
+74,1903,"Comedy, Drama",78.0
+6,1905,Drama,68.0
+26,1907,"Classics, Comedy, Drama",81.0
+79,1912,Drama,76.0
+41,1923,"Art House & International, Drama",61.0
+46,1930,"Comedy, Drama",23.0
+35,1934,"Art House & International, Drama, Romance",48.0
+63,1937,"Comedy, Romance, Gay & Lesbian",40.0
+0,1939,Drama,66.0
+6,1941,"Horror, Mystery & Suspense, Romance",75.0
+80,1944,Documentary,56.0
+39,1960,"Animation, Drama, Kids & Family",76.0
+83,1962,"Comedy, Drama, Romance",52.0
+51,1971,"Documentary, Special Interest",41.0
+38,1972,Drama,61.0
+61,1979,"Action & Adventure, Drama",69.0
+65,1982,"Art House & International, Drama",67.0
+9,2010,Mystery & Suspense,73.0
+87,2013,"Drama, Mystery & Suspense",31.0
+92,2014,Documentary,34.0
+40,2017,Comedy,20.0
+1,701,Drama,79.0
+71,2027,Mystery & Suspense,33.0
+17,2029,"Art House & International, Drama, Romance",54.0
+38,2030,Drama,74.0
+37,2032,"Documentary, Musical & Performing Arts",82.0
+74,2033,"Action & Adventure, Animation, Kids & Family",47.0
+58,2045,Drama,79.0
+63,2047,"Documentary, Special Interest",82.0
+17,2053,"Classics, Drama, Special Interest, Romance",75.0
+10,2061,"Classics, Comedy, Horror, Science Fiction & Fantasy",85.0
+46,2062,Comedy,64.0
+35,2063,"Action & Adventure, Comedy, Horror",50.0
+97,2064,Horror,39.0
+69,2068,"Art House & International, Comedy, Drama",77.0
+89,2071,"Art House & International, Comedy, Drama",47.0
+55,2075,"Comedy, Romance",65.0
+4,2078,"Comedy, Drama, Science Fiction & Fantasy",81.0
+13,2105,"Action & Adventure, Drama",25.0
+33,2109,"Musical & Performing Arts, Romance",82.0
+9,2110,"Art House & International, Documentary, Faith & Spirituality",20.0
+34,2117,"Art House & International, Drama",74.0
+26,2120,"Animation, Comedy",49.0
+79,2122,"Comedy, Horror, Science Fiction & Fantasy",66.0
+57,2123,"Comedy, Horror",63.0
+80,2125,"Comedy, Documentary, Special Interest, Television",62.0
+49,2130,Action & Adventure,82.0
+11,2137,"Comedy, Documentary, Drama, Special Interest",74.0
+10,2139,Comedy,65.0
+44,2143,"Comedy, Kids & Family, Science Fiction & Fantasy",63.0
+54,2146,"Action & Adventure, Comedy, Science Fiction & Fantasy",19.0
+52,2151,"Classics, Drama, Mystery & Suspense",89.0
+55,2157,"Drama, Mystery & Suspense",72.0
+72,2158,"Drama, Television",23.0
+15,2162,"Drama, Romance",72.0
+62,2163,"Drama, Mystery & Suspense",62.0
+6,2166,"Drama, Romance",69.0
+90,2167,"Drama, Mystery & Suspense",16.0
+89,2169,"Drama, Horror, Mystery & Suspense",33.0
+50,2170,Drama,80.0
+61,2171,"Art House & International, Drama",75.0
+32,2174,"Art House & International, Comedy",43.0
+32,2175,"Drama, Mystery & Suspense, Science Fiction & Fantasy",44.0
+32,2177,"Art House & International, Drama",80.0
+55,2185,"Action & Adventure, Horror, Mystery & Suspense, Science Fiction & Fantasy",17.0
+82,2189,"Horror, Mystery & Suspense",24.0
+19,2195,"Classics, Comedy, Drama",52.0
+74,2199,Comedy,67.0
+94,2204,"Comedy, Drama",71.0
+9,2206,"Classics, Drama",78.0
+52,2214,"Art House & International, Documentary, Special Interest",66.0
+76,2232,"Action & Adventure, Animation, Drama, Mystery & Suspense, Science Fiction & Fantasy",90.0
+16,2250,"Drama, Romance",26.0
+23,2253,"Documentary, Special Interest",57.0
+11,2260,"Action & Adventure, Kids & Family, Science Fiction & Fantasy",48.0
+33,2264,"Comedy, Science Fiction & Fantasy",50.0
+26,2269,Action & Adventure,32.0
+73,2271,"Horror, Science Fiction & Fantasy",39.0
+11,2276,"Art House & International, Comedy, Documentary, Drama, Special Interest",44.0
+99,2285,"Action & Adventure, Comedy, Drama, Mystery & Suspense",77.0
+27,2289,Drama,53.0
+13,2300,Drama,62.0
+80,2303,"Comedy, Drama, Romance",90.0
+20,2304,"Drama, Kids & Family",54.0
+32,2313,"Drama, Mystery & Suspense",66.0
+38,2319,nan,83.0
+22,2321,"Documentary, Musical & Performing Arts",81.0
+65,2324,"Action & Adventure, Classics, Comedy, Drama, Mystery & Suspense",69.0
+22,2326,"Art House & International, Comedy, Drama, Romance",61.0
+7,2331,"Comedy, Science Fiction & Fantasy",48.0
+76,2335,"Comedy, Drama",64.0
+95,2336,"Horror, Science Fiction & Fantasy",22.0
+80,2366,Comedy,26.0
+64,2375,Drama,85.0
+45,2377,"Documentary, Special Interest",66.0
+11,2389,"Drama, Mystery & Suspense",87.0
+0,2395,"Drama, Musical & Performing Arts",64.0
+56,2397,Drama,87.0
+17,2398,Drama,51.0
+16,2399,"Comedy, Drama",84.0
+24,2401,Drama,63.0
+84,2403,"Horror, Mystery & Suspense",36.0
+0,2409,"Classics, Musical & Performing Arts, Romance",79.0
+3,2411,"Action & Adventure, Drama, Mystery & Suspense",78.0
+66,2414,Documentary,80.0
+26,2430,Drama,80.0
+24,2432,"Art House & International, Comedy, Drama",86.0
+93,2433,Documentary,49.0
+32,2438,"Action & Adventure, Comedy",45.0
+89,2441,"Comedy, Horror, Science Fiction & Fantasy",85.0
+59,2457,"Art House & International, Drama",94.0
+16,2458,"Comedy, Mystery & Suspense",31.0
+35,2460,Drama,50.0
+63,2462,Comedy,4.0
+19,2465,"Drama, Mystery & Suspense",87.0
+82,2468,Comedy,14.0
+5,2471,"Art House & International, Drama",80.0
+69,2472,Comedy,54.0
+3,2486,"Classics, Drama, Mystery & Suspense",90.0
+30,2489,Comedy,86.0
+14,2490,Comedy,52.0
+91,2491,"Classics, Comedy, Musical & Performing Arts, Romance",79.0
+8,2493,"Comedy, Documentary",74.0
+8,2509,Drama,50.0
+42,2511,"Art House & International, Drama",49.0
+31,2518,"Action & Adventure, Classics, Drama, Mystery & Suspense",92.0
+80,2525,"Horror, Mystery & Suspense",33.0
+0,1131,"Animation, Classics, Comedy, Drama, Kids & Family",67.0
+2,2528,Drama,69.0
+82,2531,"Action & Adventure, Mystery & Suspense",81.0
+1,2533,"Classics, Drama, Musical & Performing Arts, Romance",68.0
+86,2536,"Drama, Horror",67.0
+98,2538,"Art House & International, Documentary, Special Interest",83.0
+66,2539,"Classics, Drama",83.0
+43,2542,"Action & Adventure, Drama, Science Fiction & Fantasy",66.0
+14,2548,"Action & Adventure, Comedy",35.0
+7,2555,"Action & Adventure, Comedy",28.0
+41,2567,Action & Adventure,36.0
+95,2571,Horror,33.0
+54,2574,"Drama, Horror, Mystery & Suspense, Science Fiction & Fantasy",40.0
+78,2579,Documentary,52.0
+99,2590,"Comedy, Drama",55.0
+10,2591,"Action & Adventure, Art House & International, Classics, Drama",44.0
+34,2592,"Classics, Western",46.0
+19,2601,Mystery & Suspense,54.0
+96,2606,Comedy,64.0
+76,2607,"Art House & International, Comedy, Drama",66.0
+56,2609,"Comedy, Drama, Romance",34.0
+69,2613,"Art House & International, Drama, Romance",72.0
+6,2615,"Comedy, Horror, Mystery & Suspense, Science Fiction & Fantasy",54.0
+31,2622,Comedy,43.0
+65,2626,"Documentary, Special Interest",84.0
+24,2633,"Action & Adventure, Mystery & Suspense, Science Fiction & Fantasy",73.0
+96,2646,Drama,89.0
+66,2658,Documentary,58.0
+59,2668,Drama,20.0
+96,2677,"Action & Adventure, Drama",67.0
+79,2679,"Classics, Horror, Science Fiction & Fantasy",44.0
+96,2683,"Comedy, Mystery & Suspense",46.0
+11,2692,"Art House & International, Comedy, Drama",81.0
+30,2697,Drama,31.0
+53,2705,"Comedy, Drama",86.0
+28,2707,"Action & Adventure, Animation, Kids & Family, Science Fiction & Fantasy",53.0
+45,2713,"Documentary, Drama, Special Interest",86.0
+21,2715,"Art House & International, Horror, Mystery & Suspense",29.0
+76,2717,"Comedy, Horror",38.0
+1,2718,"Action & Adventure, Drama, Horror, Science Fiction & Fantasy",35.0
+3,2735,"Action & Adventure, Classics, Mystery & Suspense, Romance",65.0
+59,2739,Comedy,15.0
+32,2742,"Drama, Mystery & Suspense",37.0
+4,2744,"Drama, Mystery & Suspense",83.0
+76,2750,"Action & Adventure, Drama, Horror",38.0
+65,2752,"Action & Adventure, Science Fiction & Fantasy",83.0
+32,2762,"Comedy, Drama",74.0
+59,2763,Comedy,38.0
+49,2765,"Art House & International, Comedy, Drama",56.0
+89,2767,"Action & Adventure, Kids & Family, Science Fiction & Fantasy",61.0
+13,2768,"Art House & International, Drama",14.0
+39,2769,"Documentary, Special Interest",69.0
+73,2774,"Art House & International, Classics, Comedy, Drama",50.0
+17,2779,"Comedy, Drama",62.0
+42,2784,"Comedy, Drama, Kids & Family",24.0
+99,2785,"Art House & International, Comedy, Drama",70.0
+34,2787,"Action & Adventure, Drama, Kids & Family, Science Fiction & Fantasy",38.0
+3,2789,"Action & Adventure, Drama, Science Fiction & Fantasy",26.0
+81,2790,"Comedy, Kids & Family",52.0
+0,2798,"Action & Adventure, Art House & International, Drama",62.0
+76,2799,"Art House & International, Comedy, Drama",62.0
+6,2800,"Comedy, Musical & Performing Arts",63.0
+2,2808,"Action & Adventure, Mystery & Suspense",25.0
+53,2812,Action & Adventure,39.0
+91,2814,"Action & Adventure, Comedy, Mystery & Suspense",78.0
+69,2816,"Art House & International, Drama, Mystery & Suspense",71.0
+14,2818,Drama,70.0
+52,2819,"Drama, Mystery & Suspense",51.0
+69,2820,Comedy,22.0
+63,2824,"Comedy, Drama, Horror",41.0
+48,2836,Comedy,36.0
+18,2849,Drama,62.0
+5,2866,"Classics, Comedy, Drama, Musical & Performing Arts",82.0
+25,2877,"Action & Adventure, Art House & International, Classics, Drama",65.0
+19,2879,"Art House & International, Drama",89.0
+10,2885,Comedy,62.0
+26,2888,"Animation, Kids & Family, Science Fiction & Fantasy",58.0
+68,2890,"Art House & International, Classics, Drama, Mystery & Suspense",72.0
+98,2897,"Classics, Comedy, Musical & Performing Arts, Romance",70.0
+56,2900,"Animation, Comedy, Kids & Family",52.0
+44,2910,"Action & Adventure, Drama, Mystery & Suspense",63.0
+0,2917,"Comedy, Drama, Musical & Performing Arts, Romance",49.0
+20,2922,Documentary,83.0
+80,2925,"Action & Adventure, Animation, Kids & Family, Science Fiction & Fantasy, Special Interest",85.0
+81,2927,"Action & Adventure, Science Fiction & Fantasy",94.0
+59,2928,"Action & Adventure, Animation, Kids & Family, Science Fiction & Fantasy",86.0
+1,2931,"Action & Adventure, Animation",69.0
+14,2933,"Action & Adventure, Animation, Kids & Family, Mystery & Suspense",88.0
+50,2935,nan,67.0
+63,2939,"Action & Adventure, Drama, Science Fiction & Fantasy",62.0
+85,2944,nan,60.0
+62,2949,"Classics, Drama",31.0
+90,2956,"Action & Adventure, Classics, Drama",79.0
+82,2962,"Action & Adventure, Art House & International, Drama",29.0
+26,2963,"Drama, Musical & Performing Arts",53.0
+32,2967,"Action & Adventure, Science Fiction & Fantasy, Television",61.0
+6,2973,"Comedy, Drama, Mystery & Suspense",42.0
+75,2988,Horror,33.0
+90,2992,"Drama, Musical & Performing Arts",84.0
+74,3000,"Comedy, Romance",44.0
+33,3001,"Documentary, Special Interest, Television",75.0
+36,3003,Drama,56.0
+22,3005,"Comedy, Drama, Mystery & Suspense",33.0
+16,3015,"Drama, Musical & Performing Arts, Science Fiction & Fantasy, Romance",80.0
+21,3018,"Animation, Comedy",69.0
+0,3021,"Comedy, Drama, Kids & Family, Sports & Fitness",63.0
+33,3025,"Drama, Romance",74.0
+35,3026,"Documentary, Musical & Performing Arts, Special Interest",76.0
+28,3027,"Documentary, Musical & Performing Arts",68.0
+85,3028,"Action & Adventure, Art House & International, Classics, Drama, Mystery & Suspense",76.0
+92,3033,"Classics, Comedy",39.0
+28,3034,"Action & Adventure, Comedy, Kids & Family, Science Fiction & Fantasy",55.0
+70,3036,Drama,35.0
+4,3047,"Documentary, Special Interest",58.0
+16,3060,"Documentary, Special Interest",61.0
+11,3063,"Classics, Drama",71.0
+64,3064,"Comedy, Drama",29.0
+29,3065,"Action & Adventure, Mystery & Suspense",37.0
+41,3076,"Comedy, Drama, Science Fiction & Fantasy",87.0
+69,3078,"Comedy, Drama",92.0
+70,3084,"Art House & International, Drama, Romance",81.0
+15,3090,"Classics, Musical & Performing Arts, Romance",77.0
+57,3103,Mystery & Suspense,5.0
+96,3105,"Action & Adventure, Documentary, Kids & Family",55.0
+83,3106,"Drama, Kids & Family",51.0
+5,3107,"Action & Adventure, Comedy, Kids & Family",62.0
+3,3121,"Comedy, Drama",28.0
+72,3127,Documentary,85.0
+4,3131,"Classics, Drama, Romance",92.0
+2,3133,Horror,43.0
+19,3150,"Comedy, Drama",75.0
+30,3150,"Comedy, Drama, Romance",34.0
+38,3154,"Action & Adventure, Comedy",35.0
+91,3156,"Documentary, Musical & Performing Arts",87.0
+57,3161,"Action & Adventure, Drama, Romance",72.0
+47,3164,Action & Adventure,57.0
+5,3166,"Comedy, Horror, Science Fiction & Fantasy",39.0
+22,3176,"Drama, Musical & Performing Arts",64.0
+77,3184,Comedy,54.0
+61,3186,"Documentary, Drama, Special Interest",55.0
+14,3187,"Comedy, Kids & Family, Science Fiction & Fantasy",82.0
+43,3196,"Comedy, Drama",19.0
+68,3199,"Classics, Drama, Mystery & Suspense",83.0
+37,3200,"Classics, Drama, Mystery & Suspense",81.0
+45,3206,Drama,68.0
+1,3213,Action & Adventure,57.0
+10,3214,"Action & Adventure, Western",66.0
+24,3231,Comedy,30.0
+69,3232,"Classics, Drama, Western",69.0
+58,3234,"Comedy, Drama",87.0
+65,3237,"Comedy, Drama",53.0
+37,3248,"Drama, Mystery & Suspense",37.0
+4,3249,Mystery & Suspense,29.0
+96,3259,"Comedy, Drama",62.0
+84,3262,Drama,80.0
+43,3263,"Drama, Mystery & Suspense, Science Fiction & Fantasy",58.0
+50,3264,"Action & Adventure, Comedy",40.0
+75,3267,"Horror, Mystery & Suspense, Romance",26.0
+0,3268,Documentary,77.0
+85,3270,"Classics, Drama, Mystery & Suspense",84.0
+86,3274,"Action & Adventure, Drama",68.0
+81,3296,"Drama, Mystery & Suspense",27.0
+2,3303,"Action & Adventure, Comedy, Science Fiction & Fantasy",34.0
+26,3308,"Drama, Musical & Performing Arts, Faith & Spirituality",51.0
+51,3319,"Art House & International, Horror",75.0
+1,3321,"Action & Adventure, Art House & International, Horror",14.0
+43,3323,"Action & Adventure, Kids & Family",83.0
+83,308,Horror,77.0
+95,3352,"Comedy, Kids & Family",35.0
+11,3355,"Comedy, Drama, Romance",47.0
+72,3358,"Art House & International, Comedy, Drama",38.0
+80,3359,Horror,32.0
+95,3372,"Comedy, Drama",86.0
+60,3373,"Animation, Kids & Family",32.0
+39,3375,"Action & Adventure, Animation, Art House & International",43.0
+48,3377,"Drama, Mystery & Suspense",36.0
+9,3382,Mystery & Suspense,33.0
+31,3390,"Action & Adventure, Mystery & Suspense",63.0
+37,3391,"Comedy, Horror",44.0
+47,3392,"Art House & International, Horror",28.0
+70,3395,"Comedy, Documentary, Special Interest, Sports & Fitness",78.0
+91,3400,"Mystery & Suspense, Science Fiction & Fantasy, Romance",81.0
+24,3405,"Action & Adventure, Drama, Mystery & Suspense",40.0
+87,3412,Drama,91.0
+45,3414,Drama,87.0
+39,3422,"Action & Adventure, Drama, Romance",58.0
+58,3423,"Classics, Drama, Mystery & Suspense",60.0
+21,3424,"Classics, Musical & Performing Arts, Romance",67.0
+6,3426,Comedy,84.0
+31,3439,"Drama, Romance",77.0
+36,3444,Comedy,48.0
+44,3447,"Action & Adventure, Comedy, Drama, Kids & Family",55.0
+32,3450,"Horror, Mystery & Suspense",61.0
+79,3459,Drama,61.0
+66,3462,"Drama, Mystery & Suspense",23.0
+80,3466,Drama,27.0
+77,3475,"Action & Adventure, Drama, Mystery & Suspense",84.0
+7,3477,"Documentary, Drama, Musical & Performing Arts, Special Interest",78.0
+27,3479,Drama,28.0
+54,3481,Mystery & Suspense,63.0
+62,3482,Horror,18.0
+21,3483,"Action & Adventure, Horror, Western",73.0
+58,3507,"Comedy, Drama, Musical & Performing Arts",69.0
+13,3516,"Action & Adventure, Drama, Kids & Family",86.0
+61,3518,"Documentary, Musical & Performing Arts, Special Interest",91.0
+49,3519,"Action & Adventure, Art House & International, Classics, Drama, Mystery & Suspense",64.0
+84,3523,Documentary,84.0
+31,3530,"Comedy, Drama",80.0
+35,3534,"Drama, Special Interest",29.0
+95,3538,"Action & Adventure, Drama, Mystery & Suspense",45.0
+18,3542,"Classics, Comedy, Drama, Horror, Mystery & Suspense",18.0
+16,3554,Drama,85.0
+72,3572,"Drama, Horror, Science Fiction & Fantasy",70.0
+0,3577,Drama,60.0
+13,3580,"Documentary, Special Interest",68.0
+96,3586,Comedy,35.0
+9,3589,Romance,47.0
+44,3591,"Drama, Mystery & Suspense",67.0
+47,3594,Comedy,54.0
+4,3599,"Comedy, Drama",64.0
+80,3606,Mystery & Suspense,32.0
+75,3618,Drama,60.0
+16,3624,"Classics, Horror, Science Fiction & Fantasy, Special Interest",88.0
+25,3625,"Comedy, Horror, Science Fiction & Fantasy",45.0
+25,3627,"Horror, Science Fiction & Fantasy",29.0
+57,3628,"Drama, Musical & Performing Arts",40.0
+47,3634,"Drama, Mystery & Suspense",87.0
+34,3636,"Action & Adventure, Kids & Family, Science Fiction & Fantasy",70.0
+86,3639,"Drama, Romance",87.0
+97,3644,"Comedy, Drama",32.0
+54,3650,"Drama, Romance",68.0
+83,3656,Comedy,86.0
+76,3660,Comedy,70.0
+47,3672,"Documentary, Musical & Performing Arts, Special Interest",92.0
+40,3680,"Comedy, Drama, Romance, Gay & Lesbian",72.0
+69,3686,Drama,93.0
+79,3717,"Classics, Drama",87.0
+86,3724,"Drama, Musical & Performing Arts",77.0
+49,3725,Comedy,57.0
+18,3734,"Art House & International, Documentary",57.0
+96,3737,"Comedy, Drama, Kids & Family, Musical & Performing Arts",81.0
+96,3739,"Comedy, Drama, Romance",82.0
+9,3746,"Art House & International, Drama",69.0
+13,3748,"Action & Adventure, Science Fiction & Fantasy",74.0
+91,3749,"Comedy, Science Fiction & Fantasy",65.0
+72,3752,"Action & Adventure, Art House & International, Comedy, Drama, Musical & Performing Arts, Romance",77.0
+39,3760,"Comedy, Drama",64.0
+10,3766,"Art House & International, Comedy, Drama",38.0
+16,3769,"Drama, Romance",56.0
+45,3770,Drama,62.0
+77,3780,Drama,51.0
+8,3785,"Action & Adventure, Horror",19.0
+3,3788,"Comedy, Drama",44.0
+2,3797,"Drama, Romance",28.0
+76,3801,"Art House & International, Comedy, Drama",85.0
+79,3803,"Horror, Mystery & Suspense",14.0
+56,3807,"Art House & International, Drama, Mystery & Suspense",78.0
+45,3808,"Classics, Comedy",80.0
+20,3830,"Classics, Drama, Mystery & Suspense",72.0
+30,3836,"Horror, Mystery & Suspense",55.0
+55,3837,"Horror, Mystery & Suspense",8.0
+57,3841,"Art House & International, Drama",88.0
+8,3843,Action & Adventure,20.0
+76,3845,"Kids & Family, Musical & Performing Arts, Television",55.0
+31,3850,Documentary,75.0
+88,3853,"Classics, Drama",74.0
+81,3862,Horror,62.0
+20,3867,"Comedy, Romance",74.0
+86,3873,Drama,67.0
+45,3883,"Drama, Romance",50.0
+49,3890,Comedy,52.0
+40,3892,"Drama, Mystery & Suspense, Special Interest",43.0
+48,3901,"Classics, Documentary, Drama, Special Interest",67.0
+77,3903,Comedy,37.0
+92,3906,"Art House & International, Drama, Mystery & Suspense",33.0
+36,3906,"Drama, Mystery & Suspense",66.0
+71,3910,"Comedy, Drama",66.0
+51,3915,"Drama, Horror, Musical & Performing Arts, Romance",61.0
+17,3917,Comedy,39.0
+64,3920,"Classics, Comedy",78.0
+7,3925,Comedy,33.0
+56,3929,"Horror, Mystery & Suspense",39.0
+93,343,"Action & Adventure, Mystery & Suspense",89.0
+58,3943,"Action & Adventure, Classics, Drama, Science Fiction & Fantasy, Romance",49.0
+68,3961,"Action & Adventure, Comedy, Kids & Family, Romance",32.0
+24,3973,"Documentary, Special Interest",73.0
+51,3983,Horror,17.0
+94,3984,Horror,15.0
+97,3988,Comedy,31.0
+98,3991,"Art House & International, Drama, Romance",41.0
+39,3998,"Art House & International, Drama",70.0
+94,4004,"Art House & International, Comedy",53.0
+97,4008,"Art House & International, Comedy",75.0
+83,4010,"Action & Adventure, Art House & International, Comedy, Drama",30.0
+37,4021,"Art House & International, Drama, Sports & Fitness",80.0
+83,4027,"Action & Adventure, Comedy, Mystery & Suspense",32.0
+99,4032,"Action & Adventure, Comedy",45.0
+20,4042,"Action & Adventure, Comedy, Drama, Romance",60.0
+59,4053,Comedy,58.0
+36,4055,"Classics, Comedy, Kids & Family",66.0
+5,4066,"Action & Adventure, Comedy, Romance",52.0
+32,4068,"Comedy, Drama, Mystery & Suspense",55.0
+92,4072,"Art House & International, Documentary, Drama, Horror",25.0
+8,4079,"Action & Adventure, Animation, Comedy, Drama, Kids & Family",64.0
+14,4083,"Drama, Mystery & Suspense",26.0
+62,4085,"Action & Adventure, Art House & International, Comedy, Drama",96.0
+16,4092,"Horror, Mystery & Suspense",20.0
+41,4097,"Classics, Drama",84.0
+31,4105,"Comedy, Drama",85.0
+66,4107,"Drama, Mystery & Suspense",37.0
+31,4110,"Classics, Drama, Mystery & Suspense",93.0
+51,4113,"Comedy, Drama, Romance",67.0
+71,4114,Action & Adventure,45.0
+37,4115,"Action & Adventure, Animation, Comedy, Kids & Family, Musical & Performing Arts, Science Fiction & Fantasy",88.0
+0,4116,"Action & Adventure, Comedy, Drama",45.0
+78,4118,"Kids & Family, Musical & Performing Arts, Science Fiction & Fantasy",71.0
+60,4120,"Comedy, Drama",36.0
+82,4127,"Action & Adventure, Horror, Science Fiction & Fantasy",38.0
+99,4147,"Action & Adventure, Horror, Science Fiction & Fantasy",65.0
+21,4148,Comedy,26.0
+54,4151,"Documentary, Musical & Performing Arts",95.0
+86,4152,"Documentary, Musical & Performing Arts, Special Interest",82.0
+19,4156,Drama,55.0
+40,4159,"Art House & International, Documentary, Drama, Musical & Performing Arts, Special Interest, Television",64.0
+0,4163,"Animation, Classics, Kids & Family, Science Fiction & Fantasy",80.0
+82,4167,"Action & Adventure, Drama",91.0
+56,4168,"Comedy, Drama, Kids & Family, Romance",53.0
+0,4173,"Art House & International, Documentary, Drama, Special Interest",80.0
+89,4176,"Drama, Horror, Mystery & Suspense",32.0
+17,4186,"Drama, Mystery & Suspense",40.0
+94,4191,Comedy,79.0
+20,4195,"Drama, Mystery & Suspense",46.0
+46,4202,"Art House & International, Comedy, Drama, Science Fiction & Fantasy",75.0
+48,4206,"Drama, Mystery & Suspense",33.0
+92,4208,"Action & Adventure, Cult Movies, Drama, Mystery & Suspense",81.0
+46,4211,Drama,29.0
+0,4212,"Drama, Romance, Gay & Lesbian",45.0
+4,4213,"Art House & International, Drama",59.0
+67,4216,"Comedy, Drama",33.0
+90,4219,"Action & Adventure, Science Fiction & Fantasy",49.0
+91,4220,"Comedy, Drama, Romance",50.0
+18,4225,"Art House & International, Comedy, Drama, Mystery & Suspense",67.0
+89,4254,"Art House & International, Comedy, Drama",87.0
+56,4257,"Art House & International, Comedy, Drama",78.0
+82,4258,Drama,72.0
+33,4260,"Action & Adventure, Comedy, Drama",77.0
+69,4262,"Action & Adventure, Animation, Kids & Family, Science Fiction & Fantasy",66.0
+68,4267,"Comedy, Horror",44.0
+42,4278,"Documentary, Drama, Musical & Performing Arts, Special Interest",83.0
+2,4284,"Comedy, Drama, Science Fiction & Fantasy",35.0
+76,4287,"Action & Adventure, Drama, Mystery & Suspense",28.0
+95,4291,Documentary,71.0
+48,4304,"Mystery & Suspense, Science Fiction & Fantasy",57.0
+30,4312,Comedy,62.0
+13,4314,Drama,64.0
+74,4317,Documentary,62.0
+90,4321,"Art House & International, Drama, Mystery & Suspense",60.0
+52,4325,"Art House & International, Drama",96.0
+33,4328,"Comedy, Drama",42.0
+64,4336,Drama,59.0
+81,4348,Comedy,39.0
+65,4354,"Action & Adventure, Drama, Mystery & Suspense",58.0
+99,4360,Drama,25.0
+98,4363,Comedy,53.0
+55,4366,"Documentary, Musical & Performing Arts, Special Interest",83.0
+46,4369,"Action & Adventure, Science Fiction & Fantasy",30.0
+96,4371,"Documentary, Special Interest",71.0
+93,4375,"Comedy, Science Fiction & Fantasy",37.0
+39,4377,"Comedy, Drama, Mystery & Suspense",75.0
+13,4378,"Comedy, Drama",49.0
+6,4386,"Documentary, Musical & Performing Arts",80.0
+35,4387,"Documentary, Special Interest",46.0
+5,4400,"Drama, Horror, Mystery & Suspense",29.0
+35,4408,"Art House & International, Comedy, Drama, Romance",88.0
+32,4410,Comedy,38.0
+61,4416,"Classics, Comedy, Drama",89.0
+81,4417,"Comedy, Horror",37.0
+55,4419,"Comedy, Kids & Family",35.0
+64,4423,Drama,44.0
+39,4428,"Action & Adventure, Animation, Kids & Family, Science Fiction & Fantasy",73.0
+84,4432,"Documentary, Television",84.0
+46,4433,"Art House & International, Comedy, Documentary, Drama, Special Interest, Faith & Spirituality",44.0
+41,4436,"Action & Adventure, Animation, Comedy, Kids & Family, Science Fiction & Fantasy",77.0
+40,4442,Drama,52.0
+98,4445,"Cult Movies, Horror",42.0
+57,4448,"Comedy, Kids & Family",32.0
+69,4454,Drama,80.0
+73,4458,"Horror, Mystery & Suspense",62.0
+12,4461,"Action & Adventure, Science Fiction & Fantasy, Western",43.0
+39,4466,"Action & Adventure, Drama",52.0
+66,4468,"Drama, Horror",65.0
+62,4469,"Action & Adventure, Documentary, Special Interest",64.0
+90,4478,"Drama, Horror, Mystery & Suspense",54.0
+59,4488,"Drama, Science Fiction & Fantasy",39.0
+89,4489,"Comedy, Drama, Science Fiction & Fantasy",76.0
+12,4490,"Horror, Mystery & Suspense",16.0
+74,4494,"Horror, Mystery & Suspense",72.0
+90,4506,Drama,42.0
+32,4509,"Action & Adventure, Art House & International, Classics, Comedy",85.0
+6,4512,Comedy,31.0
+50,4519,"Action & Adventure, Comedy",25.0
+80,4521,"Drama, Mystery & Suspense",76.0
+20,4526,Documentary,61.0
+30,4530,"Action & Adventure, Television, Western",78.0
+95,4532,Drama,53.0
+34,4536,"Action & Adventure, Drama, Science Fiction & Fantasy",40.0
+48,4539,"Action & Adventure, Mystery & Suspense, Science Fiction & Fantasy",43.0
+6,4541,Drama,77.0
+55,4542,Drama,81.0
+77,4543,"Comedy, Drama",21.0
+63,4544,"Documentary, Drama, Special Interest",88.0
+16,4550,"Comedy, Musical & Performing Arts",77.0
+94,4555,"Drama, Mystery & Suspense, Romance",78.0
+84,4557,Comedy,49.0
+11,4558,"Comedy, Documentary",56.0
+75,4566,Mystery & Suspense,39.0
+37,4585,Mystery & Suspense,29.0
+95,4588,Mystery & Suspense,44.0
+52,4590,Drama,70.0
+92,4598,"Action & Adventure, Drama, Mystery & Suspense",28.0
+48,4602,Action & Adventure,61.0
+53,4605,"Comedy, Kids & Family",48.0
+95,4607,Comedy,49.0
+38,4614,"Classics, Drama, Romance",24.0
+90,4624,Comedy,39.0
+30,4629,Drama,91.0
+13,4635,"Action & Adventure, Drama, Western",87.0
+13,4640,"Classics, Comedy, Drama, Musical & Performing Arts, Romance",69.0
+46,374,"Art House & International, Drama",53.0
+50,4649,"Drama, Mystery & Suspense",89.0
+5,4654,"Action & Adventure, Drama, Mystery & Suspense",75.0
+33,4656,"Kids & Family, Science Fiction & Fantasy",77.0
+83,4664,Drama,31.0
+86,4675,"Drama, Mystery & Suspense",33.0
+14,4676,"Art House & International, Drama",65.0
+46,4678,"Horror, Mystery & Suspense",49.0
+86,4686,"Action & Adventure, Horror, Science Fiction & Fantasy",20.0
+17,4693,"Classics, Drama, Musical & Performing Arts, Mystery & Suspense",69.0
+34,4694,"Kids & Family, Science Fiction & Fantasy",54.0
+97,4697,Comedy,38.0
+91,4708,"Classics, Drama, Romance",80.0
+52,4709,Comedy,55.0
+37,4726,"Comedy, Drama, Romance",50.0
+64,4734,"Action & Adventure, Drama, Romance",60.0
+63,4735,"Comedy, Drama",75.0
+38,4740,"Drama, Mystery & Suspense",80.0
+26,4751,Mystery & Suspense,63.0
+26,4756,"Comedy, Drama",55.0
+27,4757,"Drama, Western",49.0
+97,4761,"Drama, Horror, Mystery & Suspense",64.0
+20,4765,"Action & Adventure, Drama, Mystery & Suspense",44.0
+87,4783,"Art House & International, Comedy, Drama",86.0
+26,4787,Comedy,28.0
+9,4794,"Comedy, Science Fiction & Fantasy",61.0
+78,4800,"Art House & International, Drama",86.0
+27,4813,Action & Adventure,40.0
+91,4827,"Documentary, Musical & Performing Arts, Special Interest",77.0
+39,4831,"Comedy, Drama, Romance",64.0
+17,4832,"Action & Adventure, Horror, Mystery & Suspense",37.0
+93,4833,"Action & Adventure, Horror, Science Fiction & Fantasy",9.0
+87,4835,Drama,59.0
+32,4838,"Action & Adventure, Mystery & Suspense, Science Fiction & Fantasy",43.0
+36,4842,"Action & Adventure, Horror, Science Fiction & Fantasy",23.0
+83,4848,Drama,72.0
+98,4850,Comedy,57.0
+49,4851,"Action & Adventure, Drama, Mystery & Suspense, Romance",73.0
+54,78,"Comedy, Science Fiction & Fantasy",40.0
+33,4867,Drama,51.0
+62,4875,"Art House & International, Drama, Mystery & Suspense",41.0
+96,4884,"Horror, Mystery & Suspense, Science Fiction & Fantasy",51.0
+7,4886,"Documentary, Musical & Performing Arts, Special Interest, Faith & Spirituality",57.0
+97,4893,"Action & Adventure, Classics, Drama",61.0
+20,4898,"Classics, Comedy, Romance",68.0
+59,4910,"Action & Adventure, Comedy, Drama",21.0
+54,4912,Mystery & Suspense,49.0
+62,4913,"Classics, Comedy, Western",81.0
+8,4916,"Action & Adventure, Art House & International, Mystery & Suspense",62.0
+95,4917,"Classics, Drama, Mystery & Suspense",72.0
+46,4931,"Classics, Comedy, Drama, Romance",83.0
+97,4933,"Drama, Mystery & Suspense",70.0
+12,4934,"Action & Adventure, Drama, Horror, Mystery & Suspense",80.0
+64,4947,"Action & Adventure, Art House & International, Mystery & Suspense",77.0
+87,4950,"Classics, Mystery & Suspense",92.0
+39,4958,Comedy,87.0
+22,4962,"Comedy, Kids & Family",33.0
+65,4966,"Art House & International, Classics, Horror, Mystery & Suspense",58.0
+74,4972,Drama,70.0
+7,4978,"Drama, Science Fiction & Fantasy",41.0
+42,4989,"Action & Adventure, Documentary, Kids & Family, Special Interest",36.0
+69,4990,"Animation, Documentary",52.0
+76,4994,"Drama, Musical & Performing Arts",15.0
+50,5005,"Documentary, Special Interest",74.0
+82,5008,"Action & Adventure, Drama",44.0
+92,5010,"Drama, Mystery & Suspense",41.0
+76,5011,"Art House & International, Drama",75.0
+12,5016,"Art House & International, Comedy, Drama",44.0
+48,5017,"Art House & International, Drama",62.0
+71,5018,"Comedy, Drama",81.0
+42,5022,Documentary,82.0
+71,5026,"Art House & International, Drama, Mystery & Suspense",52.0
+93,5027,"Classics, Comedy, Musical & Performing Arts, Romance",68.0
+58,5029,"Action & Adventure, Mystery & Suspense",82.0
+65,5031,"Action & Adventure, Drama, Science Fiction & Fantasy",82.0
+50,5035,Documentary,69.0
+85,5051,"Comedy, Drama",90.0
+0,5062,Comedy,77.0
+36,5069,"Documentary, Sports & Fitness",88.0
+36,5070,"Art House & International, Drama, Mystery & Suspense, Special Interest",89.0
+5,5075,"Classics, Comedy, Drama",53.0
+53,5078,"Drama, Kids & Family",80.0
+68,5080,"Documentary, Kids & Family, Special Interest",65.0
+27,5082,"Action & Adventure, Drama, Mystery & Suspense",37.0
+89,5084,Horror,25.0
+6,5085,"Action & Adventure, Drama, Mystery & Suspense",56.0
+73,5087,"Art House & International, Mystery & Suspense",72.0
+35,5090,"Comedy, Drama",30.0
+6,5096,Drama,43.0
+2,5103,"Classics, Drama, Mystery & Suspense",75.0
+75,5104,"Horror, Mystery & Suspense",78.0
+11,5111,"Action & Adventure, Horror",37.0
+77,5118,"Horror, Mystery & Suspense",22.0
+72,5132,"Comedy, Romance",51.0
+22,5136,"Documentary, Musical & Performing Arts, Television",79.0
+16,5137,"Action & Adventure, Science Fiction & Fantasy",26.0
+29,5139,Drama,95.0
+80,5140,"Art House & International, Drama, Musical & Performing Arts, Science Fiction & Fantasy, Romance",92.0
+38,5141,"Drama, Mystery & Suspense, Romance",49.0
+17,5143,"Comedy, Drama",30.0
+20,5150,"Comedy, Kids & Family",51.0
+24,5151,Comedy,52.0
+58,5153,Drama,70.0
+26,5169,Documentary,48.0
+31,5171,"Action & Adventure, Classics, Comedy, Cult Movies, Science Fiction & Fantasy",43.0
+81,5175,"Classics, Comedy, Science Fiction & Fantasy",94.0
+52,5177,"Classics, Science Fiction & Fantasy, Special Interest, Television",41.0
+34,5180,Comedy,49.0
+25,5182,Horror,30.0
+27,5193,"Action & Adventure, Drama, Science Fiction & Fantasy",19.0
+25,5212,"Action & Adventure, Horror, Mystery & Suspense, Science Fiction & Fantasy",46.0
+33,5216,Drama,56.0
+94,5230,Action & Adventure,31.0
+79,5232,"Classics, Drama, Mystery & Suspense",50.0
+50,5237,"Action & Adventure, Art House & International",56.0
+58,5240,Drama,24.0
+14,5241,"Action & Adventure, Art House & International, Comedy",85.0
+67,5264,"Documentary, Special Interest",78.0
+63,5278,"Art House & International, Drama, Romance",52.0
+88,5282,"Action & Adventure, Comedy, Documentary",35.0
+85,5283,"Comedy, Documentary",77.0
+33,5285,"Drama, Mystery & Suspense",62.0
+60,5292,"Documentary, Kids & Family",84.0
+0,5293,Action & Adventure,47.0
+68,5303,"Comedy, Drama, Romance",48.0
+6,5304,"Comedy, Romance",77.0
+17,5306,"Comedy, Drama, Mystery & Suspense",75.0
+91,5309,"Art House & International, Comedy, Drama, Romance",92.0
+49,5311,"Art House & International, Documentary",73.0
+31,5313,"Art House & International, Comedy, Drama",40.0
+19,5318,"Comedy, Cult Movies",71.0
+56,5319,"Action & Adventure, Mystery & Suspense",31.0
+43,5323,"Art House & International, Drama, Mystery & Suspense, Romance",24.0
+68,5327,"Documentary, Musical & Performing Arts",66.0
+22,5329,Drama,82.0
+30,5331,"Drama, Romance",59.0
+85,5331,Drama,58.0
+87,5332,"Horror, Mystery & Suspense",66.0
+26,5333,"Art House & International, Horror, Mystery & Suspense, Science Fiction & Fantasy",34.0
+96,5339,"Drama, Horror, Mystery & Suspense",36.0
+33,5341,Comedy,30.0
+6,5343,"Drama, Kids & Family",75.0
+22,5348,"Comedy, Horror, Science Fiction & Fantasy",32.0
+82,5350,"Comedy, Drama",54.0
+14,5354,Science Fiction & Fantasy,15.0
+73,5361,"Drama, Mystery & Suspense, Television",82.0
+15,5369,"Comedy, Documentary, Special Interest",79.0
+94,5387,Horror,44.0
+11,5389,"Action & Adventure, Drama",87.0
+42,5390,"Action & Adventure, Art House & International, Drama",91.0
+80,5393,"Comedy, Drama, Romance",66.0
+87,5396,"Documentary, Special Interest",53.0
+56,5409,Mystery & Suspense,41.0
+43,5412,"Kids & Family, Musical & Performing Arts",85.0
+54,5413,"Drama, Mystery & Suspense, Science Fiction & Fantasy",91.0
+83,5416,"Animation, Kids & Family, Science Fiction & Fantasy",83.0
+88,5419,Drama,90.0
+21,5421,"Action & Adventure, Drama, Science Fiction & Fantasy",97.0
+10,5424,"Art House & International, Comedy, Drama, Television",69.0
+40,5425,"Comedy, Kids & Family, Romance",80.0
+49,5426,"Comedy, Drama, Romance",83.0
+69,5437,"Drama, Romance",58.0
+19,5444,"Action & Adventure, Mystery & Suspense",29.0
+90,5451,"Art House & International, Documentary, Drama",38.0
+16,5456,"Comedy, Drama, Romance",75.0
+12,5457,"Documentary, Special Interest",87.0
+11,5458,"Comedy, Romance",39.0
+72,5471,"Action & Adventure, Comedy",29.0
+93,5474,"Drama, Science Fiction & Fantasy",42.0
+48,5481,"Action & Adventure, Comedy, Science Fiction & Fantasy",59.0
+89,5484,"Animation, Art House & International, Science Fiction & Fantasy",88.0
+5,5485,"Comedy, Kids & Family",48.0
+30,5488,"Art House & International, Drama, Romance",45.0
+32,5490,"Drama, Mystery & Suspense, Science Fiction & Fantasy",42.0
+84,5492,"Art House & International, Comedy",79.0
+99,5504,Mystery & Suspense,46.0
+71,5508,"Art House & International, Mystery & Suspense",36.0
+79,5510,"Comedy, Drama, Science Fiction & Fantasy, Romance",94.0
+29,5513,"Art House & International, Documentary, Drama, Musical & Performing Arts",79.0
+25,5516,"Horror, Gay & Lesbian",14.0
+51,5517,Drama,38.0
+0,5526,"Drama, Horror",77.0
+85,5528,"Art House & International, Drama",85.0
+78,5529,Drama,48.0
+67,5534,Drama,30.0
+78,5535,Documentary,47.0
+40,5537,Comedy,78.0
+25,5538,Mystery & Suspense,28.0
+40,5541,"Drama, Romance",56.0
+29,5545,"Action & Adventure, Mystery & Suspense",73.0
+87,5559,"Action & Adventure, Comedy, Drama",89.0
+4,5567,"Classics, Horror, Science Fiction & Fantasy",36.0
+30,5570,"Drama, Musical & Performing Arts",68.0
+65,5590,"Classics, Horror",87.0
+95,5600,"Documentary, Drama",54.0
+17,5603,"Drama, Mystery & Suspense",16.0
+20,5615,"Animation, Comedy, Kids & Family",48.0
+65,5619,"Drama, Mystery & Suspense",55.0
+70,5622,"Action & Adventure, Art House & International, Drama, Mystery & Suspense",73.0
+29,5623,"Drama, Horror, Mystery & Suspense",43.0
+15,5625,"Drama, Romance",73.0
+11,5628,"Documentary, Musical & Performing Arts, Special Interest, Television",89.0
+76,5636,Drama,60.0
+71,5638,"Horror, Science Fiction & Fantasy",55.0
+57,5640,Comedy,41.0
+58,5642,Documentary,60.0
+14,5643,"Classics, Drama, Mystery & Suspense",91.0
+21,5644,"Comedy, Drama, Romance",52.0
+55,5653,"Action & Adventure, Classics, Drama",69.0
+96,5675,"Animation, Kids & Family, Musical & Performing Arts, Science Fiction & Fantasy",75.0
+61,5681,"Action & Adventure, Science Fiction & Fantasy",67.0
+2,5685,"Art House & International, Drama",72.0
+94,5692,"Action & Adventure, Drama",55.0
+31,5727,Comedy,26.0
+74,5732,Comedy,52.0
+67,5757,"Action & Adventure, Comedy, Drama, Romance",27.0
+67,5765,Documentary,66.0
+64,5768,"Animation, Comedy, Drama",50.0
+9,5770,"Animation, Kids & Family, Science Fiction & Fantasy",64.0
+53,5775,"Documentary, Special Interest",47.0
+35,5778,"Classics, Comedy, Drama, Kids & Family, Musical & Performing Arts",92.0
+69,5786,"Drama, Romance",48.0
+91,5789,Romance,41.0
+70,5790,"Action & Adventure, Comedy",29.0
+48,5797,Comedy,83.0
+72,5800,Drama,72.0
+81,5804,"Art House & International, Comedy, Drama",67.0
+18,5810,"Action & Adventure, Cult Movies, Drama, Science Fiction & Fantasy",61.0
+71,5813,Horror,58.0
+52,5818,"Animation, Science Fiction & Fantasy",48.0
+68,5826,Documentary,74.0
+86,5837,"Comedy, Drama, Romance",56.0
+3,5840,"Classics, Comedy, Kids & Family, Musical & Performing Arts",53.0
+46,5850,"Action & Adventure, Comedy, Kids & Family",62.0
+94,5854,"Action & Adventure, Drama, Mystery & Suspense",37.0
+88,5856,Action & Adventure,85.0
+40,5865,"Action & Adventure, Science Fiction & Fantasy",53.0
+89,5869,"Documentary, Sports & Fitness",86.0
+55,5876,"Comedy, Drama",21.0
+5,5881,"Action & Adventure, Drama",61.0
+27,5894,"Action & Adventure, Drama",69.0
+38,5899,"Action & Adventure, Art House & International, Drama, Mystery & Suspense",82.0
+9,5902,"Action & Adventure, Mystery & Suspense",67.0
+89,5911,"Action & Adventure, Classics, Comedy, Science Fiction & Fantasy",45.0
+47,5914,"Documentary, Special Interest, Sports & Fitness",33.0
+58,5917,"Drama, Mystery & Suspense",75.0
+39,5919,"Action & Adventure, Drama",40.0
+54,5924,"Comedy, Drama, Romance",72.0
+65,5932,"Art House & International, Drama, Mystery & Suspense",49.0
+71,5939,Mystery & Suspense,39.0
+43,5942,"Animation, Kids & Family, Science Fiction & Fantasy",24.0
+23,5945,"Action & Adventure, Classics, Drama",65.0
+93,5952,"Classics, Comedy, Musical & Performing Arts, Romance",77.0
+29,424,"Comedy, Drama, Musical & Performing Arts",61.0
+12,5967,"Comedy, Drama",53.0
+20,5974,"Drama, Romance",75.0
+25,5983,Documentary,82.0
+32,5985,"Action & Adventure, Classics, Drama, Romance",78.0
+48,5991,"Art House & International, Comedy, Drama",75.0
+1,5992,Documentary,86.0
+22,5998,"Comedy, Drama",59.0
+2,6005,"Documentary, Special Interest, Sports & Fitness",79.0
+12,6013,Drama,63.0
+14,6014,Comedy,49.0
+62,6023,"Classics, Comedy, Western",39.0
+94,6028,Comedy,69.0
+35,6031,"Art House & International, Drama",88.0
+25,6034,Drama,66.0
+96,6041,"Documentary, Drama",77.0
+37,6049,"Action & Adventure, Mystery & Suspense",44.0
+17,6051,"Comedy, Cult Movies, Horror",57.0
+11,6063,"Comedy, Drama",70.0
+84,6069,Comedy,56.0
+51,6087,"Action & Adventure, Drama, Kids & Family",50.0
+52,6089,"Action & Adventure, Drama, Kids & Family",44.0
+6,6090,"Action & Adventure, Comedy, Drama",65.0
+81,6099,"Action & Adventure, Mystery & Suspense",27.0
+99,6110,Comedy,91.0
+41,6114,Horror,60.0
+16,6129,"Action & Adventure, Comedy, Mystery & Suspense",18.0
+87,6133,"Drama, Horror, Mystery & Suspense",76.0
+99,6135,"Action & Adventure, Horror",23.0
+22,6143,"Art House & International, Drama, Romance",66.0
+65,6146,"Comedy, Drama",74.0
+35,6149,"Horror, Mystery & Suspense",53.0
+91,6151,"Comedy, Drama, Romance",49.0
+12,6157,Drama,65.0
+57,6160,"Action & Adventure, Art House & International, Drama",72.0
+0,6163,"Comedy, Musical & Performing Arts",79.0
+76,6164,"Art House & International, Comedy, Drama",76.0
+50,6165,"Action & Adventure, Animation, Anime & Manga, Science Fiction & Fantasy",81.0
+47,6168,"Classics, Comedy, Drama, Musical & Performing Arts",52.0
+55,6171,Comedy,49.0
+73,6176,"Classics, Comedy, Drama, Musical & Performing Arts, Romance",81.0
+30,6183,"Action & Adventure, Mystery & Suspense",82.0
+57,6184,Comedy,35.0
+24,815,"Action & Adventure, Drama",84.0
+65,6187,Drama,55.0
+10,6196,"Drama, Musical & Performing Arts",68.0
+30,6198,"Comedy, Science Fiction & Fantasy",79.0
+94,6207,"Classics, Drama",92.0
+17,6213,Drama,32.0
+93,6215,"Classics, Drama, Horror",51.0
+67,6221,Drama,66.0
+77,6231,"Documentary, Special Interest",82.0
+96,6232,Action & Adventure,43.0
+16,6235,"Drama, Romance",37.0
+25,6236,"Action & Adventure, Mystery & Suspense",54.0
+82,6241,Comedy,55.0
+79,6244,"Comedy, Drama",43.0
+68,6247,"Art House & International, Documentary, Special Interest",78.0
+1,6253,"Documentary, Special Interest",50.0
+66,6258,Comedy,52.0
+71,6261,"Comedy, Kids & Family",20.0
+80,6262,"Comedy, Drama",52.0
+3,6270,"Action & Adventure, Art House & International, Drama, Special Interest",61.0
+27,6278,Drama,68.0
+12,6279,"Horror, Mystery & Suspense",86.0
+30,6283,"Comedy, Kids & Family",53.0
+22,6285,"Action & Adventure, Comedy",67.0
+79,6302,"Action & Adventure, Horror, Mystery & Suspense",48.0
+71,6304,Horror,37.0
+68,6305,"Drama, Mystery & Suspense",59.0
+60,6315,"Drama, Mystery & Suspense",62.0
+80,6319,"Comedy, Musical & Performing Arts, Romance",70.0
+97,6334,"Art House & International, Drama",72.0
+27,6339,"Art House & International, Comedy, Drama",81.0
+48,6340,Drama,50.0
+62,6348,Drama,84.0
+10,6349,"Documentary, Mystery & Suspense, Special Interest",55.0
+93,6352,"Documentary, Special Interest",82.0
+72,6356,"Drama, Sports & Fitness",75.0
+38,6358,Drama,35.0
+53,6359,Comedy,37.0
+8,6360,Drama,73.0
+22,6377,Documentary,90.0
+60,6383,Action & Adventure,38.0
+54,442,"Art House & International, Drama",64.0
+13,6397,Drama,77.0
+88,6414,Drama,62.0
+49,6416,"Action & Adventure, Science Fiction & Fantasy",37.0
+92,6426,"Action & Adventure, Art House & International, Horror, Science Fiction & Fantasy",71.0
+51,6427,"Horror, Science Fiction & Fantasy",34.0
+22,6430,"Art House & International, Horror, Science Fiction & Fantasy",60.0
+82,6433,"Action & Adventure, Drama, Science Fiction & Fantasy",74.0
+66,6434,"Action & Adventure, Science Fiction & Fantasy",94.0
+84,6439,"Action & Adventure, Art House & International, Classics, Kids & Family, Science Fiction & Fantasy",17.0
+3,6442,"Comedy, Drama, Western",49.0
+47,6446,"Classics, Comedy, Drama, Musical & Performing Arts",76.0
+71,6448,"Comedy, Drama",40.0
+25,6453,Drama,60.0
+49,6456,"Action & Adventure, Comedy, Cult Movies",47.0
+46,6466,"Art House & International, Drama, Mystery & Suspense",70.0
+66,6471,"Classics, Drama, Romance",93.0
+13,6487,Mystery & Suspense,49.0
+90,6493,"Drama, Mystery & Suspense",35.0
+98,6494,"Classics, Comedy, Musical & Performing Arts, Romance",80.0
+55,6501,Drama,80.0
+24,6517,Comedy,42.0
+37,6519,"Horror, Kids & Family, Mystery & Suspense",62.0
+81,6520,"Comedy, Horror, Kids & Family",40.0
+32,6521,"Comedy, Kids & Family",24.0
+68,6523,Documentary,46.0
+38,6526,"Drama, Mystery & Suspense",60.0
+77,6529,"Art House & International, Documentary, Drama",86.0
+39,6542,"Art House & International, Drama, Mystery & Suspense",71.0
+53,6543,Drama,58.0
+32,6546,"Horror, Mystery & Suspense",18.0
+69,6558,"Comedy, Drama",55.0
+96,6560,"Comedy, Drama, Special Interest",44.0
+84,6568,"Action & Adventure, Drama, Mystery & Suspense",35.0
+40,6569,"Art House & International, Comedy, Drama, Musical & Performing Arts",74.0
+93,6593,"Comedy, Romance",50.0
+99,6597,"Action & Adventure, Science Fiction & Fantasy",45.0
+11,6600,"Classics, Comedy, Drama",84.0
+35,6602,"Drama, Horror, Science Fiction & Fantasy",41.0
+54,6612,Drama,41.0
+80,6618,"Art House & International, Drama",81.0
+74,6620,"Drama, Mystery & Suspense",70.0
+41,6622,"Action & Adventure, Comedy, Drama",39.0
+51,6627,Comedy,44.0
+56,6629,"Comedy, Drama",53.0
+36,6631,"Action & Adventure, Drama, Mystery & Suspense",34.0
+17,6633,"Comedy, Drama, Kids & Family",80.0
+50,6636,Comedy,53.0
+87,6641,"Comedy, Drama",74.0
+78,6646,"Comedy, Mystery & Suspense",48.0
+2,6649,Comedy,49.0
+91,452,"Action & Adventure, Comedy, Science Fiction & Fantasy",27.0
+96,6668,"Drama, Musical & Performing Arts",47.0
+28,6672,"Drama, Romance",71.0
+94,6673,"Horror, Mystery & Suspense",83.0
+57,6675,"Art House & International, Comedy, Drama",78.0
+91,456,"Comedy, Musical & Performing Arts",85.0
+51,6693,"Drama, Mystery & Suspense, Science Fiction & Fantasy",46.0
+35,457,Horror,70.0
+35,6713,"Action & Adventure, Drama, Mystery & Suspense",62.0
+97,6718,Drama,56.0
+93,6721,"Comedy, Drama",68.0
+56,6723,Horror,29.0
+62,6726,"Action & Adventure, Mystery & Suspense",66.0
+47,6729,Drama,75.0
+87,6730,"Drama, Gay & Lesbian",47.0
+9,6749,Horror,59.0
+72,6762,Comedy,9.0
+94,6766,Action & Adventure,34.0
+90,6772,"Action & Adventure, Comedy",53.0
+59,6773,"Action & Adventure, Art House & International, Comedy, Drama, Mystery & Suspense",40.0
+66,6783,"Art House & International, Drama",80.0
+34,6802,"Action & Adventure, Drama, Kids & Family, Mystery & Suspense, Science Fiction & Fantasy",78.0
+74,6803,"Action & Adventure, Drama, Kids & Family, Science Fiction & Fantasy",81.0
+35,6811,"Classics, Comedy, Drama, Science Fiction & Fantasy",93.0
+71,6818,"Action & Adventure, Comedy, Horror, Mystery & Suspense",35.0
+40,6819,Horror,39.0
+75,6820,"Drama, Mystery & Suspense, Gay & Lesbian",60.0
+48,6823,Horror,30.0
+11,6824,"Drama, Horror, Mystery & Suspense",23.0
+51,6825,"Comedy, Horror, Kids & Family, Mystery & Suspense, Science Fiction & Fantasy",30.0
+92,6831,"Art House & International, Comedy, Horror, Science Fiction & Fantasy, Special Interest",80.0
+14,6836,"Documentary, Special Interest",73.0
+14,6841,"Art House & International, Comedy, Drama, Mystery & Suspense",84.0
+43,6844,"Classics, Drama, Mystery & Suspense",61.0
+49,6851,"Art House & International, Mystery & Suspense, Special Interest",48.0
+94,6853,"Art House & International, Drama",69.0
+45,6858,"Comedy, Science Fiction & Fantasy",34.0
+63,6867,Documentary,91.0
+87,6873,Drama,76.0
+90,6874,"Action & Adventure, Drama, Mystery & Suspense",29.0
+17,6876,"Comedy, Cult Movies, Drama",83.0
+44,466,"Classics, Comedy, Drama, Science Fiction & Fantasy, Romance",76.0
+10,6879,Drama,66.0
+91,6888,"Action & Adventure, Animation, Comedy, Drama",75.0
+78,6891,"Action & Adventure, Comedy",64.0
+58,6892,Drama,61.0
+85,1228,Action & Adventure,41.0
+59,6910,"Drama, Mystery & Suspense",88.0
+85,6928,Horror,26.0
+91,6950,"Action & Adventure, Comedy, Kids & Family",53.0
+17,6953,"Action & Adventure, Art House & International, Science Fiction & Fantasy",55.0
+32,6962,"Drama, Horror",66.0
+86,6966,"Documentary, Television, Sports & Fitness",57.0
+41,6967,"Comedy, Drama, Romance",59.0
+54,6968,Comedy,46.0
+0,6973,"Documentary, Special Interest",63.0
+59,6976,"Comedy, Drama, Musical & Performing Arts",55.0
+81,6982,"Action & Adventure, Art House & International, Drama",84.0
+12,6986,Drama,60.0
+92,6992,"Drama, Romance",77.0
+98,6994,"Documentary, Special Interest",74.0
+93,6998,Comedy,37.0
+38,7000,"Comedy, Kids & Family, Musical & Performing Arts",72.0
+25,7002,"Classics, Comedy, Musical & Performing Arts, Romance",83.0
+43,7003,"Comedy, Science Fiction & Fantasy",59.0
+39,7006,Drama,74.0
+24,7007,"Action & Adventure, Science Fiction & Fantasy",79.0
+22,7013,"Comedy, Romance",23.0
+29,7014,Documentary,80.0
+18,7020,"Documentary, Musical & Performing Arts, Special Interest",67.0
+61,7022,"Drama, Romance",89.0
+0,7036,"Comedy, Science Fiction & Fantasy",65.0
+44,7043,"Comedy, Kids & Family, Science Fiction & Fantasy",71.0
+92,7052,Comedy,24.0
+6,7056,Drama,64.0
+29,7065,Comedy,24.0
+56,7071,Comedy,45.0
+58,7075,"Drama, Romance",67.0
+6,30,"Action & Adventure, Drama",47.0
+40,7080,Drama,81.0
+21,7086,"Action & Adventure, Kids & Family",71.0
+94,7090,"Drama, Musical & Performing Arts",71.0
+43,7093,"Action & Adventure, Comedy, Kids & Family, Science Fiction & Fantasy",54.0
+21,7101,"Documentary, Special Interest",93.0
+74,7106,"Documentary, Special Interest, Sports & Fitness",93.0
+94,7114,"Action & Adventure, Drama, Television",88.0
+24,7117,Comedy,47.0
+87,7118,Comedy,39.0
+51,7121,"Classics, Horror, Mystery & Suspense",67.0
+20,7126,"Drama, Horror, Mystery & Suspense",25.0
+77,7127,"Classics, Comedy",76.0
+24,7137,"Comedy, Science Fiction & Fantasy",59.0
+91,7144,Comedy,26.0
+61,7147,"Comedy, Drama, Romance",54.0
+91,7150,"Comedy, Drama",50.0
+97,7153,Animation,64.0
+42,7157,"Action & Adventure, Classics, Drama, Western",49.0
+81,7164,"Classics, Drama, Horror",70.0
+14,7173,"Action & Adventure, Art House & International, Drama",82.0
+63,7176,"Drama, Mystery & Suspense",79.0
+72,7183,Horror,81.0
+28,7185,Comedy,66.0
+88,7186,Comedy,68.0
+2,7188,"Classics, Comedy, Romance",71.0
+63,7190,Comedy,55.0
+67,7193,"Comedy, Drama, Romance",25.0
+69,7195,Comedy,79.0
+86,7197,"Art House & International, Drama",55.0
+79,7198,"Action & Adventure, Science Fiction & Fantasy",16.0
+1,7200,Drama,51.0
+97,7206,"Comedy, Romance",47.0
+20,7215,"Comedy, Drama",63.0
+55,7217,"Classics, Comedy, Drama, Romance",78.0
+19,7221,"Classics, Comedy, Drama, Romance",88.0
+58,7227,"Action & Adventure, Animation, Kids & Family",87.0
+47,7231,Horror,57.0
+2,7234,Horror,19.0
+95,7237,Comedy,79.0
+41,7245,"Comedy, Drama",89.0
+38,7250,"Art House & International, Drama, Special Interest",83.0
+15,7253,"Action & Adventure, Mystery & Suspense",88.0
+4,7255,Drama,58.0
+44,7265,"Art House & International, Drama, Romance",78.0
+16,7274,"Documentary, Special Interest, Sports & Fitness",59.0
+24,7278,"Art House & International, Documentary",77.0
+55,7281,Drama,18.0
+3,7282,"Documentary, Special Interest",83.0
+18,7288,"Comedy, Romance",72.0
+63,7290,"Action & Adventure, Mystery & Suspense, Science Fiction & Fantasy",57.0
+84,7299,"Drama, Kids & Family",91.0
+28,7314,"Comedy, Drama, Mystery & Suspense",63.0
+91,7321,"Drama, Science Fiction & Fantasy",77.0
+81,7333,"Comedy, Drama, Mystery & Suspense",64.0
+61,7335,"Animation, Comedy, Drama",89.0
+68,7342,"Documentary, Special Interest, Sports & Fitness",80.0
+67,7347,Drama,43.0
+90,7348,"Art House & International, Drama, Horror, Mystery & Suspense",40.0
+87,7350,Horror,47.0
+79,7351,"Action & Adventure, Comedy, Mystery & Suspense",33.0
+61,7356,Drama,88.0
+75,7357,Horror,37.0
+67,7369,"Comedy, Romance",39.0
+5,7372,"Animation, Comedy, Kids & Family",82.0
+6,7379,"Action & Adventure, Comedy, Science Fiction & Fantasy",49.0
+33,7381,"Action & Adventure, Classics, Drama, Mystery & Suspense",58.0
+37,7382,Drama,82.0
+84,7394,Drama,61.0
+3,7395,"Art House & International, Drama",55.0
+21,7402,"Art House & International, Drama",80.0
+74,7404,Comedy,73.0
+85,7414,"Drama, Mystery & Suspense",67.0
+35,7418,"Classics, Science Fiction & Fantasy",38.0
+64,7419,Drama,78.0
+89,7424,Drama,64.0
+58,7429,Comedy,37.0
+55,7437,"Documentary, Special Interest",69.0
+28,7445,"Art House & International, Drama, Horror, Mystery & Suspense",54.0
+89,7454,"Comedy, Drama",36.0
+75,7455,"Action & Adventure, Western",51.0
+80,7457,"Comedy, Drama",91.0
+12,7464,"Horror, Mystery & Suspense",40.0
+28,7471,"Action & Adventure, Classics, Comedy, Mystery & Suspense",51.0
+78,7474,"Drama, Horror, Mystery & Suspense",33.0
+70,7488,"Comedy, Drama",48.0
+91,7490,"Drama, Mystery & Suspense",34.0
+10,7493,"Classics, Comedy, Drama, Musical & Performing Arts, Romance",79.0
+28,7496,"Drama, Romance",47.0
+37,7504,Drama,95.0
+42,7506,Documentary,91.0
+21,7514,Comedy,22.0
+16,7515,"Art House & International, Horror",29.0
+79,7525,Mystery & Suspense,64.0
+7,7527,"Action & Adventure, Drama, Science Fiction & Fantasy, Television",41.0
+41,7533,"Action & Adventure, Drama, Science Fiction & Fantasy",30.0
+41,7538,Action & Adventure,81.0
+95,7541,Drama,65.0
+49,7542,"Art House & International, Classics, Drama, Romance",41.0
+7,7543,Drama,86.0
+55,7544,"Art House & International, Classics, Drama, Romance",84.0
+88,7547,Drama,69.0
+6,7549,"Art House & International, Drama, Mystery & Suspense",95.0
+48,7556,"Action & Adventure, Drama",88.0
+28,7581,"Horror, Mystery & Suspense",57.0
+38,7590,"Art House & International, Drama, Mystery & Suspense",82.0
+41,7596,"Drama, Mystery & Suspense",37.0
+0,7608,"Documentary, Special Interest",87.0
+30,7611,"Action & Adventure, Mystery & Suspense",18.0
+63,7625,"Comedy, Cult Movies, Horror, Mystery & Suspense, Science Fiction & Fantasy",34.0
+21,7628,"Art House & International, Drama",95.0
+60,7631,Drama,80.0
+7,7634,"Action & Adventure, Art House & International, Drama",72.0
+37,7635,Action & Adventure,55.0
+52,7655,"Comedy, Drama, Romance",58.0
+68,7661,"Horror, Mystery & Suspense",29.0
+19,7666,Drama,23.0
+23,7668,"Comedy, Drama",39.0
+66,7672,"Classics, Horror, Science Fiction & Fantasy",39.0
+10,7681,Romance,69.0
+45,7685,"Comedy, Drama",29.0
+46,7691,"Art House & International, Comedy, Drama, Romance",79.0
+57,7697,"Comedy, Kids & Family, Television",51.0
+44,7703,"Documentary, Special Interest",70.0
+27,7704,"Art House & International, Documentary",54.0
+20,7715,"Art House & International, Comedy, Drama, Musical & Performing Arts",74.0
+78,7733,"Action & Adventure, Comedy, Documentary",69.0
+68,7736,"Comedy, Documentary",60.0
+0,7738,"Drama, Horror, Mystery & Suspense",73.0
+15,7739,Drama,60.0
+49,7751,"Classics, Drama, Mystery & Suspense",20.0
+48,7758,Drama,70.0
+80,7759,"Drama, Kids & Family, Special Interest",58.0
+91,7778,Comedy,55.0
+26,7787,"Documentary, Musical & Performing Arts",87.0
+90,7788,"Art House & International, Drama, Special Interest",82.0
+94,7791,"Drama, Horror, Special Interest",33.0
+30,7796,"Art House & International, Comedy, Science Fiction & Fantasy",43.0
+5,7797,"Action & Adventure, Musical & Performing Arts, Science Fiction & Fantasy",40.0
+86,7800,Comedy,41.0
+28,7810,"Comedy, Horror",8.0
+52,7811,"Documentary, Special Interest",82.0
+42,7812,"Action & Adventure, Art House & International, Drama, Mystery & Suspense",78.0
+89,7817,Comedy,47.0
+14,7819,"Documentary, Special Interest, Faith & Spirituality",70.0
+30,7820,"Art House & International, Comedy, Drama, Romance",54.0
+33,7822,"Documentary, Sports & Fitness",63.0
+74,7827,"Art House & International, Documentary, Musical & Performing Arts, Special Interest",71.0
+96,7834,Comedy,26.0
+60,7842,"Horror, Mystery & Suspense, Science Fiction & Fantasy",31.0
+82,7842,Drama,84.0
+98,7844,"Comedy, Drama",81.0
+65,7846,Documentary,80.0
+99,7848,"Documentary, Musical & Performing Arts, Special Interest",56.0
+92,7852,Drama,68.0
+25,7853,Comedy,63.0
+10,7861,"Documentary, Musical & Performing Arts",50.0
+94,7862,"Action & Adventure, Horror, Science Fiction & Fantasy",24.0
+77,7863,Horror,47.0
+39,7868,"Documentary, Musical & Performing Arts",40.0
+36,7871,Drama,78.0
+73,7872,"Action & Adventure, Drama, Mystery & Suspense",69.0
+14,7894,"Documentary, Musical & Performing Arts",79.0
+18,7896,"Animation, Drama, Kids & Family",62.0
+26,1251,"Art House & International, Drama, Mystery & Suspense",40.0
+38,7899,"Drama, Gay & Lesbian",61.0
+82,7902,Comedy,52.0
+78,7908,"Action & Adventure, Kids & Family, Science Fiction & Fantasy",51.0
+6,7915,"Documentary, Special Interest",40.0
+77,7931,"Comedy, Kids & Family",41.0
+20,7936,"Comedy, Drama",70.0
+48,7947,"Art House & International, Comedy, Drama",73.0
+19,7953,"Action & Adventure, Science Fiction & Fantasy",38.0
+9,7954,"Action & Adventure, Mystery & Suspense, Science Fiction & Fantasy",91.0
+47,7967,"Action & Adventure, Drama, Mystery & Suspense",46.0
+94,7970,"Comedy, Drama, Romance",71.0
+38,7971,"Action & Adventure, Comedy",10.0
+69,7974,"Comedy, Drama, Romance",75.0
+17,7982,"Documentary, Drama, Special Interest",60.0
+80,7987,"Action & Adventure, Animation",63.0
+54,7988,nan,65.0
+99,8000,"Art House & International, Drama, Musical & Performing Arts",68.0
+50,8003,"Comedy, Horror, Science Fiction & Fantasy",41.0
+65,8004,"Art House & International, Comedy, Drama",71.0
+2,8005,"Action & Adventure, Animation, Art House & International, Kids & Family, Science Fiction & Fantasy",44.0
+81,8007,"Drama, Mystery & Suspense",31.0
+81,8009,"Action & Adventure, Drama, Mystery & Suspense",64.0
+34,8014,"Classics, Drama, Mystery & Suspense",76.0
+45,8018,"Art House & International, Documentary",71.0
+64,8025,"Comedy, Kids & Family, Science Fiction & Fantasy",20.0
+78,8026,"Drama, Mystery & Suspense",70.0
+65,8029,"Art House & International, Drama",59.0
+33,8032,"Documentary, Musical & Performing Arts",88.0
+21,8043,"Drama, Kids & Family",83.0
+13,8046,"Comedy, Musical & Performing Arts, Special Interest",84.0
+72,8054,"Action & Adventure, Animation, Kids & Family",43.0
+64,8064,"Documentary, Drama, Special Interest, Television",80.0
+3,8076,"Horror, Mystery & Suspense",58.0
+93,8084,"Drama, Mystery & Suspense, Romance",60.0
+27,8092,"Comedy, Horror, Science Fiction & Fantasy",60.0
+52,8095,"Action & Adventure, Mystery & Suspense",22.0
+39,8097,"Drama, Mystery & Suspense",92.0
+73,8100,"Art House & International, Documentary",82.0
+11,8101,"Art House & International, Drama, Mystery & Suspense",45.0
+28,8102,"Action & Adventure, Comedy",27.0
+37,8106,Drama,83.0
+87,8113,"Action & Adventure, Science Fiction & Fantasy",54.0
+48,8117,"Action & Adventure, Drama",69.0
+20,8123,Documentary,94.0
+5,8127,"Classics, Comedy",88.0
+12,8133,Comedy,27.0
+0,8139,Drama,57.0
+97,8141,"Classics, Drama, Mystery & Suspense, Romance",77.0
+69,8150,"Comedy, Drama",41.0
+3,8152,"Comedy, Drama",44.0
+88,8163,Comedy,74.0
+17,8167,"Action & Adventure, Drama, Mystery & Suspense, Romance",52.0
+93,8172,Comedy,68.0
+79,8173,"Art House & International, Comedy, Drama",47.0
+58,8175,"Art House & International, Drama",85.0
+47,8182,"Action & Adventure, Drama, Romance",79.0
+97,8188,"Drama, Musical & Performing Arts",67.0
+29,8192,"Comedy, Drama",35.0
+91,8204,"Documentary, Special Interest",91.0
+64,8214,"Action & Adventure, Art House & International, Science Fiction & Fantasy, Romance",52.0
+84,8215,"Action & Adventure, Science Fiction & Fantasy",51.0
+23,8230,"Action & Adventure, Comedy",69.0
+21,8232,"Documentary, Musical & Performing Arts",77.0
+39,8239,"Drama, Musical & Performing Arts",78.0
+59,8241,"Art House & International, Drama",84.0
+66,8243,"Art House & International, Comedy",85.0
+1,8245,"Drama, Mystery & Suspense",51.0
+6,8246,"Action & Adventure, Art House & International, Comedy",83.0
+70,8247,"Art House & International, Comedy, Drama",73.0
+69,8253,"Action & Adventure, Art House & International, Drama, Mystery & Suspense, Romance",84.0
+23,8255,"Art House & International, Classics, Drama",93.0
+61,8256,"Art House & International, Drama",95.0
+83,8259,"Art House & International, Drama, Special Interest",59.0
+70,8261,"Art House & International, Drama, Romance",49.0
+72,8266,"Art House & International, Drama, Mystery & Suspense",43.0
+14,8268,"Comedy, Science Fiction & Fantasy",32.0
+56,8282,"Classics, Comedy, Romance",87.0
+85,8283,"Classics, Drama, Mystery & Suspense",66.0
+63,523,"Comedy, Drama",43.0
+86,8296,Drama,50.0
+17,8309,"Art House & International, Documentary, Special Interest",88.0
+87,8311,"Action & Adventure, Classics, Drama",41.0
+12,8320,"Art House & International, Comedy, Romance",66.0
+7,8326,Horror,71.0
+80,8330,Documentary,88.0
+71,8332,"Drama, Romance",53.0
+3,8337,"Documentary, Special Interest",84.0
+50,8338,"Classics, Comedy, Drama",88.0
+50,8341,"Comedy, Drama",71.0
+28,8344,"Action & Adventure, Comedy, Drama",67.0
+26,8346,Drama,89.0
+90,8347,"Comedy, Drama, Romance",59.0
+95,8349,"Action & Adventure, Classics, Drama",34.0
+78,8356,Comedy,81.0
+37,8364,"Action & Adventure, Mystery & Suspense",53.0
+7,8367,"Art House & International, Drama, Romance",76.0
+34,8375,"Art House & International, Drama, Mystery & Suspense",80.0
+95,8376,Comedy,35.0
+66,8382,"Art House & International, Comedy, Drama",79.0
+17,8385,"Comedy, Drama, Romance, Gay & Lesbian",79.0
+70,8386,Mystery & Suspense,29.0
+84,8400,"Action & Adventure, Classics, Drama",93.0
+91,8405,"Comedy, Science Fiction & Fantasy",69.0
+96,8409,"Art House & International, Comedy, Drama",82.0
+27,8410,"Art House & International, Drama",91.0
+15,8411,"Drama, Romance",63.0
+89,8414,"Art House & International, Drama",91.0
+44,8415,"Comedy, Drama",75.0
+25,8419,"Art House & International, Drama",64.0
+69,8425,"Action & Adventure, Animation, Drama, Kids & Family",62.0
+3,8431,Horror,32.0
+92,8432,"Comedy, Romance",38.0
+86,8437,"Documentary, Musical & Performing Arts",82.0
+38,8441,"Art House & International, Drama",90.0
+33,8446,"Drama, Mystery & Suspense",43.0
+40,8447,"Comedy, Drama, Mystery & Suspense",32.0
+55,8448,Comedy,72.0
+75,8453,"Action & Adventure, Art House & International, Comedy",88.0
+6,8456,"Art House & International, Drama",75.0
+60,8461,"Action & Adventure, Drama, Kids & Family",59.0
+79,8468,Drama,55.0
+4,8471,"Art House & International, Documentary, Television",82.0
+30,8483,Horror,10.0
+92,8495,"Art House & International, Documentary",92.0
+10,8498,Comedy,75.0
+76,8499,"Drama, Horror, Science Fiction & Fantasy, Romance",76.0
+32,8502,"Drama, Mystery & Suspense",29.0
+86,8505,"Art House & International, Drama, Romance",30.0
+62,8512,"Action & Adventure, Comedy",51.0
+23,8523,Documentary,61.0
+83,8526,"Comedy, Drama, Romance",62.0
+48,8530,"Action & Adventure, Horror, Mystery & Suspense, Science Fiction & Fantasy",26.0
+78,8535,"Documentary, Musical & Performing Arts",71.0
+21,8541,"Art House & International, Drama",73.0
+89,8548,"Action & Adventure, Drama",84.0
+40,1109,Drama,44.0
+25,8551,Comedy,30.0
+97,1618,"Comedy, Drama",15.0
+36,8560,Drama,86.0
+20,8572,"Comedy, Drama, Romance",46.0
+73,8573,Comedy,45.0
+76,8577,"Action & Adventure, Classics, Drama, Mystery & Suspense",87.0
+66,8580,"Drama, Mystery & Suspense",76.0
+47,8586,"Drama, Kids & Family",76.0
+86,8591,"Comedy, Kids & Family",51.0
+1,8592,"Drama, Mystery & Suspense",63.0
+20,8594,"Art House & International, Drama",96.0
+64,8596,"Art House & International, Drama, Romance",84.0
+45,8597,Drama,80.0
+14,8603,"Action & Adventure, Animation, Comedy",77.0
+99,8606,Drama,69.0
+62,8613,"Documentary, Sports & Fitness",77.0
+85,8618,Drama,47.0
+59,8626,Drama,29.0
+38,8628,"Comedy, Kids & Family",53.0
+88,8631,Comedy,37.0
+49,8641,"Comedy, Kids & Family",63.0
+73,8643,"Art House & International, Drama",68.0
+71,8650,"Comedy, Horror",100.0
+2,8652,"Action & Adventure, Drama, Mystery & Suspense",46.0
+27,8655,"Drama, Kids & Family",60.0
+17,8656,"Comedy, Drama, Kids & Family",58.0
+19,8659,"Art House & International, Comedy, Drama",74.0
+71,8661,"Art House & International, Comedy, Drama",64.0
+65,8662,Drama,51.0
+91,8663,"Comedy, Drama",71.0
+54,8667,Drama,42.0
+6,8672,"Art House & International, Comedy, Drama",76.0
+74,8684,"Drama, Television",34.0
+85,8690,"Drama, Mystery & Suspense",72.0
+1,8693,"Comedy, Romance",30.0
+83,8694,Drama,42.0
+42,8702,Comedy,31.0
+62,8703,"Drama, Mystery & Suspense",30.0
+99,8705,Mystery & Suspense,50.0
+38,8708,"Documentary, Special Interest",82.0
+98,8711,"Classics, Western",71.0
+90,8713,"Action & Adventure, Art House & International, Drama",90.0
+13,8714,"Action & Adventure, Drama",66.0
+29,8715,"Classics, Drama",87.0
+40,8717,Comedy,47.0
+6,8727,"Action & Adventure, Art House & International, Classics, Drama",39.0
+44,541,"Comedy, Drama",62.0
+43,8733,"Comedy, Drama",61.0
+27,8734,Documentary,94.0
+44,8740,Comedy,26.0
+81,8744,Comedy,33.0
+13,8745,"Documentary, Drama, Musical & Performing Arts, Special Interest",79.0
+50,8749,"Action & Adventure, Mystery & Suspense, Science Fiction & Fantasy",82.0
+22,8754,"Drama, Romance",78.0
+55,8759,"Action & Adventure, Art House & International, Classics, Drama, Mystery & Suspense",63.0
+39,8762,"Drama, Mystery & Suspense",60.0
+65,8764,"Action & Adventure, Drama",81.0
+12,8779,"Horror, Mystery & Suspense",34.0
+80,8790,nan,37.0
+86,8791,"Comedy, Drama, Romance",85.0
+53,8797,"Action & Adventure, Horror, Science Fiction & Fantasy",51.0
+58,8799,"Documentary, Special Interest",81.0
+63,8820,"Comedy, Drama",72.0
+97,8826,"Classics, Comedy",82.0
+41,8829,"Drama, Kids & Family",56.0
+49,8831,Documentary,83.0
+32,8837,"Art House & International, Drama",26.0
+70,8850,"Drama, Musical & Performing Arts, Romance",43.0
+79,8853,"Comedy, Romance",63.0
+23,8860,Comedy,36.0
+97,8866,Drama,36.0
+22,8870,"Art House & International, Drama, Romance",79.0
+40,8872,"Art House & International, Drama",36.0
+65,8891,"Drama, Mystery & Suspense",87.0
+68,8893,"Comedy, Musical & Performing Arts",57.0
+43,8894,"Comedy, Drama",58.0
+26,8897,"Animation, Kids & Family, Science Fiction & Fantasy",63.0
+13,8916,"Action & Adventure, Comedy",35.0
+66,8917,"Classics, Documentary, Drama, Romance",58.0
+29,8921,Action & Adventure,34.0
+30,8924,"Action & Adventure, Drama",62.0
+50,8927,Documentary,84.0
+1,8929,"Comedy, Drama, Horror, Special Interest",89.0
+70,8930,"Action & Adventure, Art House & International, Drama, Mystery & Suspense",85.0
+99,8931,"Comedy, Drama",46.0
+23,8937,"Animation, Classics, Comedy, Horror, Kids & Family",67.0
+54,8938,Documentary,56.0
+99,8940,"Animation, Comedy, Kids & Family",73.0
+15,8943,"Comedy, Drama, Romance",53.0
+59,8945,"Classics, Documentary, Drama",65.0
+53,8949,Drama,75.0
+13,8952,"Comedy, Drama",74.0
+46,8955,Drama,43.0
+28,8956,Documentary,33.0
+82,8965,"Art House & International, Drama",63.0
+6,8969,Drama,89.0
+85,8973,Musical & Performing Arts,65.0
+70,8976,"Drama, Horror, Mystery & Suspense",31.0
+18,8980,"Documentary, Special Interest",62.0
+77,8985,"Comedy, Drama, Romance",43.0
+0,8989,Drama,11.0
+93,8997,"Documentary, Special Interest",74.0
+84,8999,"Drama, Romance",40.0
+92,9007,Horror,18.0
+15,9008,Comedy,54.0
+7,9018,"Comedy, Musical & Performing Arts",66.0
+0,9020,"Action & Adventure, Drama, Mystery & Suspense",62.0
+42,9022,"Action & Adventure, Classics, Western",60.0
+46,9024,"Action & Adventure, Art House & International, Classics, Drama, Mystery & Suspense",93.0
+3,9026,Drama,54.0
+90,9043,"Comedy, Romance",69.0
+74,9053,Drama,64.0
+54,9058,Drama,77.0
+42,555,"Action & Adventure, Drama, Mystery & Suspense",63.0
+9,9059,"Documentary, Special Interest",85.0
+88,9066,Horror,18.0
+89,9075,Drama,73.0
+86,9077,"Comedy, Drama, Science Fiction & Fantasy, Romance",41.0
+6,9081,"Comedy, Horror, Kids & Family, Science Fiction & Fantasy",43.0
+35,9083,"Comedy, Documentary, Special Interest",23.0
+67,9087,"Documentary, Special Interest",80.0
+13,9093,"Action & Adventure, Art House & International, Drama, Romance",80.0
+54,9099,"Classics, Drama",79.0
+47,9101,Comedy,66.0
+16,9116,Documentary,85.0
+11,9132,"Documentary, Special Interest",97.0
+98,9134,Comedy,75.0
+92,9145,"Action & Adventure, Comedy, Science Fiction & Fantasy",53.0
+3,9163,"Drama, Horror, Mystery & Suspense",40.0
+62,9164,Drama,49.0
+29,9168,Comedy,36.0
+92,9170,"Action & Adventure, Romance",72.0
+67,9177,"Action & Adventure, Science Fiction & Fantasy",30.0
+27,9182,"Action & Adventure, Documentary, Drama, Musical & Performing Arts",50.0
+15,9187,"Action & Adventure, Documentary, Science Fiction & Fantasy, Television",64.0
+67,9188,"Mystery & Suspense, Science Fiction & Fantasy",60.0
+2,9192,"Art House & International, Drama, Romance",89.0
+52,9199,Action & Adventure,70.0
+49,9210,Documentary,98.0
+19,9211,Horror,54.0
+47,9223,"Classics, Comedy, Western",85.0
+78,9226,Drama,86.0
+32,9237,"Art House & International, Comedy, Drama",72.0
+64,9240,"Comedy, Drama, Television",82.0
+77,9253,"Classics, Drama, Kids & Family, Musical & Performing Arts, Romance",87.0
+64,9270,"Action & Adventure, Science Fiction & Fantasy",42.0
+70,9276,"Drama, Romance",61.0
+9,9280,"Drama, Romance",83.0
+34,8017,Comedy,45.0
+55,9289,"Comedy, Science Fiction & Fantasy",45.0
+81,9292,Drama,81.0
+92,9296,"Action & Adventure, Drama",93.0
+41,9300,"Classics, Horror, Mystery & Suspense",39.0
+17,9303,"Action & Adventure, Art House & International, Drama",12.0
+3,9305,"Art House & International, Comedy, Drama, Special Interest",72.0
+48,9307,"Art House & International, Comedy, Drama",65.0
+9,9314,Drama,49.0
+15,9316,"Drama, Mystery & Suspense",29.0
+44,9320,"Classics, Drama",58.0
+22,9321,"Documentary, Musical & Performing Arts, Special Interest",83.0
+39,9324,"Comedy, Drama",55.0
+21,9330,"Action & Adventure, Art House & International, Drama, Mystery & Suspense",50.0
+86,9332,"Animation, Art House & International, Kids & Family",63.0
+84,9333,"Art House & International, Comedy, Drama",60.0
+66,9334,"Action & Adventure, Drama, Mystery & Suspense",55.0
+11,9336,"Comedy, Drama, Romance",26.0
+18,9345,"Comedy, Romance",45.0
+67,9354,"Action & Adventure, Drama, Horror",58.0
+47,9356,"Action & Adventure, Drama, Mystery & Suspense",38.0
+80,9364,"Drama, Mystery & Suspense",34.0
+61,9365,"Drama, Science Fiction & Fantasy",39.0
+62,9376,"Action & Adventure, Comedy, Drama, Mystery & Suspense",48.0
+20,9386,Comedy,33.0
+55,9387,"Drama, Gay & Lesbian",89.0
+27,9392,"Art House & International, Drama, Mystery & Suspense",68.0
+69,9396,"Art House & International, Comedy, Drama, Romance",79.0
+13,9397,"Horror, Science Fiction & Fantasy",12.0
+18,2531,Mystery & Suspense,38.0
+85,9405,"Classics, Comedy, Drama, Romance",86.0
+33,9408,"Action & Adventure, Animation, Art House & International, Comedy",70.0
+72,9409,Drama,90.0
+19,9412,"Classics, Comedy, Romance",83.0
+67,9415,"Art House & International, Drama, Mystery & Suspense, Science Fiction & Fantasy",71.0
+44,9419,"Comedy, Drama, Romance",72.0
+42,9422,"Comedy, Drama, Kids & Family, Mystery & Suspense",66.0
+27,9432,"Action & Adventure, Comedy",69.0
+14,9434,Drama,33.0
+85,9440,Drama,67.0
+43,9444,"Action & Adventure, Mystery & Suspense",43.0
+35,9459,Comedy,38.0
+29,9469,"Classics, Comedy",95.0
+23,9479,Drama,77.0
+58,9485,Documentary,100.0
+98,9490,"Art House & International, Comedy",89.0
+33,9498,Comedy,71.0
+7,9501,"Classics, Drama",76.0
+32,9504,Horror,40.0
+97,9508,"Art House & International, Comedy, Drama",86.0
+2,9515,"Action & Adventure, Comedy, Science Fiction & Fantasy",49.0
+47,9524,"Drama, Mystery & Suspense, Romance",67.0
+69,9529,"Action & Adventure, Comedy, Romance",49.0
+22,9530,"Art House & International, Comedy, Drama",76.0
+97,9533,Comedy,95.0
+73,9534,Comedy,93.0
+83,9535,"Comedy, Musical & Performing Arts, Science Fiction & Fantasy",83.0
+78,48,Drama,79.0
+5,9542,Comedy,86.0
+31,9544,Comedy,41.0
+48,9545,Drama,78.0
+44,9547,"Documentary, Sports & Fitness",86.0
+66,9549,"Classics, Comedy, Romance",82.0
+55,9551,"Art House & International, Drama",49.0
+11,575,Comedy,51.0
+42,9570,Documentary,100.0
+23,9581,Comedy,29.0
+61,9582,Horror,52.0
+92,9584,"Mystery & Suspense, Science Fiction & Fantasy",56.0
+81,9589,"Action & Adventure, Western",65.0
+38,9591,"Action & Adventure, Art House & International, Drama",90.0
+15,9605,Comedy,30.0
+36,9606,"Classics, Drama, Mystery & Suspense",81.0
+72,9614,"Comedy, Science Fiction & Fantasy",56.0
+39,9618,Drama,83.0
+10,9619,"Art House & International, Drama, Mystery & Suspense",70.0
+13,9622,Horror,19.0
+83,9625,"Action & Adventure, Drama, Mystery & Suspense",67.0
+55,9630,"Comedy, Science Fiction & Fantasy",46.0
+64,9635,"Comedy, Drama",38.0
+75,9636,"Classics, Drama, Romance",81.0
+1,9646,"Comedy, Drama",72.0
+16,9656,"Documentary, Special Interest",90.0
+51,9663,"Drama, Mystery & Suspense",39.0
+46,9667,"Comedy, Drama",66.0
+45,9674,"Action & Adventure, Classics, Comedy, Horror",51.0
+4,9676,"Drama, Mystery & Suspense",83.0
+99,9677,"Art House & International, Drama",62.0
+47,9682,"Comedy, Kids & Family",58.0
+47,9691,"Comedy, Mystery & Suspense",40.0
+54,9699,"Comedy, Romance",84.0
+15,9703,"Comedy, Drama",34.0
+22,9706,"Comedy, Romance",67.0
+19,9713,"Animation, Comedy, Drama, Science Fiction & Fantasy",75.0
+28,9714,"Action & Adventure, Science Fiction & Fantasy",24.0
+31,9716,"Comedy, Drama",72.0
+2,9717,"Comedy, Kids & Family",40.0
+0,9723,"Documentary, Special Interest",39.0
+27,9725,"Animation, Drama, Kids & Family",55.0
+24,9726,"Art House & International, Comedy, Drama, Romance",75.0
+7,9734,"Horror, Mystery & Suspense",52.0
+13,9745,Comedy,87.0
+69,9751,"Drama, Kids & Family",68.0
+5,9754,"Action & Adventure, Drama",48.0
+73,9757,"Classics, Comedy, Drama, Mystery & Suspense",71.0
+52,9760,"Classics, Comedy",82.0
+0,9761,Comedy,84.0
+28,9762,Comedy,64.0
+72,9765,Comedy,46.0
+97,9768,"Drama, Kids & Family, Western",79.0
+89,9771,"Art House & International, Documentary, Special Interest, Sports & Fitness",69.0
+54,9777,Drama,74.0
+75,9781,Comedy,44.0
+74,9789,"Drama, Romance",86.0
+11,9799,"Comedy, Science Fiction & Fantasy",30.0
+84,9800,Comedy,50.0
+19,9802,"Comedy, Drama, Science Fiction & Fantasy",31.0
+4,9805,Drama,71.0
+29,9808,"Action & Adventure, Comedy, Drama",23.0
+71,9819,"Comedy, Documentary, Kids & Family",54.0
+63,9827,"Action & Adventure, Classics, Drama, Mystery & Suspense",60.0
+91,9834,Documentary,88.0
+83,9840,"Comedy, Drama, Romance",73.0
+15,9849,"Classics, Drama, Musical & Performing Arts",84.0
+50,9863,Comedy,20.0
+79,9865,Comedy,85.0
+98,9877,"Art House & International, Documentary",50.0
+4,9879,"Comedy, Drama",17.0
+32,9884,"Action & Adventure, Comedy",46.0
+23,586,Comedy,63.0
+37,9894,"Art House & International, Drama",68.0
+13,9895,"Art House & International, Documentary, Special Interest",72.0
+93,9899,"Comedy, Drama",93.0
+11,9904,Comedy,62.0
+12,9915,"Drama, Mystery & Suspense",39.0
+67,9916,"Horror, Mystery & Suspense",24.0
+35,9919,"Action & Adventure, Drama",80.0
+70,9923,"Comedy, Drama, Romance",19.0
+46,9936,Comedy,71.0
+37,9940,Documentary,68.0
+78,9952,Comedy,65.0
+98,9962,"Action & Adventure, Comedy",57.0
+58,9963,Comedy,69.0
+8,9969,"Classics, Drama, Mystery & Suspense",71.0
+34,9969,Drama,41.0
+44,9970,"Comedy, Horror, Science Fiction & Fantasy",70.0
+13,9974,"Classics, Drama, Mystery & Suspense",85.0
+30,590,"Horror, Mystery & Suspense",68.0
+75,9983,"Classics, Drama, Horror, Mystery & Suspense",54.0
+10,9986,"Documentary, Drama, Special Interest",93.0
+20,9987,"Action & Adventure, Horror, Science Fiction & Fantasy",60.0
+52,9991,Drama,83.0
+40,9992,"Horror, Mystery & Suspense",11.0
+60,9994,Horror,51.0
+9,9995,"Art House & International, Horror",40.0
+56,9999,"Documentary, Television",78.0
+71,10003,"Action & Adventure, Kids & Family",46.0
+3,10008,"Classics, Comedy, Drama, Romance",89.0
+79,10010,"Drama, Mystery & Suspense",57.0
+16,10022,Comedy,74.0
+78,10026,Drama,68.0
+97,10028,"Horror, Mystery & Suspense",42.0
+17,10030,"Documentary, Special Interest",73.0
+26,10032,"Comedy, Drama",89.0
+22,10037,"Action & Adventure, Drama",55.0
+74,10045,Drama,23.0
+53,10052,Documentary,42.0
+30,10062,"Comedy, Drama",58.0
+83,10070,"Comedy, Drama, Sports & Fitness",70.0
+62,10072,Drama,71.0
+68,10084,"Art House & International, Documentary, Drama",84.0
+88,1982,"Drama, Romance",85.0
+90,10106,Drama,51.0
+68,10107,"Art House & International, Drama",91.0
+2,10111,Drama,70.0
+31,10116,"Classics, Drama, Romance",90.0
+52,10125,Horror,28.0
+22,10136,"Art House & International, Comedy, Drama",38.0
+86,10141,Comedy,37.0
+57,10145,"Action & Adventure, Comedy",45.0
+80,10146,"Action & Adventure, Comedy, Drama",80.0
+35,10147,"Action & Adventure, Comedy, Drama, Mystery & Suspense",75.0
+64,10149,Action & Adventure,31.0
+39,10150,Drama,79.0
+72,10154,"Action & Adventure, Drama, Mystery & Suspense",47.0
+51,10167,"Drama, Mystery & Suspense",72.0
+40,10169,"Comedy, Special Interest, Romance",93.0
+61,10174,"Drama, Romance",63.0
+93,10176,"Comedy, Kids & Family",38.0
+36,10178,Comedy,79.0
+64,10179,"Classics, Drama, Musical & Performing Arts",72.0
+44,10181,Drama,43.0
+98,10189,"Comedy, Special Interest",86.0
+1,10190,Drama,64.0
+91,10192,"Drama, Mystery & Suspense",94.0
+64,10198,"Action & Adventure, Drama",66.0
+85,10212,"Action & Adventure, Art House & International, Drama",78.0
+65,10213,"Action & Adventure, Mystery & Suspense, Romance",64.0
+21,10220,"Comedy, Drama, Musical & Performing Arts",73.0
+67,10223,"Comedy, Drama",64.0
+60,10232,"Action & Adventure, Animation, Kids & Family",69.0
+95,10234,"Art House & International, Drama",74.0
+62,10244,"Comedy, Romance",63.0
+1,10253,"Comedy, Drama, Musical & Performing Arts, Romance",62.0
+98,10257,"Comedy, Drama",61.0
+70,10275,"Documentary, Musical & Performing Arts",59.0
+5,10278,"Art House & International, Drama",92.0
+15,10282,"Action & Adventure, Animation, Comedy",57.0
+36,10289,"Art House & International, Horror, Mystery & Suspense",79.0
+53,10290,"Action & Adventure, Art House & International, Comedy",62.0
+53,10295,"Comedy, Kids & Family",29.0
+62,10299,"Classics, Comedy, Romance",81.0
+31,10305,"Classics, Comedy, Musical & Performing Arts, Romance",49.0
+27,10312,"Documentary, Musical & Performing Arts, Special Interest",70.0
+54,10316,"Comedy, Drama, Musical & Performing Arts",47.0
+93,10317,"Action & Adventure, Drama, Mystery & Suspense",29.0
+88,10319,"Comedy, Science Fiction & Fantasy",66.0
+82,10338,Romance,50.0
+90,10345,"Art House & International, Documentary, Special Interest",76.0
+54,10350,"Classics, Comedy, Kids & Family",90.0
+86,10361,"Documentary, Musical & Performing Arts",82.0
+62,10372,"Action & Adventure, Drama, Mystery & Suspense",58.0
+27,10374,Action & Adventure,21.0
+68,10375,"Documentary, Special Interest, Television",77.0
+99,10378,"Action & Adventure, Drama",52.0
+77,10387,"Comedy, Drama, Mystery & Suspense",42.0
+26,10392,"Comedy, Drama",44.0
+27,10396,"Action & Adventure, Drama",49.0
+85,10398,Comedy,74.0
+22,10399,"Action & Adventure, Drama, Mystery & Suspense",27.0
+81,10400,"Classics, Drama",72.0
+26,10404,"Art House & International, Comedy, Drama, Romance",66.0
+37,10431,"Classics, Comedy, Romance",82.0
+56,10435,Horror,29.0
+60,10445,"Comedy, Documentary, Drama",65.0
+8,10447,Comedy,45.0
+11,10448,"Classics, Comedy, Drama, Romance",94.0
+36,10454,"Art House & International, Drama",46.0
+32,10459,"Documentary, Special Interest",94.0
+35,10463,Drama,32.0
+12,10464,"Classics, Drama, Mystery & Suspense",78.0
+71,10465,"Drama, Mystery & Suspense",35.0
+58,10471,Horror,34.0
+62,10481,"Art House & International, Drama",57.0
+88,10492,Drama,47.0
+21,149,"Action & Adventure, Drama, Science Fiction & Fantasy",63.0
+81,10508,Drama,80.0
+43,10521,"Art House & International, Drama",94.0
+22,10531,Drama,86.0
+17,10532,"Classics, Drama",93.0
+3,10544,"Documentary, Musical & Performing Arts",98.0
+84,10545,Drama,66.0
+79,10551,"Action & Adventure, Art House & International",19.0
+57,10556,"Classics, Drama, Mystery & Suspense",85.0
+17,10557,Comedy,49.0
+87,10563,Documentary,81.0
+62,10564,"Art House & International, Drama",89.0
+16,10577,Documentary,71.0
+0,10585,"Comedy, Romance",58.0
+58,10592,"Action & Adventure, Drama",25.0
+36,10595,"Classics, Drama, Musical & Performing Arts, Special Interest",79.0
+61,10598,"Comedy, Drama",48.0
+7,10601,Drama,69.0
+29,10603,"Action & Adventure, Drama, Mystery & Suspense",58.0
+1,10619,"Classics, Drama, Romance",80.0
+6,10624,Horror,40.0
+38,10628,"Classics, Drama, Horror, Musical & Performing Arts, Mystery & Suspense, Special Interest",77.0
+22,10632,"Comedy, Drama, Science Fiction & Fantasy",50.0
+81,10634,"Comedy, Romance",65.0
+27,10642,"Action & Adventure, Drama, Science Fiction & Fantasy",40.0
+42,10648,"Drama, Horror, Science Fiction & Fantasy",41.0
+77,10649,"Art House & International, Horror",62.0
+58,10655,Drama,96.0
+37,10660,"Art House & International, Drama",86.0
+97,10666,"Comedy, Drama",74.0
+64,10667,"Classics, Drama, Musical & Performing Arts, Science Fiction & Fantasy",20.0
+92,10678,"Documentary, Musical & Performing Arts",81.0
+14,10681,"Documentary, Special Interest, Sports & Fitness",79.0
+20,10684,"Action & Adventure, Comedy",25.0
+13,615,"Action & Adventure, Comedy, Drama",51.0
+69,10709,"Documentary, Special Interest",86.0
+28,10710,"Cult Movies, Horror, Science Fiction & Fantasy",46.0
+86,10712,"Animation, Comedy, Kids & Family",49.0
+30,10717,"Documentary, Drama, Special Interest",73.0
+70,10720,"Action & Adventure, Comedy, Mystery & Suspense",33.0
+41,10722,"Classics, Comedy, Romance",89.0
+43,10726,"Horror, Mystery & Suspense",76.0
+28,10736,"Classics, Comedy, Kids & Family, Musical & Performing Arts",60.0
+7,10737,Comedy,69.0
+44,10746,"Classics, Comedy, Drama",72.0
+47,10750,"Documentary, Special Interest",71.0
+63,620,"Action & Adventure, Art House & International, Mystery & Suspense",77.0
+7,10752,"Drama, Mystery & Suspense",37.0
+30,10759,"Action & Adventure, Art House & International, Mystery & Suspense",42.0
+60,10761,"Animation, Drama, Kids & Family",63.0
+82,10777,"Comedy, Documentary, Special Interest, Television",64.0
+60,10779,Comedy,75.0
+28,10783,Comedy,63.0
+16,10790,"Documentary, Special Interest",73.0
+31,10791,"Action & Adventure, Drama",43.0
+49,10793,Horror,50.0
+99,10800,"Comedy, Drama, Television",47.0
+37,10805,"Art House & International, Documentary, Drama, Musical & Performing Arts, Special Interest",81.0
+42,10806,"Drama, Science Fiction & Fantasy",69.0
+80,10807,"Documentary, Special Interest",68.0
+89,10812,"Drama, Kids & Family, Science Fiction & Fantasy",58.0
+64,10816,"Drama, Science Fiction & Fantasy, Romance",52.0
+7,10831,"Classics, Comedy, Drama",78.0
+31,10835,"Action & Adventure, Drama, Mystery & Suspense",92.0
+75,10839,"Comedy, Drama",81.0
+18,10840,"Comedy, Drama, Mystery & Suspense",49.0
+7,10842,"Classics, Drama, Mystery & Suspense, Romance",71.0
+63,10845,"Drama, Musical & Performing Arts",63.0
+40,10846,Drama,55.0
+28,10850,"Drama, Kids & Family",49.0
+86,10855,"Comedy, Drama",52.0
+7,10861,"Action & Adventure, Art House & International, Drama, Kids & Family, Mystery & Suspense",38.0
+2,10862,Horror,60.0
+42,10863,"Animation, Drama, Kids & Family, Musical & Performing Arts",76.0
+64,10864,"Action & Adventure, Science Fiction & Fantasy, Romance",58.0
+58,10866,"Drama, Romance",70.0
+89,10876,"Classics, Drama",75.0
+86,10892,"Documentary, Special Interest",79.0
+4,10897,"Action & Adventure, Drama, Mystery & Suspense, Romance",43.0
+35,10898,Horror,41.0
+92,10899,"Action & Adventure, Drama, Western",85.0
+53,10903,"Art House & International, Drama",69.0
+74,10904,"Art House & International, Documentary, Drama, Musical & Performing Arts, Mystery & Suspense, Special Interest",50.0
+93,1103,"Classics, Horror, Mystery & Suspense",95.0
+51,10912,"Horror, Mystery & Suspense",29.0
+42,10913,"Comedy, Cult Movies",66.0
+8,10915,Drama,28.0
+58,10930,Horror,48.0
+23,10936,"Comedy, Drama",42.0
+87,10939,"Classics, Documentary, Drama, Mystery & Suspense",88.0
+75,10940,"Documentary, Musical & Performing Arts",77.0
+8,10959,"Documentary, Special Interest",61.0
+10,10960,"Classics, Comedy",76.0
+81,10964,"Drama, Horror",42.0
+44,10965,"Drama, Mystery & Suspense",60.0
+64,10973,Drama,76.0
+36,10982,Horror,66.0
+45,10984,"Comedy, Drama",62.0
+57,10990,"Action & Adventure, Drama, Mystery & Suspense",37.0
+58,11010,Drama,77.0
+49,11011,"Comedy, Drama, Kids & Family",41.0
+28,11013,"Action & Adventure, Comedy, Kids & Family, Science Fiction & Fantasy",44.0
+74,11021,Drama,79.0
+33,11036,"Action & Adventure, Classics, Drama, Mystery & Suspense",54.0
+91,11052,"Documentary, Musical & Performing Arts, Special Interest, Faith & Spirituality",80.0
+40,11054,Action & Adventure,60.0
+12,11060,"Action & Adventure, Drama, Mystery & Suspense",35.0
+14,11071,"Action & Adventure, Art House & International, Comedy, Drama, Mystery & Suspense, Science Fiction & Fantasy",71.0
+48,11086,"Action & Adventure, Horror",30.0
+33,11089,Drama,48.0
+60,11092,"Action & Adventure, Science Fiction & Fantasy",77.0
+28,11094,"Action & Adventure, Comedy",52.0
+66,11097,Comedy,82.0
+32,11098,"Action & Adventure, Drama, Science Fiction & Fantasy",73.0
+87,11119,"Action & Adventure, Mystery & Suspense",58.0
+77,11132,"Documentary, Special Interest",40.0
+51,11134,"Classics, Drama, Mystery & Suspense",68.0
+4,11145,Action & Adventure,36.0
+21,11147,"Horror, Mystery & Suspense",54.0
+33,11152,Drama,59.0
+83,11153,Action & Adventure,47.0
+68,11156,"Comedy, Drama",41.0
+50,11158,"Documentary, Special Interest",86.0
+1,11160,"Comedy, Drama",73.0
+61,11165,Drama,63.0
+20,11170,"Documentary, Special Interest",41.0
+80,11177,"Drama, Romance",90.0
+60,11179,"Art House & International, Comedy, Drama",47.0
+78,11180,Drama,93.0
+45,11182,Action & Adventure,59.0
+95,11186,"Action & Adventure, Mystery & Suspense, Western",49.0
+32,11193,"Action & Adventure, Mystery & Suspense, Science Fiction & Fantasy",36.0
+84,11202,"Classics, Drama, Horror, Mystery & Suspense",86.0
+68,11205,"Action & Adventure, Drama",74.0
+56,11207,"Drama, Mystery & Suspense",52.0
+41,11217,"Animation, Mystery & Suspense, Special Interest",48.0
+51,3614,"Drama, Mystery & Suspense",78.0
+18,11224,Documentary,81.0
+41,11229,"Art House & International, Comedy, Drama",74.0
+24,11236,"Classics, Drama, Horror, Science Fiction & Fantasy",26.0
+56,11237,"Comedy, Horror",49.0
+51,11248,"Action & Adventure, Drama, Romance",41.0
+20,11250,"Action & Adventure, Art House & International, Drama, Horror, Science Fiction & Fantasy",42.0
+73,11251,"Classics, Horror",67.0
+77,11252,"Horror, Science Fiction & Fantasy",32.0
+49,11262,"Documentary, Special Interest",77.0
+84,11265,"Documentary, Special Interest, Television",74.0
+85,11266,"Drama, Musical & Performing Arts",61.0
+32,11272,"Comedy, Documentary, Musical & Performing Arts",93.0
+0,11273,"Comedy, Documentary, Musical & Performing Arts",86.0
+24,11278,Comedy,87.0
+57,11289,"Horror, Mystery & Suspense",34.0
+32,11292,"Comedy, Drama",66.0
+85,11295,"Drama, Mystery & Suspense",37.0
+25,11297,"Action & Adventure, Art House & International, Drama, Mystery & Suspense",85.0
+28,11301,"Drama, Horror",33.0
+80,11302,Comedy,18.0
+83,11304,"Drama, Horror",81.0
+3,11305,"Art House & International, Horror",51.0
+62,11311,"Action & Adventure, Classics, Western",72.0
+27,11329,"Art House & International, Horror",30.0
+10,11335,"Action & Adventure, Mystery & Suspense",79.0
+78,11341,"Drama, Mystery & Suspense",44.0
+24,11351,"Classics, Comedy, Drama, Musical & Performing Arts, Romance",69.0
+16,11353,"Action & Adventure, Classics, Comedy, Drama, Musical & Performing Arts",63.0
+52,11354,Drama,31.0
+8,11360,"Classics, Drama, Faith & Spirituality",69.0
+90,11364,Comedy,81.0
+82,11372,"Animation, Comedy, Kids & Family, Science Fiction & Fantasy",53.0
+32,11374,"Art House & International, Classics, Drama",94.0
+29,11378,"Drama, Musical & Performing Arts",55.0
+66,11380,"Documentary, Musical & Performing Arts",85.0
+91,11387,"Action & Adventure, Drama, Kids & Family, Mystery & Suspense, Science Fiction & Fantasy",65.0
+51,11392,"Animation, Comedy, Kids & Family",68.0
+30,11394,Drama,76.0
+60,11395,"Classics, Comedy, Cult Movies, Horror, Musical & Performing Arts, Science Fiction & Fantasy",85.0
+98,11398,Drama,79.0
+54,11409,Comedy,74.0
+84,11411,"Action & Adventure, Science Fiction & Fantasy",61.0
+56,11413,"Drama, Mystery & Suspense, Romance",33.0
+70,11420,"Classics, Comedy, Musical & Performing Arts, Romance",58.0
+50,660,"Drama, Romance",47.0
+64,11428,Drama,73.0
+69,11433,"Comedy, Kids & Family, Science Fiction & Fantasy",52.0
+90,11435,"Documentary, Horror, Television",55.0
+54,11439,Comedy,57.0
+15,11440,"Action & Adventure, Western",70.0
+73,11447,"Art House & International, Comedy, Drama",87.0
+37,11473,Drama,80.0
+10,11478,Mystery & Suspense,56.0
+32,11482,"Drama, Romance",75.0
+90,11484,"Action & Adventure, Classics, Drama",79.0
+8,11486,Drama,51.0
+78,11501,"Action & Adventure, Comedy",78.0
+26,11510,"Action & Adventure, Comedy, Drama",42.0
+94,11512,"Comedy, Musical & Performing Arts, Western",86.0
+70,11525,"Action & Adventure, Drama",59.0
+34,11536,"Comedy, Drama",27.0
+75,11537,"Art House & International, Drama, Special Interest",40.0
+67,11538,"Action & Adventure, Drama",77.0
+46,11544,"Classics, Drama",83.0
+63,11549,"Art House & International, Drama",41.0
+48,11560,Action & Adventure,52.0
+43,11564,Drama,45.0
+39,11566,"Comedy, Drama, Kids & Family, Sports & Fitness",89.0
+55,11576,"Kids & Family, Science Fiction & Fantasy",66.0
+91,11582,"Art House & International, Drama, Television",87.0
+54,11584,"Kids & Family, Mystery & Suspense",25.0
+98,11586,"Comedy, Musical & Performing Arts",65.0
+57,11587,"Comedy, Musical & Performing Arts",52.0
+61,11595,"Classics, Drama, Musical & Performing Arts",72.0
+70,11598,"Animation, Comedy",50.0
+35,11601,"Action & Adventure, Classics, Drama, Kids & Family, Western",47.0
+98,11604,"Drama, Kids & Family",35.0
+3,11606,"Comedy, Drama, Romance",36.0
+64,11610,"Drama, Kids & Family",75.0
+73,11611,"Comedy, Drama, Romance",88.0
+23,11612,Drama,52.0
+99,11613,"Comedy, Drama",84.0
+30,11618,"Horror, Mystery & Suspense",84.0
+23,11622,"Horror, Mystery & Suspense",55.0
+21,11625,"Art House & International, Drama",84.0
+37,11629,"Comedy, Drama, Gay & Lesbian",41.0
+89,11630,Drama,80.0
+4,11636,"Classics, Horror, Mystery & Suspense",16.0
+54,11642,Comedy,52.0
+39,11653,"Comedy, Horror, Science Fiction & Fantasy",42.0
+20,11659,"Art House & International, Comedy, Drama",73.0
+0,11671,"Comedy, Drama",21.0
+71,11678,Documentary,93.0
+51,11680,"Art House & International, Drama",64.0
+23,11688,"Action & Adventure, Classics, Drama, Western",88.0
+27,11693,"Art House & International, Drama, Mystery & Suspense, Special Interest, Gay & Lesbian",56.0
+22,11700,"Art House & International, Comedy, Drama",63.0
+85,11724,Drama,50.0
+50,11726,"Comedy, Horror",39.0
+29,11728,"Documentary, Special Interest",50.0
+48,11736,Documentary,37.0
+23,11739,"Drama, Mystery & Suspense",74.0
+82,11744,"Art House & International, Drama",73.0
+72,11745,"Drama, Mystery & Suspense, Romance",47.0
+32,11753,"Art House & International, Drama",80.0
+75,11760,"Comedy, Drama, Horror",72.0
+76,11762,Horror,56.0
+59,11764,"Art House & International, Classics, Drama",90.0
+29,11768,"Action & Adventure, Drama, Mystery & Suspense",90.0
+43,11769,"Comedy, Romance",69.0
+51,11774,"Classics, Comedy, Drama, Musical & Performing Arts, Western",87.0
+90,11779,"Classics, Western",82.0
+45,11786,"Drama, Horror, Science Fiction & Fantasy",50.0
+61,11787,"Drama, Science Fiction & Fantasy",34.0
+12,11790,"Comedy, Horror, Mystery & Suspense",61.0
+2,11798,"Comedy, Romance",77.0
+11,11808,Comedy,36.0
+37,11813,"Comedy, Drama, Mystery & Suspense",85.0
+92,11831,"Comedy, Drama",56.0
+10,11833,Drama,62.0
+85,11843,"Art House & International, Comedy, Romance",62.0
+36,11844,"Horror, Mystery & Suspense",33.0
+35,11846,Drama,89.0
+75,11847,Drama,75.0
+6,11850,"Drama, Mystery & Suspense, Romance",36.0
+22,11855,"Action & Adventure, Art House & International, Drama",71.0
+74,11867,"Documentary, Special Interest",88.0
+7,11868,"Action & Adventure, Mystery & Suspense",62.0
+60,11871,"Action & Adventure, Comedy, Horror, Science Fiction & Fantasy, Special Interest",93.0
+19,11880,"Action & Adventure, Science Fiction & Fantasy",31.0
+92,11885,"Documentary, Special Interest",75.0
+25,11890,"Action & Adventure, Mystery & Suspense",77.0
+59,11895,Drama,57.0
+35,11906,"Action & Adventure, Art House & International, Drama, Mystery & Suspense",67.0
+92,11913,"Action & Adventure, Drama, Mystery & Suspense, Romance",73.0
+44,11916,"Drama, Romance",61.0
+53,11927,"Classics, Drama, Mystery & Suspense",48.0
+87,11937,"Comedy, Drama, Romance",58.0
+27,11947,"Action & Adventure, Drama",91.0
+56,11949,"Action & Adventure, Drama, Mystery & Suspense",33.0
+76,11952,"Action & Adventure, Drama",24.0
+19,11957,"Animation, Comedy, Kids & Family, Science Fiction & Fantasy",52.0
+79,11970,Drama,77.0
+83,11971,"Documentary, Television",86.0
+62,11973,"Comedy, Science Fiction & Fantasy",37.0
+7,11974,"Comedy, Drama",75.0
+88,11975,"Art House & International, Comedy, Drama, Special Interest",82.0
+32,11984,"Drama, Mystery & Suspense",38.0
+40,11986,"Horror, Mystery & Suspense",35.0
+80,11989,"Drama, Horror",33.0
+4,11994,"Classics, Comedy, Musical & Performing Arts, Romance",69.0
+50,11996,"Comedy, Drama, Mystery & Suspense",33.0
+11,11998,"Action & Adventure, Drama, Western",80.0
+17,12015,"Action & Adventure, Art House & International, Kids & Family, Science Fiction & Fantasy",55.0
+23,12016,"Action & Adventure, Animation, Kids & Family, Romance",56.0
+70,12019,"Art House & International, Drama, Musical & Performing Arts",92.0
+12,12022,"Comedy, Drama, Musical & Performing Arts",40.0
+37,12026,"Art House & International, Horror",29.0
+72,12030,"Comedy, Musical & Performing Arts",65.0
+47,12031,Comedy,61.0
+49,12036,"Comedy, Drama",52.0
+30,12039,"Comedy, Drama",71.0
+17,12041,"Art House & International, Drama, Horror, Mystery & Suspense",38.0
+28,12050,"Art House & International, Drama, Mystery & Suspense",23.0
+25,12055,"Art House & International, Drama",85.0
+70,12066,"Classics, Comedy, Drama",77.0
+24,12073,Comedy,36.0
+22,12074,"Comedy, Kids & Family",62.0
+82,12089,Comedy,56.0
+5,12090,"Drama, Mystery & Suspense",61.0
+33,12091,"Action & Adventure, Drama, Mystery & Suspense",37.0
+58,12100,Mystery & Suspense,51.0
+94,12102,"Comedy, Drama, Science Fiction & Fantasy, Romance",77.0
+46,12105,"Comedy, Horror, Science Fiction & Fantasy",63.0
+30,12106,"Drama, Mystery & Suspense, Romance",28.0
+22,12111,Horror,21.0
+62,12112,Horror,44.0
+95,12117,"Comedy, Drama",52.0
+36,12118,"Drama, Mystery & Suspense",31.0
+98,12132,"Art House & International, Drama",60.0
+46,12135,"Action & Adventure, Comedy",44.0
+46,12137,"Comedy, Drama",19.0
+46,12138,"Animation, Comedy, Kids & Family",54.0
+32,12141,"Action & Adventure, Drama, Mystery & Suspense",35.0
+31,12148,"Action & Adventure, Comedy, Drama, Mystery & Suspense",80.0
+3,12152,"Action & Adventure, Comedy, Kids & Family",39.0
+58,12154,"Art House & International, Drama",47.0
+15,12156,"Action & Adventure, Drama, Science Fiction & Fantasy, Romance",52.0
+93,12158,"Drama, Kids & Family",63.0
+60,12160,"Action & Adventure, Classics, Drama",52.0
+65,12162,"Action & Adventure, Art House & International, Drama, Science Fiction & Fantasy",77.0
+93,12167,Drama,76.0
+79,12169,Comedy,64.0
+70,12172,"Classics, Horror, Mystery & Suspense",51.0
+36,12175,"Drama, Mystery & Suspense",43.0
+88,12179,Action & Adventure,9.0
+32,12189,"Classics, Drama, Romance",56.0
+59,12193,"Comedy, Drama, Romance",70.0
+44,12198,"Comedy, Drama",28.0
+71,12204,"Comedy, Drama",36.0
+41,12207,"Action & Adventure, Drama, Mystery & Suspense",41.0
+16,12218,"Art House & International, Comedy, Drama",69.0
+57,12231,"Action & Adventure, Animation, Kids & Family",39.0
+95,12236,"Art House & International, Drama, Faith & Spirituality",82.0
+40,12241,"Action & Adventure, Art House & International, Drama, Mystery & Suspense",89.0
+60,12242,"Classics, Drama, Faith & Spirituality",80.0
+77,12245,"Animation, Kids & Family, Science Fiction & Fantasy",92.0
+71,12246,"Action & Adventure, Classics, Comedy, Drama, Mystery & Suspense",70.0
+59,12247,"Drama, Romance",29.0
+71,12250,"Classics, Drama, Musical & Performing Arts",36.0
+27,12266,"Documentary, Musical & Performing Arts, Special Interest",59.0
+50,12268,"Art House & International, Drama",40.0
+23,12271,"Action & Adventure, Drama, Sports & Fitness",75.0
+53,12277,"Drama, Mystery & Suspense",66.0
+56,12281,Comedy,37.0
+53,12282,"Action & Adventure, Mystery & Suspense, Science Fiction & Fantasy",82.0
+5,12291,"Action & Adventure, Drama, Mystery & Suspense",50.0
+71,12302,"Comedy, Science Fiction & Fantasy, Special Interest",83.0
+92,12304,Science Fiction & Fantasy,37.0
+11,12305,Drama,40.0
+15,12310,"Documentary, Special Interest",51.0
+4,12312,"Action & Adventure, Drama, Mystery & Suspense",76.0
+84,12318,"Art House & International, Drama, Romance",92.0
+50,12328,"Action & Adventure, Mystery & Suspense",76.0
+42,12336,"Art House & International, Comedy, Drama",37.0
+97,12337,"Action & Adventure, Mystery & Suspense, Science Fiction & Fantasy",38.0
+30,12343,"Action & Adventure, Animation, Kids & Family, Science Fiction & Fantasy",93.0
+68,12352,Drama,42.0
+75,12354,"Documentary, Television",89.0
+98,12359,"Action & Adventure, Classics, Drama",74.0
+57,12365,"Documentary, Sports & Fitness",80.0
+49,12372,"Horror, Science Fiction & Fantasy, Romance",70.0
+73,12376,"Art House & International, Drama",93.0
+18,12380,Drama,100.0
+21,12382,Comedy,78.0
+88,12388,"Action & Adventure, Comedy, Kids & Family, Mystery & Suspense, Science Fiction & Fantasy",37.0
+48,12392,"Comedy, Documentary, Drama, Special Interest",54.0
+65,12393,"Art House & International, Drama",81.0
+78,12395,"Drama, Romance",68.0
+10,12406,"Action & Adventure, Drama",94.0
+95,12409,"Documentary, Special Interest",78.0
+87,12428,"Action & Adventure, Science Fiction & Fantasy",49.0
+77,12430,"Action & Adventure, Science Fiction & Fantasy",24.0
+86,12433,"Cult Movies, Kids & Family, Science Fiction & Fantasy",59.0
+96,12446,"Comedy, Drama",68.0
+3,12448,Drama,84.0
+14,12452,Science Fiction & Fantasy,12.0
+99,12454,"Action & Adventure, Comedy, Drama",49.0
+71,12455,"Classics, Comedy, Special Interest",77.0
+93,12457,"Art House & International, Drama",70.0
+44,12458,"Comedy, Romance",58.0
+10,12461,Mystery & Suspense,17.0
+63,12463,"Action & Adventure, Drama, Mystery & Suspense",74.0
+79,12466,"Drama, Romance",60.0
+40,12469,"Documentary, Musical & Performing Arts, Special Interest",33.0
+68,12471,"Drama, Mystery & Suspense, Science Fiction & Fantasy",70.0
+60,12473,Documentary,100.0
+45,12474,"Comedy, Drama",40.0
+27,12487,"Comedy, Drama",89.0
+9,12493,"Art House & International, Horror, Mystery & Suspense",51.0
+54,12500,"Drama, Musical & Performing Arts, Romance",68.0
+0,12502,"Comedy, Drama, Mystery & Suspense, Science Fiction & Fantasy",30.0
+69,12503,"Horror, Mystery & Suspense, Television",63.0
+37,12504,Mystery & Suspense,21.0
+8,12505,Horror,22.0
+38,12507,"Horror, Science Fiction & Fantasy, Television",46.0
+33,12509,"Comedy, Drama",75.0
+3,12517,"Documentary, Special Interest",89.0
+66,12525,"Comedy, Musical & Performing Arts, Romance",84.0
+5,12529,"Horror, Mystery & Suspense",30.0
+6,12530,Comedy,28.0
+65,12531,Documentary,62.0
+16,12534,"Animation, Comedy, Kids & Family",51.0
+10,12535,"Art House & International, Drama, Horror",40.0
+79,276,"Documentary, Musical & Performing Arts",47.0
+84,12546,Drama,26.0
+38,12555,"Art House & International, Classics, Drama, Romance",60.0
+2,12559,"Drama, Musical & Performing Arts",91.0
+76,12571,"Drama, Mystery & Suspense",83.0
+57,12580,"Horror, Mystery & Suspense",63.0
+52,12583,"Comedy, Drama, Romance",85.0
+18,12584,"Art House & International, Comedy, Drama",88.0
+81,12586,"Action & Adventure, Mystery & Suspense",19.0
+40,12602,"Art House & International, Drama",82.0
+4,12607,"Action & Adventure, Comedy",52.0
+14,12611,"Art House & International, Comedy, Drama",92.0
+21,12613,"Action & Adventure, Comedy, Kids & Family, Science Fiction & Fantasy",41.0
+56,12616,"Action & Adventure, Comedy",79.0
+64,12622,"Comedy, Romance",50.0
+90,12633,"Cult Movies, Horror, Science Fiction & Fantasy",52.0
+0,12635,"Action & Adventure, Comedy, Kids & Family, Science Fiction & Fantasy",32.0
+49,12638,Comedy,25.0
+89,12644,"Comedy, Drama",36.0
+47,12648,"Action & Adventure, Comedy, Drama, Mystery & Suspense",74.0
+7,12656,"Action & Adventure, Animation, Comedy, Science Fiction & Fantasy",88.0
+86,12661,"Art House & International, Drama, Special Interest, Romance",29.0
+73,12665,"Drama, Mystery & Suspense",60.0
+33,12681,"Drama, Mystery & Suspense",38.0
+43,12685,Drama,58.0
+4,12686,"Documentary, Special Interest",67.0
+58,12692,Drama,71.0
+2,12696,Comedy,90.0
+78,12697,Comedy,66.0
+45,12699,Comedy,39.0
+36,12706,"Action & Adventure, Kids & Family, Science Fiction & Fantasy",23.0
+13,12726,"Comedy, Romance",29.0
+57,12733,Comedy,63.0
+77,12740,"Art House & International, Drama, Musical & Performing Arts",91.0
+24,12743,"Action & Adventure, Horror, Science Fiction & Fantasy",19.0
+79,12751,Drama,88.0
+37,12754,"Drama, Mystery & Suspense",58.0
+96,12756,"Documentary, Special Interest",71.0
+53,12758,"Action & Adventure, Art House & International, Comedy, Drama",80.0
+8,12759,"Art House & International, Drama, Romance",76.0
+40,12761,"Horror, Mystery & Suspense",32.0
+39,12764,"Art House & International, Comedy, Drama, Romance",56.0
+35,12766,"Comedy, Musical & Performing Arts",50.0
+97,12772,"Comedy, Romance",20.0
+73,12773,Comedy,54.0
+38,12777,"Comedy, Kids & Family, Television",47.0
+13,12791,"Mystery & Suspense, Science Fiction & Fantasy",34.0
+61,12794,"Comedy, Drama",36.0
+65,12796,"Action & Adventure, Art House & International, Comedy, Drama, Musical & Performing Arts",72.0
+58,12799,"Art House & International, Comedy, Drama, Romance",57.0
+34,12803,Action & Adventure,52.0
+30,12820,Drama,83.0
+83,12828,"Drama, Mystery & Suspense",80.0
+91,12839,"Art House & International, Drama, Mystery & Suspense",81.0
+47,12842,"Classics, Western",83.0
+33,12844,"Action & Adventure, Comedy, Sports & Fitness",73.0
+28,12845,Drama,69.0
+29,12846,Horror,38.0
+54,12847,"Art House & International, Comedy, Drama",42.0
+5,12848,Comedy,36.0
+12,12851,Drama,89.0
+72,12855,"Action & Adventure, Comedy, Science Fiction & Fantasy",63.0
+19,12882,Comedy,60.0
+87,824,"Animation, Comedy, Kids & Family, Musical & Performing Arts, Television",48.0
+99,12890,"Drama, Horror, Mystery & Suspense",45.0
+49,12896,"Comedy, Drama, Science Fiction & Fantasy",75.0
+88,12897,"Comedy, Science Fiction & Fantasy",52.0
+42,12903,"Action & Adventure, Comedy, Kids & Family, Science Fiction & Fantasy",34.0
+82,12905,"Action & Adventure, Kids & Family, Science Fiction & Fantasy",81.0
+52,12910,"Comedy, Drama, Science Fiction & Fantasy",39.0
+1,12916,"Drama, Mystery & Suspense",16.0
+98,12918,"Drama, Television",94.0
+62,12921,"Action & Adventure, Drama, Mystery & Suspense",50.0
+76,12930,"Action & Adventure, Drama, Science Fiction & Fantasy",94.0
+81,12939,Horror,54.0
+20,12941,"Comedy, Horror, Mystery & Suspense",35.0
+38,12942,"Art House & International, Horror, Mystery & Suspense",38.0
+12,12944,Drama,57.0
+14,12952,"Comedy, Horror",44.0
+32,12953,Horror,18.0
+12,12962,"Comedy, Romance",46.0
+96,12968,"Comedy, Romance",60.0
+21,12973,"Documentary, Musical & Performing Arts, Television",81.0
+24,12974,"Classics, Documentary, Musical & Performing Arts, Television",85.0
+33,12975,Comedy,51.0
+10,12980,"Action & Adventure, Drama",75.0
+97,12989,"Art House & International, Drama",48.0
+83,12990,"Comedy, Kids & Family, Television",61.0
+22,12998,"Comedy, Drama",61.0
+39,13001,Comedy,46.0
+27,13027,"Action & Adventure, Drama, Kids & Family, Science Fiction & Fantasy",87.0
+31,13032,"Action & Adventure, Art House & International, Drama",86.0
+49,13033,Drama,49.0
+47,13037,"Art House & International, Comedy",71.0
+45,13038,Documentary,63.0
+3,13043,"Action & Adventure, Classics, Drama, Mystery & Suspense",72.0
+5,13049,Documentary,83.0
+5,13051,Drama,62.0
+31,13061,"Classics, Comedy, Kids & Family, Western",49.0
+52,13065,"Comedy, Musical & Performing Arts",89.0
+50,13070,Drama,61.0
+35,13071,"Action & Adventure, Comedy",35.0
+78,13078,Drama,80.0
+24,2451,Horror,52.0
+34,13092,Drama,100.0
+19,13102,"Action & Adventure, Art House & International, Drama",47.0
+83,13105,Drama,87.0
+42,13121,Horror,25.0
+29,13127,Comedy,54.0
+85,13134,Documentary,89.0
+54,3063,Drama,48.0
+62,13141,"Action & Adventure, Art House & International, Drama, Mystery & Suspense",57.0
+27,13146,"Art House & International, Drama, Romance",76.0
+27,13148,"Kids & Family, Science Fiction & Fantasy",57.0
+98,13160,"Comedy, Drama",60.0
+43,13161,Comedy,40.0
+58,13162,Comedy,40.0
+91,3273,Drama,71.0
+29,13165,"Classics, Comedy, Drama, Science Fiction & Fantasy, Romance, Faith & Spirituality",81.0
+3,13168,Documentary,71.0
+21,13176,Horror,56.0
+19,13182,Drama,73.0
+47,13190,"Drama, Sports & Fitness",74.0
+15,13193,"Action & Adventure, Animation, Art House & International",88.0
+9,13202,"Animation, Kids & Family",45.0
+2,13203,"Animation, Drama, Kids & Family",86.0
+99,13211,"Art House & International, Comedy, Drama, Science Fiction & Fantasy, Romance",75.0
+13,13212,Comedy,41.0
+40,13215,"Comedy, Mystery & Suspense, Special Interest",71.0
+30,13217,Horror,22.0
+56,13235,Drama,90.0
+69,13238,"Comedy, Kids & Family, Science Fiction & Fantasy",59.0
+51,13245,Documentary,40.0
+44,13248,"Comedy, Kids & Family",43.0
+75,13251,"Art House & International, Drama",30.0
+26,13255,Documentary,82.0
+76,4883,"Drama, Mystery & Suspense",21.0
+95,13263,"Art House & International, Drama",82.0
+59,13266,"Art House & International, Comedy",50.0
+22,13273,"Action & Adventure, Science Fiction & Fantasy",22.0
+76,13276,"Comedy, Drama",57.0
+97,4373,"Art House & International, Documentary, Mystery & Suspense, Special Interest",64.0
+50,13287,Comedy,57.0
+5,13290,"Horror, Mystery & Suspense",83.0
+13,13308,"Documentary, Musical & Performing Arts, Special Interest",67.0
+92,13310,Documentary,61.0
+80,13313,"Action & Adventure, Drama, Science Fiction & Fantasy",94.0
+55,13329,"Comedy, Science Fiction & Fantasy",86.0
+30,13340,Drama,72.0
+65,13341,"Horror, Mystery & Suspense",52.0
+2,13346,"Classics, Horror, Mystery & Suspense, Science Fiction & Fantasy",31.0
+78,13356,Drama,44.0
+86,13362,"Action & Adventure, Science Fiction & Fantasy",20.0
+66,13367,"Drama, Science Fiction & Fantasy, Romance",44.0
+38,13372,Drama,92.0
+45,13376,"Action & Adventure, Art House & International, Drama",52.0
+32,13377,Mystery & Suspense,48.0
+93,13379,Comedy,59.0
+57,13385,"Action & Adventure, Drama",65.0
+6,13391,"Art House & International, Drama, Romance",91.0
+14,13393,"Art House & International, Comedy, Drama",94.0
+99,13400,"Animation, Comedy, Kids & Family",38.0
+14,13407,"Documentary, Special Interest",41.0
+64,13415,Horror,46.0
+6,13421,"Art House & International, Comedy, Drama, Mystery & Suspense, Science Fiction & Fantasy",93.0
+18,13426,"Classics, Cult Movies, Horror",73.0
+24,13438,Comedy,52.0
+97,13441,"Drama, Sports & Fitness",89.0
+23,13443,"Action & Adventure, Drama",63.0
+74,13444,"Comedy, Documentary, Special Interest",64.0
+63,13454,Drama,49.0
+22,13461,"Art House & International, Comedy, Drama",76.0
+90,13479,Drama,82.0
+48,13481,"Art House & International, Drama, Special Interest",75.0
+83,13486,"Art House & International, Comedy, Drama",54.0
+26,13502,"Horror, Mystery & Suspense",22.0
+59,13503,Comedy,69.0
+70,13504,"Musical & Performing Arts, Romance",69.0
+61,13507,"Art House & International, Drama",79.0
+91,13509,"Action & Adventure, Drama, Horror, Mystery & Suspense",20.0
+69,1203,Mystery & Suspense,75.0
+61,13515,"Drama, Horror",43.0
+26,13526,"Documentary, Special Interest",56.0
+37,13530,"Action & Adventure, Drama",39.0
+9,13543,Documentary,67.0
+56,13548,Drama,78.0
+9,13554,"Art House & International, Drama",81.0
+67,13557,"Documentary, Musical & Performing Arts, Special Interest, Faith & Spirituality",56.0
+19,13562,"Action & Adventure, Drama, Mystery & Suspense",42.0
+30,13563,"Drama, Musical & Performing Arts",86.0
+56,13567,"Action & Adventure, Drama, Kids & Family",38.0
+81,13569,Drama,74.0
+15,13571,"Drama, Mystery & Suspense",29.0
+29,13572,"Animation, Kids & Family, Science Fiction & Fantasy",51.0
+97,13574,"Drama, Horror, Mystery & Suspense",46.0
+4,13576,"Art House & International, Drama",58.0
+84,13577,Drama,81.0
+27,13578,Mystery & Suspense,69.0
+41,13580,Comedy,39.0
+68,13581,"Drama, Mystery & Suspense",87.0
+9,13586,Drama,73.0
+77,13589,"Comedy, Horror",30.0
+60,13593,"Action & Adventure, Comedy",40.0
+39,13594,"Art House & International, Drama",87.0
+93,13595,"Horror, Mystery & Suspense",41.0
+97,13599,"Drama, Horror, Mystery & Suspense",44.0
+82,13607,Comedy,71.0
+74,13616,"Action & Adventure, Science Fiction & Fantasy",83.0
+56,13652,"Action & Adventure, Science Fiction & Fantasy",23.0
+8,13654,"Comedy, Drama, Mystery & Suspense",52.0
+60,13660,"Action & Adventure, Drama, Science Fiction & Fantasy",71.0
+21,13664,"Action & Adventure, Drama, Mystery & Suspense",23.0
+78,1454,"Action & Adventure, Art House & International, Classics, Western",52.0
+17,13676,"Action & Adventure, Mystery & Suspense, Science Fiction & Fantasy",60.0
+22,13681,"Documentary, Special Interest",78.0
+41,13682,"Art House & International, Comedy",70.0
+34,13683,Comedy,33.0
+8,13688,Drama,81.0
+54,13692,Horror,55.0
+73,13694,"Horror, Mystery & Suspense",42.0
+28,13697,Drama,38.0
+94,13705,"Documentary, Special Interest",84.0
+4,13707,Mystery & Suspense,70.0
+50,13711,Documentary,50.0
+63,13713,"Action & Adventure, Kids & Family, Science Fiction & Fantasy",46.0
+37,13716,"Documentary, Special Interest",89.0
+65,13720,"Comedy, Drama",36.0
+79,13726,"Drama, Science Fiction & Fantasy, Romance",68.0
+91,13733,"Documentary, Special Interest",73.0
+27,13736,Drama,45.0
+89,13742,"Documentary, Special Interest",87.0
+67,13745,Drama,92.0
+50,13751,"Classics, Drama, Mystery & Suspense",85.0
+58,13756,"Comedy, Drama, Musical & Performing Arts",57.0
+72,13757,"Action & Adventure, Classics, Drama, Sports & Fitness",48.0
+41,13766,Action & Adventure,12.0
+95,13767,"Documentary, Special Interest",45.0
+84,13768,"Action & Adventure, Art House & International, Drama",44.0
+3,13770,Comedy,38.0
+17,13771,"Documentary, Special Interest",88.0
+99,13779,Drama,52.0
+69,13783,"Drama, Romance",33.0
+42,13784,"Action & Adventure, Comedy, Horror, Television",36.0
+69,13785,Comedy,32.0
+67,13786,"Action & Adventure, Science Fiction & Fantasy",69.0
+80,13789,"Documentary, Musical & Performing Arts",94.0
+94,13790,"Action & Adventure, Science Fiction & Fantasy",43.0
+3,13791,Mystery & Suspense,62.0
+31,13797,Horror,23.0
+47,13800,Comedy,43.0
+89,13803,Documentary,66.0
+55,13810,"Action & Adventure, Drama, Romance",56.0
+22,13813,Drama,66.0
+30,13815,"Art House & International, Mystery & Suspense",35.0
+43,13826,Comedy,48.0
+68,13828,"Animation, Kids & Family",45.0
+3,13830,"Drama, Horror, Mystery & Suspense",37.0
+51,13851,"Horror, Mystery & Suspense",30.0
+37,13852,"Action & Adventure, Art House & International",36.0
+80,13861,Documentary,84.0
+88,13867,"Documentary, Special Interest",82.0
+25,13870,"Comedy, Drama",62.0
+22,13871,Drama,85.0
+46,13872,Drama,60.0
+7,13880,"Action & Adventure, Mystery & Suspense",51.0
+49,13881,"Art House & International, Drama",71.0
+40,13883,"Art House & International, Comedy, Drama, Science Fiction & Fantasy, Romance",54.0
+29,13885,Action & Adventure,40.0
+69,13888,Science Fiction & Fantasy,91.0
+55,13894,"Action & Adventure, Horror, Science Fiction & Fantasy",43.0
+8,13895,"Drama, Mystery & Suspense",41.0
+37,13921,"Drama, Horror",23.0
+50,13925,"Comedy, Kids & Family",80.0
+65,13929,Drama,76.0
+39,13930,Comedy,53.0
+66,13938,Horror,51.0
+37,13949,"Art House & International, Comedy, Horror, Science Fiction & Fantasy",33.0
+10,13961,Horror,35.0
+42,13968,Drama,61.0
+1,13969,"Action & Adventure, Science Fiction & Fantasy",51.0
+17,13982,Documentary,33.0
+10,13985,"Horror, Mystery & Suspense",29.0
+28,13988,Drama,45.0
+1,13988,Comedy,57.0
+87,13991,"Action & Adventure, Classics, Drama, Mystery & Suspense, Western, Romance",31.0
+66,13992,Documentary,61.0
+79,13993,"Drama, Mystery & Suspense",68.0
+42,13995,"Documentary, Drama, Special Interest",85.0
+81,13996,"Art House & International, Drama",88.0
+49,13997,"Art House & International, Horror, Mystery & Suspense",17.0
+24,14003,"Drama, Mystery & Suspense",53.0
+41,14005,"Art House & International, Drama",85.0
+80,14006,Drama,75.0
+96,14015,"Comedy, Drama",36.0
+1,14019,"Drama, Mystery & Suspense",59.0
+45,14021,"Documentary, Special Interest",78.0
+34,14028,"Documentary, Kids & Family, Special Interest",89.0
+29,14032,Drama,75.0
+55,14037,"Comedy, Drama",51.0
+28,14045,Drama,50.0
+53,14046,"Art House & International, Drama",69.0
+82,14050,"Comedy, Romance",59.0
+94,14051,"Action & Adventure, Animation, Comedy, Kids & Family, Science Fiction & Fantasy",74.0
+34,14052,Romance,48.0
+24,14054,Horror,38.0
+77,14064,"Mystery & Suspense, Science Fiction & Fantasy",36.0
+59,14065,Horror,56.0
+66,14070,"Documentary, Special Interest",73.0
+10,14073,Horror,25.0
+89,14075,"Action & Adventure, Animation, Art House & International",75.0
+10,14082,"Comedy, Drama",34.0
+12,14083,Documentary,71.0
+75,14097,Drama,72.0
+88,14101,"Art House & International, Horror, Mystery & Suspense",37.0
+52,14106,Drama,83.0
+93,14111,"Documentary, Special Interest",80.0
+72,14113,"Art House & International, Horror",60.0
+75,14114,"Classics, Drama",79.0
+39,14128,Horror,47.0
+31,14133,"Art House & International, Mystery & Suspense",40.0
+78,14138,"Art House & International, Drama",59.0
+95,14140,"Action & Adventure, Drama, Mystery & Suspense",40.0
+79,14143,Drama,42.0
+90,14144,"Action & Adventure, Drama, Horror",41.0
+48,14148,"Animation, Comedy",62.0
+46,14152,Comedy,40.0
+38,14158,"Documentary, Television",89.0
+3,14162,Documentary,53.0
+55,14166,"Drama, Science Fiction & Fantasy, Romance",72.0
+99,14169,Drama,73.0
+52,14171,"Drama, Gay & Lesbian",7.0
+80,14175,"Comedy, Drama",68.0
+45,14178,"Art House & International, Drama, Mystery & Suspense",84.0
+34,14180,"Action & Adventure, Animation, Comedy, Kids & Family, Science Fiction & Fantasy",44.0
+63,14181,"Animation, Comedy",56.0
+12,14183,"Drama, Mystery & Suspense",18.0
+65,14187,Romance,80.0
+51,14192,"Action & Adventure, Science Fiction & Fantasy",55.0
+66,14193,"Art House & International, Drama",63.0
+81,14200,"Action & Adventure, Documentary, Mystery & Suspense, Special Interest",70.0
+6,14202,"Drama, Mystery & Suspense",67.0
+8,14218,"Action & Adventure, Drama",34.0
+95,14219,"Action & Adventure, Classics, Drama",66.0
+41,12687,Mystery & Suspense,70.0
+77,14226,"Animation, Kids & Family, Science Fiction & Fantasy",46.0
+79,14234,"Action & Adventure, Drama",88.0
+83,14235,"Horror, Mystery & Suspense",38.0
+86,14236,"Art House & International, Drama",23.0
+32,14240,Horror,36.0
+36,14243,"Action & Adventure, Art House & International, Drama",71.0
+88,14245,"Classics, Comedy, Horror, Science Fiction & Fantasy",25.0
+16,14246,"Classics, Mystery & Suspense",93.0
+41,14249,"Animation, Classics, Comedy, Kids & Family",66.0
+6,14255,"Art House & International, Drama",84.0
+12,14256,"Drama, Science Fiction & Fantasy",15.0
+74,14258,"Animation, Drama, Science Fiction & Fantasy",38.0
+95,14268,"Art House & International, Drama",53.0
+58,14269,"Action & Adventure, Drama, Science Fiction & Fantasy",60.0
+87,14271,"Action & Adventure, Classics, Drama",49.0
+58,14273,"Documentary, Special Interest",85.0
+90,745,"Art House & International, Comedy",70.0
+49,14278,"Art House & International, Comedy",65.0
+64,14287,Drama,29.0
+0,14288,"Comedy, Drama, Mystery & Suspense",34.0
+6,14292,"Action & Adventure, Drama, Science Fiction & Fantasy, Romance",70.0
+93,14293,"Drama, Mystery & Suspense",48.0
+2,14296,Drama,58.0
+20,14304,Drama,63.0
+67,14306,"Art House & International, Comedy",68.0
+2,14311,"Horror, Mystery & Suspense",27.0
+81,14314,"Action & Adventure, Art House & International, Mystery & Suspense",38.0
+75,14317,"Action & Adventure, Horror",21.0
+74,14320,Comedy,31.0
+31,14322,Comedy,56.0
+19,14328,"Action & Adventure, Drama",77.0
+37,14332,Drama,36.0
+71,14338,Drama,60.0
+34,14339,"Comedy, Drama, Gay & Lesbian",54.0
+30,14347,"Comedy, Drama",17.0
+12,14353,"Comedy, Romance",57.0
+6,14354,"Drama, Romance",74.0
+80,14355,Documentary,84.0
+93,14365,"Action & Adventure, Animation, Comedy, Kids & Family",36.0
+1,14366,"Action & Adventure, Animation, Comedy",28.0
+27,14367,"Comedy, Romance",16.0
+43,14369,"Documentary, Special Interest",70.0
+32,14372,"Documentary, Special Interest",65.0
+19,14374,"Comedy, Drama, Mystery & Suspense",11.0
+21,14380,"Horror, Kids & Family, Science Fiction & Fantasy",70.0
+42,14382,"Classics, Kids & Family, Musical & Performing Arts, Science Fiction & Fantasy",89.0
+80,14383,Drama,82.0
+26,14384,Documentary,68.0
+72,14388,"Drama, Horror, Mystery & Suspense",54.0
+35,14390,Mystery & Suspense,22.0
+79,14391,"Art House & International, Comedy, Drama",77.0
+84,14397,"Art House & International, Drama",95.0
+82,14402,Drama,46.0
+82,14407,"Art House & International, Drama",71.0
+35,14416,"Art House & International, Mystery & Suspense",76.0
+22,14423,Drama,54.0
+79,14439,"Comedy, Mystery & Suspense",75.0
+58,14459,"Art House & International, Drama",71.0
+49,14463,Comedy,79.0
+2,14466,"Drama, Romance",34.0
+74,14469,Drama,77.0
+16,14470,"Art House & International, Comedy, Drama",71.0
+68,14473,"Art House & International, Documentary, Drama, Musical & Performing Arts",88.0
+54,14474,"Action & Adventure, Classics, Drama",75.0
+18,14475,"Art House & International, Drama",81.0
+23,14477,Documentary,75.0
+61,14479,Drama,79.0
+97,14484,Comedy,50.0
+5,14489,"Art House & International, Documentary, Special Interest",69.0
+93,14491,"Action & Adventure, Comedy, Drama, Horror",71.0
+26,14493,Comedy,59.0
+31,14496,"Comedy, Drama",58.0
+9,14503,"Art House & International, Drama, Romance",53.0
+32,14505,"Action & Adventure, Classics, Drama, Mystery & Suspense, Romance",74.0
+32,14506,"Action & Adventure, Drama, Science Fiction & Fantasy",76.0
+34,14513,"Comedy, Drama",87.0
+6,14516,"Classics, Comedy, Drama, Romance",43.0
+98,14528,Comedy,73.0
+42,14532,"Art House & International, Drama",52.0
+88,14544,"Action & Adventure, Art House & International, Classics, Drama",47.0
+17,14549,"Action & Adventure, Classics, Drama, Mystery & Suspense",73.0
+60,14557,"Drama, Mystery & Suspense, Gay & Lesbian",46.0
+51,14558,"Drama, Science Fiction & Fantasy",64.0
+81,14565,"Action & Adventure, Drama",71.0
+2,14566,"Drama, Mystery & Suspense",50.0
+40,14569,"Classics, Documentary, Musical & Performing Arts",49.0
+99,14577,"Mystery & Suspense, Science Fiction & Fantasy",63.0
+7,14578,"Art House & International, Drama",65.0
+36,14585,"Comedy, Drama",49.0
+62,14586,"Action & Adventure, Science Fiction & Fantasy",36.0
+99,14590,Comedy,63.0
+59,14593,"Animation, Kids & Family, Science Fiction & Fantasy",73.0
+23,14594,"Animation, Kids & Family, Science Fiction & Fantasy",76.0
+7,14595,"Animation, Kids & Family",73.0
+61,14597,"Action & Adventure, Animation, Kids & Family",76.0
+30,14601,"Art House & International, Comedy, Drama",22.0
+76,14605,"Drama, Romance",87.0
+7,14609,"Comedy, Drama, Romance",42.0
+85,14610,"Action & Adventure, Classics, Drama, Mystery & Suspense, Romance",90.0
+21,14615,"Classics, Drama",88.0
+63,14618,Drama,64.0
+7,14620,"Drama, Romance",37.0
+38,14624,Comedy,72.0
+10,14625,"Art House & International, Comedy, Drama",89.0
+72,14629,"Action & Adventure, Art House & International, Horror",60.0
+39,14630,"Art House & International, Drama",80.0
+98,14632,"Action & Adventure, Drama, Musical & Performing Arts, Science Fiction & Fantasy",46.0
+37,14633,Drama,75.0
+21,14636,"Documentary, Musical & Performing Arts",92.0
+14,14644,"Art House & International, Classics, Horror",58.0
+48,14646,"Comedy, Special Interest",90.0
+33,14652,"Horror, Mystery & Suspense",27.0
+60,14663,"Animation, Art House & International, Comedy, Kids & Family",26.0
+97,14666,"Classics, Comedy, Musical & Performing Arts, Romance",91.0
+37,14673,"Comedy, Romance",71.0
+7,14676,"Action & Adventure, Science Fiction & Fantasy",47.0
+61,14677,"Documentary, Drama, Musical & Performing Arts",73.0
+97,14678,"Comedy, Romance",65.0
+36,14685,"Action & Adventure, Mystery & Suspense, Romance",42.0
+87,14686,"Art House & International, Drama, Musical & Performing Arts, Romance",89.0
+18,14693,"Comedy, Drama",14.0
+88,14710,"Comedy, Kids & Family",57.0
+73,14711,Action & Adventure,38.0
+42,14712,Comedy,84.0
+23,14714,"Drama, Mystery & Suspense",67.0
+77,14718,Comedy,77.0
+45,14721,"Action & Adventure, Drama, Mystery & Suspense",89.0
+83,14726,"Mystery & Suspense, Special Interest",62.0
+66,14728,"Comedy, Drama",83.0
+21,14735,"Action & Adventure, Science Fiction & Fantasy",85.0
+14,14739,"Action & Adventure, Drama",73.0
+33,14742,"Drama, Mystery & Suspense",65.0
+2,14752,"Art House & International, Documentary, Drama",83.0
+28,14753,"Action & Adventure, Comedy, Drama",47.0
+61,14762,"Comedy, Horror, Science Fiction & Fantasy",46.0
+92,14765,"Action & Adventure, Drama, Mystery & Suspense",47.0
+17,14786,"Comedy, Horror",44.0
+1,14787,"Action & Adventure, Comedy, Drama, Science Fiction & Fantasy",72.0
+83,14790,"Action & Adventure, Science Fiction & Fantasy",69.0
+85,14802,"Drama, Mystery & Suspense",54.0
+46,14805,"Action & Adventure, Art House & International, Drama",55.0
+77,14808,Drama,38.0
+1,14811,Drama,65.0
+45,14812,"Comedy, Drama",38.0
+45,14815,"Comedy, Romance",57.0
+71,14816,"Comedy, Drama, Mystery & Suspense",27.0
+15,14819,"Art House & International, Horror, Mystery & Suspense",29.0
+31,14838,Drama,44.0
+34,14848,"Art House & International, Drama, Mystery & Suspense",84.0
+83,14849,Drama,79.0
+98,14850,Drama,17.0
+3,14855,Drama,81.0
+23,14857,Drama,67.0
+56,14860,"Mystery & Suspense, Science Fiction & Fantasy, Romance",60.0
+80,14861,"Horror, Mystery & Suspense, Science Fiction & Fantasy, Romance",61.0
+80,14868,"Comedy, Kids & Family, Television",65.0
+77,14869,Horror,18.0
+75,14876,"Drama, Romance",81.0
+67,14879,"Classics, Comedy, Drama, Romance",57.0
+79,14880,"Comedy, Drama",41.0
+57,14890,"Comedy, Drama, Romance",50.0
+28,14894,Drama,66.0
+76,14905,"Art House & International, Drama",85.0
+86,14907,"Documentary, Musical & Performing Arts",86.0
+21,14917,"Drama, Romance",61.0
+37,14929,Drama,78.0
+11,14931,"Comedy, Drama",55.0
+54,14932,Drama,33.0
+78,14933,"Art House & International, Comedy, Science Fiction & Fantasy, Special Interest",60.0
+17,14938,Horror,23.0
+9,14939,"Drama, Mystery & Suspense",87.0
+57,14951,"Comedy, Romance",54.0
+95,14957,"Comedy, Drama, Mystery & Suspense",56.0
+5,14963,"Action & Adventure, Comedy, Kids & Family",42.0
+94,14965,"Drama, Mystery & Suspense",62.0
+96,14970,"Action & Adventure, Horror, Science Fiction & Fantasy",63.0
+34,14974,"Art House & International, Drama",59.0
+6,14976,"Drama, Mystery & Suspense",68.0
+89,14977,Comedy,26.0
+46,14979,"Comedy, Drama, Musical & Performing Arts",68.0
+71,14980,"Drama, Mystery & Suspense",33.0
+1,14989,"Drama, Mystery & Suspense",81.0
+4,4654,"Comedy, Romance",72.0
+29,14998,"Art House & International, Documentary, Faith & Spirituality",88.0
+39,15001,"Drama, Mystery & Suspense",58.0
+34,15005,"Drama, Romance",77.0
+85,15006,"Documentary, Musical & Performing Arts, Special Interest",57.0
+56,15010,"Action & Adventure, Drama",89.0
+55,15012,"Action & Adventure, Animation, Comedy, Kids & Family",90.0
+77,15015,"Comedy, Documentary, Special Interest, Sports & Fitness",87.0
+2,15023,"Drama, Science Fiction & Fantasy, Romance",42.0
+40,15027,"Classics, Comedy",82.0
+57,15036,"Horror, Mystery & Suspense",60.0
+78,15037,"Art House & International, Horror, Mystery & Suspense",69.0
+92,15038,"Drama, Romance",91.0
+22,15040,"Documentary, Musical & Performing Arts",81.0
+79,15041,Comedy,69.0
+81,15048,"Art House & International, Comedy, Drama, Romance",69.0
+25,15055,"Documentary, Special Interest",78.0
+7,15059,"Animation, Comedy, Kids & Family",29.0
+11,15061,"Classics, Drama",58.0
+17,15062,"Drama, Romance",69.0
+22,15063,"Comedy, Horror",48.0
+32,15066,"Classics, Horror, Mystery & Suspense, Science Fiction & Fantasy",26.0
+2,15085,"Art House & International, Drama",61.0
+58,15088,Comedy,51.0
+93,15091,"Drama, Musical & Performing Arts",80.0
+86,15103,"Documentary, Special Interest",79.0
+10,15105,"Comedy, Drama, Mystery & Suspense",78.0
+19,15109,Comedy,58.0
+72,15110,Comedy,35.0
+42,15112,Comedy,59.0
+44,15117,"Action & Adventure, Comedy, Drama, Mystery & Suspense",22.0
+32,15118,"Action & Adventure, Science Fiction & Fantasy",15.0
+78,15120,"Art House & International, Drama",66.0
+43,15124,"Comedy, Musical & Performing Arts, Romance",86.0
+70,15127,Drama,83.0
+18,15128,Drama,67.0
+91,15132,"Documentary, Special Interest, Television",39.0
+83,15134,Comedy,34.0
+1,15135,"Action & Adventure, Mystery & Suspense",40.0
+91,15138,"Action & Adventure, Science Fiction & Fantasy",33.0
+60,15171,"Art House & International, Drama",84.0
+74,15174,"Art House & International, Comedy, Drama",89.0
+11,15175,"Action & Adventure, Drama",35.0
+21,15176,"Action & Adventure, Classics, Drama",82.0
+92,15179,Drama,39.0
+62,15185,"Comedy, Drama",72.0
+22,15189,"Art House & International, Drama, Mystery & Suspense",95.0
+14,15190,Western,67.0
+9,15192,"Action & Adventure, Comedy, Drama",50.0
+55,15203,"Documentary, Special Interest",84.0
+99,15214,"Documentary, Musical & Performing Arts, Special Interest",65.0
+10,15217,Comedy,57.0
+31,15221,"Art House & International, Drama, Mystery & Suspense",87.0
+91,15225,"Action & Adventure, Classics",86.0
+98,15229,"Action & Adventure, Drama",60.0
+49,15237,"Drama, Kids & Family",40.0
+42,15241,Comedy,39.0
+21,15242,Action & Adventure,48.0
+33,15243,"Action & Adventure, Mystery & Suspense",51.0
+84,15252,Comedy,71.0
+93,15255,"Art House & International, Comedy",36.0
+65,15257,"Art House & International, Documentary, Drama, Musical & Performing Arts, Special Interest",61.0
+82,15263,Drama,78.0
+92,15265,"Action & Adventure, Drama, Mystery & Suspense",76.0
+88,15274,"Drama, Romance",69.0
+13,15280,"Drama, Mystery & Suspense",29.0
+83,15282,"Action & Adventure, Drama, Science Fiction & Fantasy",71.0
+82,15283,"Drama, Romance",90.0
+63,15286,Comedy,71.0
+97,15287,"Drama, Science Fiction & Fantasy",61.0
+88,15293,"Classics, Drama",68.0
+55,15294,"Art House & International, Drama",92.0
+60,15301,"Drama, Science Fiction & Fantasy",62.0
+97,15307,Documentary,61.0
+28,15308,"Drama, Horror, Mystery & Suspense",50.0
+2,15309,"Documentary, Special Interest",29.0
+94,15312,"Comedy, Drama",71.0
+16,15325,"Comedy, Drama",56.0
+90,15330,"Comedy, Kids & Family, Romance",64.0
+72,15334,Comedy,57.0
+29,15350,Drama,41.0
+78,15351,"Drama, Television",74.0
+91,15354,"Action & Adventure, Art House & International, Mystery & Suspense",36.0
+1,15356,Comedy,78.0
+99,15362,"Animation, Comedy, Kids & Family",49.0
+28,15369,"Horror, Mystery & Suspense",66.0
+41,15370,Documentary,87.0
+5,15384,Drama,50.0
+82,15387,Drama,46.0
+68,15389,"Classics, Cult Movies, Drama, Horror, Mystery & Suspense",92.0
+61,15397,Mystery & Suspense,51.0
+70,15399,"Documentary, Mystery & Suspense",90.0
+13,15400,Drama,80.0
+77,15404,Drama,49.0
+0,15407,"Comedy, Drama, Romance",47.0
+49,15415,"Drama, Musical & Performing Arts",88.0
+76,15419,"Classics, Comedy, Romance",89.0
+99,15422,"Comedy, Drama, Romance",78.0
+63,15423,"Drama, Horror, Mystery & Suspense, Television",55.0
+94,15424,"Documentary, Special Interest",46.0
+3,15431,"Comedy, Documentary, Special Interest",34.0
+18,15433,"Drama, Horror",45.0
+22,15434,"Documentary, Special Interest",80.0
+74,15435,Drama,72.0
+73,15437,Action & Adventure,20.0
+83,15448,"Documentary, Special Interest",52.0
+85,15450,Comedy,73.0
+65,15451,Drama,75.0
+14,15453,"Classics, Drama, Mystery & Suspense",87.0
+48,15457,"Comedy, Drama, Mystery & Suspense",53.0
+55,15461,"Action & Adventure, Horror, Mystery & Suspense",17.0
+84,15462,"Comedy, Drama",51.0
+13,15463,"Comedy, Drama",74.0
+38,15465,Comedy,32.0
+57,15469,"Art House & International, Comedy, Romance",53.0
+63,15477,"Art House & International, Drama, Romance",49.0
+33,15481,"Art House & International, Drama",71.0
+11,15490,"Comedy, Drama",68.0
+78,15497,"Action & Adventure, Drama",65.0
+80,15498,"Documentary, Musical & Performing Arts, Special Interest",90.0
+20,15499,"Action & Adventure, Drama",54.0
+97,15511,Mystery & Suspense,70.0
+25,15512,"Documentary, Musical & Performing Arts",84.0
+48,15515,Comedy,64.0
+79,15521,"Classics, Drama",91.0
+53,15522,"Art House & International, Drama, Special Interest, Television",75.0
+24,15525,"Comedy, Mystery & Suspense",47.0
+22,15526,"Action & Adventure, Classics, Drama",61.0
+91,15528,Comedy,59.0
+81,15532,"Comedy, Drama, Musical & Performing Arts, Romance",76.0
+43,15538,"Drama, Mystery & Suspense, Romance",79.0
+53,15542,Comedy,41.0
+0,15544,Drama,75.0
+34,15551,"Documentary, Special Interest",84.0
+63,15552,"Drama, Mystery & Suspense",16.0
+72,15555,"Action & Adventure, Classics, Cult Movies, Drama",71.0
+67,15565,"Comedy, Drama, Mystery & Suspense",53.0
+62,15577,"Action & Adventure, Classics, Western, Romance",73.0
+44,15595,"Documentary, Drama, Special Interest",44.0
+86,15597,Drama,50.0
+82,15611,"Action & Adventure, Art House & International, Drama",78.0
+51,15613,"Art House & International, Drama, Faith & Spirituality",92.0
+11,15623,"Drama, Mystery & Suspense",49.0
+58,15639,"Classics, Drama, Mystery & Suspense",95.0
+96,15642,"Action & Adventure, Comedy, Drama, Kids & Family, Mystery & Suspense",60.0
+29,15645,"Action & Adventure, Horror, Mystery & Suspense",49.0
+46,15648,Action & Adventure,50.0
+2,15653,"Action & Adventure, Mystery & Suspense, Science Fiction & Fantasy",58.0
+14,15657,"Art House & International, Drama, Special Interest",93.0
+37,15658,"Art House & International, Classics, Comedy, Drama, Science Fiction & Fantasy",72.0
+84,15670,"Comedy, Drama",83.0
+15,15675,"Comedy, Kids & Family",71.0
+3,15685,"Comedy, Drama",92.0
+11,15687,Drama,27.0
+51,15688,Drama,77.0
+59,15695,"Classics, Comedy, Drama, Musical & Performing Arts",61.0
+52,15717,"Comedy, Drama",41.0
+84,15719,"Horror, Mystery & Suspense",54.0
+3,15720,"Horror, Mystery & Suspense",44.0
+1,15722,"Action & Adventure, Art House & International, Drama",74.0
+97,15725,"Action & Adventure, Science Fiction & Fantasy",61.0
+59,15730,"Cult Movies, Horror, Science Fiction & Fantasy",66.0
+74,15733,Drama,55.0
+43,15735,"Art House & International, Comedy, Drama",92.0
+15,15740,Action & Adventure,58.0
+7,15741,"Action & Adventure, Drama",37.0
+15,15750,"Art House & International, Drama",84.0
+20,15753,"Action & Adventure, Comedy, Romance",48.0
+32,15772,"Action & Adventure, Animation, Comedy, Kids & Family",34.0
+36,15784,Drama,20.0
+62,15788,"Action & Adventure, Mystery & Suspense",68.0
+16,15815,"Comedy, Drama",66.0
+8,15822,"Comedy, Drama",50.0
+24,15824,"Drama, Mystery & Suspense, Romance",44.0
+64,15828,"Art House & International, Drama",81.0
+76,15831,"Art House & International, Drama, Mystery & Suspense",93.0
+52,15836,Science Fiction & Fantasy,53.0
+43,15841,"Mystery & Suspense, Science Fiction & Fantasy",39.0
+68,15845,Documentary,75.0
+70,15850,"Classics, Musical & Performing Arts",59.0
+38,15858,"Comedy, Horror",86.0
+83,15861,"Comedy, Romance",41.0
+18,15862,"Comedy, Special Interest",80.0
+6,15864,"Action & Adventure, Comedy, Kids & Family",33.0
+82,15865,"Drama, Musical & Performing Arts",74.0
+84,15868,"Classics, Drama",91.0
+1,15869,"Action & Adventure, Art House & International, Drama",62.0

@@ -1,0 +1,10 @@
+{
+    "model_file": "./data_sets/hashedwabreviews/checkpoint_AFM/config_0/fold_0/AFM-May-18-2025_20-41-36.pth",
+    "data_set_name": "hashedwabreviews",
+    "algorithm_name": "AFM",
+    "algorithm_config_index": 0,
+    "algorithm_configuration": {},
+    "fold": 0,
+    "setup_time": 1.5756723880767822,
+    "training_time": 0.44460082054138184
+}

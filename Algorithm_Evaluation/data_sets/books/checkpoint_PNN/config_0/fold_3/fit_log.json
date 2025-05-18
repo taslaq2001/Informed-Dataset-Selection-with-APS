@@ -1,0 +1,10 @@
+{
+    "model_file": "./data_sets/books/checkpoint_PNN/config_0/fold_3/PNN-May-18-2025_21-33-38.pth",
+    "data_set_name": "books",
+    "algorithm_name": "PNN",
+    "algorithm_config_index": 0,
+    "algorithm_configuration": {},
+    "fold": 3,
+    "setup_time": 1.6567327976226807,
+    "training_time": 2.4430758953094482
+}

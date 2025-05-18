@@ -15,15 +15,15 @@ Converting data type of column item from object to str.
 Converting data type of column timestamp from object to str.
 Converting data type of column rating from float64 to np.float64.
 Processed raw data.
-Function process_data executed in 92 milliseconds.
+Function process_data executed in 49 milliseconds.
 Data set already loaded.
 Writing processed data set to file.
 Written processed data set to file.
-Function write_data executed in 19 milliseconds.
+Function write_data executed in 6 milliseconds.
 Data set already loaded.
 Calculating metadata.
 Calculated metadata.
-Function calculate_metadata executed in 9 milliseconds.
+Function calculate_metadata executed in 4 milliseconds.
 Writing processed metadata to file.
 Written processed metadata to file.
-Function write_metadata executed in 2 milliseconds.
+Function write_metadata executed in 1 milliseconds.

@@ -117,16 +117,43 @@ class RecSysDataSet:
                     atomic_data[self.rating_column_name] = self.data[self.rating_column_name]
                     atomic_data = atomic_data.rename(columns={self.rating_column_name: "rating:float"})
 
+                if self.timestamp_column_name and self.timestamp_column_name in self.data.columns:
+                    atomic_data = atomic_data.rename(columns={self.timestamp_column_name: "timestamp:float"})
+
+                    # Convert all non-user/item/rating/timestamp columns to float
+                exclude_cols = {
+                    "user_id:token",
+                    "item_id:token",
+                    "rating:float",
+                    "timestamp:float"
+                }
+                for col in atomic_data.columns:
+                    if col not in exclude_cols:
+                        if col.endswith("Str"):
+                            try:
+                                atomic_data[col] = atomic_data[col].astype(str)
+                            except ValueError:
+                                self.log_and_print(f"Warning: Column '{col}' could not be converted to String.")
+                        else:
+                            try:
+                                atomic_data[col] = atomic_data[col].astype(float)
+                            except ValueError:
+                                self.log_and_print(f"Warning: Column '{col}' could not be converted to float.")
 
 
-                # Save only required columns for atomic format
-                atomic_cols = ["user_id:token", "item_id:token"]
-                if "rating:float" in atomic_data.columns:
-                    atomic_cols.append("rating:float")
-                if "timestamp:float" in atomic_data.columns:
-                    atomic_cols.append("timestamp:float")
-                
-                atomic_data[atomic_cols].to_csv(self.atomic_data_path, index=False, sep="\t")
+                new_columns = {}
+                for col in atomic_data.columns:
+                    if col not in exclude_cols:
+                        if col.endswith("Str"):
+                            new_columns[col] = f"{col}:token"
+                        else:
+                            new_columns[col] = f"{col}:float"
+
+                atomic_data = atomic_data.rename(columns=new_columns)
+                # Include all renamed columns in the final output
+                atomic_data.to_csv(self.atomic_data_path, index=False, sep=",")
+
+
                 self.log_and_print(f"Written atomic data set to file.")
 
             self.data.to_csv(self.processed_data_path, index=False)
@@ -161,10 +188,26 @@ class RecSysDataSet:
                 if "timestamp:float" in atomic_data.columns:
                     atomic_cols.append("timestamp:float")
                 
-                atomic_data[atomic_cols].to_csv(self.atomic_data_path, index=False, sep="\t")
-                self.log_and_print(f"Written atomic data set to file.")
-            self.data.to_csv(self.atomic_data_path, index=False)
-            self.log_and_print(f"Written atomic data set to file.")
+            exclude_cols = {"user_id:token", "item_id:token", "rating:float", "timestamp:float"}
+            new_columns = {}
+
+            for col in atomic_data.columns:
+                if col in exclude_cols:
+                    continue
+                # Try to cast types and infer column suffix
+                try:
+                    atomic_data[col] = atomic_data[col].astype(float)
+                    new_columns[col] = f"{col}:float"
+                except ValueError:
+                    try:
+                        atomic_data[col] = atomic_data[col].astype(str)
+                        new_columns[col] = f"{col}:token"
+                    except ValueError:
+                        self.log_and_print(f"Warning: Could not convert column '{col}' to float or str.")
+
+            atomic_data = atomic_data.rename(columns=new_columns)
+            atomic_data.to_csv(self.atomic_data_path, index=False, sep=",")
+            self.log_and_print("Written atomic data set to file.")
         else:
             self.log_and_print(f"Wrong data origin. Unable to write data.")
             return
@@ -226,6 +269,18 @@ class RecSysDataSet:
                 self.item_column_name = "item_id:token"
                 self.rating_column_name = "rating:float"
                 self.timestamp_column_name = None
+                known_cols = {
+                        self.user_column_name,
+                        self.item_column_name,
+                        self.rating_column_name,
+                        self.timestamp_column_name
+                }
+                known_cols = {col for col in known_cols if col is not None}
+
+                self.feature_columns = [col for col in self.data.columns if col not in known_cols]
+
+                if self.feature_columns:
+                    self.log_and_print(f"Detected feature columns: {self.feature_columns}")
                 self.data_origin = "atomic"
         else:
             self.log_and_print(f"Processed data set does not exist.")
@@ -257,7 +312,9 @@ class RecSysDataSet:
             self.log_and_print(f"No data splits already loaded.")
             return False
 
+    
     def write_data_splits(self, force_write=False):
+        
         if self.data_origin == "processed":
             if self.check_data_splits_exist():
                 self.log_and_print(f"Data splits already exist.")
@@ -278,7 +335,8 @@ class RecSysDataSet:
                     self.data_splits[fold]["valid"].to_csv(f"{self.processed_folder_path}/valid_split_{fold}.csv",
                                                            index=False)
                     self.data_splits[fold]["test"].to_csv(f"{self.processed_folder_path}/test_split_{fold}.csv",
-                                                          index=False)
+                                                                                                            index=False)
+                                                                                                            
         elif self.data_origin == "atomic":
             if self.check_data_splits_exist():
                 self.log_and_print(f"Data splits already exist.")
@@ -304,8 +362,10 @@ class RecSysDataSet:
                     self.data_splits[fold]["test"].to_csv(
                         f"{self.atomic_folder_path}/{self.data_set_name}.test_split_{fold}.inter", index=False)
             pass
+      
 
     def load_data_splits(self, force_load=False):
+        
         if self.data_origin == "processed":
             if self.check_data_splits_loaded():
                 if force_load:
@@ -332,6 +392,7 @@ class RecSysDataSet:
                             "test": pd.read_csv(f"{self.processed_folder_path}/test_split_{fold}.csv")
                         }
             self.log_and_print(f"Loaded data splits.")
+            
         elif self.data_origin == "atomic":
             if self.check_data_splits_loaded():
                 if force_load:
@@ -360,7 +421,8 @@ class RecSysDataSet:
                             "test": pd.read_csv(
                                 f"{self.atomic_folder_path}/{self.data_set_name}.test_split_{fold}.inter")
                         }
-
+    
+    
     def write_metadata(self, force_write=False):
         if self.meta_data is None:
             self.log_and_print(f"Metadata not calculated.")
@@ -630,13 +692,49 @@ class RecSysDataSet:
         self.log_and_print(f"Maximum rating: {self.max_rating()}")
         self.log_and_print(f"Number of interactions before: {self.num_interactions()}")
         if isinstance(threshold, int):
-            self.data = self.data[self.data[self.rating_column_name] >= threshold][
-                [self.user_column_name, self.item_column_name]]
+            #self.data = self.data[self.data[self.rating_column_name] >= threshold][
+             #   [self.user_column_name, self.item_column_name]]
+            filtered_data = self.data[self.data[self.rating_column_name] >= threshold]
         elif isinstance(threshold, float) and (0 <= threshold <= 1):
             scaled_max_rating = abs(self.max_rating()) + abs(self.min_rating())
             rating_cutoff = round(scaled_max_rating * threshold) - abs(self.min_rating())
-            self.data = self.data[self.data[self.rating_column_name] >= rating_cutoff]
+            #self.data = self.data[self.data[self.rating_column_name] >= rating_cutoff]
+            filtered_data = self.data[self.data[self.rating_column_name] >= rating_cutoff]
             #[[self.user_column_name, self.item_column_name]]
+            exclude_cols = {
+                self.user_column_name,
+                self.item_column_name,
+                self.rating_column_name,
+                self.timestamp_column_name,
+            }
+            exclude_cols = {col for col in exclude_cols if col is not None}
+
+            # Cast and rename feature columns with suffixes
+            new_columns = {}
+            for col in filtered_data.columns:
+                if col in exclude_cols:
+                    continue
+                try:
+                    filtered_data[col] = filtered_data[col].astype(float)
+                    new_columns[col] = f"{col}:float"
+                except ValueError:
+                    try:
+                        filtered_data[col] = filtered_data[col].astype(str)
+                        new_columns[col] = f"{col}:token"
+                    except ValueError:
+                        self.log_and_print(f"Warning: Could not convert column '{col}' to float or str.")
+
+            # Rename feature columns to atomic style
+            filtered_data = filtered_data.rename(columns=new_columns)
+
+            # Keep user/item/rating/timestamp columns as is
+            self.data = filtered_data[[
+                self.user_column_name,
+                self.item_column_name,
+                *new_columns.values()
+            ] + ([self.rating_column_name] if self.rating_column_name in filtered_data.columns else []) +
+                ([self.timestamp_column_name] if self.timestamp_column_name in filtered_data.columns else [])]
+
         else:
             self.log_and_print(f"Threshold must be an integer or a float between 0 and 1.")
         self.set_feedback_type()

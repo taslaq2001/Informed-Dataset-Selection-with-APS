@@ -20,10 +20,10 @@ class bookssecond (Loader) :
             'title': item_column_name,
             'average_rating': rating_column_name,          
             'published_year': timestamp_column_name,
-            'categories': 'feature',
-            'authors': 'feature1'
+            'categories': 'feature2 Str',
+            'authors': 'feature1 Str'
         })
 
         df = df.dropna(subset=[rating_column_name, timestamp_column_name])
 
-        return df[[ user_column_name,item_column_name, rating_column_name,timestamp_column_name,'feature','feature1']]
+        return df[[ user_column_name,item_column_name, rating_column_name,timestamp_column_name,'feature2 Str','feature1 Str']]

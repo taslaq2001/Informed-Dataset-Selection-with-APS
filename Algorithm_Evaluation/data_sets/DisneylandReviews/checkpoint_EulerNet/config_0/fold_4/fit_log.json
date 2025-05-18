@@ -1,0 +1,10 @@
+{
+    "model_file": "./data_sets/disneylandreviews/checkpoint_EulerNet/config_0/fold_4/EulerNet-May-18-2025_20-37-42.pth",
+    "data_set_name": "disneylandreviews",
+    "algorithm_name": "EulerNet",
+    "algorithm_config_index": 0,
+    "algorithm_configuration": {},
+    "fold": 4,
+    "setup_time": 1.6108677387237549,
+    "training_time": 0.7470855712890625
+}

@@ -1,0 +1,10 @@
+{
+    "model_file": "./data_sets/disneylandreviews/checkpoint_DeepFM/config_0/fold_0/DeepFM-May-18-2025_20-34-45.pth",
+    "data_set_name": "disneylandreviews",
+    "algorithm_name": "DeepFM",
+    "algorithm_config_index": 0,
+    "algorithm_configuration": {},
+    "fold": 0,
+    "setup_time": 1.6059422492980957,
+    "training_time": 0.6321792602539062
+}

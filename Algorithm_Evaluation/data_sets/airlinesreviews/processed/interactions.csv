@@ -1,4 +1,4 @@
-user,item,rating,timestamp,feature
+user,item,rating,timestamp,feature Str
 0,0,9.0,2024-03-01,Business Class
 1,0,10.0,2024-02-19,Economy Class
 2,0,10.0,2024-02-19,Economy Class

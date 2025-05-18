@@ -1,0 +1,10 @@
+{
+    "model_file": "./data_sets/books/checkpoint_LR/config_0/fold_3/LR-May-18-2025_21-27-19.pth",
+    "data_set_name": "books",
+    "algorithm_name": "LR",
+    "algorithm_config_index": 0,
+    "algorithm_configuration": {},
+    "fold": 3,
+    "setup_time": 1.6271357536315918,
+    "training_time": 0.765411376953125
+}

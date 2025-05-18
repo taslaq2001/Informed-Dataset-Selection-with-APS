@@ -1,0 +1,6674 @@
+user_id:token,item_id:token,feature Str:token,rating:float
+4,2473,Back Bay,3.92
+46,11106,Planeta Publishing,3.66
+71,444,University of Chicago Press,4.21
+25,1916,Fodor's,3.43
+36,4430,Bantam,4.09
+66,3786,VIZ Media LLC,4.26
+52,2910,W. W. Norton  Company,4.17
+79,899,Dover Publications,3.82
+21,4849,Sterling,3.96
+25,715,Library of America,4.22
+95,6475,HarperCollins Publishers,3.73
+28,4318,Ballantine Books,4.1
+98,8344,Arrow,3.81
+70,3114,Vintage Contemporaries,4.28
+86,4523,Harper,3.66
+94,1324,Pineapple Press,3.82
+23,10525,Rba Libros,4.21
+93,526,Longman Publishing Group,3.5
+64,8920,Corgi,4.17
+88,5406,Souvenir Press,4.31
+65,4113,Penguin Classics,4.12
+57,5104,HarperCollins,3.97
+26,7259,Course Technology,3.8
+65,4931,Ediciones Glénat España,3.99
+12,5327,Everyman,3.76
+15,8558,Shaye Areheart Books,3.68
+7,9200,Faber & Faber,4.07
+64,2007,Thomas Nelson,3.9
+76,1804,Paul Dry Books,4.42
+92,10725,ADV Manga,4.38
+97,2186,Vintage,3.83
+71,3634,Grand Central Publishing,3.98
+61,3933,Daw Books,3.85
+71,1912,HarperTorch,3.7
+94,9023,Severn House Publishers,4.03
+37,10034,Del Rey,3.7
+78,1694,Barnes  Noble Classics,4.0
+46,1072,Mariner Books,3.56
+1,1462,Back Bay Books,3.8
+21,10413,Oddysey/Harcourt Young Classics,4.0
+71,9730,Woodbridge Press Publishing Company,3.47
+63,589,Mountaineers Books,4.07
+40,7587,VIZ Media LLC,3.98
+20,9292,Penguin Books,4.09
+66,10519,Bantam Doubleday Dell Publishing Group,4.06
+88,9309,HMH Books for Young Readers,4.13
+96,4788,Square One Publishers,5.0
+26,483,Plume,3.97
+80,8095,Penguin Books Ltd,3.63
+1,1710,Maxima New Media,3.65
+33,1566,Firelight Press,4.0
+93,10182,Bloomsbury Academic,3.52
+4,10839,Modern Library,4.22
+34,6426,Alderac Entertainment Group (AEG),3.68
+2,8626,Yale University Press,4.02
+55,2305,HarperCollins,4.14
+9,4614,Digital Manga Publishing / Dark Horse,4.27
+65,6956,The New Press,4.01
+81,4554,The Overlook Press,4.16
+79,2403,Ballantine Books,4.03
+54,6583,HarperLargePrint,3.76
+19,3626,Little  Brown and Company,3.83
+75,5721,Pearson,3.75
+1,7480,Baen,3.93
+30,7429,Simon & Schuster,3.84
+96,11053,Crossway Books,4.19
+71,1520,Kessinger Publishing,3.77
+90,6562,University Press of Mississippi,4.05
+44,1141,Ballantine Books,3.93
+21,4183,Berkley Books,3.57
+85,4548,Simon & Schuster,4.48
+26,4212,Bloomsbury Publishing PLC,4.12
+88,3142,Pocket Books,3.92
+14,5757,RH Audio,4.26
+43,9711,Library of America,4.22
+78,6708,Signet,3.6
+96,5789,Dell Publishing Company,4.12
+56,1300,Harper Perennial,3.9
+95,10850,Joanna Cotler Books/HarperCollinsPublishers,3.77
+97,10944,Cengage Learning,4.06
+78,6116,Knopf Publishing Group,4.22
+99,4989,Touchstone,4.23
+78,2223,Forge Books,3.54
+90,5529,Del Rey Books,3.98
+11,290,HarperCollins Publishers,3.86
+12,7517,Warner Forever,3.97
+31,3221,TusQuets,3.9
+91,5089,Ace,4.06
+96,9822,Gun Digest Books,4.44
+1,10615,Pocket Books,3.7
+63,6703,Hyperion,3.18
+0,1924,French & European Pubns,4.1
+73,274,Spectra,3.68
+17,2853,Random House Audio,4.0
+43,7326,Vintage,2.88
+54,3895,Tor Books,4.01
+15,3902,Tor Fantasy,4.1
+4,1135,Fawcett Books,3.92
+67,9407,St. Martins Press-3PL,4.41
+84,2350,G.P. Putnam's Sons,4.01
+43,5158,Walker Books,4.09
+80,4378,Lonely Planet,3.89
+87,407,Penguin Classics,3.86
+93,1551,Delta,3.69
+75,6818,Arlington House,3.88
+30,6136,Vintage,3.7
+90,1439,Belknap Press of Harvard University Press,4.14
+99,5320,Farrar  Straus and Giroux,4.14
+96,4155,Piper,3.58
+86,4603,Penguin Books,4.09
+80,265,Lonely Planet,0.0
+39,9898,HarperCollins,3.96
+11,1010,Red Fox,3.88
+4,9995,Tor Books,3.41
+16,935,Insel  Frankfurt,3.88
+49,5773,William Morrow Paperbacks,4.18
+85,8935,G.P. Putnam's Sons,3.91
+53,1499,Pocket,3.88
+43,8127,William Morrow Paperbacks,3.76
+29,8533,Prentice Hall/Scribner/Macmillan,3.84
+84,5004,Everyman's Library,4.32
+12,7867,HarperTorch,4.04
+67,3711,HMH Books for Young Readers,4.15
+6,7768,Bantam Classics,3.73
+6,8478,Scribner Book Company,4.03
+72,252,Vintage International,3.77
+49,5664,Vintage,4.17
+10,1389,Pocket Books,3.96
+33,695,Free Press,4.1
+93,5660,Firebird,4.19
+9,7922,Grand Central Publishing (Formerly Warner Books),3.56
+89,8365,Random House Books for Young Readers,3.85
+3,3164,Columbia Pictures Pubns,4.32
+22,2921,Harper,4.13
+91,6596,Bantam Books,4.14
+97,6822,Christian Classics,4.12
+5,5902,SparkNotes,3.65
+19,5197,Princeton University Press,4.43
+73,8080,Hill and Wang,3.66
+63,7742,Princeton University Press (NJ),4.23
+32,787,Vintage,3.93
+90,10044,Delta,3.84
+50,1189,HarperTorch (an imprint of HarperCollins Publishers),3.31
+42,794,Harper Paperbacks,3.99
+40,8223,Princeton University Press,4.38
+68,3479,Dial Press Trade Paperback,4.2
+8,10291,G.P. Putnam's Sons,3.78
+38,10354,Arrow,4.03
+92,6732,McGraw-Hill/Glencoe,4.0
+11,8410,Harbor Press,4.29
+78,8325,Wordsworth Editions,4.01
+6,5909,Knopf Books for Young Readers,3.82
+34,6491,Scribner Book Company,3.85
+76,2781,HarperOne,4.07
+50,10158,Crown Publishers,3.77
+94,10579,Rutgers University Press,3.52
+96,10794,Houghton Mifflin,3.5
+5,6212,Vintage,3.76
+19,5212,Mariner Books,4.14
+32,610,Basic Books,3.71
+5,1732,Chatto & Windus,3.85
+64,8433,Berkley,3.94
+87,10999,Alfred A. Knopf,3.63
+59,8803,W. W. Norton  Company,4.25
+19,4683,Scribner,3.65
+9,5005,Harry N. Abrams,4.02
+60,1304,Cold Spring Harbor Laboratory Press,3.86
+51,4164,Cambridge University Press,4.26
+17,4769,Anchor Books,3.93
+6,3248,Library of America,4.19
+84,5571,Benziger,4.23
+81,3759,Del Rey,4.29
+36,5311,Penguin Classics,3.95
+11,8274,Princeton University Press,4.13
+99,8745,Red Dress Ink,3.63
+62,5334,Puffin Books,4.12
+79,1819,Penguin Books /Penguin Classics,3.75
+4,3558,Yearling,3.71
+89,2377,No Exit Press,4.25
+71,4743,Pan Publishing,3.71
+96,10693,Harlequin Historical,3.68
+70,6628,Penguin Classics,3.89
+6,670,Oxford University Press  USA,4.16
+1,9707,Pocket Books,3.89
+97,4998,Everyman,4.24
+50,3897,Tor Books,3.97
+76,278,Two Plus Two Publishing LLC,4.24
+50,10185,PublicAffairs,3.04
+79,5043,W.W. Norton & Company,3.86
+29,4400,Simon  Schuster,4.28
+6,3131,Denoël,3.9
+24,3695,Berkley,4.02
+53,10319,iBooks,4.03
+83,6103,Knopf,4.35
+92,3250,Bantam,3.89
+76,6963,Prima Games,4.29
+22,6026,Citadel,4.19
+63,3023,Picador,3.69
+9,3547,Vintage,3.84
+3,6402,Simon Pulse,4.21
+2,4967,Emecé Editores,4.49
+54,8161,Arrow Books,3.86
+37,1970,Random House Trade Paperbacks,3.76
+92,9977,Bantam Classics,3.33
+18,10678,Simon & Schuster Books for Young Readers,3.65
+5,11025,Tor Books,3.92
+99,10458,Vintage Crime/Black Lizard,4.02
+94,3160,Pocket Books,3.59
+30,2127,Avon Books,3.59
+31,4651,Doubleday Books,2.81
+83,8087,Scribner,4.06
+66,10078,Lonely Planet,4.05
+75,2899,Orion,3.89
+44,7531,McGraw-Hill Science/Engineering/Math,4.15
+15,370,HarperAudio,3.55
+71,9303,Puffin,3.61
+53,72,Houghton Mifflin Harcourt,4.59
+68,7151,University of Chicago Press,3.73
+95,4026,Bloomsbury Publishing,4.11
+98,8521,Plaza y Janés,3.88
+93,6626,Farrar Straus Giroux,3.4
+69,10169,Orb Books,3.75
+87,6644,Princeton University Press,4.2
+16,5436,Time Life Medical,3.72
+80,7547,Heyne,3.72
+57,5100,Arrow,4.24
+56,5287,University of Chicago Press,4.32
+66,6829,Farrar  Straus and Giroux,4.37
+0,829,Harper Perennial,3.88
+42,1755,Abacus,4.4
+95,6923,Faber & Faber,3.87
+39,6823,Penguin Classics,3.91
+98,6896,Moyer Bell and its subsidiaries,4.19
+94,6588,Andrews McMeel Publishing,4.63
+82,3347,New Directions,3.98
+63,875,Harlequin Romance,3.25
+5,555,Everyman,3.86
+72,5584,DK Publishing (Dorling Kindersley),4.0
+41,6193,History Press Ltd,4.07
+98,1892,Pocket Books,4.03
+65,1029,Penguin Books Ltd,3.71
+27,2389,Vintage,4.07
+20,7810,Harpercollins Childrens Books,4.34
+86,5149,Bantam Books (NY),4.18
+27,2460,Little  Brown Young Readers,4.16
+15,3629,Grand Central Publishing,4.08
+28,4005,St. Martin's Paperbacks,3.98
+15,4837,Critica (Grijalbo Mondadori),4.22
+38,1511,Turtleback Books,4.07
+30,1761,Princeton University Press,3.69
+54,9685,Editorial RM,4.05
+67,3935,St. Martins Press-3PL,3.83
+29,798,Harper Perennial Modern Classics,4.27
+19,9842,Hachette Books,4.15
+13,2118,Barnes  Noble Classics,3.72
+90,2669,Alfred A. Knopf,3.68
+67,3528,Element,4.1
+71,3146,Pocket Books,3.87
+64,9010,Bantam,4.04
+23,108,Teaching Resources,3.6
+39,6916,W. W. Norton & Company,4.1
+21,4331,Grove Press,4.12
+33,2882,Sweet Valley,3.94
+67,9553,W. W. Norton  Company,3.8
+60,8030,Tyndale House Publishers,4.15
+66,532,Library of Liberal Arts/Bobb-Merrill (Indianapolis  IN),4.03
+58,2977,Delta,4.35
+98,7446,Cambridge University Press,3.0
+10,5440,Time Life Medical,3.64
+45,367,Little  Brown,3.72
+86,10517,Thomas Nelson,4.09
+99,1911,HarperTorch,3.67
+58,10988,W. W. Norton & Company,3.79
+52,7286,Waveland Press,4.08
+31,2074,Pocket Books,4.17
+19,6229,VIZ Media LLC,4.44
+32,4782,G.P. Putnam's Sons,3.42
+45,3391,Dafina Books,4.38
+23,3903,Scribner,4.18
+92,1980,Mariner Books,3.82
+50,9041,Tor Books,4.13
+30,6914,Prentice Hall,3.75
+49,2507,Anchor,4.0
+22,2390,Random House Trade,4.04
+77,559,Cambridge University Press,3.73
+61,4086,Dover Publications,4.01
+23,6980,Sams,3.96
+92,7783,Mongoose Publishing,4.0
+10,10581,Barron's Educational Series,3.82
+73,2877,Vintage,4.12
+50,3731,Meisha Merlin Publishing,4.1
+16,3252,Bantam Spectra,4.09
+54,476,University of Chicago Press,4.1
+53,5187,Penguin Classics,4.35
+11,9332,HarperCollins,3.74
+2,7520,Ballantine Books,3.86
+78,3284,St. Martin's Press,3.48
+1,3866,Simon Pulse,4.26
+17,2259,Jove,3.85
+23,6529,Harvard University Press (Cambridge),4.34
+86,8846,St. Martin's Griffin,4.19
+95,3764,Del Rey,4.31
+52,7650,One World/Ballantine,4.39
+71,7109,Ballantine Books (NY),4.08
+61,6008,Open Court,3.63
+97,3403,Viking Press,4.01
+98,4520,HarperCollins,4.27
+8,9839,Puffin Books,3.89
+11,7391,Penguin Classics,3.81
+0,4029,Penguin Books Ltd,3.16
+83,3500,Penguin Classics,4.14
+16,6288,VIZ Media,4.62
+54,6515,Arcadia Publishing (SC),3.0
+95,1955,Scholastic Paperbacks,4.08
+7,7270,Hackett Publishing Company (Indianapolis  IN),3.69
+52,405,Farrar  Straus and Giroux,3.86
+74,2576,William B. Eerdmans Publishing Company,4.21
+51,1255,Vintage,4.23
+17,7385,Bantam,3.81
+51,9227,DAW,4.17
+1,10699,Headline Review,3.31
+91,8852,小学館,3.97
+13,7758,Delta,3.79
+70,2757,St. Martin's Griffin,3.74
+78,138,Knopf,4.08
+36,8298,Oxford University Press  USA,4.25
+98,6679,HarperCollins,4.46
+66,1367,University of Oklahoma Press,4.14
+24,2807,Ember,3.45
+84,11039,Kodansha,4.15
+82,10061,Fanfare,3.75
+56,6756,Abrams,4.05
+94,7731,St. Martin's Press,4.1
+42,1488,Harper Perennial,3.73
+97,3396,Anchor Books,4.14
+22,1848,Steidl,4.73
+92,9106,Wisdom Publications,4.03
+84,7969,Penguin,4.12
+81,6084,小学館 [Shōgakukan],4.06
+46,9248,Penguin Young Readers,3.54
+34,5993,Castle Books,3.98
+93,5925,Crown Journeys/Crown Publishers/Crown Publishing Group/Random House,3.51
+36,7993,HarperOne,4.24
+74,5148,Spectra/Bantam Books (NYC),3.82
+75,5934,Douglas & McIntyre,4.34
+60,3830,ADV Manga,4.19
+71,5442,Time Life Medical,3.75
+48,9802,Rux Martin/Houghton Mifflin Harcourt,4.31
+74,4311,Tor Books,3.66
+61,1923,Anchor Books,4.1
+12,2920,Penguin Books,4.19
+7,10095,Puffin Books,4.08
+12,1849,Penguin Classics,3.78
+62,2562,Random House,4.42
+63,8950,Luna Books,3.91
+32,5698,Ballantine Books,4.07
+37,4915,Graphics Press LLC,4.15
+46,5564,Penguin Books,4.5
+25,1067,Ballantine Books,3.38
+78,11036,Kodansha,3.54
+73,2995,Alfaguara,4.16
+49,7975,Shepard Publications,3.77
+62,5154,Fourth Estate Ltd,3.76
+34,9615,Springer,4.15
+84,3996,Salamandra,3.82
+54,8401,Del Rey,3.92
+79,9014,Basic Books,4.21
+70,574,Owl Books (Henry Holt),3.63
+0,5507,Berkley Sensation,4.14
+37,2176,Random House Books for Young Readers,4.08
+89,5996,Anchor,4.01
+11,5853,Ballantine Books,3.71
+73,426,HarperOne,3.7
+77,5730,Random House Audio Publishing Group,4.03
+58,6149,Copper Canyon Press,4.04
+16,5769,Roc,3.82
+20,8995,Orbit,3.99
+9,1812,HarperTorch,3.6
+34,39,Amistad,3.83
+85,8914,Corgi,3.94
+67,7137,Random House Trade Paperbacks,3.74
+16,8553,Signet,3.93
+42,5497,FASA Corporation,3.71
+98,1802,University of Chicago Press,4.28
+29,7496,Northwestern University Press,4.18
+52,2740,Houghton Mifflin,3.93
+35,5036,New York Review of Books,4.23
+17,1131,Grand Central Publishing,3.91
+11,10454,Grand Central Publishing,4.35
+67,4426,Minotaur Books,3.88
+40,9391,University of California Press,4.31
+98,2828,Orion Publishing Co.,3.8
+65,10094,Henry Holt and Company,4.24
+35,6582,Babel,3.99
+80,10522,Doubleday,4.09
+85,7007,Plume,3.62
+43,553,Oxford University Press  USA,3.64
+34,5044,Barnes  Noble Classics,3.86
+17,5067,Multnomah,3.71
+8,4816,Disney Press,4.5
+61,3922,DAW,4.01
+41,8955,Ballantine Books,4.03
+27,3591,Gramercy Books,4.03
+53,2393,Harlequin Temptation,3.59
+11,3842,Back Bay Books,3.7
+11,2261,Firebird,3.68
+10,4678,Oxford University Press,4.24
+31,7467,DAW,3.88
+74,10823,Amistad,3.72
+47,2753,Ballantine Books,3.94
+48,10441,HarperCollins,4.17
+97,6572,Square Fish,4.08
+61,2621,William Morrow,3.72
+85,6926,Basic Books,3.91
+23,6848,Digital Manga Publishing,3.94
+45,1120,Yearling,4.02
+0,6511,Sterling,3.91
+23,10582,First Avenue Editions (Tm),3.64
+17,3867,Random House,3.91
+90,9961,McGraw-Hill Companies,3.33
+37,9057,Harlequin Blaze,3.73
+37,4985,Harry N. Abrams,4.16
+73,10258,Houghton Mifflin Harcourt,3.6
+85,4935,Mariner Books,3.89
+67,8476,Schocken,3.95
+16,2167,Random House Books for Young Readers,4.18
+42,1479,Vintage,3.69
+21,2913,Simon  Schuster Audio,3.8
+21,8775,Serpents Tail,4.17
+58,9375,Candlewick Press,4.37
+51,6812,Penguin Books Ltd,3.92
+10,4661,Random House Value Publishing,4.01
+77,7668,Yearling,4.12
+54,4924,Punto de Lectura,4.15
+60,7994,Praeger,4.43
+20,5016,Cambridge University Press,3.74
+70,10242,Signet,3.98
+82,1981,Gallimard,4.1
+60,2257,Puffin,4.39
+77,4363,Vintage,3.89
+81,7958,Icon Books,3.58
+94,3778,集英社,4.25
+65,1150,Cliffs Notes,3.61
+51,10771,Dover Publications,4.12
+88,4990,Hard Press,4.32
+15,8993,Blanvalet Taschenbuch Verlag,3.57
+78,8035,Picador,4.33
+73,2633,Penguin Books Ltd,3.88
+33,1983,Mariner Books,4.0
+15,5951,Vertigo,3.41
+25,10315,Dey Street Books,3.66
+29,6471,Nick Hern Books,4.02
+22,9698,Bloomsbury Publishing PLC,3.75
+26,7816,Salani,4.37
+71,7314,Chicken House,3.73
+41,10746,HarperOne,3.83
+23,6392,Turtleback Books,3.85
+47,1412,Cliffs Notes,3.5
+73,3341,Alfred A. Knopf,3.88
+87,3763,Del Rey,4.28
+69,8584,Applewood Books,3.89
+56,9044,Cliffs Notes,3.79
+79,6479,Pinnacle,3.72
+97,2905,Vintage Classics,3.56
+11,6936,Atria Books,3.89
+79,316,Pinnacle,4.04
+6,10818,Simon  Schuster Books for Young Readers,3.75
+44,5213,A Harvest Book/Harcourt  Inc.,4.07
+82,7995,Blackstone Audiobooks,4.32
+51,10383,Bloomsbury Arden Shakespeare,3.76
+25,7139,Vintage,3.91
+15,4364,Penguin Classics,3.82
+29,7094,MIT Press,4.0
+83,9272,Cavendish Square Publishing,4.0
+61,3267,Vintage,4.15
+36,9598,Random House Inc.,4.45
+45,379,Tor Classics,3.58
+60,10841,HarperCollins Espanol,4.17
+59,3779,集英社,4.26
+31,8958,Dell,3.62
+65,3823,Gallery Books,4.12
+8,3619,Quill,3.77
+99,1831,St. Martin's Press,3.86
+13,3636,Headline,4.04
+31,10225,Shambhala,4.58
+75,481,Kessinger Publishing,4.1
+37,2374,Free Press,4.23
+64,9507,Pocket Books,3.47
+46,3771,VIZ Media LLC,4.22
+9,9885,Vintage Crime/Black Lizard,3.91
+45,2103,Signet Classics,3.61
+58,959,Dover Publications,3.74
+56,5030,Dover Publications,3.6
+89,7288,University of Georgia Press,4.09
+79,5222,Beach Lane Books,4.08
+26,364,Jossey-Bass,4.05
+10,2818,Houghton Mifflin Harcourt P,4.05
+89,5655,Scholastic Paperbacks,4.11
+59,4133,Tyndale Momentum,4.34
+25,2676,Tantor Media,3.84
+31,6123,Harper Perennial,3.82
+44,8195,Penguin Books,3.94
+99,638,Simon  Schuster,4.04
+5,6549,Viking Books,3.42
+7,8527,Modern Library,3.88
+98,4703,Severn House Publishers,3.47
+49,1953,Oxford University Press  USA,3.94
+2,9572,Anchor Books,3.96
+31,1546,Delta,3.87
+85,9215,Free Press,4.1
+75,10027,Tantor Media,3.86
+97,863,Penguin Books,3.58
+28,7858,Jove,3.9
+92,8007,Arkana,4.0
+21,10895,Hamish Hamilton Ltd,3.62
+79,10986,Running Press Book Publishers,3.16
+48,9780,Plume Books,4.04
+16,9478,Ash-Tree Press,4.0
+11,1863,Sterling,4.3
+21,4987,Harry N. Abrams,4.01
+25,9360,Avon,3.9
+86,1523,Dover Publications,4.04
+42,10847,Vintage,3.73
+76,2854,Simon  Schuster Audio,3.78
+8,536,New City Press,3.94
+27,644,Bantam Books,4.14
+89,9160,Wasendorf & Associates Inc,3.93
+15,3307,Yale University Press,4.07
+30,2005,St. Martin's Paperbacks,4.1
+95,645,Bantam Books,4.17
+72,10244,Modern Library,4.08
+64,3046,Fontana,4.07
+22,8018,Everyman's Library,4.44
+66,3722,VIZ Media,4.41
+13,793,Hachette Books,3.98
+69,2686,Debolsillo,3.71
+77,4033,Wenner Books,4.11
+51,10578,Abacus,4.25
+40,4542,HarperCollins Publishers,3.94
+55,3519,Harper Perennial,3.59
+49,8232,Games Workshop(uk),3.77
+27,440,Harvard University Press,4.29
+36,1008,Hyperion,3.93
+21,7000,Firebird Books,3.98
+26,9394,G.P. Putnam's Sons,4.18
+59,10375,Penguin Classics,4.25
+61,9208,Aris & Phillips,4.2
+48,10760,Orion,4.02
+63,389,Prometheus Books,4.47
+32,6353,Gramercy,4.17
+58,949,Avon,4.25
+8,1000,Simon & Schuster,3.52
+29,3136,Blanvalet Taschenbuch,4.17
+9,2566,Hackett Publishing Company  Inc.,4.35
+11,4354,Signet,4.14
+69,3243,Anchor,3.81
+93,4136,Bethany House Publishers,3.31
+67,5249,Gollancz,4.14
+85,8677,William Morrow Paperbacks,3.87
+45,6649,Bantam,3.9
+97,5354,Stanford University Press,3.68
+98,5183,Penguin Books,4.29
+58,322,Ballantine Books,3.66
+57,2732,BBC Audiobooks,3.87
+18,10132,Orb Books,4.32
+43,486,Penguin Books,3.97
+4,6561,Laurel Leaf Books,3.82
+16,4558,Harry N. Abrams,4.23
+15,2425,Holt Paperbacks,4.02
+77,3962,Imprint Academic,4.14
+54,767,Mariner Books,4.11
+27,53,Dramatists Play Service,3.75
+21,1842,HarperAudio,4.16
+83,2097,Thomas Nelson,4.33
+73,3405,Harper Perennial,4.04
+26,9661,Parker Publishing Llc,4.12
+94,2402,Knopf Publishing Group,3.69
+1,2464,Thunder's Mouth Press Books,3.17
+71,3047,Harper,4.2
+68,10281,NAL,3.89
+63,10877,Mariner Books,3.94
+7,3969,ADV Manga,4.0
+20,2494,W. W. Norton & Company,4.08
+18,4159,Bison Books,3.95
+42,7056,Penguin,3.72
+32,5653,HarperCollins,4.13
+63,7377,Oxford University Press,3.96
+50,2031,Mythopoeic Press,3.79
+14,9126,Anchor,4.29
+49,1781,Fawcett,3.71
+4,9462,Ballantine Books,4.08
+73,8079,Cambridge University Press,3.84
+28,5088,Ace,3.98
+64,4030,Salamandra,3.16
+60,543,University of Oklahoma Press,4.32
+35,6217,Riverhead Books,3.74
+79,521,Anagrama,4.14
+46,10712,Penguin Books,3.6
+63,9734,Scholastic Paperbacks,4.16
+9,9465,Miramax,4.36
+61,5092,Seix Barral,3.38
+92,5056,Cambridge University Press,3.94
+43,5794,Nova Audio Books,4.09
+48,6101,Schocken,4.35
+26,6879,Blu,4.15
+4,4609,Bison Books,3.39
+40,268,Payot,4.1
+19,3150,Penguin Signet,4.44
+28,7519,Leisure Books,4.0
+55,5989,Disinformation Company,3.87
+44,8351,Felony & Mayhem,3.51
+11,5241,Polity Press,3.88
+32,1326,Black Swan,3.63
+88,9891,Avon Books,3.52
+0,10605,Sidran Press,4.25
+7,9949,HarperCollins,3.93
+21,10637,Verso,4.01
+73,10681,Ace,4.07
+24,2500,Dover Publications,3.77
+12,4325,Del Rey,3.96
+95,2655,Harper,4.18
+16,1904,Plume,4.01
+76,1407,Farrar  Straus and Giroux,4.32
+74,3601,Warner Books (NY),3.96
+58,4845,Dover Publications,3.5
+79,838,Harper Perennial,3.69
+51,4145,Pan Publishing,4.04
+87,3447,Mariner Books,4.29
+95,10152,DAW,3.44
+52,2279,Tommy Nelson,3.99
+43,2160,Cliffs Notes,3.67
+47,4750,Crown Publishing Group (NY),4.22
+28,6903,Silhouette,3.92
+91,5066,Farrar  Strauss & Giroux-3pl,3.58
+33,1903,Ballantine Books,3.45
+33,3475,Avon,4.32
+76,9823,W. W. Norton  Company,3.77
+62,6615,Starscape,3.65
+76,2749,Rowohlt Tb,3.8
+48,5145,Night Shade,3.84
+40,9512,Anchor Books,3.81
+14,7830,Berkley Sensation,4.21
+8,7601,Riverhead Books,4.09
+57,903,University of California Press,3.86
+26,2378,Del Rey,4.2
+76,4461,Library of America,4.28
+66,5918,Chatto & Windus,4.11
+30,8316,東立,4.58
+19,4405,Penguin Classics,4.18
+75,10432,Cliffs Notes,3.5
+47,6048,Avon Books,3.78
+29,6499,W. W. Norton  Company,3.99
+91,7312,Scholastic Paperbacks,3.88
+37,4021,Vintage,4.1
+74,8324,Focal Press,3.83
+86,719,Three Rivers Press,3.93
+83,9130,It Books,4.18
+65,9113,Del Rey,3.88
+99,3882,Dabel Brothers Productions,4.45
+27,818,Penguin Books,3.74
+35,6907,Putnam Adult,4.4
+98,6182,DK Publishing (Dorling Kindersley),4.14
+71,3502,IndyPublish.com,4.14
+18,646,Bantam,4.22
+77,7423,Wizards of the Coast,3.74
+84,2491,Amherst Media,3.38
+78,7946,Goldmann,3.6
+86,10776,Zondervan,3.36
+25,408,Signet Classics,3.86
+36,7728,Random House Books for Young Readers,3.41
+90,2952,Grove Press,3.86
+57,7232,Alianza Editorial,4.04
+45,4905,Dey Street Books,4.16
+14,9151,Random House Audio,4.19
+68,2819,DeBolsillo,4.12
+23,7940,Blanvalet Verlag GmbH,3.92
+84,9499,HarperCollins,4.17
+1,6585,Ballantine Books,4.18
+94,10768,Oxford University Press,4.0
+70,5111,University Press of Mississippi,3.69
+90,4282,London : Faber  2002,3.07
+28,1099,Anchor,3.57
+30,5837,Random House Audio,4.26
+14,10119,Tor Books,3.7
+19,5252,Oxford University Press  USA,3.84
+81,6884,Random House (Vintage),3.64
+25,3546,Viking,3.84
+86,5162,Vintage,3.82
+70,5732,Random House Audio,3.82
+72,470,Oxford University Press  USA,4.02
+84,5530,Del Rey Books,3.88
+5,5696,Arcadia Publishing,4.5
+60,4247,Deutscher Taschenbuch Verlag,3.54
+64,3214,Penguin Books,3.87
+27,9430,Welcome Books,4.88
+97,5868,Alfred A. Knopf,3.53
+53,10957,School Specialty Publishing,4.37
+56,6737,HarperCollins,3.67
+4,10894,Columbia University Press,3.88
+75,2984,Holt Paperbacks,4.03
+86,1744,Crossroad,4.28
+13,1158,Polyface,4.01
+78,9866,Penguin Books,4.14
+47,10527,Penguin Group (USA),4.2
+0,9326,Taschen,3.84
+42,4252,Houghton Mifflin Harcourt,4.35
+13,8008,Vintage,3.79
+67,9609,Seven Stories Press,3.96
+66,1218,St. Martin's Griffin,4.16
+60,4723,DC Comics,3.94
+15,1816,St. Martin's Press,4.17
+83,150,Booket,4.02
+61,612,Lerner Publications,3.84
+59,851,Roxford Books,4.0
+41,3808,Harcourt,3.88
+60,9985,MetroBooks (NY),4.0
+21,8186,Faber & Faber,4.2
+20,7813,HarperCollins,4.15
+66,3796,Dover Publications,3.71
+64,3499,Modern Library,3.97
+92,560,Tarcher,3.42
+54,1766,Penguin Books,4.28
+7,5535,Teaching Resources,4.33
+1,8415,Bloomsbury Arden Shakespeare,3.8
+74,5492,HarperCollins Leadership,4.11
+72,1841,Berkley Books,3.93
+93,10783,Berkley Books,4.05
+45,4976,Miramax,4.04
+77,1878,Puffin Books,4.1
+42,10832,Acento Editorial,4.21
+81,1498,Cartwheel,3.34
+73,9440,HarperPerennial,3.79
+0,8623,Penguin Classics,4.17
+20,6134,Vintage,3.96
+58,9588,Collins Reference,3.45
+20,8160,Ballantine Books,3.85
+82,9725,Vintage,4.09
+93,3641,Grand Central Publishing,2.86
+83,3367,Modern Library,3.4
+39,5229,Grand Central Publishing,3.34
+24,348,Clarkson Potter,3.96
+30,6081,Glénat,4.08
+88,7379,Oxford University Press,3.99
+58,6075,小学館,4.3
+40,3244,Arrow,4.11
+9,6949,VIZ Media LLC,4.0
+24,1394,Harvard Business Review Press,3.91
+8,723,Houghton Mifflin Company,3.98
+76,2152,Usborne Books,3.35
+60,3818,Orchard Books,4.17
+61,4522,Black Dog & Leventhal Publishers,3.97
+47,7462,HarperVoyager,4.11
+45,9374,Bantam,3.63
+61,8159,Distribooks,3.28
+35,733,Simon & Schuster,4.06
+56,75,Thomas Nelson,4.28
+96,996,Cooper Square Press,4.19
+71,9156,Wiley,4.02
+70,5296,Jossey-Bass,4.05
+36,9497,Gramercy Books,4.35
+5,10126,Random House Trade Paperbacks,4.08
+36,6481,Listening Library,4.27
+90,8479,Pocket Books,3.72
+6,7124,HarperOne,4.15
+86,4563,BBC Audiobooks,4.34
+27,3976,VIZ Media LLC,3.79
+35,5846,Grand Central Publishing,3.93
+71,4478,HarperCollins,4.06
+38,422,Cambridge University Press,4.02
+6,8975,Aladdin Paperbacks,3.67
+77,9316,DC Comics,4.04
+96,5539,Deseret Book Company,3.78
+18,6097,Little  Brown Books for Young Readers,3.84
+91,10140,Dundurn,4.0
+91,235,Plume,3.69
+72,4809,Basic Books,4.18
+25,4460,Simon  Schuster,3.92
+10,534,Penguin Books,3.55
+78,2967,Gold Eagle,3.87
+79,703,Vintage,4.2
+70,1786,Harper Trophy,4.29
+40,1772,Steerforth Press,4.19
+39,4280,Little Brown and Company,3.31
+1,6256,Mariner Books,4.14
+96,2230,Del Rey,3.9
+92,4712,St. Martin's Griffin,4.19
+1,371,Prentice Hall Press,3.76
+12,566,Anchor Books,3.98
+16,985,Penguin Books,3.85
+33,1424,Scholastic,3.97
+58,4761,Farrar  Straus and Giroux,3.95
+69,4368,Knopf,4.04
+67,4321,Del Rey,4.27
+63,2435,Grosset & Dunlap,4.05
+36,843,Shaw Books,4.12
+96,7688,Prentice Hall,3.76
+56,2810,Fawcett Books,4.02
+45,5691,Poisoned Pen Press,4.03
+44,3576,Penguin Classics,3.98
+62,3207,Vintage Books,3.65
+35,3946,Farrar  Straus and Giroux,3.99
+42,8277,Basic Books,4.07
+30,3212,Amistad,3.78
+33,7709,Penguin,3.73
+66,7026,Luna Books,4.0
+41,3113,Vintage,4.11
+14,3253,Bantam Spectra,4.08
+6,9247,Price Stern Sloan,3.0
+99,9042,Orbit,3.82
+92,9570,Reaktion Books,3.96
+33,3477,Avon,4.25
+31,8049,Back Bay Books,3.76
+36,3854,TokyoPop,4.37
+80,710,Grand Central Publishing,4.07
+31,10062,Orion Publishing Group,3.96
+95,3824,Everyman Chess,4.52
+26,1756,Penguin,3.92
+74,5971,DC Comics Vertigo,4.24
+88,1154,Ballantine Books,4.18
+91,5926,Random House Audio,3.59
+22,1828,Modern Library,3.7
+8,9515,Bristol Classical Press,3.67
+9,6733,Carlsen,4.3
+17,9020,Grand Central Publishing,4.09
+3,8913,Corgi,4.0
+67,6062,DeBolsillo,3.95
+79,1178,Robert Laffont,4.17
+97,9219,Riverhead Books,3.9
+4,3129,Ballantine Books,4.08
+15,16,Broadway Books,3.9
+40,175,Harper Perennial,3.69
+18,8946,Praeger Publishers,4.2
+26,2983,Wisdom Publications,4.3
+38,9983,Tor Books,3.7
+44,8529,Del Rey Books,4.25
+42,1484,Grand Central Publishing,4.02
+68,8184,Da Capo Press,3.92
+81,5374,Modern Library,3.98
+62,5115,Routledge,3.9
+24,7497,Mariner Books,3.91
+6,9968,Greenwillow Books,4.37
+25,3869,Simon Pulse,4.32
+94,1747,Vision Forum,4.1
+86,5401,Picador,4.04
+46,1547,Island,3.86
+17,2383,Harmony,4.35
+98,3893,Wisdom Publications,4.22
+12,4291,Avon Books,3.25
+10,5298,Simon & Schuster Audio,4.02
+66,9284,Chaosium,3.75
+63,6106,Gramercy Books,4.3
+36,5328,W. W. Norton & Company,3.82
+25,1495,Dell,3.9
+18,735,Simon  Schuster,4.2
+82,2754,Napoleon and Co,4.0
+85,6115,DAW,3.99
+32,10497,Greenwood Press,0.0
+63,4656,Touchstone,3.82
+15,2330,Putnam Publishing Group,3.87
+69,8220,New Directions Publishing Corporation,4.32
+45,6313,Peerage Books,4.48
+12,7911,Hachette Books,3.94
+35,2363,W. W. Norton  Company,3.97
+53,8212,Bethany House Publishers,4.19
+10,10805,Mariner Books,3.59
+25,3388,Rizzoli,4.47
+33,6317,DK Children,3.91
+61,9747,Houghton Mifflin Company,4.08
+56,5592,Houghton Mifflin Harcourt,4.25
+82,493,Cambridge University Press,3.7
+69,7663,Broadway Books,4.23
+62,1303,Harper Perennial,4.04
+39,7726,William B. Eerdmans Publishing Company,3.88
+21,3152,Book of the Month Club,3.92
+20,2888,Secker,4.16
+94,3314,Penguin Classics,3.95
+37,10534,Dell,3.86
+55,8562,Scribner,4.0
+72,3845,Greenwillow Books,4.05
+44,4078,J'AI LU,4.17
+27,1183,Minotaur Books,3.84
+13,7878,Blanvalet Taschenbuch Verlag,4.06
+52,888,Delacorte Books for Young Readers,4.01
+80,10136,Silhouette Books,3.86
+3,2398,Virago UK,3.71
+98,2860,Signet,3.71
+62,6600,Dalkey Archive Press,3.81
+40,5087,Barnes  Noble Classics,4.11
+48,5512,Washington Square Press,3.65
+11,9496,Gramercy,4.3
+92,8863,Knopf Publishing Group,3.61
+52,10103,Bloomsbury Publishing PLC,4.0
+43,52,Farrar  Straus and Giroux,4.23
+30,3896,Tor,4.09
+15,5228,Del Rey,4.39
+77,3793,VIZ Media LLC,4.43
+74,4938,New York University Press,3.95
+31,282,Ignatius Press,4.27
+98,10024,Bison Books,3.7
+5,1518,Library of America,4.26
+39,7910,Grand Central Publishing,3.49
+33,1066,John Wiley & Sons,3.77
+40,6324,Leisure Books,3.36
+96,2138,W.W. Norton & Company,3.94
+15,9489,HarperCollins,4.25
+39,3846,New American Library,4.08
+60,9622,Allyn & Bacon,3.65
+9,8473,Barnes  Noble Classics,4.36
+50,79,Wiley,3.5
+69,3886,AvonEos,4.02
+35,788,Penguin Books,3.85
+70,6190,Eminent Lives,3.87
+69,7789,Yellow Jersey,3.72
+90,286,VIZ Media LLC,4.56
+22,6629,Quinteto,3.89
+67,8449,Little  Brown & Company,4.34
+98,10747,Harper Element,3.83
+97,9074,Pocket Books,3.95
+67,5029,Reclam  Ditzingen,3.84
+41,1228,Ronin Publishing (CA),3.83
+57,2295,Harper Trophy,4.05
+98,3101,Tyndale House Publishers,4.42
+69,10673,Goldmann,3.77
+37,3997,Penguin Books,3.92
+30,6401,Scholastic,4.15
+99,8503,Random House Audio,4.0
+18,7670,Pocket Books,3.4
+33,3587,Cambridge University Press,3.68
+57,10926,Dell,4.15
+27,8766,Grand Central Publishing,3.85
+19,2364,Blackstone Audiobooks,4.32
+72,6110,Tor Fantasy,3.41
+0,6897,Cambridge University Press,4.17
+73,7684,Tor Books,3.51
+95,9196,Phoenix Audio,3.99
+46,10203,Picador,3.38
+86,314,Corgi Books,3.71
+18,5587,Little  Brown and Company,4.37
+39,7776,Orion,3.97
+27,2270,Library of America,4.36
+70,8240,Cambridge University Press,4.09
+70,2610,Dial Press,3.96
+34,10353,Orion Publishing Group,3.99
+6,3833,VIZ Media LLC,4.28
+65,4242,SaltRiver,4.13
+77,7163,Mariner Books,4.15
+80,2412,Dover Publications,4.31
+21,3468,Odonian Press,3.99
+46,2677,Alfred A. Knopf,3.84
+93,8822,Atheneum Books for Young Readers,4.39
+92,5551,Bantam,3.99
+3,4781,G.P. Putnam's Sons,3.87
+53,3393,Penguin,3.92
+42,7170,Simon & Schuster,3.68
+71,7735,l'ecole des loisirs,4.17
+64,2438,Dark Horse Comics,2.62
+42,10940,Taunton Press,4.67
+5,95,Barnes & Noble,4.05
+53,2961,Dark Horse,3.43
+52,2969,Modern Library,3.71
+59,9147,Vintage,4.11
+22,549,Wayne State University Press,4.08
+74,6184,Oxford University Press  USA,5.0
+14,5433,Del Rey,3.94
+75,8163,St. Martin's Press,3.74
+53,6672,Scholastic Paperbacks,3.92
+92,10457,Hyperion Books for Children,3.71
+46,4834,Ballantine Books,4.27
+15,7908,Grand Central Publishing,3.56
+97,8017,Penguin Books,4.16
+47,8153,Jove,4.15
+11,4399,Bantam Press,4.29
+11,7529,Wiley,3.99
+85,300,Vintage,4.11
+51,991,ReganBooks,3.62
+76,1734,Penguin Global,4.34
+93,3855,講談社,4.28
+16,5674,Flamingo,3.91
+86,1237,Orion Publishing,3.68
+31,1024,Grand Central Publishing,3.96
+17,2738,Daw Books,4.05
+90,6297,Overlook TP,4.24
+79,5710,Marvel,3.7
+82,2030,Del Rey,3.99
+22,3708,Viking Books,3.77
+10,8685,Dark Horse Books,3.31
+4,9692,Laurel,3.82
+33,8824,Oxford University Press  USA,4.07
+32,881,Shueisha,4.22
+33,7510,Harvard University Press,4.18
+57,2053,Prometheus Books,3.77
+34,5487,Firebird,3.74
+46,1884,Pelican Publishing,4.04
+64,2711,Schocken,3.98
+49,2289,HarperTrophy,4.15
+61,2651,Tor Books,4.07
+8,10293,Penguin Books,3.9
+40,1738,Modern Library,3.91
+89,9901,Artisan,4.28
+71,4770,W. W. Norton & Company,3.87
+57,5230,Del Rey,4.34
+9,6332,Bloomsbury USA,3.81
+91,4352,Oxford University Press  USA,4.0
+49,10505,Possibilities,4.43
+26,4640,Ace Books,3.7
+15,5429,Berkley,3.84
+82,2041,Ballantine Books (NY),3.76
+67,4432,Heyne,4.03
+1,631,Vintage Crime,4.01
+96,10560,HarperPaperbacks,4.05
+75,2559,Modern Library/Random House (NY),4.24
+57,5987,Disinformation Company,3.84
+5,2937,Simon  Schuster,3.94
+28,33,Changeling Press,3.76
+27,7035,Vertical,3.61
+76,7037,Silhouette Books,3.81
+52,10911,Three Rivers Press,3.58
+24,3917,Luna Books,3.83
+94,1383,Picador,3.98
+84,152,Ace,3.92
+58,6381,Ulysses Press,4.0
+9,10083,Penguin Books,3.95
+69,7031,Pocket Books,4.29
+63,7347,New Directions,4.21
+70,2903,Gallery Books,3.96
+31,7635,Serpent's Tail,3.92
+84,1969,Anchor Books,3.78
+61,10101,For Dummies,3.57
+24,765,Crossroad,4.34
+38,2681,Random House Trade Paperbacks,3.38
+12,1809,Doubleday Publishing (NY),3.84
+61,5860,Berkley,3.72
+51,9738,Silhouette,3.76
+43,7022,B Books,4.09
+16,9729,Random House Value Publishing,4.33
+78,6981,Prentice Hall,3.85
+19,9644,Bantam Books,3.38
+21,5854,Signet,3.72
+62,2776,Trine Day,3.92
+60,6028,Vintage,3.46
+36,6786,Princeton University Press,3.89
+66,924,Alcoholics Anonymous World Services Inc,4.45
+0,11057,Vintage International,3.7
+15,4838,Cambridge University Press,4.16
+74,1023,Warner Books,3.84
+89,5178,Vintage,4.27
+3,8203,Scholastic Paperbacks,3.86
+60,1212,Harper Business,3.99
+69,4187,W.W. Norton & Company (NYC),3.58
+7,8179,Harvest House Publishers,4.0
+83,11005,Little Brown and Company,4.01
+53,1026,Penguin Books,3.7
+7,9833,Hard Crime Case,3.75
+16,1063,Gramercy Books,4.33
+67,10778,Middlesex University Press,3.71
+14,3073,Vintage,3.75
+19,6377,St. Martin's Press,4.17
+16,5192,Princeton University Press,4.56
+83,1583,Random House Books for Young Readers,4.04
+84,1571,Bastei Lübbe,4.34
+52,8447,Random House Audio,4.5
+65,8815,Columbia University Press,4.14
+38,9006,Ellora's Cave,3.63
+67,5672,Fawcett,4.09
+49,10629,Atlas Books/HarperCollins Publishers,3.91
+12,4038,Penguin Books,3.64
+46,7351,Porrua,3.9
+37,359,Gallimard,3.91
+17,6804,Dramatists Play Service,4.0
+70,3738,Penguin,3.75
+98,3974,Penguin Books,3.78
+83,10631,Verso,4.06
+65,6574,Square Fish,4.25
+11,8231,Dark Horse Comics,3.88
+96,2102,Naxos Audiobooks,3.61
+22,10183,Picador,3.78
+66,10162,Writer's Digest Books,3.92
+99,576,Penguin,4.04
+78,9659,Hachette Books,4.0
+25,10440,HarperCollins,3.87
+44,10011,St. Martin's Paperbacks,3.83
+26,3303,Harvard University Press,4.01
+80,537,Ecco Press,4.07
+28,6023,Tyndale House Publishers,4.42
+33,1560,Penguin,3.99
+86,3690,Knopf,4.42
+31,845,Shaw,3.98
+60,4140,Daw Books,3.9
+94,5806,Brilliance Audio,4.09
+27,3580,Scribner,3.74
+53,3806,Glénat,4.12
+41,10739,Ediciones B,3.58
+76,1265,Harper Perennial,4.35
+70,129,Barnes  Noble Classics,3.78
+39,3065,Aladdin Paperbacks,3.97
+72,7368,Yale University Press,4.33
+33,7499,Collier Books,4.02
+95,8293,Pearson,3.68
+28,2001,Oxford University Press,3.99
+5,9458,SparkNotes,4.13
+94,2786,Allen Lane,3.8
+26,214,Cliffs Notes,3.95
+15,8838,Harry N. Abrams,3.85
+29,165,HMH Books for Young Readers,4.53
+50,961,Hackett Publishing Company  Inc. (USA),3.77
+43,6788,Holt Paperbacks,4.21
+88,1682,University of Oklahoma Press,4.3
+39,1553,Delta,3.68
+8,2883,Dial,3.84
+21,8073,Melville House Publishing,3.59
+41,3656,Random House,4.13
+15,6684,Editions de l'Olivier,3.77
+4,5826,Grand Central Publishing,4.1
+29,6890,Findakly,3.87
+26,2454,Abdo Publishing Company,4.51
+99,4353,Indiana University Press,4.0
+66,4972,HarperCollins,4.41
+2,5715,Vertigo,4.29
+71,1022,Roca Editorial,4.15
+48,2592,Tor Books,3.95
+99,6805,Alfaguara,3.73
+92,588,Planeta Publishing,3.68
+2,3688,Counterpoint LLC,3.65
+12,2478,Bantam Press,3.99
+27,3097,Bookspan,3.94
+73,5841,RH Audio,4.27
+76,8400,Del Rey,4.09
+79,7793,Warner Books (NY),4.13
+38,4060,Grand Central Publishing,3.66
+5,1011,Doubleday Canada,3.88
+81,3041,Penguin,4.1
+22,5707,St. Martin's Paperbacks,3.77
+88,1360,Douglas  McIntyre,3.85
+33,5485,Little  Brown & Company,4.42
+56,178,Penguin Classics,3.69
+40,8078,Harper Perennial,3.79
+78,1715,Bethany House Publishers,3.83
+80,4936,Washington Square Press,3.72
+23,8704,Routledge,3.9
+49,2646,Sudamericana,3.91
+75,9643,Bantam Books,3.44
+71,8006,Arkana/Penguin,4.26
+76,7112,Berkley,4.04
+64,10231,Simon  Schuster/Paula Wiseman Books,3.73
+34,7147,Johns Hopkins University Press,3.97
+50,5035,Viking Adult,4.11
+76,6836,Nelson Current,4.24
+74,6794,Atria Books,3.28
+45,1267,Plaza y Janes,3.78
+21,5403,Faber and Faber,3.85
+54,7164,William Morrow,4.08
+19,5208,Mariner Books,4.17
+26,5394,HarperCollins Publishers,3.4
+92,707,Vintage,3.8
+59,4662,Fawcett Books,3.89
+72,7591,Wizards of the Coast,4.05
+57,10066,HarperOne,4.13
+10,1887,Penguin (Non-Classics),3.89
+54,9581,House of Stratus,3.94
+43,1634,Vintage Classics,4.32
+35,5895,Ace Books,4.01
+10,1803,Paul Dry Books,4.58
+2,10417,HMH Books for Young Readers,3.86
+62,956,Simon and Schuster,4.09
+32,1871,Fount,4.22
+77,8943,St. Martin's Griffin,4.14
+73,9341,Chatto  Windus,3.92
+87,4607,Wiley,4.26
+3,7865,HarperTorch,4.26
+13,3865,Random House,4.15
+9,7959,Routledge Classics,3.79
+90,10646,McSweeney's,3.73
+32,4124,時報出版,3.79
+88,6947,Soho Press,3.97
+91,5025,St. Martin's Griffin,3.77
+10,1241,Viking,3.59
+92,10143,Gollancz,3.96
+43,10394,Griffin,3.93
+1,3435,Counterpoint LLC,3.63
+11,10786,Bantam Press,4.36
+96,1629,Everyman Paperback Classics,3.32
+90,3118,Vintage,4.11
+82,8511,Signet,3.93
+2,335,Vintage,4.51
+57,840,Crown Publishing Group (NY),4.1
+57,8340,Arrow,3.88
+15,5081,Houghton Mifflin Harcourt P,3.9
+32,5051,Cambridge University Press,3.98
+99,10254,McClelland & Stewart,4.11
+43,3552,Oxford University Press,3.18
+1,547,Harvard University Press,4.52
+46,750,Jove,3.96
+30,632,Vintage Crime/Black Lizard,4.22
+69,4843,Casa Creacion,4.18
+73,4966,Emecé Editores,4.17
+32,7165,Harper,4.15
+30,6070,小学館,4.29
+95,10072,Taschen,3.43
+16,7704,Penguin Books,4.34
+42,671,Oxford University Press,4.14
+56,2298,HarperFestival,4.19
+77,5924,Anchor,3.59
+70,2604,No Exit Press,4.05
+81,1578,Penguin Classics,4.08
+63,2572,Thomas Nelson,4.35
+66,7891,Be Beautiful,4.33
+64,870,VIZ Media LLC,4.36
+44,8667,Chalice Press,3.77
+23,8066,Vivendi,3.81
+12,5580,Henry Holt and Co. (BYR),3.98
+80,10404,Applause Theatre & Cinema Book Publishers,3.81
+69,9680,St. Martin's Press,4.03
+38,3457,Mariner Books,3.88
+67,6813,Bradford Book,4.5
+29,10320,Spectra,4.16
+63,3083,Vintage Books,3.93
+42,6282,Viz Media,4.22
+58,6090,Bantam,3.99
+44,699,HJ Kramer,4.15
+33,6199,University of Wisconsin Press,3.5
+65,4857,Berlitz Kids,4.14
+72,6855,Digital Manga Publishing,3.99
+9,2043,Modern Library,3.92
+85,8222,Reclam  Leipzig,4.06
+34,6417,Candlewick,4.08
+54,10150,Del Rey,3.71
+48,4550,Touchstone,4.17
+73,864,Penguin Books,3.66
+11,6389,Scholastic Paperbacks,4.05
+12,4685,Vintage,4.21
+87,6899,KiWi,3.46
+90,5988,The Disinformation Company (NYC),3.64
+49,6770,Phoenix,3.92
+83,775,Punto de Lectura,3.89
+72,5400,Disney-Hyperion,3.68
+24,10425,Little  Brown and Company,3.97
+45,7095,MIT Press,3.68
+11,1868,HarperSanFrancisco,3.82
+30,8813,Dover Publications,3.98
+55,2512,Chronicle Books,4.33
+31,6845,Kodansha International,4.07
+41,1132,IVP Academic,3.68
+57,8043,Broadway Books,3.99
+3,8492,Rizzoli,4.32
+60,1073,Picador,3.42
+57,2721,Insel,3.74
+86,4947,Dover Publications,4.05
+31,10885,Puffin Audiobooks,4.31
+8,2630,Everyman's Library Classics,4.33
+38,6864,VIZ Media LLC,3.98
+89,6472,Nick Hern Books,4.02
+85,4997,rbooks,4.08
+61,9342,David R. Godine Publisher,3.71
+88,3525,Washington Square Press,4.22
+99,7154,Farrar  Straus & Giroux,3.91
+35,741,Penguin Audio,3.5
+3,4102,Yearling,4.03
+64,5612,University of Pennsylvania Press,3.81
+80,4807,HarperCollins,4.28
+61,8948,Burford Books,3.77
+26,8202,Scholastic Paperbacks,3.83
+51,5593,Cliffs Notes,3.75
+35,9243,University of California Press,3.73
+46,7665,TokyoPop,4.03
+96,4644,Houghton Mifflin Harcourt,3.87
+6,5543,Zondervan,4.0
+82,8557,Anchor,3.69
+87,9788,Holt Paperbacks,3.91
+72,5203,Vintage,2.79
+63,10917,AMR/Advanced Management Reports,0.0
+38,3222,Ecco,3.23
+88,8438,Berkley,3.88
+38,4669,Avon Books,4.04
+17,436,Hackett Publishing Company  Inc.,3.72
+45,2761,Mariner Books,4.43
+11,10345,Yapı Kredi Yayınları,4.42
+8,7824,Luna Books,4.1
+64,6465,Turtleback Books,3.97
+1,10774,Cleis Press,4.27
+97,1110,Heinemann-Octopus,3.98
+68,7159,DK,4.37
+76,9518,Barnes  Noble,3.99
+2,6019,Duke University Press Books,4.11
+25,4909,Vintage,3.93
+2,115,Vintage Crime/Black Lizard,4.05
+36,8587,Random House Trade Paperbacks,4.01
+57,6373,Morgan Road Books,3.83
+30,9454,Oxford University Press,4.07
+47,4666,Fawcett,3.87
+95,5893,Broadway Books,4.12
+16,10137,Mariner Books,3.55
+70,9415,HarperCollins,3.74
+32,2675,Pantheon,4.35
+80,3701,Oxford University Press  USA,3.58
+92,10586,Harper Design,4.24
+98,9080,Del Rey,4.18
+61,3570,BBC Audiobooks America,4.07
+66,3890,Orbit,4.16
+66,6920,Simon  Schuster Books for Young Readers,4.02
+37,8398,Glénat,4.1
+31,1200,Plume,4.08
+64,3683,University of Pennsylvania Press,3.88
+61,7877,Berkley Books,3.82
+98,4034,Bloomsbury Academic,4.27
+47,5944,HarperFestival,4.24
+92,7126,Hackett Publishing Company  Inc.,3.83
+23,1123,Yearling,3.98
+78,10511,Dover Publications,4.3
+67,6129,Vintage,3.77
+82,7977,Penguin Classics,3.92
+63,5093,Warner Books,4.29
+0,1854,Bantam,3.84
+3,10645,McSweeney's,4.29
+30,8828,Viking Adult,4.24
+3,8025,Alfabeta Bokförlag,3.0
+48,6807,Broadway Books,3.98
+42,7160,Kregel Publications,4.2
+95,8005,Picador,3.93
+81,8569,HarperCollins Publishers,3.57
+93,8404,Harper Perennial,3.79
+0,3061,Vintage,3.83
+95,11052,Crossway Books,4.3
+2,9067,Dell,4.08
+19,5523,Little  Brown Book Group,4.18
+40,7899,Simon & Schuster,3.97
+69,8063,Pocket Books/Star Trek,3.93
+55,8554,Modern Library,3.93
+6,3648,Grand Central Publishing,3.93
+54,5147,HarperPrism,4.27
+29,3036,Plume,3.63
+82,2789,HarperCollins,4.24
+86,2171,HarperCollinsChildren’sBooks,4.2
+20,4210,Vintage,4.07
+14,131,The New Press,3.85
+28,10756,Marvel Comics Group,4.45
+14,1517,Modern Library,3.86
+10,5982,Vertigo,4.32
+2,4000,Mariner Books,4.12
+60,10903,Penguin Classics,3.58
+63,5976,Vertigo,4.41
+25,8602,Ballantine Books,2.89
+49,9093,Dark Horse Comics,4.07
+76,11006,Penguin Books  Limited (UK),4.01
+14,189,Farrar  Straus and Giroux,3.87
+80,4116,Inkling Books,4.09
+18,10313,Harry N. Abrams,3.65
+29,8661,Kensington,3.85
+7,1163,Bloomsbury,3.76
+57,1676,Picador USA,3.77
+81,5069,Simon  Schuster,4.05
+92,3836,VIZ Media LLC,4.36
+23,10077,Penguin Books,3.62
+67,8288,Open Court,3.91
+64,10594,Wiley-Blackwell,4.0
+57,8585,Applewood Books,3.89
+90,7077,Howard Books,4.22
+51,5718,Vertigo,4.28
+94,7928,Bantam,3.35
+9,3521,Washington Square Press,4.03
+99,3407,Scribner,4.2
+75,1787,City Lights,4.13
+29,3187,Random House Trade,3.97
+37,4218,Marion Boyars Publishers Ltd,3.9
+36,234,Dover Publications,4.13
+27,9310,Forge,3.71
+85,465,Loeb Classical Library,4.07
+77,5484,Little  Brown & Company (Boston/Toronto),4.43
+52,5288,Dover Publications,4.21
+9,6139,Fontana Press,4.1
+57,7491,DAW Books Inc,4.21
+97,3063,Vintage,3.95
+37,600,Barnes  Noble Classics,3.84
+41,1225,Random House Large Print,3.84
+35,11102,Samuel French Ltd,4.09
+97,10516,Berrett-Koehler Publishers,3.76
+38,3354,University of Chicago Press,3.98
+3,8285,Open Court,3.5
+6,267,Avon,4.25
+18,2488,National Geographic Society,4.24
+71,1138,Gardners Books,3.99
+38,9065,W. W. Norton  Company,4.27
+96,10395,St. Martin's Press,3.85
+92,10927,Grove Press,4.01
+56,2245,Egmont Children's Books,3.98
+43,9986,University of California Press,4.5
+60,2904,Books on Tape,3.91
+98,1541,Modern Library,3.99
+56,6454,Little  Brown Books for Young Readers,3.69
+38,8412,Simon  Schuster,3.83
+44,11097,Simon & Schuster,4.21
+69,1632,Yale University Press,3.39
+69,1605,Warner Books (NY),4.03
+15,3987,Grosset & Dunlap,4.13
+92,9982,Hachette Books,3.53
+45,7638,Viking Books,3.33
+51,4775,Random House Audio,3.86
+41,1661,Barnes  Noble Classics,3.79
+76,7235,Skylight Paths Publishing,3.95
+58,4235,Free Press,4.05
+36,6380,Fithian Press,0.0
+32,4883,Nan A. Talese,3.63
+10,4160,Penguin,4.55
+39,4908,W. W. Norton & Company,3.65
+93,366,Prentice Hall,3.68
+22,9984,Tor,4.36
+99,9678,Sterling,4.2
+19,1330,Ballantine Books,3.3
+87,5444,Picador USA,4.11
+57,10142,Avon,3.95
+42,5531,Scholastic Inc.,3.73
+25,340,John Wiley & Sons,4.13
+72,2589,Phoenix Press,4.26
+74,6390,Scholastic Paperbacks,4.06
+29,5805,Brilliance Audio,4.09
+14,5169,Earthlight,3.69
+67,130,Brookline Books,3.75
+28,1376,Collection of Historical Scientific Instruments,4.5
+14,5765,Ace,3.09
+55,9534,Harvard University Press,3.92
+53,6309,Tor Books,4.18
+0,5455,Penguin Books Ltd.,3.64
+35,3654,Laurel-Leaf Books,3.51
+78,6619,Hodder Children's Books,3.88
+79,8571,Simon  Schuster,3.11
+36,5041,Puffin Books,3.77
+8,6878,Picador,3.85
+25,8703,Dover Publications,4.02
+81,8082,Pan MacMillan,4.07
+33,8322,東立,4.57
+57,5903,John Wiley & Sons,3.86
+21,8381,Pocket Books,3.99
+41,6147,Edicións Xerais de Galicia  S.A.,3.36
+41,784,Penguin Books,3.63
+97,7725,Oni Press,4.17
+10,5942,Tachyon Publications,3.77
+26,5814,Limelight,4.1
+86,9298,MIRA,3.63
+82,4374,Penguin,3.98
+19,7040,St. Martin's True Crime,3.79
+99,2216,William Morrow & Company,4.09
+74,932,University Press of Mississippi,4.0
+59,9141,Houghton Mifflin Harcourt,3.53
+7,10187,Putnam Publishing Group,4.09
+6,5508,Berkley Sensation,3.97
+75,10379,Hachette Books,4.13
+9,3664,Citadel Press,3.96
+36,3360,Transaction Publishers,3.87
+11,6631,Clarion Books,3.64
+79,5797,Brilliance Audio,4.16
+49,3911,Random House,4.14
+98,4142,Vintage,3.98
+56,2720,C. Bange,3.6
+23,1719,Penguin Classics,4.14
+70,10938,International Code Council,3.27
+94,4944,AudioText,3.83
+61,8986,Pocket Books,4.27
+91,4797,Simon  Schuster,3.9
+56,6444,Nonsuch Publishing,4.06
+89,1206,Pragmatic Bookshelf,3.96
+0,4836,Bantam,4.17
+71,3804,ComicsOne Corporation,3.86
+49,4151,Booket,3.58
+36,1909,Berkley Books,4.0
+75,5553,Doubleday,3.44
+55,2296,Doubleday Books for Young Readers,3.99
+83,5343,Warne,4.18
+6,1428,Pocket Books,4.18
+68,6796,University Press of Mississippi,4.13
+94,10593,Oxford University Press  USA,3.5
+98,7226,Harlequin Presents,3.69
+91,5878,New Riders Publishing,3.94
+73,5977,Vertigo,4.41
+60,10035,Random House Value Publishing,4.14
+38,7168,Farrar  Straus and Giroux,4.0
+42,7805,Penguin Books,3.54
+16,2348,Jove,3.97
+98,530,New City Press,4.04
+24,3746,J'ai Lu,4.36
+24,7111,NAL Jam,3.92
+41,3081,Vintage International,3.93
+15,3186,University Press of Mississippi,3.57
+18,718,Dell Yearling,3.69
+72,3196,Vintage,3.91
+39,6740,Wizards of the Coast,4.03
+85,8305,William Morrow Paperbacks,3.87
+51,4081,Dedalus Limited,3.53
+35,1567,Ace,3.43
+45,174,Harper Perennial Modern Classics,3.96
+86,6022,McGraw-Hill Education,3.63
+94,1893,Back Bay Books,4.25
+25,9271,Cavendish Square Publishing,3.83
+53,5113,Pocket Books,3.79
+76,2016,Del Rey,3.99
+46,5864,Berkley,3.71
+55,5911,Little  Brown Books for Young Readers,3.72
+36,3349,Cliffs Notes,3.7
+40,2541,Ballantine Books,3.63
+92,1525,Penguin Books,4.21
+29,6762,Random House Children's Books,3.49
+52,4286,Tor Books,3.86
+18,5126,Bantam Classics,4.06
+37,10248,Simon & Schuster,3.94
+82,2224,HarperTorch,3.39
+7,634,Plume Books,3.82
+45,10607,Anchor Books,4.15
+76,5125,Oxford University Press,3.98
+91,1107,Delacorte Books for Young Readers,3.8
+26,4214,Galahad Books,3.89
+89,1159,Norton,3.92
+56,4509,Anchor Books,3.68
+72,920,Basic Books,4.14
+45,10178,Southern Methodist University Press,4.31
+93,11067,Hyperion Books for Children,3.76
+20,10718,William Morrow,3.82
+67,10682,Mariner Books,3.52
+93,6534,Puffin Books,4.0
+84,1900,Simon  Schuster,4.12
+14,7090,Debolsillo,3.81
+92,1930,Ten Speed Press,3.7
+55,7570,Random House,4.15
+8,7666,Eraserhead Press,3.56
+44,3464,AK Press,3.93
+74,5644,The Berkley Publishing Group,4.02
+27,9956,Yale University Press,4.17
+91,391,Hackett Publishing Company  Inc.,4.06
+57,10123,Random House Trade Paperbacks,4.19
+60,9635,Ecco,3.97
+32,4207,Vintage,3.86
+77,136,Knopf,3.98
+80,2222,F & W Publications Inc.,3.9
+37,8407,Marvel,3.75
+74,1731,Vintage,4.09
+15,3929,Daw Books,4.03
+69,10067,Alpha Books,3.32
+12,6795,Atria Books,3.28
+36,6671,Scholastic,3.75
+56,614,Bloomsbury Academic,3.58
+61,10777,Vintage,3.89
+33,2501,William Morrow Paperbacks,4.01
+35,423,Applause Books,4.44
+14,3485,Debolsillo,3.96
+4,7544,Nick Hern Books,3.61
+85,8434,Bantam,3.71
+64,5581,Barn Owl Books,4.33
+15,3760,Del Rey,4.27
+36,8104,University Press of Mississippi,4.15
+95,8326,Penguin/Viking Compass (Non-Classics),4.03
+82,667,Gramercy Books,4.55
+33,8855,Disney-Hyperion,4.03
+77,4372,Marlowe & Company,4.28
+29,6635,Aurum,4.02
+17,4481,Houghton Mifflin,3.74
+77,10658,Pocket Star,3.78
+4,3538,Berkley Sensation,3.79
+95,923,Walker Books Ltd,3.91
+11,971,Harper,3.93
+54,6533,Cumberland House Publishing,3.7
+25,6024,Pocket Star Books,3.76
+81,6761,Goldmann,3.92
+43,8218,Grand Central Publishing,3.93
+70,383,Warner Books,4.0
+94,4757,Vintage,3.98
+51,1640,Vintage,3.94
+87,441,Bryn Mawr Commentaries,4.5
+74,6133,Heinle,3.39
+16,9302,Puffin Books,3.8
+27,5537,McDougal Littel,2.0
+26,8317,東立,4.6
+92,10567,Holiday House,4.18
+56,2274,Griffin,4.18
+17,6283,Viz Media,4.19
+30,10704,Berkley,3.85
+74,4637,Filiquarian Publishing  LLC.,3.42
+29,5842,Hachette Audio,4.05
+85,8437,Bantam,3.82
+7,2600,Berkley Books,4.12
+76,2814,North Atlantic Books,4.41
+0,5356,Phoenix Books/University of Chicago Press (IL),3.95
+22,90,Signet,4.05
+26,5491,Ace Books,3.98
+70,3478,Random House Trade Paperbacks,4.3
+5,6166,Alfred A. Knopf,3.84
+97,9940,Éditions 10/18,4.02
+60,6207,Severn House Publishers,3.4
+75,5160,Chosen Books,4.36
+4,10554,Oxford University Press  USA,3.99
+99,8013,Keep It Simple Books,4.25
+73,3533,Harper Perennial Modern Classics,4.42
+77,1620,W. W. Norton  Company,3.98
+40,2113,Amistad,3.79
+66,6186,Penguin Books,3.85
+56,5236,HarperCollins,3.88
+6,7214,New City Press,4.08
+50,6411,Cambridge University Press,3.8
+43,5341,The Putnam & Grosset Group,4.24
+73,2736,Daw Books,4.02
+21,1843,Berkley Books,3.41
+27,6504,Rowman & Littlefield Publishers,3.52
+57,3203,Belknap Press,4.22
+52,6906,Putnam,4.0
+92,2153,Sterling,3.97
+28,3640,Grand Central Publishing,3.96
+16,1387,Galahad Books,4.17
+89,9000,Fandemonium Books,3.79
+69,8758,Umbriel,3.72
+49,4023,Vintage,3.99
+16,8962,Bold Strokes Books,4.21
+47,2068,Abacus,3.68
+79,7358,Penguin Books Ltd,3.72
+2,2388,Vintage,4.21
+89,6482,VIZ Media,3.75
+51,8507,Signet,3.64
+59,2044,Puffin Books,4.07
+22,1238,Riverhead Books,3.74
+41,1805,Focus,4.04
+56,8518,Vintage,3.7
+60,5561,Bantam Books (NY),3.69
+41,1080,Vintage,3.66
+51,7796,Vintage,3.67
+30,9109,Lucas Books,4.14
+78,5834,HarperAudio,4.25
+7,3622,Cooper Square Publishers,4.03
+49,2864,Signet,4.0
+89,3025,Schocken,4.14
+9,9436,Poppy,3.52
+3,4764,Nan A. Talese,3.9
+16,2327,Applewood Books,3.82
+13,6223,Anchor,4.02
+90,8045,Broadway Books,4.06
+13,7399,McGraw-Hill Professional Publishing,0.0
+44,55,Routledge,3.94
+19,9791,St. Martin's Paperbacks,4.14
+68,6559,Penguin Books,3.94
+53,1730,Little  Brown Book Group,4.0
+17,10732,Byblos,3.89
+12,1581,Ember,3.83
+98,5936,Scribner Book Company,3.5
+90,6148,Tarcher,3.82
+89,569,Warner Books (NY),4.01
+11,2834,Black Swan,3.83
+2,2209,HarperTrophy,4.23
+31,1076,Alfred A. Knopf,3.51
+89,6038,Bantam,3.94
+27,11072,Plaza y Janes,3.77
+62,5738,Little Brown and Company,3.73
+89,4125,BradyGames,5.0
+10,5103,Disinformation Books,3.46
+36,44,Farrar  Straus and Giroux,4.42
+93,3092,Library of America,3.9
+23,3899,Tor Books,4.33
+75,10900,Debolsillo,3.9
+92,7323,Stonewall Inn Editions,4.37
+59,872,集英社,4.43
+84,10659,Pocket Books,3.72
+79,10279,Signet Classics,4.02
+72,6766,Dey Street Books,4.16
+79,1663,Vertigo,4.25
+83,7526,Dutton,4.04
+77,5999,Bradygames,3.96
+80,6815,Penguin Books,3.99
+91,1230,Random House Audio,3.84
+0,4327,Del Rey,4.16
+39,8564,Penguin Books,3.56
+19,7177,Tyndale House Publishers,4.03
+79,1411,Barnes  Noble Classics,4.32
+93,9899,Vintage Classics,4.16
+99,984,Ballantine Books,3.87
+62,10820,Picador USA,3.87
+54,2812,Yearling,3.79
+17,2809,Penguin Books,3.67
+27,2719,Mariner Books,3.74
+57,8158,Ballantine Books,3.76
+30,5954,Vertigo,4.08
+23,9287,Signet Book,4.02
+42,7884,Hackett Publishing Company  Inc.,3.94
+70,10555,Sterling,4.24
+20,8517,Hyperion,3.67
+82,6958,Fawcett Books,3.98
+51,8526,Farrar Straus Giroux,4.16
+88,1751,Washington Square Press,3.95
+88,1869,Gibbs Smith,3.55
+25,2351,G.P. Putnam's Sons,3.96
+95,3998,Mariner Books,3.46
+16,2490,Piatkus Books,4.39
+41,5215,Vintage,4.26
+66,10469,Harper Paperbacks,3.92
+23,7200,Harvest House Publishers,4.36
+55,4018,Everyman's Library,4.15
+43,10952,Bloomsbury,4.03
+96,1655,Addison Wesley Publishing Company,4.26
+5,621,OUP Oxford,3.85
+73,2821,Mariner Books,3.35
+83,6158,HarperTempest,4.17
+61,4093,Grove Press,4.14
+66,9621,Turtleback Books,4.17
+46,8851,Readers Digest,4.58
+57,6707,Viking Books,3.64
+62,9163,Scholastic  Inc.,4.07
+78,10830,Penguin,3.35
+29,34,Viking Juvenile,3.6
+30,8093,Broadway Books,3.45
+94,6078,小学館,4.28
+31,4458,Piatkus,3.42
+59,7005,Backinprint.com,3.88
+13,2386,Rodale Books,3.77
+44,10014,Headline,3.83
+68,7980,New York Review of Books,4.24
+81,2514,University Press of Florida,4.47
+86,5620,Simon  Schuster,4.14
+7,6917,DC Comics,4.04
+17,9260,HMH Books for Young Readers,3.87
+36,7267,Spectra,3.94
+35,8287,Icon Books,3.56
+16,7743,Barnes  Noble Classics,3.94
+80,8206,Thames  Hudson,4.42
+89,1307,Simon & Schuster Childrens Books,4.2
+4,813,Oxford University Press  USA,4.02
+96,9289,Library of America,4.35
+70,7815,HarperCollins,4.12
+25,5493,HarperCollins Leadership,4.22
+81,7623,Grove Press,4.01
+77,5310,Bantam Books,4.02
+6,1371,Penguin Classics,3.83
+20,3299,Ecco,3.76
+39,1094,Penguin Books,3.98
+28,9327,Routledge,3.9
+12,1149,Harcourt Brace Jovanovich,3.87
+44,243,For Dummies,3.95
+64,137,Citadel,3.92
+95,10906,Chatto & Windus,4.34
+12,6728,Harper Perennial,3.86
+45,2462,Little  Brown Books for Young Readers,4.25
+32,5849,Random House Audio Publishing Group,3.99
+86,10037,Time Warner Paperbacks,3.93
+59,5137,Sunburst,3.72
+48,8881,Modern Library,4.0
+26,2328,Penguin Workshop,4.07
+47,9438,Pan Macmillan Ltd. (London),3.95
+74,6241,Broadway Books,4.12
+70,10536,Dell,4.27
+74,6787,Simon Pulse,3.66
+82,8444,Longman Publishing Group,4.31
+43,990,New Riders Publishing,4.25
+4,717,Atheneum Books,4.08
+46,10792,New Directions,3.81
+70,7356,Ballantine Books,3.69
+57,3498,Virago,3.89
+14,4312,Anchor Bible,3.96
+20,10502,Bantam Books,3.85
+70,7996,Bloomsbury Academic,4.12
+64,9282,University Press of New England,5.0
+50,2322,Doubleday Books for Young Readers,4.31
+74,3301,Pearson,4.23
+45,8263,Open Court,4.48
+7,1386,Microsoft Press,4.29
+19,8411,Mestas Ediciones,4.08
+14,3980,Penguin Books,3.87
+12,6140,Hill and Wang,3.97
+15,5602,Graywolf Press,4.16
+27,7800,Abacus Books (London),3.87
+32,8413,Simon  Schuster,3.8
+25,8836,St. Martin's Paperbacks,3.72
+29,6346,Penguin Classics,4.24
+90,5167,Simon & Schuster,4.18
+42,7307,Miramax Books,4.35
+56,5119,Mariner Books,4.32
+30,6841,Shambhala,4.07
+0,2099,Riverhead Books,3.99
+26,9786,National Geographic Children's Books,3.98
+60,8528,Arkham House Publishers,4.44
+30,10641,NYRB Classics,4.13
+67,2932,Simon  Schuster,3.78
+15,3058,Spectra,4.18
+84,4799,Mysterious Press,3.83
+84,9251,Harper Perennial,4.26
+48,3351,Booklocker.com  Inc.,4.5
+37,5281,SparkNotes,3.0
+41,9669,DK Publishing (Dorling Kindersley),3.88
+33,5397,Delacorte Press,3.73
+97,3377,Scholastic,4.21
+54,9488,Debolsillo,3.99
+77,9165,Tom Doherty Associates/Orb Books,4.29
+6,7812,HarperCollins,4.34
+45,6676,HarperCollins,4.16
+40,11050,Crossway Books,4.13
+57,8807,William Morrow & Company,4.12
+21,224,Scribner,3.81
+6,10401,Pogue Press,3.25
+0,5443,Time Life Medical,3.66
+11,1948,Fourth Estate,3.88
+92,10788,Arthur A. Levine Books,4.14
+87,7346,Penguin Classics,4.28
+4,4120,Bloomsbury Academic,3.7
+63,1536,Golden Books,4.43
+82,2782,Augsburg Fortress Publishing,3.78
+41,6079,Viz Media,3.97
+81,9708,Da Capo Press,4.33
+0,9214,HarperTorch,3.69
+38,5314,Dover Publications,3.94
+13,11119,Penguin Books,4.08
+13,1235,McSweeney's,3.73
+88,8729,HMH Books for Young Readers,3.72
+59,2242,Price Stern Sloan,4.03
+46,1056,W. W. Norton & Company,4.64
+24,1193,Picador,3.82
+76,5445,Faber & Faber,4.2
+52,3148,Berkley,3.64
+50,799,Caedmon,4.27
+19,3015,Random House Value Publishing,3.57
+54,7079,Tokyopop,3.72
+50,5471,Motorbooks,4.06
+83,1177,Pocket,4.2
+54,3817,Ace,4.04
+5,369,Harper,3.62
+55,1331,Ballantine Books,3.24
+59,9648,HarperCollins,4.18
+77,3414,Nation Books,3.3
+76,4042,Listening Library (Audio),3.83
+91,4903,Modern Library,3.79
+32,10890,Mariner Books,3.49
+90,10500,Warner Books (NY),4.22
+4,5101,Pocket Books,4.04
+26,9275,Free Press,4.02
+95,8901,HarperTempest,4.24
+83,4416,Bloomsbury USA Children's Books,4.42
+22,5886,Little  Brown Young Readers,3.59
+21,5123,Dover Publications,3.8
+77,3513,Penguin Books,4.09
+98,1196,Simon  Schuster Books for Young Readers,3.6
+87,9506,Berkley,3.36
+16,9927,Da Capo Press,3.83
+19,9066,Tyndale House Publishers,4.43
+12,13,Broadway Books,3.44
+14,1422,Vintage,3.75
+70,8716,Vintage,3.77
+40,4087,Bantam,4.33
+13,6334,Plaza & Janés,3.75
+90,3394,University of Washington Press,4.43
+38,2793,Holt McDougal,4.37
+3,7919,Bantam Books,3.45
+57,5391,St. Martin's Griffin,3.71
+12,6725,Farrar Straus Giroux,3.87
+88,1692,Dover Publications,4.0
+93,987,Grove Press  Open City Books,0.0
+13,10997,St. Martin's Press,3.95
+69,10628,Pearson,3.41
+36,3930,Daw Books,3.99
+68,7649,Gotham,3.54
+27,6723,Dark Horse Manga,4.2
+83,5923,Vintage,3.7
+67,554,Prentice Hall,4.07
+6,4370,Gallimard,4.08
+30,4410,Ulysses Press,4.23
+73,839,Berkley Trade,4.09
+2,3137,Workman Publishing Company,3.85
+24,117,Vintage,3.89
+51,8779,Barrington Stoke,3.39
+4,7017,Liveright,4.22
+52,6557,Penguin Books,3.94
+40,8366,VIZ Media LLC,4.38
+46,6944,Delacorte Press,3.97
+23,5105,W. W. Norton & Company,3.9
+4,9988,Houghton Mifflin,4.18
+22,10975,Baen,4.18
+49,5818,Ballantine Books,4.26
+84,7392,Dalkey Archive Press,3.4
+0,3633,Vision,3.82
+69,3940,Luna Books,3.78
+54,10431,P. F. Collier and Sons,3.97
+88,2381,J'ai Lu,3.6
+54,8719,Vintage,3.77
+19,5237,MIT Press (MA),4.0
+47,3655,St. Martin's Paperbacks,3.78
+94,726,Penguin Books Australia Ltd.,4.05
+59,1846,Ballantine Books,3.89
+23,5929,Gallimard,3.92
+62,6209,Pimsleur,4.23
+4,7107,Shambhala,4.24
+6,6993,Scholastic Press,4.13
+31,6467,Scholastic Books,3.98
+97,4047,Pocket Books,4.0
+50,10852,Firebird,3.92
+19,5028,Oxford University Press,3.84
+48,7535,Troll Communications,4.23
+96,4455,Ballantine Books,4.02
+83,5656,Basic Books,4.17
+31,3560,Oxford University Press,3.91
+77,6675,Scholastic Paperbacks,3.81
+70,1713,Little  Brown Books for Young Readers,3.79
+98,4094,Library of America,3.88
+62,10229,Scribner,3.41
+49,832,Harper Perennial,4.08
+49,3653,DC Comics,4.07
+70,2847,Hard Crime Case,3.32
+76,7292,Bureau of Public Secrets,4.26
+73,11049,Simon  Schuster Books for Young Readers,3.73
+75,9852,St. Martin's Press,3.87
+46,5476,BBC Physical Audio,5.0
+14,9785,Harrison House,4.67
+29,6997,Corgi,4.0
+61,3260,Roc,3.89
+80,4015,Vintage,3.89
+83,7564,Cambridge University Press,3.55
+0,5350,Warne,4.19
+7,1617,North Point Press,4.11
+24,7483,DAW,4.12
+44,1253,Riverhead Books,4.01
+23,4409,Plaza & Janés Mexico,3.7
+77,141,Simon & Schuster,3.83
+0,10146,Wipf & Stock Publishers,3.72
+41,3176,George Braziller,3.72
+15,10464,The Audio Partners,3.83
+48,8765,Riverhead Books,4.03
+74,10810,NYRB Classics,3.93
+48,1202,Beacon Press (Boston),4.36
+53,5700,Ballantine Books,4.04
+3,4753,Souvenir Press,3.84
+41,9255,Del Rey,4.12
+83,3586,Audio Partners,3.68
+43,6430,Bantam Books,3.47
+73,7923,Grand Central Publishing,3.58
+25,7329,Mariner Books,3.96
+8,6736,HarperCollins,3.61
+2,3171,Harper Perennial Modern Classics,4.27
+16,1413,Material World,4.44
+61,8459,W.W. Norton & Company (NY/London),3.94
+90,373,Crown Publishing Group,4.05
+17,2125,Turtleback Books,3.63
+32,4203,Bloomsbury Children's Books,3.46
+90,3450,Mariner Books,4.23
+35,7694,Warner Books,3.75
+58,9756,Grand Central Publishing,3.93
+95,5782,Sunstone Press,3.39
+67,5366,Modern Library,3.77
+29,7721,Vintage,3.63
+2,2659,Arrow,4.02
+96,7123,Ballantine Books,3.93
+74,6696,Vintage,4.28
+0,7338,University of Michigan Press,3.74
+70,2337,G.P. Putnam's Sons,3.82
+36,7775,Vintage Crime/Black Lizard,4.18
+32,8308,BradyGames,4.29
+40,8032,Putnam Adult,3.94
+76,777,Punto de Lectura,3.84
+88,1384,Viking Children's Books,4.01
+24,5955,Vertigo,3.75
+80,6290,VIZ Media,4.61
+32,9687,Suhrkamp,4.05
+17,200,New Directions,3.77
+46,259,Vintage Espanol,3.6
+99,8512,Smithmark Publishers,3.51
+14,6669,Ediciones B,4.19
+70,3697,Indigo,3.89
+58,7221,Chicago Review Press,4.03
+4,3086,Rick Steves,4.24
+45,1577,Hodder & Stoughton Ltd,4.02
+59,9079,Prima Games,4.62
+91,8096,Broadway Books,3.62
+57,10755,Doubleday,4.02
+65,7855,Berkley Books,3.85
+50,7549,Scholastic Paperbacks,3.76
+50,6361,Penguin Books,3.59
+90,9675,Scholastic,4.13
+65,5095,Yale University Press,3.53
+60,7979,Harmony,3.83
+61,8850,Reader's Digest Association,4.38
+97,4893,Harper Perennial,3.41
+60,8570,Rodale Books,3.71
+57,1089,Penguin Books,4.0
+2,7309,Disney Hyperion Books,4.25
+53,8420,NAL,3.6
+77,3233,Aladdin Paperbacks,3.96
+45,4795,Taplinger Publ. Company,3.44
+16,3331,Farrar  Straus and Giroux,4.25
+77,5569,Plexus Publishing,2.8
+34,2964,Delacorte Press,4.32
+9,8139,Bantam,3.64
+19,3505,Bantam,3.67
+36,5625,Little  Brown Books for Young Readers,3.91
+18,8785,Orion (an Imprint of The Orion Publishing Group Ltd ),3.9
+46,9081,Del Rey,4.3
+92,786,Schirmer Mosel,5.0
+20,8556,Fredonia Books (NL),3.99
+54,3249,Bantam,4.19
+81,9503,Berkley,4.01
+71,4194,Berkley,4.18
+73,6965,Macmillan Audio,3.82
+92,2163,New York: Random House,4.17
+48,8497,HarperTorch,4.42
+65,5450,Planeta Publishing,3.67
+78,10241,Vermilion,4.14
+34,11087,Rayo,3.86
+62,9206,Watkins,4.08
+62,1015,Mariner Books,3.78
+18,6865,VIZ Media LLC,3.91
+82,7030,Atria Books,4.29
+61,1252,HarperTorch,4.0
+3,8072,New Press (NY),4.34
+80,7791,Hyperion Books,3.86
+65,6374,Vintage,3.54
+25,4420,Turtleback,3.96
+80,5460,Berkley,3.82
+31,8462,Random House,4.01
+87,277,Two Plus Two Publishing LLC,4.16
+15,10816,Mariner Books,3.83
+3,1654,O'Reilly Media,3.8
+12,3973,Sounds True,3.82
+76,3302,Wiley-Blackwell,4.16
+75,4546,Black Dog & Leventhal Publishers,4.1
+42,51,Farrar  Straus and Giroux,4.23
+6,7826,Luna,4.11
+52,4784,Del Rey,3.84
+2,4494,Harper Perennial,4.26
+86,8668,Harper Business,4.06
+95,1908,Simon & Schuster,4.08
+56,10302,Pocket Star,3.82
+79,10941,International Code Council,3.62
+56,4323,Del Rey,3.97
+3,2401,Ebury Press,3.16
+13,10378,Arden Shakespeare,4.5
+22,9889,Avon,3.86
+35,6228,Broadway Books,3.25
+93,1910,St. Martin's Press,4.15
+77,860,Plume Books,3.88
+79,9558,Vintage,3.94
+16,6989,Picador,4.06
+40,1140,Vintage,4.02
+14,8414,Penguin UK,3.8
+49,3364,International Polygonics,3.63
+88,4011,Harvill Press,4.17
+74,3638,Vision,3.68
+15,10001,Harcourt Brace & company,3.75
+45,10532,HarperTorch,3.88
+12,5922,Hawthorne Books,3.39
+55,9112,Dark Horse Books,3.51
+4,2990,Penguin Classics,4.12
+90,7790,Image Comics,4.29
+54,2241,Price Stern Sloan,3.65
+73,9029,Pocket Books,3.71
+26,674,Cliffs Notes,2.83
+40,8581,Aladdin,4.02
+72,9025,Ace,3.92
+67,6553,Penguin Books,3.86
+30,9731,Scholastic Paperbacks,3.34
+48,9798,St. Martin's Paperbacks,4.28
+41,931,Farrar Straus and Giroux,3.89
+35,4283,Houghton Mifflin,4.5
+44,2953,Copper Canyon Press,4.41
+95,5932,Simon & Schuster,3.79
+48,5809,Thomas Nelson,3.69
+48,3238,Vintage Classics,3.69
+57,7925,Hachette Books,3.77
+82,10897,Mariner Books,3.71
+87,9187,MacMillan Publishing Company,4.19
+86,9871,Polychrome Publishing Corporation,3.89
+9,5463,Berkley,4.01
+16,5943,Bloomsbury Academic,3.77
+95,9710,Penguin Books,4.21
+49,1610,W. W. Norton & Company,4.28
+72,2660,Bantam,4.09
+57,6637,Puffin Books,4.14
+11,6189,Scholastic Inc.,3.93
+78,10086,Da Capo Press,4.11
+27,6773,W. W. Norton  Company,3.84
+69,9975,Penguin,3.96
+87,4384,Ballantine Books,3.62
+13,10556,Signet Classics,4.06
+81,4811,Basic Books,4.8
+25,5704,Harry N. Abrams,3.6
+49,8593,Modern Library,3.94
+58,7714,Vintage,3.7
+81,5617,HMH Books for Young Readers,4.06
+31,2055,Metropolitan Books,3.54
+63,10487,Bantam Books  Inc.,4.34
+35,9761,Trafford Publishing,3.76
+21,6208,HarperCollins,4.2
+27,9542,Fawcett Coventry,3.0
+51,1388,Gallery Books,4.12
+89,6323,Leisure Books,3.62
+46,10540,Fawcett,3.81
+57,3119,Picador USA,4.24
+88,7072,Penguin Books,4.14
+73,2265,Bantam Books,3.84
+34,8680,Poorhouse Press,4.08
+73,6156,St. Martin's Griffin,3.72
+25,6171,Love Spell,3.62
+92,244,Delacorte Press,3.88
+65,1040,Ignatius Press,4.59
+92,6005,Tyndale House Publishers,3.86
+13,7217,HarperTorch,3.92
+14,5258,Unwin Paperbacks,3.92
+2,3390,Random House Vintage Books,3.96
+14,5825,Grand Central Publishing,3.58
+90,5945,HarperCollins,4.03
+62,3289,City Lights Publishers,3.98
+94,8105,Harvest House Publishers,3.5
+80,298,Vintage Books USA,4.11
+78,5073,Houghton Mifflin Harcourt,3.99
+92,10308,Turtleback Books,3.12
+56,3750,VIZ Media,4.43
+70,5722,Collins Reference,4.38
+95,6485,St. Martin's Press,3.48
+33,1198,Harper Perennial,3.99
+10,6372,W. W. Norton  Company,3.73
+52,10049,Arrow,4.07
+82,6735,HarperCollins,3.75
+3,5766,Ace Books,3.74
+99,4472,Penguin Books,4.23
+25,9861,British Film Institute,4.43
+80,4221,William Morrow Paperbacks,3.28
+8,5533,Simon  Schuster,4.38
+20,3053,Bantam Spectra,3.46
+31,8592,John F. Blair  Publisher,3.71
+55,5033,Penguin Books,3.82
+76,183,Farrar Straus Giroux,4.17
+77,7445,Cleis Press,3.97
+55,2897,Rayo,3.53
+87,10344,Dhv der Hörverlag,4.56
+66,4545,Black Dog & Leventhal Publishers,4.17
+67,2202,HarperTrophy,4.14
+12,7543,Picador,3.45
+39,142,Atheneum Books for Young Readers,3.83
+13,9456,Barnes & Noble,4.07
+84,9022,Del Rey,3.94
+87,635,VIZ Media LLC,3.97
+40,919,Encounter Books,4.38
+99,3879,Corgi,4.22
+9,7138,Random House Large Print,3.74
+34,7203,Vintage,3.74
+68,762,Modern Library,3.93
+25,9971,iUniverse,4.0
+39,6064,Arrow Books,3.7
+86,2091,No Exit Press,3.76
+41,8611,Touchstone,3.82
+24,3406,Scribner,3.93
+60,7313,The Chicken House,3.92
+35,2158,Warner Books,4.08
+49,9632,Vintage,3.9
+18,7130,Mariner Books,3.95
+13,9951,Back Bay Books,3.93
+77,3709,Fireside Books,4.44
+35,6261,Houghton Mifflin Harcourt,4.01
+13,110,Little  Brown Book Group,4.12
+28,2915,Penguin,4.15
+89,3376,Cambridge University Press,4.18
+48,9194,Harper Perennial,3.99
+30,8616,Theatre Communications Group,3.56
+85,3272,Library of America,4.37
+67,6348,Paul Mellon Centre BA,4.06
+40,1299,Firebird,3.95
+34,166,Scribner,3.92
+52,6764,It Books,3.32
+16,6112,Tor Books,3.72
+93,9435,Bantam Books,4.14
+58,1532,Wildside Press,4.13
+16,10587,Penguin Putnam,3.67
+92,6539,Oxford University Press  USA,4.05
+28,720,Phoenix Audio,3.98
+47,7169,Mariner Books,3.77
+97,4959,Doubleday Books,4.19
+40,8973,IDW Publishing,4.23
+51,10767,Penguin Classics,3.84
+55,5669,American Girl Publishing Inc,4.26
+28,10496,Vintage,3.4
+95,6474,Yearling,4.02
+47,8210,Simon  Schuster,4.07
+18,2939,HarperCollins,3.94
+3,4423,Anchor,3.36
+64,2763,W. W. Norton  Company,4.42
+52,249,Alfred A. Knopf,3.55
+57,10710,Signet,3.94
+99,1014,Broadway/Crown Publishing Group,3.91
+9,7690,G.P. Putnam's Sons,3.96
+68,7762,McFarland & Company,3.82
+25,2620,William Morrow Paperbacks,4.41
+77,8830,Aladdin,3.49
+57,9223,FASA Corp.,3.89
+61,824,Yale University Press,4.51
+81,10433,Debolsillo,4.22
+45,8940,Wiley Publishing,3.82
+82,148,Zebra,3.6
+58,3756,Del Rey,4.28
+98,3863,Harper Voyager,4.1
+92,9605,Delcourt,4.26
+88,4112,Del Rey,3.84
+31,2699,Cumberland House Publishing,3.9
+34,6160,William Morrow Paperbacks,3.74
+25,163,W. W. Norton & Company,3.78
+58,7608,Lama Foundation (San Cristobal  NM),4.29
+68,10741,Ediciones B,3.73
+2,3231,Cambridge University Press,3.83
+51,78,William Morrow Paperbacks,3.48
+71,1740,Oxford University Press  USA,3.91
+69,5788,Harper,4.08
+55,3124,Pocket,4.2
+76,873,Shueisha,4.39
+68,8961,Workman Publishing Company,4.23
+17,943,Penguin Books,3.96
+7,4582,Tom Doherty Associates,3.81
+42,8209,Ballantine Books,4.04
+42,8156,Random House Audio,3.94
+51,4090,Grove Press,4.16
+3,2380,Random House Audio Publishing Group,4.22
+9,3275,Bantam Spectra (NY),4.21
+70,2181,Princeton University Press,4.22
+67,9921,Yearling,3.74
+52,3577,Del Rey,3.82
+58,10038,Soho Crime,3.73
+8,8991,Arrow,3.57
+38,8012,HarperCollins,3.64
+4,626,Library of America,4.47
+52,630,Vintage Crime/Black Lizard,4.16
+2,887,Mariner Books,4.26
+0,4818,Disney Press,3.68
+8,770,Mariner Books,3.89
+73,2424,Black Swan,3.72
+15,8256,Pocket Books,4.12
+12,7754,Knopf,4.21
+18,8500,Wesleyan University Press,4.09
+18,10364,Headline Review,3.82
+63,4737,Pocket Books,3.93
+72,2986,Lasser Press,4.05
+44,5526,Shambhala,3.87
+21,10484,Avon,3.26
+94,6943,Mira books,3.67
+17,1746,Harvest House Publishers,4.16
+80,5949,DC Comics,3.95
+87,1938,Schocken,3.88
+3,8364,HarperCollins Publishers,2.94
+78,6050,Naiad Press,3.64
+91,8868,Arrow,3.91
+39,1967,Nymphenburger,3.98
+9,6231,Prentice Hall,3.99
+16,10789,Lonely Planet,3.77
+81,1712,Anchor,4.33
+41,4927,Vintage,3.87
+19,3791,VIZ Media LLC,4.43
+49,9389,Pantheon Books,3.8
+81,2837,Scholastic Inc.,4.0
+39,2962,Dell,4.27
+46,10330,Speak,3.61
+73,3508,Millipede Press,3.92
+78,6620,Harper Collins,4.24
+86,187,Vintage International,3.81
+66,3531,Everyman's Library,4.27
+76,5839,Random House Audio,4.01
+33,2641,W. W. Norton  Company,3.79
+2,4729,Marvel Comics Group,3.28
+58,2849,Pocket Books,3.97
+95,5075,Mariner Books,4.02
+70,6083,Viz Media,3.97
+71,6031,Vintage,3.52
+44,9213,Vintage/Random House (NY),4.21
+87,7904,Mira Books,3.76
+49,4865,Scholastic  Inc.,4.19
+93,1091,Penguin Classics,3.46
+51,7481,Tor Fantasy,3.77
+65,7962,University of California Press,3.64
+96,7219,HarperTorch,4.03
+42,8825,W.W. Norton & Company,4.11
+79,8887,University of Chicago Press,4.14
+46,5637,DAW,3.38
+71,8405,Green Ronin Publishing,3.81
+87,2254,Atheneum Books,3.8
+19,7985,Disney Editions,4.44
+32,6296,Johns Hopkins University Press,4.29
+47,2312,Dorling Kindersley Children,3.85
+91,7675,Vintage Classics,3.92
+77,3410,Library of America,4.1
+15,219,Large Print Press,3.81
+53,2648,Harper Perennial,4.1
+21,10227,Harper Perennial,3.85
+12,4391,Bloomsbury U.S.A. Children's Books,3.92
+25,9578,Penguin Books,4.31
+70,106,Harper Perennial,4.01
+44,1035,Yearling Books,3.85
+91,10112,Tor Books,4.02
+35,9514,Seven Stories Press,3.95
+33,10784,Picador USA,3.95
+39,355,Ediciones B,3.97
+61,9384,Starscape,3.96
+88,7365,Dover Publications,4.12
+67,9473,Simon & Schuster,4.11
+33,3671,Moody Publishers (Chicago),3.68
+44,2307,HarperTrophy,3.89
+12,1633,Penguin Books,4.05
+1,5891,Souvenir Press,3.96
+72,10686,Running Press Adult,4.21
+19,9267,Dover Publications  Inc.,3.96
+57,7247,Penguin Classics,4.09
+65,3335,Vintage,4.0
+68,6490,Zebra Books,3.9
+84,5697,Avalon Travel,4.24
+56,2912,Del Rey,3.81
+67,10983,Headline,3.86
+13,5301,Cemetery Dance Publications,4.25
+21,5261,Scribner Book Company,3.95
+69,4854,Berlitz Kids,4.14
+2,10958,Bantam,4.07
+93,8463,Yale University Press,4.25
+73,7753,Knopf,4.27
+51,3059,Warner Books,3.71
+76,4476,Grove Press,3.59
+52,5685,Scholastic Paperbacks,3.69
+27,2774,Random House Trade,4.21
+62,3280,Little Brown,3.17
+82,9031,Ace,3.33
+91,5456,HarperCollins,4.06
+52,4229,BBC Audiobooks,3.97
+64,6035,Icon Books,3.32
+22,9721,University of New Mexico Press,3.52
+94,3322,Vintage,3.91
+97,8050,Back Bay Books,3.99
+59,3085,Vintage,3.93
+85,8211,Buccaneer Books,4.03
+91,7004,Ace,3.91
+87,8751,MIRA,3.71
+98,5712,Vertigo,4.14
+7,4462,Watkins Publishing,3.57
+67,5930,Mondadori,3.59
+81,10186,Random House Trade,3.12
+28,659,Grand Central Life & Style,4.24
+24,6082,Viz Media,4.11
+64,7944,Loveswept,3.62
+61,1807,William Morrow Paperbacks,3.88
+45,5628,Berkley,3.86
+18,9545,Scholastic Audio Books,3.8
+65,155,Tor Books,3.97
+39,4369,Vintage,3.83
+48,7842,Berkley,3.82
+89,5451,Berkley Books,4.05
+56,3089,Dover Publications,3.66
+61,4748,Universe,4.3
+75,5803,Brilliance Audio,4.09
+1,8019,Penguin Classics,4.24
+50,10879,Yale University Press,3.64
+84,1873,Everyman's Library,4.07
+59,6847,Digital Manga Publishing,4.04
+92,4483,Atria Books,3.87
+49,4993,Harry N. Abrams,3.89
+46,60,ASCD,3.25
+37,8912,Bloomsbury Methuen Drama,4.15
+26,1129,Fourth Estate Paperbacks,3.79
+20,3300,Routledge Classics,4.07
+32,658,Signet Book,3.87
+54,3978,Golden/Disney,4.41
+11,3716,HarperOne,4.36
+53,1818,Little  Brown,4.25
+77,170,Scribner,3.22
+25,2439,HarperEntertainment,2.92
+21,3001,Swallow Press,3.8
+45,4016,Vintage Classics,3.55
+80,140,Sterling Children's Books,3.83
+46,5761,Ace,3.7
+71,4080,Planeta Publishing,4.02
+65,7296,Penguin Books Ltd,4.07
+25,7646,Push,3.95
+19,5744,Sphere,3.76
+78,8430,Bantam Books,4.0
+15,4111,Oxford University Press,3.82
+40,6244,Warner Books,4.02
+50,9174,Aladdin,3.75
+81,9645,Bantam Books,3.94
+30,10492,Vintage,3.84
+2,10439,Random House Books for Young Readers,3.94
+10,7290,Penguin Books (London),3.92
+7,4043,Scholastic Reference,3.89
+25,8089,1st Book Library,3.58
+70,575,Pantheon Books (NY),4.04
+56,4699,Princeton University Press,3.79
+16,9662,Avon,4.24
+40,9353,Europa Editions,3.93
+95,3484,Plaza y Janes,3.96
+36,846,HarperOne,4.21
+51,9574,Harvard University Press,3.61
+17,1262,Vintage,3.93
+2,495,Plume,4.06
+82,4284,HarperCollins Publishers,3.12
+77,1876,Wizards of the Coast,3.64
+82,2822,Rizzoli,3.78
+79,3013,Avon Books,3.81
+1,9980,Alfred A. Knopf,3.43
+23,4948,Penguin Book Limited,3.87
+22,3744,J'ai lu,4.1
+35,4257,Berkley,4.19
+17,1662,Penguin Books,3.79
+54,2321,Summit University Press,4.21
+34,3615,Warner Books (NY),3.87
+55,5268,Alfred A. Knopf Borzoi Books,4.07
+75,3205,Harcourt,4.21
+61,10046,Random House Value Publishing,4.13
+69,2418,Heyne,3.99
+7,10813,New York Review of Books,3.75
+75,467,University of Chicago Press,4.43
+54,1471,Park Street Press,4.19
+53,8368,Specialty Press,3.0
+4,8182,Harvest House Publishers,4.53
+79,6680,Spectra,3.9
+24,6449,Modern Library,4.17
+53,7408,Thames & Hudson,4.0
+2,5251,Broadway Books,4.43
+89,5423,Farrar  Straus and Giroux,4.17
+59,7652,Loose Id  LLC,3.99
+0,6655,Belknap Press,3.62
+34,218,Picador,3.81
+76,2414,Dover Publications,4.14
+33,1391,Basic Books,4.09
+7,7981,Houghton Mifflin,4.25
+87,4285,Tor Books,3.88
+33,1952,AudioGO,3.94
+10,2895,Vintage Books USA,3.68
+51,10355,Editions du Rocher,3.8
+29,1748,TarcherPerigee,3.95
+24,6910,Mira,4.09
+80,6747,Wadsworth Publishing Company,3.58
+68,6990,Vintage,4.24
+3,874,Shueisha,4.43
+22,8235,Puffin,4.03
+48,4612,Digital Manga Publishing / Dark Horse,4.02
+19,2106,Harper Perennial Modern Classics,4.07
+57,647,Bantam,4.15
+55,206,Ballantine Books,3.91
+92,8257,Oxford University Press  USA,4.15
+13,1270,Cliffs Notes,3.81
+23,10888,Alyson Books,3.59
+80,10109,Berkley Trade,3.93
+11,4396,MacMillan,3.97
+75,8246,Bantam,3.86
+91,10858,Anchor Books,3.33
+5,3206,Bloomsbury Methuen Drama,3.86
+67,1401,Dover Publications,3.89
+61,4891,Vintage,4.1
+71,7406,Spectra Books,4.11
+58,2220,Forge,3.88
+10,6900,10/18,3.46
+2,3672,Phaidon Press,3.73
+76,7930,Mira Books,3.73
+87,190,Penguin Classics,3.89
+34,4933,Vantage Press,5.0
+70,10084,Faber & Faber Ltd.,4.25
+76,3224,Plume,3.76
+67,3495,Penguin Books,4.02
+64,8313,VIZ Media LLC,3.96
+42,4471,Vintage,4.2
+81,4686,Vintage,4.13
+21,7569,Random House Books for Young Readers,4.12
+99,8794,Mariner Books,3.99
+29,7903,Bantam (Fanfare),3.63
+94,5735,Little  Brown & Company,3.99
+75,6709,Onyx,3.94
+58,2317,Time Life Medical,4.5
+57,5161,Knopf Publishing Group,3.73
+76,6119,Theatre Communications Group,3.84
+20,9217,Free Press,3.99
+74,7227,Gallimard,3.9
+31,7614,Puffin Books,4.1
+2,386,Penguin Classics,4.1
+63,7599,Seal Books,3.93
+21,10238,Delacorte Press,3.91
+32,4529,Black Dog & Leventhal Publishers,4.01
+61,4559,Penguin Books,4.24
+73,8583,Applewood Books,3.99
+68,4337,Celestial Arts,4.37
+98,5801,Soundings,4.09
+4,262,Rough Guides,3.75
+61,1449,Norma,3.95
+70,3467,Routledge,4.05
+25,4547,HarperCollins Publishers,3.83
+85,381,Bantam,3.9
+48,2349,G.P. Putnam's Sons,4.04
+33,6396,Turtleback Books,3.9
+93,2521,HarperCollins Publishers,3.81
+13,4065,Greenwillow Books,4.29
+26,3524,Washington Square Press,4.03
+20,5706,St. Martin's Paperbacks,3.97
+81,7593,Wizards of the Coast,3.89
+91,3906,William Morrow,4.37
+84,5128,Oxford University Press  USA,3.91
+2,2520,Sudamericana,4.23
+16,8074,Houghton Mifflin Harcourt,3.74
+71,489,Penguin,4.14
+10,5448,Faber and Faber & Penguin India,3.94
+34,4259,Rough Guides,3.93
+44,10249,Tor Books,3.89
+76,3441,Penguin Books,4.01
+19,6295,Vertigo,4.24
+86,8488,Green Integer,3.77
+70,9101,Dark Horse Books,4.04
+1,6009,Westminster John Knox Press,3.77
+36,4831,HarperOne,4.61
+53,9146,Penguin,4.03
+48,5407,Riverhead Books,3.55
+81,315,Bantam Press,3.71
+85,10680,Barnes  Noble Classics,4.01
+9,9806,Berkley Prime Crime Books,3.81
+90,346,Walker & Company,3.31
+58,4082,Kindle,4.18
+5,3141,Pocket Books,3.93
+62,362,Lulu.com,3.56
+50,8617,Arden Shakespeare,3.94
+73,3864,iBooks,3.77
+5,7971,Ivan R. Dee  Publisher,4.33
+85,7488,McSweeney's,4.11
+70,8207,Simon  Schuster,3.91
+10,7183,Touchstone,3.52
+41,10821,Hub City Press,4.2
+20,8464,Belknap Press of Harvard University Press,4.3
+98,6092,Spectra,4.08
+36,8895,Vintage,3.85
+11,338,Rodale Books,3.65
+42,5776,HarperTorch,4.09
+1,9046,Kaplan Publishing,3.79
+14,7873,Berkley,4.17
+61,8624,Princeton University Press,3.94
+33,9286,Bedford Books,4.02
+49,5316,Anchor,3.44
+71,4039,Penguin Classics,3.94
+12,1780,New Directions,4.34
+95,5023,Boosey & Hawkes Inc,5.0
+13,5458,Berkley Books,3.75
+62,6640,Jonathan Cape,4.09
+85,7933,Bantam,3.59
+15,7333,Orbit,4.15
+71,107,EMC/Paradigm Publishing,4.0
+26,1112,Penguin Books,3.8
+91,10698,William Morrow & Company,3.97
+38,7522,Literatura Random House,3.81
+29,5759,RH Audio Price-less,3.89
+22,5687,Scholastic,3.53
+4,5876,Vintage,4.15
+82,10047,Vintage,4.09
+68,10797,Vintage,3.78
+34,6842,Shambhala,4.07
+26,3104,Zondervan,4.32
+52,4996,Overlook Press,4.11
+71,2938,Anchor,4.16
+36,10029,Ballantine Books,3.85
+91,6974,Plume,4.08
+18,10422,Lions,3.72
+29,5997,Schocken Books,4.28
+88,6436,Penguin Books,4.07
+32,6581,Puffin Books,3.88
+7,6315,Modern Library,3.8
+49,8965,Harlequin Presents,2.61
+41,1552,Delta,3.73
+34,9127,Little Brown,4.15
+59,6801,Kensington,3.91
+12,1347,St. Martins Press-3PL,3.81
+90,4776,Cliffs Notes,3.74
+56,5570,Subterranean Press,3.57
+32,6694,Vertigo,4.52
+97,9400,Kensington,4.2
+74,9676,Sterling,4.13
+77,3789,VIZ Media LLC,4.34
+30,1402,Collectors Library,3.89
+43,6597,Atlantic Books (UK),4.09
+0,8810,HMH Books for Young Readers,3.91
+45,7398,Johns Hopkins University Press,3.4
+40,7997,Bloomsbury / Continuum,4.07
+38,8644,Travelers' Tales,3.38
+51,5525,Basic Books,3.42
+63,3486,Gallery Books,4.22
+38,4964,New Directions,4.38
+43,7055,Simon & Schuster,3.69
+91,9207,Vintage/Random House Inc. (NYC),3.91
+32,7413,Del Rey,3.57
+43,10124,W.W. Norton & Company,3.7
+61,9308,HMH Books for Young Readers,4.04
+26,3106,FaithWords,4.49
+38,9607,Odonian Press,3.98
+46,7901,Bantam (Fanfare Imprint),3.55
+32,4822,Crossway Books,4.32
+97,9717,Grove Press,4.05
+99,3348,SparkNotes,3.29
+97,11064,Disney-Hyperion,3.77
+61,4717,Baen Books,4.04
+85,2747,Little  Brown Books for Young Readers,4.18
+75,10309,Northwestern Univ Press,3.11
+18,4165,Revive Publishing,2.86
+89,6623,Plume,3.83
+82,3511,Everyman's Library,3.73
+45,5184,Harper Perennial,3.97
+39,6316,Puffin Books,4.09
+33,2126,Avon Books,3.89
+0,4988,Harry N. Abrams,3.89
+87,8814,Everyman's Library,4.15
+83,10365,Headline Review,3.72
+6,6603,Dover Publications,4.13
+92,7999,Bloomsbury Academic,4.02
+67,7328,Vintage,3.67
+85,3168,Belknap Press,4.25
+79,8648,Longmeadow Press,4.58
+19,2989,Faber & Faber,3.67
+60,2798,Virgin Publishing,3.51
+44,2799,Gallery Books,3.66
+75,4174,Mariner Books,4.26
+97,6668,Faber  Faber,4.31
+71,4510,Anchor,3.65
+84,9367,Gramercy Books,4.15
+71,8227,Dover Publications,4.15
+40,8300,Back Bay Books,3.39
+46,8873,Thorndike Press Large Print,4.47
+68,9366,Columbia University Press,4.05
+66,109,Turtleback Books,4.0
+48,3527,Washington Square Press,4.14
+92,4621,University of Chicago Press,4.02
+71,4615,Dark Horse Books,4.58
+5,10904,Penguin Books,3.58
+59,5800,Brilliance Audio,4.16
+43,2561,Dover Publications,3.34
+37,9906,Kensington,3.89
+82,3195,Vintage International,3.79
+40,7210,Harper Business,4.01
+23,8374,Little  Brown and Company,3.96
+33,9235,HQN,3.99
+99,8823,Cambridge University Press,4.07
+94,10827,Grove Press,3.97
+86,3643,Grand Central Publishing,4.08
+52,9220,Harcourt Brace Jovanovich (NY),3.96
+54,5953,DC Comics,3.79
+97,10252,Bantam,3.89
+98,4307,Corgi,3.76
+93,6863,VIZ Media LLC,3.92
+42,6659,Picador,3.92
+18,6578,Square Fish,3.93
+33,6145,Houghton Mifflin,3.85
+62,7158,DK Publishing,4.29
+65,2537,Regnery Publishing,3.32
+49,8936,Multnomah,4.13
+39,1106,Yearling,3.84
+70,451,Cambridge University Press,3.87
+75,8048,Back Bay Books,4.0
+7,7582,Lübbe,3.79
+14,1637,Penguin Classics,3.72
+17,2397,William Morrow Paperbacks,4.15
+57,9103,Arrow,3.95
+66,6512,Penguin Classics,3.91
+1,10170,Bantam Spectra,3.54
+97,4486,Washington Square Press,3.71
+86,8140,Warner Books,4.01
+66,3004,Gibbs Smith Publishers,4.23
+96,4821,George Braziller Inc.,4.41
+81,8350,Headline,3.53
+6,8461,Berkley,3.87
+41,4146,Carroll & Graf Publishers,3.57
+14,10985,RP Minis,3.16
+63,4401,Chronicle Books,4.48
+13,6608,Puffin Books,3.87
+48,1418,Plume,3.96
+52,10980,Oxford University Press,3.86
+19,9295,Onyx,3.81
+37,6648,Subterranean Press,3.67
+40,8119,Arsenal Pulp Press,3.9
+2,7837,Fantagraphics,4.06
+40,4586,Tor Fantasy,3.67
+89,3165,Plaza & Janes Editores Sa,4.34
+71,10303,Debolsillo,3.9
+7,3507,Penguin Books,3.54
+80,4803,Pocket Books,4.14
+97,6563,Razorbill,3.58
+90,9018,Del Rey Books,3.46
+54,7687,Thomas Nelson,3.92
+90,2154,Hodder Audio,3.57
+76,7167,Basic Books,4.08
+98,2599,HarperOne,4.4
+41,2250,Random House  for Young Readers,4.33
+12,7590,小学館,3.99
+21,4158,Penguin Classics,3.97
+25,6040,Free Press,3.39
+95,10946,Delacorte Press,3.63
+53,6712,Onyx,4.04
+81,2018,Sleeping Bear Press,3.76
+68,2187,Nova Fronteira,3.89
+5,9352,Hovel Audio,4.32
+45,6289,VIZ Media,4.61
+12,10925,Fawcett Crest Books,3.76
+76,627,Library of America,4.5
+46,10052,Running Press Adult,3.32
+85,4383,Bright Sky Press,4.41
+95,4314,Avon,3.71
+85,6255,Dell,3.82
+21,7589,VIZ Media LLC,4.0
+24,28,Atheneum Books for Young Readers: Richard Jackson Books,3.72
+31,4419,Riverhead Books,3.94
+41,3052,Little  Brown Book Group,3.43
+45,4104,Soho Crime,3.77
+12,1968,Pantheon Books,4.07
+4,10215,HarperCollins,4.05
+61,8949,Civitas Books,4.19
+0,4886,Anchor,3.83
+53,4277,Quality Paperback Book Club,4.53
+21,5723,Vertigo,3.58
+46,1239,Riverhead Books,3.94
+95,3353,North Point Press,4.32
+45,2347,Fawcett Books,3.96
+10,8720,Vintage,3.71
+68,8148,Signet,3.85
+21,7065,Penguin Classics,4.03
+63,8896,Kodansha,3.8
+28,10609,HarperCollins Publishers,3.66
+19,1397,Wildside Press,3.42
+53,4110,Modern Library,3.82
+2,7281,Princeton University Press,4.22
+86,8883,Pocket Books,3.71
+55,8343,Arrow,3.68
+20,5049,Routledge,4.15
+51,248,Farrar Straus Giroux,3.63
+55,9990,Tor Books,3.73
+74,823,Schocken,4.29
+91,4119,Oxford University Press  USA,3.73
+43,3915,DAW Books,3.95
+41,4498,Laurel,3.61
+0,9799,Routledge,3.69
+84,5465,Berkley Books,3.91
+37,11115,Editorial Presença,4.09
+26,2787,Stewart  Tabori and Chang,3.67
+61,5753,Brilliance Audio,4.2
+69,7533,Corgi,3.71
+56,4680,Univ Of Minnesota Press,3.8
+51,1231,Umbriel,3.84
+57,10870,Modern Library,4.32
+90,918,Basic Books (AZ),4.32
+14,10491,Scholastic  Inc.,4.17
+99,4922,Penguin Books,4.16
+38,3530,Modern Library,4.26
+1,3239,Modern Library,4.04
+92,5084,Challenge Press  Inc./Challcrest Press,4.06
+31,36,iUniverse,4.17
+51,8278,Cambridge University Press,4.1
+38,9399,Berkley,4.26
+42,5133,Penguin Books,3.69
+61,10048,NAL,4.07
+6,2155,William Morrow Paperbacks,4.03
+73,3516,Cliffs Notes,3.4
+38,2803,Taunton Press,4.07
+53,4746,Longman Publishing Group,2.83
+24,4877,University of Pennsylvania Press,4.32
+78,9052,Touchstone,3.72
+51,9625,Delta,4.38
+63,10030,Del Rey,3.84
+21,10984,Penguin,3.86
+0,4739,Oxford University Press,3.82
+52,8016,Everyman's Library,4.45
+49,4048,Pocket Books,4.0
+44,7677,Free Press,3.66
+25,8747,St. Martin's Paperbacks,3.78
+38,4930,Vintage Books USA,4.03
+87,2874,W. W. Norton  Company,3.82
+47,6741,Tor Fantasy,3.97
+90,1791,America's Test Kitchen,4.35
+32,941,W. W. Norton  Company,4.03
+88,5393,HarperTrophy,3.74
+24,10973,Vintage,4.14
+28,7353,Vintage Classics,4.21
+23,4856,Turtleback Books,3.82
+37,9690,Orchard Books,4.08
+42,8068,Grupo Editorial Norma  S.A.,3.74
+81,6447,Laurel Leaf,3.8
+18,6777,Healing Arts Press,3.84
+2,866,National Gallery London,3.64
+50,7016,Liveright/W.W. Norton & Company  Inc.,4.35
+42,6322,Crystal Clarity Publishers,3.6
+93,4841,Blackstone Audiobooks,4.28
+8,2309,HarperTrophy,4.19
+56,8339,Hqn,4.1
+86,10949,Faber & Faber,3.92
+6,10928,G.P. Putnam's Sons,4.12
+95,5883,Touchstone Books,3.29
+25,7212,Mariner Books,4.28
+62,2656,Harper Perennial,4.26
+7,10069,Apress,3.72
+56,2657,Aspect,3.67
+41,5323,Arts Publications,0.0
+79,8193,Penguin Books,3.94
+27,1964,Pantheon,4.06
+39,6360,Penguin,3.83
+82,4171,Mariner Books,3.78
+27,7161,Scribner,3.91
+59,450,Loeb Classical Library,4.23
+9,1859,Three Rivers Press,3.55
+92,7513,HarperCollinsPublishers,3.86
+38,10445,HarperTorch,4.31
+49,4041,Grand Central Publishing,3.77
+98,8551,Helen Marx Books,4.0
+99,7750,Ballantine Books,4.24
+57,2219,Tor,3.84
+85,10737,Ediciones B,3.99
+29,7487,Vintage,4.22
+35,2244,Price Stern Sloan,3.82
+0,1528,Library of America,4.35
+67,2385,Doubleday Books,3.7
+79,3366,Penguin Books,3.4
+68,3982,Digital Manga Publishing,3.51
+82,2558,Chronicle Books,3.6
+44,2546,No Exit Press,4.04
+29,4916,Graphics Press,4.08
+56,4062,Grand Central Publishing,3.91
+72,5588,Yale University Press,3.93
+44,5995,Dover Publications,3.82
+91,2631,Penguin Books,4.03
+55,504,Penguin Books,3.94
+47,3512,Arrow (A Division of Random House Group),3.5
+75,9551,John Wiley & Sons,3.93
+27,5143,G.P. Putnam's Sons,3.9
+60,8409,Picador USA,4.03
+31,10573,Cambridge University Press,3.9
+83,10729,Ediciones B,3.72
+26,1929,Caedmon,4.15
+91,8111,Penguin Books,3.86
+17,1764,Penguin Books,3.84
+17,1291,Penguin Books,3.49
+21,3264,Tor Science Fiction,3.46
+66,7525,Del Rey,4.05
+19,6310,Grafton,4.12
+92,3594,Penguin Books,3.89
+43,8166,Orb Books,3.74
+89,7074,Viking Adult,4.02
+17,2066,BALLANTINE BOOKS,3.93
+18,6169,Scholastic,4.11
+23,5720,Vertigo,4.19
+29,4433,Roca Editorial,3.84
+46,7660,Dover Publications (NYC),3.65
+28,4540,Deodand,3.99
+12,10481,Harry N. Abrams,3.85
+86,294,Penguin Books,3.87
+73,7953,Barnes  Noble Classics,3.65
+55,4789,Denoël,3.72
+72,5201,Alfred A. Knopf,3.41
+55,6302,Signet,4.18
+40,4794,Blackstone Audiobooks,3.99
+73,7435,Bantam,3.53
+67,8808,Scribner,3.93
+24,6327,Leisure Books,3.49
+22,2468,Deadite Press (Eraserhead Press),3.69
+63,599,Spark Publishing,4.0
+25,7442,Simon & Schuster,4.0
+78,4392,Newmarket Press,4.21
+31,3369,Ann Arbor Media,3.4
+79,9965,San Val,3.88
+12,2805,Rough Guides,3.82
+21,1403,Penguin Classics,3.89
+1,9864,Picador USA,4.13
+68,1037,Yearling,3.54
+17,5716,Vertigo,3.97
+47,9884,Vintage Crime/Black Lizard,4.07
+73,9202,Mariner Books,3.68
+58,7020,Ballantine Books,4.04
+79,10451,University of Oklahoma Press,3.93
+60,1130,Thomas Nelson,3.93
+24,3088,NAL Trade,3.77
+1,1036,Yearling Books,3.77
+56,4293,Ace Books,3.47
+36,2956,Rayo,4.19
+1,9821,Leisure Books,3.99
+90,3977,Candlewick Press,4.37
+27,8837,St. Martin's Paperbacks,3.35
+97,7906,Mira Books,3.66
+69,1625,W. W. Norton  Company,4.23
+37,5619,Mariner Books,3.93
+80,6239,Pantheon,4.33
+27,5108,Warner Books,3.84
+94,8639,Cedar Books,4.19
+93,8436,Bantam,4.04
+42,1574,Doubleday,4.02
+99,7174,Simon & Schuster,4.11
+18,64,North Light Books,3.78
+76,10889,Houghton Mifflin Harcourt,3.41
+66,9423,Scribner,3.56
+35,198,Henry Holt & Company,3.23
+74,7439,Pocket Books,3.93
+37,2012,Harper Perennial Modern Classics,4.06
+31,2015,St. Martin's Griffin,4.16
+47,6861,VIZ Media LLC,3.79
+50,6541,Broadway Books,3.64
+64,10165,Bantam Doubleday Dell Publishing Group,3.66
+55,4867,W. W. Norton & Company,4.18
+99,6633,Hachette Books,4.18
+74,3561,Bloomsbury Arden Shakespeare,3.91
+38,557,Cambridge University Press,4.12
+93,8027,House of Anansi Press,3.48
+90,4895,Schocken,4.23
+41,2014,It Books,3.76
+61,3504,Carroll & Graf Publishers,3.94
+28,9724,Penguin Books,3.81
+85,8821,Gramercy Books,4.09
+25,8798,Harvard University Press,3.92
+83,5973,Vertigo,4.19
+49,1232,Oxford University Press  USA,3.64
+8,1587,1st World Library,4.18
+63,3719,Fortress Press,3.67
+88,2958,HarperTorch,3.91
+97,7208,Kessinger Publishing,3.85
+15,10884,Mariner Books,3.62
+28,1902,Dial Press,3.38
+43,5743,Dell,3.83
+13,5380,Signet,4.32
+29,3072,Penguin Books Ltd,3.77
+90,452,Penguin Classics,4.14
+61,10738,Ballantine Books,4.07
+80,10276,Puffin Books,4.06
+77,2647,Bloomsbury Academic,4.24
+31,2557,University of Illinois Press,3.89
+94,9895,Riverhead Books,4.28
+1,10104,Redleaf Press,4.35
+36,238,Signet,3.51
+5,6793,Dominion Press,4.18
+82,4599,Puffin,3.85
+28,4308,Del Rey,4.06
+56,9401,Verso,3.8
+85,1768,Penguin Classics,4.29
+83,7352,Edaf S.A.,4.32
+3,525,Longman Publishing Group,2.83
+81,6343,Círculo de Lectores,3.91
+86,6179,Small Beer Press,3.8
+81,4186,Planeta Publishing,3.57
+78,4539,Berkley,3.83
+29,3986,Little  Brown and Company,3.92
+68,8717,Steerforth,3.88
+91,10812,Presses de La Cite,3.55
+45,7672,Jove Books,3.79
+12,318,Tarcherperigee,4.18
+63,9916,Puffin Books,3.94
+90,255,Vintage Espanol,3.97
+82,2817,Plume,3.93
+77,5994,Vintage,3.9
+96,2239,Puffin,4.13
+88,5351,Sterling,3.83
+93,9575,Faber & Faber,4.07
+55,1991,Signet,4.21
+23,27,Pragmatic Bookshelf,3.84
+25,9446,City Lights Publishers,4.11
+8,1378,Silhouette Desire,3.27
+60,5905,Harlequin Presents,3.74
+40,3399,New Directions,3.82
+62,9877,Ecco,3.99
+34,4272,Collins Modern Classics,4.59
+24,4482,William Morrow,3.91
+1,10098,Bradford Book,3.86
+64,3575,Simon  Schuster,3.98
+20,2918,Penguin Books,4.09
+43,8335,Columbia University Press,3.38
+22,4059,Grand Central Publishing,3.87
+42,5242,Mariner Books,3.89
+23,1681,Palgrave Macmillan,2.0
+73,892,Aladdin,3.67
+22,6612,Puffin Books,3.72
+70,4732,Zebra,4.02
+64,1573,Simon & Schuster Audio,4.02
+95,2535,Simon  Schuster,3.88
+27,344,Red Dress Ink,3.67
+54,6702,MTV Books,3.55
+98,7006,Plume,3.99
+70,10978,Augsburg Fortress Publishing,3.96
+71,4578,Ballantine Books,3.99
+84,8125,Grand Central Publishing,4.0
+53,6037,Penguin Books,3.92
+4,10801,Pan Books,3.96
+4,5200,Vintage,3.71
+89,10880,Barnes & Noble,4.35
+94,1451,MacMillan Audio,3.58
+17,3489,William Morrow,4.13
+80,8054,Princeton University Press,4.04
+91,7585,VIZ Media LLC,3.97
+35,1194,Vintage,3.7
+42,9829,DK Publishing (Dorling Kindersley),4.06
+79,9638,City Lights Publishers,3.92
+28,6227,Penguin Classics,3.92
+13,4970,Scholastic Paperbacks,4.27
+11,9719,Jessica Kingsley Publishers,4.0
+45,3010,Broadway Books,3.87
+49,143,Gramercy Books,3.83
+74,8377,Ballantine Books,4.12
+66,11100,Not Avail,4.11
+74,3918,Luna Books,3.97
+3,5381,Simon  Schuster,4.04
+91,6646,Princeton University Press,4.23
+39,8864,New Island Books,3.97
+1,3550,Harvard University Press,4.4
+15,4820,Disney Press,3.7
+63,9966,Greenwillow Books,3.78
+49,5933,Douglas & McIntyre,3.83
+70,9580,Rodale Books,3.45
+54,4796,Norton,3.99
+8,4452,Authorhouse,2.55
+18,4823,Crossway Books,4.22
+7,9012,Ballantine Books,4.19
+98,8927,Harper Voyager,4.14
+18,6072,小学館,4.28
+11,2466,Bethany House Publishers,4.06
+28,10220,Aladdin,3.86
+97,7057,Harry N. Abrams,3.84
+98,4388,St. Martin's Griffin,3.69
+83,2042,Recorded Books  Inc.,4.5
+85,6992,Scholastic Paperbacks,3.72
+28,5908,Laurel Leaf,3.76
+37,6254,Random House Audio Publishing Group,3.89
+30,9278,McGraw-Hill Companies,3.52
+39,6018,ADV Manga,3.87
+48,2773,University of California Press,4.09
+46,7872,Berkley Hardcover,4.12
+2,6443,Black Sparrow Press,3.83
+60,709,Scribner,3.96
+96,7935,MIRA,3.78
+52,10318,Spectra,4.19
+28,1539,W. W. Norton  Company,4.05
+19,6962,Prima Games,3.67
+23,7207,Chicago Review Press,4.23
+28,1915,Anchor Books/Knopf Doubleday Publishing Group,3.43
+44,4827,Signet,4.02
+48,4701,Severn House Publishers,3.37
+68,10322,Penguin,4.38
+69,4031,Wildside Press,4.05
+50,4568,Bantam Books,3.98
+86,10899,Harper Perennial,3.95
+90,8198,Harper Paperbacks,4.18
+33,331,Harper Perennial,3.74
+59,1455,Glénat,4.06
+69,3972,Hachette Books,4.12
+8,8516,Martínez Roca,3.78
+29,4697,Skinner House Books,4.75
+71,2421,W.W. Norton  Company,3.62
+54,7205,TusQuets,3.63
+99,10192,New York : Penguin Books,3.88
+32,844,Simon & Schuster Children's Publishing,4.25
+77,8480,British Film Institute,3.89
+46,7702,Vintage Books/Vintage Classics,3.97
+0,1261,St. Martin's Press,4.12
+35,7321,Onyx Books,4.19
+19,3568,Signet Classic,4.07
+46,10160,Penguin Classics,4.09
+23,1585,Houghton Mifflin Harcourt,4.28
+55,9969,Firebird,3.96
+48,7795,Image Comics,4.35
+40,9129,Harry N. Abrams,4.18
+43,6412,HarperTrophy,3.71
+22,2762,Princeton University Press,4.36
+83,1448,Random House Trade,3.95
+66,6305,W. W. Norton & Company,4.35
+56,1674,Abraham Guillen Press,3.31
+46,2064,Vintage,3.58
+47,7734,Holt Paperbacks,4.06
+87,1932,Black Swan,3.95
+60,10919,Hartley & Marks Publishers,4.24
+44,454,Bloomsbury Methuen Drama,3.78
+67,169,Vintage Contemporaries,3.43
+20,374,W. W. Norton  Company,4.26
+63,1972,Ballantine Books,3.34
+1,6425,HarperCollins,4.13
+54,488,Alfred A. Knopf,3.97
+84,8292,Ignatius Press,4.3
+82,8101,Penguin Books,4.07
+20,6130,Free Press,3.77
+69,9942,Vintage,3.37
+16,8694,Chaosium,3.9
+24,7054,Simon  Schuster/Paula Wiseman Books,3.93
+16,9673,Honor Books,3.22
+34,8266,Wiley-Blackwell,4.04
+11,7797,Beckett Media,0.0
+6,10265,Bantam Books,3.9
+37,3433,Harper,3.57
+66,2451,Signet,4.11
+73,7311,Chicken House / Scholastic,3.76
+99,4061,St. Martin's Griffin,4.09
+40,3947,Kodansha International,3.67
+25,5254,Houghton Mifflin Harcourt,4.13
+23,9519,The New Press,4.17
+22,4801,Vintage,4.16
+29,10214,Ace,3.77
+45,6913,Princeton University Press,3.83
+23,5244,Adams Media,3.85
+4,5266,Midnight Ink,3.56
+21,1007,Cliffs Notes,3.69
+83,3062,Vintage Books,4.03
+31,993,Mariner Books,3.4
+48,3968,ADV Manga,3.95
+83,151,Del Rey,4.01
+99,2743,William Morrow,4.14
+18,8649,Newmarket Press,3.9
+52,11051,Inter-Varsity Press,4.14
+34,10350,Signet,3.96
+21,5490,Ace Books,3.76
+65,1157,Broadway Books,3.53
+19,2916,Penguin Books,4.07
+47,10758,Voyager,3.88
+3,4572,Berkley Books,3.54
+97,1616,W. W. Norton  Company,3.87
+75,5630,Berkley Publishing Group,3.95
+65,1504,Washington Square Press,3.98
+30,5881,Audiogo,4.26
+33,4591,Harper Perennial,3.64
+18,565,North Point Press,3.87
+60,10809,Penguin Books Ltd,3.77
+21,1788,Berkley,4.04
+69,1855,Fawcett,4.1
+53,7956,Viking Books,3.78
+5,1335,Minnesota Historical Society Press,4.0
+10,9185,DC Comics,3.47
+67,4109,Penguin Classics,3.71
+80,9167,Deodand Publishing,2.86
+36,4657,Dial Press,4.15
+21,4740,Basic Books,3.82
+1,1181,Little  Brown and Company,4.07
+23,8482,Everyman's Library,3.89
+19,2326,Oxford University Press  USA,4.01
+81,10130,Waterbrook Press,3.54
+50,6869,Penguin,4.51
+57,5333,Viking Books for Young Readers,4.11
+73,4463,Dark Horse Comics,4.08
+87,9624,Headline,3.97
+63,10977,Berkley,3.76
+81,2552,Dell Publishing Company,3.76
+55,9071,NAL Trade,4.03
+84,8162,Arrow,3.89
+79,4040,Bantam Doubleday Dell Publishing Group,4.15
+69,3288,Ecco,4.02
+58,4097,Moyer Bell and its subsidiaries,3.89
+58,6218,Droemer Knaur,4.09
+39,10523,Payot,3.83
+94,7992,HarperCollins Publishers Ltd,4.14
+6,6,Scholastic,4.73
+55,3754,VIZ Media LLC,4.41
+46,4222,William Morrow Paperbacks,3.8
+29,6033,Verso,4.01
+4,2463,FaithWords,4.12
+29,7337,University of Michigan Press,3.91
+78,2075,Lucent Books,3.6
+26,10105,Weidenfeld & Nicolson,4.0
+69,9178,VIZ Media LLC,3.97
+12,10815,Mariner Books,3.81
+26,2622,Bantam Books,4.21
+62,3939,St. Martins Press-3PL,3.94
+16,6496,NYRB Classics,3.73
+13,7639,Mariner Books,4.12
+73,8228,Bantam Skylark,4.01
+99,2826,Indiana University Press,4.01
+74,1874,Tyndale House Publishers,4.28
+7,8879,Gaia Books,4.38
+57,2396,Virago UK,3.83
+14,4319,Del Rey,4.04
+10,7484,DAW Books Inc,4.27
+29,7574,Dover Publications,3.82
+49,4663,Fawcett,3.88
+85,2563,Oxford University Press,3.93
+20,5079,Houghton Mifflin,4.23
+76,9397,G.P. Putnam's Sons,4.11
+62,8546,Running Press,3.63
+65,9198,Academic Press,4.0
+50,3356,Aris and Phillips,4.5
+18,1440,Wizards of the Coast,3.68
+14,7250,Princeton University Press,4.09
+25,2313,DK,4.51
+96,9520,Harper Perennial Modern Classics,4.21
+10,5462,Berkley,3.76
+29,10696,Harlequin Historical,4.1
+9,5233,Recorded Books,4.12
+51,5900,Scholastic Inc.,4.03
+98,1584,Plume,4.18
+54,10947,Microsoft Press,4.39
+80,2357,Putnam Adult,4.09
+62,2881,Fourth Estate,4.19
+73,8143,Farrar  Straus and Giroux,3.56
+54,10376,Henry Holt & Company,3.88
+56,5168,Harmony,3.9
+31,8057,Penguin Books,4.03
+2,6547,HarperCollins,3.54
+50,10456,Wordsworth Editions,3.42
+14,492,Signet Books (NY),3.97
+56,2065,Vintage,3.63
+68,4514,Inner Traditions,4.1
+22,7303,Holiday House,3.75
+58,3424,Modern Library,4.18
+83,7086,Avon Books,3.12
+15,8530,Leisure Books,4.45
+4,10377,Oxford University Press,4.34
+69,4007,Harper Perennial,4.01
+3,11092,Vintage/Random House (NY),3.96
+16,5446,Vintage,3.79
+68,1156,Counterpoint,3.55
+7,6769,Phoenix,3.6
+56,9043,SparkNotes,3.5
+10,2370,Da Capo Press,4.01
+16,2342,G.P. Putnam's Sons,4.05
+69,3162,NAL Books,4.11
+8,9784,Anagrama,3.92
+78,7777,Broadway,4.36
+53,7602,University of Chicago Press,4.21
+58,6368,Seuil,4.09
+92,5062,Penguin,4.06
+60,3408,Methuen Publishing,3.76
+62,9830,DK Publishing (Dorling Kindersley),4.41
+20,416,Harvard University Press,4.22
+86,7059,Harper Perennial Modern Classics,3.87
+58,9677,Dover Publications,4.25
+52,9561,Hodder & Stoughton,4.39
+79,8988,Goldmann,4.16
+79,3115,Vintage,4.08
+77,2247,Random House for Young Readers,4.12
+78,10331,Library of America,3.39
+6,7857,Minotaur Books,3.96
+92,3389,Vintage,4.02
+16,10460,Cambridge University Press,3.98
+70,9712,Penguin Books,3.96
+17,8356,HarperCollins,3.92
+42,8796,Three Rivers Press (CA),3.96
+57,9521,Gramercy,4.22
+18,9693,W. W. Norton & Company,4.06
+65,8543,W. W. Norton & Company,3.95
+17,9002,Zondervan,4.36
+40,217,HarperCollins Publishers,4.14
+39,8168,Columbia University Press,3.96
+64,5835,Audiogo,4.25
+65,4168,Audio Partners,4.0
+28,6996,Delacorte Press,3.85
+43,4239,Free Press,3.61
+92,4154,Kabel  Verlag GmbH Ernst,3.82
+26,7192,Basic Books,3.93
+80,7475,Picador USA,4.17
+33,10509,Bantam,4.08
+98,9140,Omnibus Press,4.56
+34,5910,Teacher's Pet Publications,4.86
+22,4278,Back Bay Books,3.66
+1,21,Ballantine Books,4.59
+23,4649,Vintage,3.63
+40,9035,Contemporary Books,3.78
+5,5173,Mariner Books,4.18
+39,4566,G.P. Putnam's Sons,4.31
+38,9460,William Morrow Paperbacks,3.82
+64,2745,Penguin Classics,3.54
+24,1736,Penguin Books,4.02
+76,6303,W. W. Norton & Company,4.47
+11,8876,Random House Books for Young Readers,4.06
+34,10568,Penguin Workshop,4.26
+9,3909,Scholastic Paperbacks,3.88
+33,232,Signet Classics,4.11
+75,9333,HarperCollins Publishers,3.61
+2,10695,Wheeler Publishing,4.22
+49,2306,HarperCollins,4.17
+92,7745,Naiad Press,3.74
+92,8541,Liguori Publications,4.49
+51,6198,Veritas Publishing,4.38
+80,8784,Cambridge University Press,4.36
+95,2288,Northwestern University Press,4.24
+6,3079,Vintage,3.81
+17,9221,Running Press,3.16
+24,10436,Owl Books,4.29
+90,2496,Oxford University Press  USA,4.08
+24,9606,Seven Stories Press,3.73
+6,8002,YoungJin Singapore Pte. Ltd.,3.57
+49,8130,St. Martin's Paperbacks,3.72
+43,6287,VIZ Media,4.59
+51,10864,Zondervan,3.14
+33,5879,New Riders Publishing,3.74
+91,1480,Berkley,3.69
+88,1548,Delta,3.94
+42,8226,Berkley,3.77
+64,1698,HarperCollins,4.27
+87,7397,Penguin Classics,3.92
+8,9835,HarperTorch,3.83
+28,6056,Plaza y Janes,3.81
+65,1853,Ballantine Books,3.76
+33,6802,Mariner Books,4.45
+32,7050,角川書店 (Kadokawa Shoten),3.95
+69,6257,Houghton Mifflin Harcourt,4.64
+64,9143,W. W. Norton  Company,4.1
+45,2086,Drawn and Quarterly,4.35
+74,2704,National Geographic Society,3.93
+89,5733,Hachette Audio,4.02
+97,5629,Berkley Books,3.89
+51,9658,Love Spell,4.13
+7,5536,Scholastic,3.2
+56,928,Mariner Books,4.11
+79,5510,Silhouette,3.37
+24,7621,Avon,4.22
+19,2455,Hachette Books,4.01
+78,4785,Ace Book,4.01
+43,4707,St. Martin's Griffin,3.78
+40,2851,Pocket Books,3.98
+59,8544,Zondervan,5.0
+5,1408,Penguin Books Ltd,4.32
+56,9716,Smithsonian Books,4.47
+44,6892,Gingko Press,3.94
+57,3774,VIZ Media LLC,4.28
+19,3028,Schocken Books Inc,3.94
+61,1516,Free Press,4.13
+63,2548,Tarcherperigee,4.14
+42,245,Random House Trade Paperbacks,4.23
+45,9549,Pocket Books,3.69
+52,734,Peter Smith Publisher,4.11
+94,977,Suhrkamp,4.33
+51,3030,Schocken,4.15
+71,1879,Puffin,3.78
+77,2346,G.P. Putnam's Sons,3.73
+22,10000,Tor Books,3.97
+92,5404,Faber & Faber,3.93
+7,4713,Picture Book Studio Ltd,3.73
+84,5813,Del Rey,3.81
+83,7700,New World Publishing,3.76
+90,7988,Ignatius Press,3.88
+73,6204,Del Rey Books,3.81
+83,2626,Dragonfly Books,4.13
+13,6007,Harper Perennial,3.65
+90,2406,DK Children,3.79
+51,8805,The Guilford Press,3.31
+27,4606,Cardoza,3.94
+63,3002,Mariner Books,4.18
+65,1845,Ballantine Books,3.88
+37,431,Penguin Books,4.02
+40,6458,HMH Books for Young Readers,3.79
+47,3943,University of California Press,3.36
+29,3197,Faber and Faber,3.46
+6,926,Overeaters Anonymous  Incorporated,4.36
+58,5784,Delacorte Press,4.13
+14,1236,Riverhead Books,3.56
+30,8446,Anchor,4.35
+32,9907,Pantheon,3.88
+89,4424,Anchor,3.69
+51,7845,Jove,4.54
+54,10898,Absolute Press,3.55
+32,4978,Pelican Publishing Company,3.7
+76,1669,University of Georgia Press,4.01
+99,11041,Alfred A. Knopf,3.78
+78,1725,North Star Publications (MA),3.2
+20,849,Kessinger Publishing,3.98
+57,1895,Little  Brown and Company,4.23
+8,8393,Routledge,3.88
+74,8338,Anchor,3.9
+32,8754,St. Martin's Paperbacks,3.48
+88,6488,Harvard University Press,3.96
+12,2922,Little Bookroom,4.3
+11,10708,Berkley,3.68
+87,10663,Greenwillow Books,3.34
+33,1375,Children's Press(CT),3.53
+4,3193,Harper Perennial,3.83
+83,11083,Knopf Books for Young Readers,4.26
+87,6755,Orchard Books,4.05
+24,4017,Vintage,4.19
+47,8123,Signet Classics,3.37
+77,8142,Orion Books,3.88
+61,85,O'Reilly Media,3.84
+49,9498,Mariner Books,3.87
+18,2861,Andrews McMeel Publishing,3.83
+66,8456,Grand Central Publishing,4.1
+14,7236,Hackett Publishing Company  Inc.,3.87
+83,9408,Elloras Cave,4.21
+83,9972,Vintage,4.0
+97,6692,Vertigo,4.43
+19,4333,Archipelago Books,3.94
+3,2987,Random House Value Publishing/TheViking Press,4.17
+32,7142,University of Massachusetts Press,3.98
+19,8026,Mariner Books,3.78
+64,3179,Vintage,3.81
+91,3436,Anchor,4.19
+55,10174,Voice,2.93
+96,8848,Dark Horse,3.87
+98,1459,Signet,4.23
+52,10842,Vintage,4.02
+71,7135,Fawcett,3.78
+81,8238,McClelland & Stewart,3.93
+53,10253,Cartwheel,3.69
+93,5974,MIT Press,3.74
+86,6908,Silhouette Books,3.73
+31,7449,Harper Perennial,3.68
+60,4780,Penguin Classics,3.64
+71,2801,Harvard Common Press,3.78
+8,6393,Turtleback Books,3.78
+82,2941,Hachette Books,3.67
+97,6780,LSU Press,4.37
+27,7327,Vintage,3.42
+31,7937,Simon & Schuster,3.92
+32,10392,Orion,3.7
+77,5163,iBooks,3.63
+25,2495,W. W. Norton & Company,4.08
+37,9735,Gallery Books,3.58
+37,10202,Viz Media,4.23
+80,10676,Simon & Schuster,3.86
+55,5520,Little  Brown Book Group,4.25
+27,539,Harcourt Brace,4.05
+31,349,Clarkson Potter,3.95
+21,2415,W. W. Norton  Company,3.71
+68,761,Orion Publishing,4.14
+70,4943,Tor Fantasy,3.57
+16,4555,Harry N. Abrams,4.26
+72,1068,Multnomah Books,4.26
+22,5808,University Press of Kentucky,4.13
+1,7804,White Wolf Games Studio,3.95
+7,173,Penguin Press,4.13
+28,9875,University Of Chicago Press,4.28
+36,1763,Penguin Books,3.79
+87,4627,MONDIAL,3.67
+29,9288,Simon  Schuster,4.02
+26,11015,Oxford University Press  USA,3.79
+99,5991,Harper,3.73
+36,4802,Pocket Books,3.96
+40,1453,VIZ Media LLC,4.1
+97,2845,Delacorte Press,3.56
+48,9385,Starscape,3.94
+77,2263,Signet Book,4.25
+6,4973,Blackstone Audiobooks,4.41
+31,7822,Wheeler Publishing,3.88
+20,5875,Harvard University Press,4.18
+94,585,Anchor Books,4.17
+19,10622,Simon & Schuster,3.84
+24,1201,Beacon Press,4.36
+60,4658,Lübbe,4.15
+52,1711,St. Martin's Paperbacks,4.19
+70,5852,Ballantine Books,3.35
+21,9513,Delacorte Press,3.41
+18,2033,Houghton Mifflin Harcourt,4.14
+24,2820,For Dummies,3.32
+40,817,Penguin Books,3.86
+47,10929,Random House Books for Young Readers,3.87
+10,4828,Baen,4.02
+97,10845,Harmony,4.27
+9,7856,Berkley Books,4.05
+26,8281,Cengage Learning,3.78
+82,2480,Vintage,4.05
+99,1356,Oxford University Press  USA,3.76
+27,193,Sun and Moon Press,3.89
+96,2898,Basic Books,3.93
+83,7653,Back Bay Books,3.32
+5,5785,HarperTorch,4.09
+94,1380,Johnson Publishing Company (IL),4.44
+39,3705,Doubleday Books,4.0
+78,10102,Clarion Books,3.74
+93,5542,Zondervan,3.96
+52,1182,Harper Voyager,3.75
+6,3663,Harry N. Abrams,4.14
+9,7720,Vintage,3.53
+18,1137,Penguin Books in association with Faber & Faber,3.94
+95,4075,Monkfish Book Publishing,3.77
+87,2935,Simon  Schuster,4.11
+44,8882,Mariner Books,3.5
+23,7469,DAW Books,3.91
+56,8771,Vision,4.02
+62,6344,Plaza y Janes,3.78
+59,5224,Harry N. Abrams,4.43
+53,10287,Pocket Books,3.87
+90,2179,HarperOne,3.95
+53,2156,Harper Perennial,4.08
+14,10793,Penguin Classics,3.97
+90,10630,Verso,3.86
+60,11096,Penguin Classics,3.63
+78,8115,Ballantine Books,3.79
+25,4829,Vintage,3.76
+56,4204,Canongate U.S.,3.77
+52,10590,Verso,3.89
+31,1247,American University in Cairo Press,3.55
+39,2315,Alfaguara,3.69
+30,5777,Mariner Books,3.95
+72,746,Oxford University Press  USA,3.82
+4,10866,Dover Publications,4.02
+84,6397,Scholastic Paperbacks,3.85
+30,7661,Waking Lion Press,3.68
+35,8453,Grand Central Publishing,4.13
+48,10595,Wiley-Blackwell,3.77
+58,11091,William Morrow Paperbacks,2.33
+45,6895,Mariner Books,3.75
+54,9158,Prometheus Books,3.88
+36,8283,Belknap Press,4.19
+80,6935,William Morrow Paperbacks,3.8
+8,9477,Oxford University Press,3.67
+44,6986,The Guilford Press,3.79
+28,4480,Three Rivers Press (CA),4.02
+54,1784,Wizards of the Coast,4.19
+0,329,Howard Publishing Co,3.98
+2,4465,Debolsillo,3.99
+10,10389,Orb Books,3.9
+38,3858,Harry N. Abrams,3.93
+13,6328,Cemetery Dance Publications,3.79
+70,10168,Bantam,3.78
+37,4875,New Press  The,3.98
+69,9931,Ballantine Books,3.79
+54,3038,Signet,4.2
+44,9817,Leisure Books,3.97
+24,4670,Titan Books,4.19
+3,306,Moody Publishers,4.7
+68,2020,Sinauer Associates,3.92
+33,1941,HarperOne,3.95
+92,8114,Ballantine Books,3.52
+58,1174,Headline Book Pub Ltd,4.2
+63,7440,Pocket Books,4.1
+1,5518,Avon Books,3.98
+98,859,TSR,3.46
+33,4535,AudioGO,3.56
+92,6437,Candlewick Press (MA),4.02
+84,2422,Vintage Classics,4.16
+56,8352,Headline,3.99
+10,6606,Brilliance Audio,4.1
+78,5001,Harry N. Abrams,4.13
+91,7091,Harvard University Press,3.58
+73,3402,Ballantine Books,3.85
+37,3269,Princeton University Press,4.19
+45,2256,HarperCollins,4.05
+49,3795,VIZ Media LLC,4.22
+56,2914,MacMillan Publishing Company,3.8
+18,7178,Tyndale House Publishers,4.01
+74,4648,Ebury Press,3.0
+21,884,Yearling,3.93
+50,783,Penguin Books,3.63
+62,7528,Harper Perennial,4.09
+39,4019,Vintage,4.28
+83,2858,Random House Audio,3.93
+23,10891,HarperTeen,3.89
+16,9085,Harry N. Abrams,4.13
+15,2408,Disney Press,4.0
+67,7597,DAW,3.39
+38,321,Firebrand Books,3.95
+66,3682,Eos,4.17
+95,6237,Warner,4.0
+16,3553,Ember,3.91
+38,4193,McGraw-Hill Education,4.03
+10,4435,HarperCollins Publishers,3.8
+18,5767,Roc,3.73
+14,6700,Psychology Press,4.26
+2,6577,Square Fish,4.13
+14,2887,Barnes  Noble Classics,3.72
+27,10096,Candlewick Press,4.13
+60,9556,Pimlico,3.91
+26,620,Digireads.com,3.8
+82,2791,Little  Brown and Company,3.53
+93,6811,Catholic Book Publishing,3.92
+44,8466,Bantam,3.96
+86,3227,HarperCollins Publishers,3.46
+7,7,Gramercy Books,4.38
+96,4604,BCP/Duckworth Publishing,4.45
+57,10127,CRC Press,4.53
+79,6151,Sierra Club Books,4.1
+19,5562,Severn House Publishers,3.88
+55,6973,F. Meiner,4.78
+22,9651,Bantam,3.47
+3,3076,Plume,4.03
+57,2308,HarperCollins,4.15
+83,10722,Wildstorm,3.93
+19,2871,Bantam,4.15
+85,1276,Orion Publishing,3.98
+84,9766,Houghton Mifflin Harcourt,4.19
+38,1351,St. Martin's Griffin,4.1
+7,2525,William Morrow Paperbacks,3.77
+47,5015,Simon Schuster,3.74
+6,9932,Ballantine Books,3.61
+49,8519,Random House Audio,3.77
+20,5739,Orion,4.06
+86,10381,Puffin Books,3.68
+53,4878,Penguin Press HC  The,3.95
+35,10476,Pen & Sword Military,4.1
+11,3835,VIZ Media LLC,4.35
+94,989,Penguin Classics,4.27
+32,3374,Random House  Inc.,4.11
+17,2217,Tor Books,3.43
+47,3515,Walker,3.94
+12,7241,Dover Publications,3.6
+71,6279,VIZ Media LLC,4.36
+96,1382,Random House Trade,3.88
+58,8279,Hackett Publishing Company  Inc.,3.71
+52,10099,Vintage,3.83
+62,10172,Orb Books,3.55
+62,9704,Ballantine Books,4.2
+36,6369,W. W. Norton  Company,3.86
+71,3290,Library of America,4.41
+5,9795,St. Martin's Paperbacks,4.0
+59,2893,Simon  Schuster,3.52
+35,2191,Penguin Books,3.5
+96,781,Rupa & Co,4.23
+16,5897,Corgi,4.09
+0,8722,Tor Books,3.13
+58,434,Nonpareil Books,4.29
+26,8380,Ballantine Books,4.17
+7,9313,Crossroad Publishing Company,3.6
+89,4728,DC Comics,3.12
+76,8568,HarperCollins,4.28
+41,10363,Headline Review,3.75
+76,4036,Hodder & Stoughton,3.92
+53,124,Grove Press,3.78
+73,7548,Le Livre de Poche,3.96
+24,6518,Arcadia Publishing,2.67
+98,1951,Signet Book,3.94
+45,4517,Black Dog & Leventhal Publishers,3.98
+4,7308,Hyperion Books,4.24
+40,4589,Harper Perennial,3.91
+41,9509,Yosemite Conservancy,3.96
+5,7441,Signet,3.8
+19,1926,Poisoned Pen Press,3.7
+54,6376,Urion Press,4.32
+96,10407,Chronicle Books,4.06
+53,5847,MacMillan Audio,3.8
+8,5402,Picador,3.62
+96,4619,Harry N. Abrams,4.16
+11,7277,Scribner,3.59
+26,2645,Vintage International,3.91
+18,728,Penguin Books Australia Ltd.,4.01
+88,10644,North Atlantic Books,4.42
+62,9062,HarperTorch,3.89
+3,9933,Broadview Press Inc,4.11
+37,3850,VIZ Media LLC,4.44
+27,7607,Hay House,4.21
+71,8664,Kensington Publishing Corporation,3.75
+73,10230,Pocket Books,3.87
+80,7770,Belknap Press,4.01
+55,8041,Perfection Learning,3.97
+12,5661,Simon & Schuster,4.02
+9,6242,Nicholas Brealey,3.7
+44,469,University of Chicago Press,4.1
+41,2458,Scholastic Paperbacks,4.01
+44,8472,University Press of Mississippi,4.0
+56,2221,Forge Books,3.85
+64,4620,Penguin Classics,4.02
+43,4594,Spectra Books,3.29
+31,6548,HarperOne,3.95
+54,2981,Ballantine Books,3.91
+8,5385,Scholastic,3.8
+72,6830,Patmos,3.75
+28,6291,Glénat,4.59
+44,9746,Scholastic Paperbacks,3.96
+63,10521,Broadway Books,3.94
+24,4709,Routledge,3.89
+3,7404,Spectra,4.06
+55,8267,Open Court,4.05
+72,8318,東立,4.55
+42,7028,Bloomsbury Academic,3.7
+29,1496,Vintage,3.95
+60,10359,Headline Review,3.61
+70,1815,St. Martin's Press,4.16
+32,10506,Fawcett,3.9
+40,10706,Berkley,4.04
+37,7892,Oxford University Press,4.12
+58,10122,Paperback Library,3.94
+16,1113,Penguin Books,3.96
+50,2902,Gallery Books,3.96
+36,3336,Penguin Books,4.28
+34,7414,Wizards of the Coast,4.16
+22,2183,Bloomsbury Paperbacks,3.67
+98,6721,New Directions Publishing Corporation,3.92
+39,1069,Ember,4.13
+66,11062,Penguin Books,3.89
+33,738,Punto de Lectura,4.19
+44,260,Vintage Books USA,4.07
+60,2081,Villard,3.92
+29,2556,Riverhead Books,3.24
+49,4085,Firebird,3.9
+8,8237,Oxford University Press,3.83
+99,1151,Severn House Publishers,4.0
+38,804,North Atlantic Books,4.67
+90,8502,W. W. Norton & Company,3.86
+39,7697,Pocket Books,4.15
+34,2502,DK Children,4.18
+19,202,Penguin Books Ltd. (London),3.93
+35,6298,Birlinn,4.24
+34,10533,Hachette Children's,3.02
+62,10510,Lerner Publications,3.96
+24,8531,Voyager,4.44
+89,5952,Marvel,4.06
+49,1114,Penguin Books,3.55
+22,1826,Oxford University Press,3.43
+64,5870,Yale University Press,3.69
+6,6400,Montlake Romance,4.24
+35,7254,Wiley,3.83
+32,10063,Silhouette Books,3.77
+79,10597,O'Reilly Media,4.23
+59,9641,Sweet Valley,3.92
+47,10498,Xlibris Corporation,4.07
+56,3592,Scholastic Paperbacks,4.02
+49,2365,Avon,3.8
+4,3357,Little  Brown Books for Young Readers,4.09
+60,4255,HarperCollins Publishers Ltd,4.53
+15,10648,J'ai lu,3.68
+81,10886,Puffin,4.13
+94,7957,Editions 10/18,3.76
+30,8354,Book Publishing Company (TN),4.38
+97,5980,Vertigo,4.51
+57,4179,Mariner Books,3.76
+86,9776,Feral House,3.58
+73,8997,HarperCollins Publishers,3.78
+8,8353,Headline,3.42
+72,2652,Crown,3.75
+55,2539,Three Rivers Press (CA),3.8
+64,9256,Del Rey,4.3
+86,8155,William Morrow Paperbacks,4.07
+48,6319,W. W. Norton  Company,4.17
+62,692,Scribner,4.07
+16,1847,MTV Books,4.22
+20,8310,Marvel,4.17
+74,3292,Ecco,3.67
+0,2410,Scholastic Paperbacks,4.14
+69,9406,Avon,4.06
+58,3476,Penguin,3.77
+54,2392,Simon  Schuster,4.16
+12,10933,Larousse,3.92
+1,7197,Hal Leonard Pub Corp,4.24
+50,9063,Self-Realization Fellowship Publishers,4.44
+91,7387,Bantam,3.67
+56,2653,Anchor Books,3.83
+45,10343,Carlsen,4.42
+31,7145,Oxford University Press,3.75
+46,636,BBC Worldwide,4.22
+73,7066,Dover Publications,3.68
+94,1065,For Dummies,3.77
+35,4365,Vintage,4.27
+86,5931,Mondadori,3.57
+77,9505,Pan Childrens,3.62
+11,2741,St. Martin's Press,3.89
+38,10266,Avon Books,4.0
+55,7129,Mariner Books,3.97
+26,10171,Orb Books,3.78
+67,506,Harvard University Press,4.21
+63,2551,Dell Publishing Company,3.66
+99,6506,St. Martin's Griffin,4.08
+12,7362,New Directions,3.99
+87,10902,HMH Books for Young Readers,3.6
+16,1648,Simon  Schuster,3.93
+97,8445,Anchor Books,4.38
+43,8748,St. Martin's Paperbacks,3.94
+17,5379,Penguin Books,3.98
+37,2336,G.P. Putnam's Sons,3.99
+33,9918,Puffin,3.78
+82,1286,Geddes & Grosset,4.36
+0,8657,Anchor,4.18
+96,1700,Large Print Press,4.27
+42,7452,Princeton Architectural Press,4.0
+2,607,Touchstone,3.85
+86,3539,Penguin Classics,4.23
+78,8985,Orbit Books,3.97
+59,2096,Three Rivers Press,3.93
+67,10705,Berkley,3.9
+52,10213,Waterbrook Press,3.66
+25,3198,Alfaguara,3.56
+19,1538,Penguin Books,4.05
+43,9656,Bantam,3.33
+82,6877,Knopf Doubleday Publishing Group,0.0
+31,10443,Harlequin American Romance,4.0
+0,9189,Wildside Press,3.71
+88,10689,Public Square Books,3.81
+72,1104,Penguin Classics,3.62
+98,3747,J'ai Lu,4.39
+68,6590,Andrews McMeel Publishing,4.72
+88,6415,Candlewick Press,4.08
+12,6831,Library of America,4.61
+48,687,Penguin Books,4.17
+76,6542,Cleis Press,4.11
+96,1445,MacMillan General Books,4.05
+31,10948,Blood Moon Productions,3.51
+18,9417,Feiwel & Friends,4.36
+18,4261,聯經出版事業股份有限公司,4.36
+71,8610,Cambridge University Press,3.77
+70,3734,New Press,4.0
+5,5245,William Morrow Paperbacks,3.8
+45,4091,Cherry Red Books,3.99
+11,8908,Hartorch,4.13
+18,11060,Twenty-First Century Books (CT),4.0
+12,3259,Del Rey,4.21
+95,3543,Cliffs Notes,3.73
+73,9262,HMH Books for Young Readers,3.76
+98,3714,Penguin Books,3.26
+90,6516,Arcadia Publishing (SC),4.4
+99,10390,Orb Books,4.05
+36,4515,Cambridge University Press,3.73
+7,10263,Bantam Skylark,4.39
+10,7859,Viz Media,4.23
+55,10167,Orb Books,3.7
+78,3315,Dover Publications,3.85
+33,9566,University of Illinois Press,4.1
+4,7654,TokyoPop,3.95
+22,6342,Plaza y Janes,4.07
+2,1368,Penguin Classics,3.99
+66,5416,Rowohlt Tb.,4.14
+39,7868,Avon,3.78
+91,2640,Tarcherperigee,3.69
+28,3107,Tyndale House Publishers,4.5
+10,6262,Houghton Mifflin Harcourt,4.46
+85,2565,Indiana University Press,4.18
+39,7939,Doubleday Books,4.29
+55,9863,Warner Books,4.35
+52,9177,Titan,4.18
+73,285,VIZ Media LLC,4.57
+97,1279,Trafford Publishing,3.22
+30,2448,Random House Value Publishing,4.14
+77,8451,Warner Books (NY),4.18
+80,6609,Harry N. Abrams,3.5
+29,1795,Alfred A. Knopf,4.39
+69,2751,Barnes  Noble Classics,4.47
+87,894,Dover Publications,3.72
+78,1433,Dial Press Trade Paperback,3.82
+25,4920,Lippincott Williams & Wilkins,4.29
+62,8099,Pygmalion Editions,4.12
+99,6439,Vision,4.08
+58,2253,Atheneum Books for Young Readers,4.16
+62,10955,Microsoft Press,4.01
+23,3323,Dial Press Trade Paperback,4.18
+47,4389,Bloomsbury U.S.A. Children's Books,3.88
+33,8177,Bantam Books,4.1
+60,1308,Pocket Books,4.24
+63,2844,Countryman Press,4.13
+69,8044,Broadway Books,3.86
+97,3295,Bethany House Publishers,3.77
+28,390,St. Augustines Press,4.5
+71,3345,Vintage,4.08
+40,2878,Inter Varsity Press,3.93
+73,8578,Random House Audio,3.63
+21,3219,Corgi Books,3.9
+25,6932,Pantheon,4.38
+70,6466,HarperCollins,4.08
+14,2727,Ballantine Books,4.1
+44,3944,Vintage,3.85
+99,9946,Penguin Books,3.71
+11,7339,Spectra,3.47
+80,5012,Macmillan Publishing Company/Collier Books,4.09
+82,1823,Vintage,3.92
+78,8505,Simon  Schuster Audio,3.69
+45,3188,Holt  Rinehart and Winston  Inc.,4.02
+32,7711,Harvard University Press,4.05
+75,8660,Kensington,3.92
+67,8844,Inner Traditions International,4.28
+89,10548,Recorded Books,3.88
+15,7041,Prentice Hall PTR,3.0
+74,10982,Modern Library,3.86
+83,571,Scholastic,3.86
+44,7581,Grand Central Publishing,3.92
+42,1650,Penguin Books,4.08
+74,7514,Harvill Press,4.29
+91,4693,New Directions Publishing Corporation,3.92
+72,459,Oxford University Press  USA,3.83
+61,6584,Random House,4.1
+98,9631,Vintage Books a division of Random House,4.35
+42,9524,Piper Taschenbuch,3.64
+30,7430,Simon & Schuster,4.16
+60,6483,Tor Books,3.54
+15,3116,Bloomsbury,3.82
+21,25,Houghton Mifflin Harcourt,4.53
+8,2617,Dial Press,3.77
+30,2098,Applause Books,3.8
+78,900,The Modern Library,3.82
+5,8662,Kensington,3.87
+2,3461,The New Press,3.94
+88,1762,Penguin Books,3.79
+45,9720,Academica Press,5.0
+30,3125,Th1nk Books,3.49
+13,4734,Penguin,3.71
+16,2934,Ballantine Books,4.14
+61,586,Modern Library,4.01
+55,6501,W. W. Norton  Company,4.38
+80,5285,Townsend Press,3.64
+23,9816,Leisure Books,4.06
+96,5155,Jump at the Sun,3.64
+95,1889,Puffin,3.82
+74,4633,Crescent,3.52
+43,352,Clarkson Potter Publishers,4.06
+47,5760,Audio Literature,4.1
+68,5449,Berkley Books,4.18
+24,6142,University of California Press,3.95
+5,4453,St. Martin's Griffin,4.05
+41,8426,Bantam,3.76
+3,3256,Suhrkamp,3.51
+90,1753,Simon  Schuster,4.32
+42,10528,Signet,4.45
+51,8060,Pocket Star,3.95
+83,764,Everyman's Library,4.12
+58,5501,Workman Publishing Company,3.77
+64,9714,Penguin Classics,4.05
+5,6013,Main Street Books,4.02
+92,826,Bloomsbury Publishing PLC,3.83
+45,10800,DC Comics,3.81
+31,7545,Heyne,3.96
+33,7827,Berkley,4.04
+57,4362,Simon Pulse,3.89
+52,8818,Prentice Hall,4.21
+51,3766,講談社,4.3
+38,10467,SparkNotes,3.83
+67,6152,Picador,3.13
+6,3216,Scribner,3.41
+88,10455,US Naval Institute Press,4.16
+73,6714,NAL,3.93
+59,8764,Abacus,3.68
+65,5136,Baton Wicks,3.93
+18,5040,Penguin Books,3.77
+76,2728,Faber & Faber,3.48
+97,882,Glénat,4.22
+64,7662,Bison Books,3.78
+26,4069,Greenwillow Books,4.25
+64,8609,Bloomsbury Arden Shakespeare,3.77
+55,9472,St. Martin's Paperbacks,4.04
+79,9239,Chicago Review Press,3.87
+87,5156,Hyperio,3.43
+30,3571,Cambridge University Press,4.07
+38,4655,Arcadia Publishing (SC),3.0
+11,6235,Wiley,4.04
+11,7454,Roc,3.96
+34,5791,Arrow,3.48
+69,7256,Course Technology,3.8
+73,5102,Dell Publishing Company,3.23
+99,2811,Yearling,3.81
+24,8734,Little  Brown and Company,4.15
+79,2929,Hachette Books,3.78
+60,6155,Mariner Books,3.41
+23,663,Picador,3.91
+80,665,Thomas Nelson,4.17
+64,6719,Atlantic Books,3.69
+39,9328,Times Books,3.73
+21,9617,South End Press (Boston),3.94
+46,9613,Vertical,3.82
+68,9634,Amistad,3.97
+39,988,Turtleback Books,4.47
+25,9343,Vintage,3.92
+73,9032,Warner Books,3.55
+54,7047,Blu,3.93
+67,7494,Northwestern University Press,3.7
+31,836,Duke University Press Books,4.0
+40,8923,HarperCollins,4.05
+97,2775,Shambhala,3.97
+38,8498,Harper Voyager,3.75
+79,468,University of Chicago Press,4.02
+86,10876,Mariner Books,3.5
+57,5324,Faber and Faber,3.94
+59,482,University of Chicago Press,4.14
+52,8427,Wings,4.24
+36,2797,Virgin Publishing,3.22
+0,9098,Del Rey,4.25
+98,2046,Lantern Books,4.0
+33,2324,Vintage Classics,4.12
+6,4570,Bantam Books,3.97
+17,1216,Hci,3.7
+58,3769,講談社,4.27
+90,10773,Sourcebooks,3.76
+49,9104,DK Children,4.16
+61,8133,Modern Library,4.07
+61,457,Oxford University Press,4.1
+5,4839,W. W. Norton  Company,4.18
+99,8040,Vintage,4.04
+38,1595,Anchor,3.81
+69,8357,Avon,3.87
+61,6407,Random House Books for Young Readers,4.19
+68,4652,Mariner Books,3.77
+26,10090,Little Brown and Company,2.67
+24,8772,Ullstein,3.85
+71,3240,Timber Press (OR),3.83
+86,4305,Ace Books,3.8
+72,2584,Houghton Mifflin Harcourt,3.79
+30,978,Hodder Children's Books,4.02
+3,6763,Alfred A. Knopf Books for Young Readers,3.71
+36,10650,McSweeney's,3.72
+9,4485,Washington Square Press,3.62
+34,716,Dover Publications,3.95
+16,3218,Black Swan,3.9
+44,6928,Island Books,4.14
+49,6701,Creation Books,3.96
+5,7961,Knowledge Products,3.86
+72,5725,Jossey-Bass,4.04
+96,2124,Harpperen,3.95
+78,464,Loeb Classical Library,4.03
+27,7885,University of Chicago Press,4.04
+73,7761,Penguin Books Limited,3.45
+47,5472,Little  Brown Books for Young Readers,3.87
+73,184,Vintage International,3.8
+67,2117,Penguin Classic,4.11
+28,3878,Wizards of the Coast,4.17
+99,9421,Random House,3.79
+5,518,Penguin Books,3.99
+33,10674,Bloomsbury USA Childrens,4.47
+16,4350,Farrar  Straus and Giroux,4.0
+29,5283,Barnes  Noble Classics,3.96
+69,4499,Anchor Books,4.12
+67,4105,Modern Library,3.88
+15,6233,John Wiley & Sons,3.89
+36,1301,Penguin Group,3.9
+37,7864,HarperTorch,4.29
+30,10920,Houghton Mifflin Harcourt,3.21
+87,1087,Penguin Books,4.11
+91,4958,Farrar  Straus and Giroux,3.94
+0,98,Penguin Books,3.71
+94,2832,Adams Media,3.8
+12,8856,Margaret K. McElderry Books,3.55
+78,11073,DEBOLS!LLO,3.84
+97,10655,DeBolsillo,3.81
+19,9237,Clarion Books,3.69
+64,8248,Debolsillo,3.83
+44,998,Avon,4.37
+49,2876,W. W. Norton  Company,3.67
+96,5172,Penguin Books,3.62
+63,4923,Berkley Books,4.15
+61,11027,Between the Lines Productions,0.0
+15,9941,Vintage,3.67
+59,10512,David C. Cook,3.96
+9,4569,Bantam Books,3.78
+52,8954,G.P. Putnam's Sons,4.25
+12,541,W. W. Norton  Company,4.05
+18,498,University of Pennsylvania Press,3.83
+13,8931,L.A. Weekly Books,4.0
+2,18,William Morrow Paperbacks,3.86
+73,5309,Penguin Books,4.22
+10,3370,Kaplan,3.4
+15,3096,Harcourt Brace Jovanovich,3.82
+79,8561,Scribner,3.7
+18,8112,Wordsworth Classics,4.38
+64,4393,Picador USA,3.94
+19,7568,O'Reilly Media,3.88
+67,1857,Grand Central Publishing,3.99
+70,8642,Dragon Door Publications,4.0
+68,8727,Aladdin,4.03
+3,8106,Tyndale House Publishers,4.11
+78,7978,Random House,3.73
+12,4835,Bantam Books,4.08
+18,10369,Coronet,3.46
+93,7136,Vintage,3.97
+7,10562,HarperTorch,4.01
+12,7310,Thorndike Press Large Print,4.25
+78,10856,HarperTeen,3.74
+40,5968,Vertigo,4.21
+88,10660,Pocket Books,3.75
+40,7383,Oxford University Press,4.01
+75,2975,Vintage Books,4.1
+46,7560,Penguin Books,3.96
+29,6059,List Taschenbuch,3.4
+78,3094,Wilhelm Goldmann Verlag  GmbH,4.11
+23,8120,Vintage International,4.19
+77,5802,Brilliance Audio,4.01
+25,9290,Modern Library,4.01
+77,590,Scholastic,3.65
+33,203,Business Plus,3.4
+14,10307,Penguin Books Ltd,3.12
+10,10494,Omnibus Hc Bei Bertelsmann,4.12
+74,8474,Library of America,4.41
+10,10887,Puffin,3.95
+95,301,Newmarket Press,4.08
+52,2550,Dell Publishing Company,3.64
+95,3874,Your Coach Digital,4.06
+74,7773,Vince Emery Productions,3.98
+74,1145,Ecco,3.87
+9,6968,Webster's New World,4.32
+39,9139,Harmony,4.39
+14,9348,ガンガンコミックス,4.56
+6,6107,Bantam,4.3
+85,2896,William Morrow Paperbacks,3.53
+86,7848,Digital Manga Publishing,4.07
+97,5663,Ecco / HarperCollins,3.98
+69,6667,Ash Tree Publishing,4.45
+54,5819,Villard,3.67
+70,4677,Routledge,0.0
+73,9930,Dover Publications,3.86
+87,7683,Tor Books,3.56
+94,2236,Firebird,3.98
+57,1965,Pantheon,4.08
+9,3812,Harper Voyager,4.22
+96,9034,Penguin Classics,4.13
+18,2591,Starscape,4.31
+0,973,Harper Perennial,3.72
+75,7146,Kessinger Publishing,3.75
+43,1913,Scribner,4.31
+57,4141,Gollancz,4.02
+32,5708,HarperCollins,4.25
+32,5330,William Morrow Paperbacks,3.96
+89,10329,Avon,3.91
+97,8493,Berkley Books,4.18
+62,4128,Atria Books,3.48
+84,1039,VIZ Media LLC,4.06
+53,1793,Puffin Books,4.33
+80,1769,Penguin Classics,4.02
+72,2713,Vintage,3.55
+3,7121,Modern Library,4.02
+79,2078,Villard Books,3.97
+43,7388,Bantam,3.74
+79,778,Mariner Books,3.81
+30,507,Cliffs Notes,2.8
+49,1122,Oxford University Press  USA,3.64
+35,4488,HarperCollins Publishers,3.32
+40,5419,英文漢聲出版股份有限公司,4.22
+19,1505,Vintage,4.36
+84,6849,Lark Books,4.23
+94,5364,Oxford University Press,3.94
+28,6571,Yearling,3.5
+74,8333,Oxford University Press  USA,3.97
+55,2692,Harper Perennial,4.15
+76,6398,Coronet,3.73
+7,582,Barnes  Noble Classics,4.26
+28,9086,Dark Horse Books,3.85
+36,6517,Arcadia Publishing (SC),4.44
+17,2472,Citadel,3.51
+22,6750,Ballantine Books,3.58
+41,886,Da Capo Press,3.92
+1,9441,Banner of Truth,4.24
+35,10930,Mark Cahill Ministries,4.13
+38,2475,Signet,4.11
+67,7083,Farrar  Straus and Giroux,3.85
+44,3417,Jove,3.92
+54,9668,Clarkson Potter,3.6
+36,8877,Random House Books for Young Readers,3.99
+66,5499,Farrar  Straus and Giroux,3.95
+50,5227,Del Rey Books,4.28
+11,2391,Random house,4.04
+8,10652,McSweeney's,3.94
+2,5668,American Girl Publishing Inc,4.14
+98,3159,Wiley,3.42
+24,10642,Kiepenheuer & Witsch,3.9
+92,3821,Orchard Books,4.09
+82,7246,Oxford University Press,4.09
+42,4534,Black Dog & Leventhal Publishers,4.05
+17,1077,Vintage,3.71
+36,688,For Dummies,3.65
+40,4690,Vintage,4.13
+58,5291,Signet Book,3.96
+5,4634,Alfred A. Knopf,3.68
+74,9540,Onyx,3.78
+11,7603,Sensory Resources,4.11
+47,8117,Ballantine Books,3.6
+81,9777,Clarkson Potter/Publishers,3.71
+4,8234,Puffin Books,4.0
+61,3736,Picador,3.7
+85,3199,Grove Press  Granta,3.83
+37,7239,Churchill Livingstone,3.67
+61,1325,Caedmon,4.3
+99,2482,University of Chicago Press,3.89
+73,3200,Punto de Lectura,3.85
+70,8806,Red Fox,3.99
+40,297,Turtleback Books,3.83
+83,6206,Del Rey,3.87
+97,1447,NAL,3.82
+42,7400,Ace Trade,3.4
+1,10374,Delta,4.35
+25,5383,Scholastic Paperbacks,3.82
+64,9413,HarperCollins,3.54
+80,8841,Mikaya Press,4.44
+79,10561,HarperTorch,3.97
+83,7104,Dalkey Archive Press,4.01
+58,9212,Vintage,3.53
+25,10085,Moody Publishers,4.0
+54,7407,Spectra Books,3.99
+88,3751,VIZ Media,4.48
+24,9457,Barnes  Noble Classics,4.07
+29,6946,Holiday House,4.08
+13,9183,DC Comics,4.47
+40,8286,Pearson,2.75
+74,9857,Simon & Schuster (Trade Division),3.93
+81,4945,AudioText,3.46
+40,3945,Counterpoint,3.78
+44,10477,Penguin Books,4.29
+33,7263,DAW,3.72
+11,5144,Doubleday Books,3.89
+81,4123,Vintage,3.79
+63,4051,Scholastic Paperbacks,4.43
+12,2323,Everyman's Library,4.12
+66,6976,O'Reilly Media,4.0
+80,758,Simon  Schuster,3.89
+87,3439,Everyman's Library,4.29
+33,5225,SCM Press,4.43
+10,714,Library of America,4.25
+36,9355,Fab Press,4.45
+92,10619,Pocket Books,3.87
+59,303,Pocket Books,3.93
+74,6833,Library of America,4.49
+71,5603,Tin House Magazine,3.9
+93,8312,Marvel,4.24
+93,516,Simon Schuster,3.98
+10,1839,Berkley,4.05
+33,325,Broadway Books,4.21
+92,8051,Loyola Classics,3.6
+26,10613,Pocket Books,3.57
+61,2145,W. W. Norton & Company,3.81
+19,2189,Andrews McMeel Publishing,4.01
+88,9749,W. W. Norton  Company,4.32
+20,6221,Ace,3.54
+49,7473,Vintage,3.49
+71,3161,Simon  Schuster Audio,3.63
+93,7645,Fawcett,3.81
+69,8069,TokyoPop,3.46
+20,427,HarperOne,3.57
+14,8362,Boston Common Press,4.69
+10,2032,HarperCollins,3.93
+18,8387,University of Pittsburgh Press,4.33
+76,7253,Dedalus,4.09
+14,5783,Authorhouse,3.5
+44,4691,Vintage,4.05
+15,3228,Plume,3.34
+54,3509,iUniverse,4.67
+61,1933,Random House Audio,3.95
+77,8916,Corgi,4.28
+38,3564,Penguin Books,3.79
+4,1277,Bantam Books,4.37
+51,8440,Headline Feature,3.83
+10,9666,Algonquin Books,3.42
+17,2238,Firebird,3.99
+8,5752,Little  Brown & Company,4.12
+64,5098,Bantam,4.27
+80,8204,Scholastic Inc.,3.84
+98,10936,University of California Press,4.03
+57,9695,Theatre Communications Group,4.06
+14,10751,Tor Books,3.81
+79,461,Oxford University Press  USA,3.87
+56,6744,Anchor,4.08
+6,11069,Random House Mondadori,4.05
+61,8481,Vintage,3.87
+77,10513,McGraw-Hill Companies,3.44
+32,5970,Vertigo,4.17
+88,5613,Pantheon,4.05
+99,9525,Harper Perennial,3.98
+10,10675,Bloomsbury,4.56
+96,3234,Teacher's Pet Publications  Inc.,1.0
+32,8384,Ballantine Books,4.18
+43,10694,Pocket Books,4.04
+26,6941,Delacorte Books for Young Readers,4.05
+50,10707,Random House Audio,4.04
+10,3873,Random House Trade Paperbacks,4.06
+89,3730,Random House Audio,4.41
+5,2658,Dover Publications,3.67
+69,805,Oxford University Press,3.59
+96,3158,New English Library,3.77
+61,3363,Harper Perennial,3.43
+76,10285,Berkley,4.1
+65,5566,Yearling,3.71
+24,8792,Little  Brown Books for Young Readers,3.66
+8,8508,Berkley,4.14
+63,2947,Berkley,3.54
+2,9161,Scholastic Paperbacks,3.9
+20,4556,Harry N. Abrams,4.24
+54,6995,Mariner Books,3.59
+89,4904,Puffin Books,4.26
+74,8974,Fontana Books,4.05
+16,5321,Faber and Faber,4.19
+0,10572,Pan MacMillan,4.26
+91,1898,McGraw-Hill Education,3.85
+91,3040,Penguin Books Ltd,3.92
+42,4889,Scribner,3.6
+68,1579,Houghton Mifflin Harcourt,4.15
+50,3359,Penguin Classics,3.8
+63,3548,Penguin Books Ltd,3.84
+51,8196,W. W. Norton & Company,3.96
+67,3496,Laurel Leaf Library,3.74
+0,10924,Ivy Books,3.82
+13,10604,That Patchwork Place,4.25
+61,5243,Mariner Books,4.07
+13,8917,HarperTrophy,3.72
+15,3849,Viz Media,4.45
+40,10216,Corgi Childrens,3.81
+27,11070,O'Brien Press,3.14
+47,2200,Puffin Books,4.22
+71,3554,HMH Books for Young Readers,3.9
+57,7879,Marvel,4.17
+83,9111,Dark Horse Books,3.78
+40,8230,Games Workshop,3.97
+87,3135,Albin Michel,3.71
+84,3237,Vintage Classics,3.97
+78,11107,Suma,3.92
+71,10064,Silhouette,3.77
+0,9236,Headline,4.48
+78,905,Harper Perennial,4.05
+27,3832,VIZ Media LLC,4.36
+13,10194,Picador,4.17
+71,6536,Penguin UK,4.2
+43,9120,HarperOne,4.07
+52,6880,Blu,3.93
+36,92,Cliffs Notes,3.85
+5,7540,Oxford University Press  USA,3.5
+55,5618,University Press of Mississippi,4.06
+57,7350,Gallimard,3.8
+12,6109,CMX,3.83
+90,5219,Mariner Books,4.41
+62,6428,Yearling,4.02
+31,1521,HarperCollins Publishers,4.45
+24,8053,HarperOne,4.04
+42,3281,Penguin Classics,3.77
+21,1434,Berkley,3.87
+45,1590,Harper Perennial Modern Classics,3.95
+66,8165,Harper,3.33
+15,4532,BBC Audiobooks,3.79
+46,9868,Berrett-Koehler Publishers,3.83
+37,8979,Yearling,4.1
+60,4208,Grove Press,3.81
+5,6416,Candlewick Press,4.07
+63,5064,Digireads.com,4.08
+70,1998,Sage Publications  Inc,3.87
+51,4932,Lulu Press,4.3
+13,4696,Penguin Books,4.18
+8,5511,Archaia,3.98
+79,7426,Bantam,4.24
+24,1718,The New York Review Children's Collection,4.21
+91,11111,Editorial Presença,3.96
+71,9091,Dark Horse Books,3.68
+13,562,Simon  Schuster,3.95
+83,1393,Vermilion,3.8
+50,3326,HarperPerennial,4.06
+73,8454,Grand Central Publishing,4.2
+59,830,Routledge,3.0
+30,1960,Pantheon Books,4.02
+29,10935,St. Martin's,3.96
+84,9119,Gold Eagle,3.64
+91,3588,SparkNotes,3.68
+96,4408,Berkley,4.06
+84,10651,McSweeney's,3.8
+64,803,Simon  Schuster,3.79
+46,6027,Gollancz,3.91
+32,1601,Touchstone Books,4.29
+93,11063,Ebury Press,3.4
+87,616,Tor Books,3.66
+33,2009,Darton  Longman & Todd,4.26
+42,5907,Avon,3.79
+80,8001,Penguin Books,4.23
+86,1861,Hachette Books,3.41
+90,3825,Russell Enterprises,4.55
+12,6312,Penguin Books,3.95
+81,9192,Harvard Common Press,3.91
+82,4107,Acropolis Books (NY),4.33
+32,4639,Pocket Books,3.94
+25,5234,Roc,3.86
+15,10844,W. W. Norton & Company,3.63
+14,8452,Little  Brown and Company,4.49
+91,6248,University of Chicago Press,4.2
+56,4046,Pocket Star,4.19
+84,1358,Cambridge University Press,4.42
+91,6080,Viz Media,4.04
+68,8589,Kensington,4.05
+12,3318,Grove/Atlantic  Inc.,3.91
+66,2105,Warner Adult,4.11
+21,7215,Harper Voyager,4.39
+73,3075,Vintage,4.06
+52,6399,Philomel Books,4.22
+19,10075,Modern Library,3.74
+14,7401,Wizards of the Coast,3.72
+75,9148,Scribner,4.13
+71,3892,Vermilion,3.62
+59,5024,Columbia University Press,4.02
+85,1592,Penguin Press HC  The,3.99
+79,1670,Penguin Books  Limited (UK),3.73
+69,7870,Jove,3.79
+69,8525,Rowohlt,3.96
+64,6893,Routledge,4.05
+5,9466,Debolsillo,3.95
+63,6909,Bantam Books,4.03
+36,6654,Hill and Wang,3.88
+76,1800,Books on Tape,3.82
+25,2345,G.P. Putnam's Sons,3.91
+57,2284,HarperCollins Publishers,4.09
+64,5000,Penguin Books Ltd,4.32
+87,1875,Penguin,3.73
+39,10411,Puffin,3.69
+25,40,HarperAudio,3.83
+32,9096,Chronicle Books,3.93
+18,8064,Pocket Star,3.86
+23,567,Thomas Nelson,3.92
+75,2979,Seal,3.7
+41,4596,iBooks,3.5
+93,7897,Laurel Leaf Library,4.02
+26,9383,Cambridge University Press,4.36
+58,3992,Vintage,4.09
+79,1652,Bradford Book,3.75
+5,9405,Berkley Heat,3.96
+39,5615,Zebra,3.73
+18,4296,Tor Books,3.81
+43,2701,Penguin Classics,3.49
+25,3325,Charles Scribner's Sons,4.06
+56,5074,Mariner Books,4.13
+58,5174,Vintage,3.9
+36,2136,Harper Perennial,4.22
+76,10860,InterVarsity Press,4.16
+83,8709,Severn House Publishers,3.79
+19,7233,Gallimard,3.96
+25,9261,HMH Books for Young Readers,3.79
+44,6638,Yearling,4.09
+84,2150,Oxford University Press,3.57
+4,8833,Wiley-Blackwell,4.0
+27,9516,Dover Publications,3.76
+56,4576,Ballantine Books,3.59
+71,475,University of Pennsylvania Press,4.02
+58,9181,Avon,3.66
+20,7532,Penguin Books,4.09
+43,6854,Broadway Books,3.7
+27,7424,Wizards of the Coast,4.01
+23,6162,HarperTeen,3.67
+50,5770,Avon Books (AvoNova),3.69
+31,171,Penguin Books,3.48
+83,6164,Avon,3.7
+25,5582,David R. Godine,4.18
+67,10734,Ballantine Books,3.85
+90,9827,DC Comics,3.38
+48,913,Penguin Classics,4.13
+62,7427,Aladdin,4.28
+39,8190,Brava,3.73
+70,6598,Anchor Books,4.03
+71,4006,St. Martin's Paperbacks,3.91
+93,10424,Simon & Schuster; Media Tie-In edition,4.43
+13,5597,Cooper Square Press,4.05
+26,8403,Basic Books,4.54
+56,517,Scribner,3.94
+20,23,Houghton Mifflin Harcourt,4.36
+44,1268,Harper Perennial Modern Classics,4.0
+77,8421,Arrow,3.76
+29,6286,Viz Media,3.88
+29,3054,Minotaur Books,3.68
+50,3217,Scribner,3.24
+64,8967,Pan,3.75
+68,3021,HarperCollins,4.22
+89,10811,Mariner Books,4.08
+41,50,Farrar  Straus and Giroux,3.92
+90,3563,W. W. Norton & Co.,3.43
+51,7349,Quill,3.79
+79,4236,Clarion Books,4.13
+85,3805,Glénat,4.11
+81,4227,Penguin Books,3.71
+38,5559,Big Finish,3.38
+57,6610,Puffin Books,3.83
+3,11,Wings Books,4.38
+53,6016,Hodder & Stoughton,4.28
+66,1503,Cartwheel,3.54
+39,2467,Watson-Guptill Publications,4.06
+17,3166,Harvard University Press,3.84
+0,10328,Avon Books (P),4.07
+23,3602,Grand Central Publishing,3.82
+64,9077,DK Children,4.33
+21,4876,Univ Of Minnesota Press,4.1
+97,7801,Grand Central Publishing,3.88
+21,1294,Rayo,3.7
+91,4853,Pan,4.11
+41,3765,講談社,4.28
+18,1215,Arrow,3.89
+52,3637,Grand Central Publishing,4.11
+10,3797,Del Rey Books,3.64
+4,4188,Bantam,3.97
+19,7644,Random House,3.71
+82,7819,Putnam Adult,4.05
+36,8812,Washington Square Press,2.4
+81,8056,Penguin Books,4.07
+22,8471,W. W. Norton  Company,3.82
+36,936,Digireads.com,3.91
+92,5560,Not Avail,3.74
+83,1837,Smithmark Publishers,4.29
+10,10855,HarperTeen,4.43
+93,3618,Bantam,3.84
+80,5037,Modern Library,4.11
+75,1164,Gramercy Books,3.87
+73,9981,Roc,4.25
+61,9323,Universal Publishers,4.0
+94,5164,Pyramid Books,3.92
+63,10677,Simon & Schuster,3.94
+10,9334,HarperCollins,3.82
+2,3494,Bantam,4.15
+11,2060,Scribner,4.27
+89,10452,Free Press,3.72
+11,1041,VIZ Media LLC,4.09
+66,1752,Penguin Group(CA),4.21
+77,4671,Harper Perennial,4.08
+20,10964,Tuttle Publishing,4.04
+75,1776,Vintage,3.88
+79,1082,Penguin Books,3.73
+29,1264,W. W. Norton  Company,4.14
+12,8894,Vintage,3.69
+79,8900,Corgi,4.29
+13,5194,Princeton University Press,4.51
+61,2077,W. W. Norton  Company,4.08
+49,2116,Penguin Books,3.68
+28,5798,Brilliance Audio,4.21
+86,3984,Vintage,3.98
+90,9100,Scholastic Paperbacks,3.14
+63,1724,Random House Children's Books,4.16
+5,10111,Ace,3.69
+94,4054,York Press,3.6
+26,8443,Anchor,3.99
+53,9184,DC Comics,4.2
+71,6042,Penguin Books,3.65
+70,9338,Aladdin,3.79
+62,4056,Faber  Faber,3.33
+28,7157,Anchor,3.71
+43,9779,Plume,4.01
+43,901,W. W. Norton  Company,3.82
+86,6433,Little Simon,4.33
+50,9526,Viking Books,3.83
+71,4127,Washington Square Press,3.72
+66,4624,Picador,4.11
+4,3051,Sphere,3.4
+90,10668,Pocket Star,3.87
+80,1701,HarperCollins,4.27
+19,10730,Random House Audio,4.27
+12,7240,Penguin Classics,3.73
+66,7629,Sutton Publishing,3.57
+31,6797,HarperCollins,3.51
+79,9797,St. Martin's Griffin,4.28
+88,7611,Macmillan Audio,4.16
+4,6194,The Liffey Press,3.82
+13,5607,Library of America,4.26
+37,9992,Haynes Manuals N. America  Inc.,3.93
+23,1248,Speak,3.91
+98,9486,Brilliance Audio,3.81
+86,4994,BiblioLife,3.78
+65,10272,Tor Books,3.66
+2,9903,Warner Books (NY),3.74
+20,5112,Harcourt,4.21
+95,7834,Vertigo,3.32
+95,4385,Punto de Lectura,3.62
+24,7617,Bloomsbury,4.03
+52,3134,Éditions du Rocher,3.33
+68,6592,Time Warner Books UK,4.63
+88,8081,Penguin Books,3.48
+7,4888,Signet,3.55
+59,1530,Gemstone Publishing,4.67
+24,5282,Cambridge University Press,3.98
+16,1927,University of Michigan Press,4.27
+19,9925,Barnes  Noble,4.13
+92,6886,Penguin Classics,3.99
+71,2285,Thomas Nelson,3.98
+89,1281,Atlantic,3.56
+72,156,Pocket Books,4.06
+61,1749,Grove Press,3.98
+71,9195,Harper Perennial,3.92
+38,5648,T&T Clark Int'l,5.0
+64,1133,Love Spell,3.75
+95,3517,Hill and Wang,4.29
+22,10036,Wildside Press,3.9
+53,6857,Digital Manga Publishing,4.1
+13,5563,Severn House Publishers,3.98
+5,7222,HarperTorch,4.05
+63,8170,Tor Books,3.76
+85,7881,Basic Books,3.94
+88,4951,Penguin Books,4.2
+60,6806,McGraw-Hill Companies,3.67
+3,10259,Peachpit Press,3.8
+29,4079,Back Bay Books,3.98
+75,8221,Beacon Press,4.34
+36,8299,Llewellyn Publications,4.1
+58,10144,Del Rey,3.95
+79,1540,Running Press Kids,4.1
+22,4879,Free Press,3.87
+50,10508,Citadel Press,2.83
+72,5135,Scholastic Paperbacks,3.96
+99,10228,Simon & Schuster,3.82
+40,9076,DK Children,4.33
+59,1588,Harper Perennial Modern Classics,4.16
+98,2892,Simon  Schuster,3.36
+21,3456,Vintage,4.06
+51,343,Random House Books for Young Readers,3.99
+93,5793,Soundings,4.09
+25,1306,Hyperion,4.09
+33,1576,Signet,4.02
+21,1273,Random House (NY),3.8
+22,9743,Turtleback,3.78
+75,6521,Dover Publications,4.35
+74,4826,Baen,4.27
+34,3202,Grove Press,4.14
+91,5432,Chronicle Books,4.16
+33,1340,Cliffs Notes,3.7
+33,7839,Ballantine Books,4.04
+99,8884,VIZ Media LLC,4.41
+5,351,Clarkson Potter,4.09
+81,1316,Kiepenheuer & Witsch,3.97
+47,1689,Disney Press,3.86
+80,8319,東立,4.57
+37,1227,Thomas Nelson,3.71
+80,3005,Carroll & Graf Publishers,3.86
+66,9535,Princeton University Press,3.8
+22,2459,Penguin Books,3.82
+62,8601,Pocket Star,3.91
+47,1636,Orbis Books,4.31
+51,790,Oxford University Press  USA,3.89
+34,9576,Penguin Classics,4.23
+59,2208,Thomas Y. Crowell Company,4.21
+94,1779,Vintage International,4.09
+37,9733,Samhain Publishing,3.73
+46,7451,Harper Perennial Modern Classics,3.96
+88,2000,Penguin Classics,3.8
+78,2100,Penguin Classics,3.61
+28,4491,Washington Square Press,3.3
+52,2971,Vintage,3.94
+70,2792,Arbordale Publishing,3.87
+72,7657,TokyoPop,4.1
+31,11094,Folio histoire,3.96
+97,7577,Touchstone,4.34
+43,3990,Library of America,4.38
+54,4010,Penguin,4.06
+48,1678,Vintage,3.13
+45,7636,Viking,3.28
+4,731,Simon Schuster,3.98
+19,2980,Arrow Books,4.23
+71,8321,東立,4.52
+7,7279,Storey Publishing  LLC,3.64
+6,10446,Corgi,4.31
+3,9015,Pearson Education,4.62
+7,1645,Plume,4.12
+80,9727,Zenith Press,3.89
+14,6251,Plume Books,3.86
+33,9896,Scholastic,3.91
+52,7396,Penguin Classics,3.94
+52,7179,Thorndike Press,3.96
+13,2528,VIZ Media LLC,4.6
+12,3330,Cambridge University Press,3.96
+60,336,Ballantine Books,3.75
+49,802,Dover Publications,4.05
+93,11074,Montena,4.05
+21,3871,Simon Pulse,4.32
+96,4360,Berkley,4.0
+72,8052,Houghton Mifflin,3.91
+97,10367,J'ai Lu,3.71
+59,5556,Spectra Books,3.68
+26,5082,Harvest Books,4.12
+83,10833,Abacus Books,4.21
+56,6970,Harvard University Press,4.0
+26,7002,Backinprint.com,3.78
+48,2593,Ballantine Books,4.0
+6,5509,Berkley Sensation,3.9
+58,9378,Candlewick Press,4.04
+4,2670,McClelland and Stewart,3.68
+27,31,Cherry Lane Music Company,4.33
+47,2587,Pantheon Books,3.86
+23,4961,Grove Press,3.9
+51,3702,Routledge,4.14
+94,4037,Delta,4.48
+30,6224,Avery Publishing Group,3.69
+72,4808,Basic Books,3.82
+12,158,Del Rey,4.14
+76,8871,Orion,3.91
+23,7643,Wadsworth Publishing Company,3.21
+87,2875,Vintage,3.87
+22,5811,Leisure Books,3.47
+13,14,Broadway Books,3.87
+25,10260,Peachpit Press,3.66
+6,5657,Harper Perennial,4.32
+54,10015,HarperAudio,3.65
+87,1936,Penguin Books,4.0
+51,2985,St. Martin's Press,4.16
+16,5877,Ediciones Urano,3.81
+18,3839,Berkley,3.99
+77,5060,Stone Bridge Press,4.04
+30,2955,Arrow Books,3.98
+78,478,Everyman's Library,4.02
+42,8730,Little  Brown and Company,4.04
+65,8108,Cengage Learning,4.07
+4,668,G.P. Putnam's Sons,3.08
+98,1191,Little  Brown and Company,4.19
+99,4234,Pan Publishing,4.08
+73,7173,Simon & Schuster,3.72
+13,5780,Mysterious Press,3.75
+11,2712,btb,4.03
+21,4521,Berkley,4.17
+31,9444,Jossey-Bass,4.62
+80,10574,New Press,4.06
+15,10051,Ballantine Books,3.32
+40,7713,Bloomsbury Academic,3.92
+59,4560,AudioGO,4.24
+99,672,Jones Books,3.79
+67,4674,Harper Perennial,3.85
+34,9337,Sumach Press,3.43
+72,5978,Vertigo,4.39
+27,1630,University Of Chicago Press,4.16
+4,5414,Harper Perennial,4.14
+96,1783,Routledge,4.18
+15,6122,Picador,3.72
+80,5065,Picador,3.65
+75,5549,Bantam Books,4.15
+54,2282,HarperCollins,4.2
+45,3752,VIZ Media,4.5
+23,1838,Berkley Books,4.04
+23,9571,University of Chicago Press,4.0
+49,3310,Oberon Books,4.0
+67,4805,Cambridge University Press,4.19
+72,7076,Hodder and Stoughton,3.91
+53,1635,Modern Library,4.35
+23,9801,Apple,3.5
+91,5941,Penguin Books Ltd,3.85
+33,2173,Listening Library (Audio),4.42
+49,10863,Zondervan,3.75
+13,1209,Kingfisher,3.92
+20,8345,Arrow,4.02
+81,8865,Arrow,3.64
+47,9548,Mariner Books,3.86
+84,10434,Victor Gollancz,3.84
+96,10649,NYRB Classics,3.88
+93,514,Vintage,3.88
+97,2624,Collins Design,4.08
+68,10846,William Morrow Paperbacks,3.99
+43,2505,Barefoot Books,4.21
+11,197,Penguin Books,3.9
+14,7331,Orbit,3.95
+50,4910,Vertigo,4.08
+93,6852,Alderac Entertainment Group,3.78
+65,1148,Modern Library,3.87
+59,446,Bantam Classics,4.17
+89,6697,Blue Sky Press,3.74
+48,7606,Harmony,4.34
+91,7809,HarperCollins,4.3
+66,5737,Back Bay Books,4.37
+19,5217,Paris Press,4.02
+73,958,Yale University Press,4.17
+2,7320,NAL,4.1
+13,3743,J'ai lu,4.31
+46,1370,Library of America,4.41
+48,3677,Prentice Hall,3.73
+80,388,Penguin Classics,3.92
+74,5873,Hachette Books,4.12
+10,850,Penguin Classics,3.98
+66,2522,William Morrow,3.92
+87,4613,Digital Manga Publishing / Dark Horse,3.92
+12,382,Bantam,3.76
+56,2949,Washington Square Press,3.82
+68,6049,Harlequin Special Releases,4.11
+10,2976,Delta,4.39
+13,4660,Dell,3.91
+1,4798,SparkNotes,3.9
+95,2445,Modern Library,3.82
+99,10387,Orb Books,3.97
+67,4310,Ace,3.64
+13,952,Hodder,4.16
+83,4579,Hard Press,4.14
+51,10412,Twayne Publishers,3.78
+66,1627,Penguin Books,3.99
+56,8761,HarperCollins Publishers Ltd,3.89
+22,9084,Del Rey,3.99
+86,3726,J'ai lu,4.41
+20,4525,Audiogo,3.8
+34,2696,Vintage Books,3.58
+57,6382,Scholastic,3.78
+27,5188,Everyman's Library,4.57
+16,6267,HarperCollins,3.97
+19,6188,Cliffs Notes,3.4
+11,656,New American Library,3.96
+66,1136,Vintage,3.81
+45,520,Anagrama,4.17
+77,8933,Berkley,4.07
+47,11103,BBC Audiobooks,4.05
+43,4355,William Morrow Paperbacks,4.02
+71,1142,Scribner,3.93
+68,264,Geoplaneta,4.03
+68,9728,Scholastic Paperbacks,3.41
+85,584,Villard,3.71
+97,2601,Vintage Books,3.86
+71,3080,Plume Books,3.93
+30,311,Broadway Books,3.84
+65,10209,Harlequin,3.0
+46,6835,Franklin Watts,3.6
+44,1404,Penguin Classics,4.08
+95,9706,Grosset & Dunlap,4.16
+47,7495,Mariner Books,4.12
+28,2174,Random House Books for Young Readers,3.87
+25,4937,Barnes  Noble Classics,3.95
+15,9623,Allyn & Bacon,3.65
+82,914,Penguin Books,4.2
+96,700,Berkley Publishing Group,3.72
+51,1835,Berkley,3.78
+19,2863,Renaissance Books,4.15
+17,3953,Silhouette Special Edition,3.97
+75,8647,Thomas Nelson,3.92
+20,2606,Bantam Books,4.03
+62,2440,Ballantine Books,3.0
+77,807,Library of America,4.63
+88,7610,Bantam,4.17
+78,395,Penguin Books,3.99
+79,10314,Harry N. Abrams,4.0
+25,10780,Coronet Books (GB),4.2
+59,6820,Sophia Institute Press,4.14
+50,545,Harvard University Press,4.02
+23,9787,Holt McDougal,4.1
+47,133,One World (UK),3.68
+60,3827,ADV Manga,4.21
+72,5353,Penguin Books Limited,3.68
+61,2739,Tauris Parke Paperbacks,3.72
+4,2170,Random House Books for Young Readers,4.35
+24,114,Vintage Crime/Black Lizard,3.9
+16,2824,Mariner Books,3.89
+46,3985,University of Minnesota Press,4.12
+76,8938,Berkley Books,3.82
+30,7836,Mysterious Press,3.95
+50,8418,Riverrun Press (New York  NY),3.92
+49,2469,Dr. Master Productions Inc.,3.55
+48,5107,Oxford University Press,3.9
+21,10956,Prentice Hall,4.14
+41,3584,Simon  Schuster,3.89
+69,7983,Signet Classics,4.0
+1,1,Scholastic Inc.,4.49
+21,7682,Prentice Hall,4.12
+70,5486,Delta,4.42
+73,7571,Random House Books for Young Readers,4.24
+48,1187,Dark Horse,3.46
+8,10617,Pocket Books,4.02
+62,3432,Vintage,4.16
+55,11076,Listening Library,3.84
+24,6552,Penguin Books,3.64
+33,9153,Chatto and Windus,4.14
+0,756,W. W. Norton & Company,3.76
+7,10921,Delmar Thomson Learning,4.04
+27,10398,Possibilities,4.14
+28,3700,Cambridge University Press,4.25
+19,10524,BBC Physical Audio,3.72
+61,3102,Tyndale House Publishers,4.44
+88,1997,Norton and Co.,4.21
+39,9619,Anchor,4.25
+87,9987,St. Martin's Griffin,4.05
+26,271,Spectra Books,3.61
+72,986,G.P. Putnam's Sons Books for Young Readers,3.91
+10,10116,Tor Books,3.55
+28,4398,Ballantine Books,3.69
+62,9371,Polygon,3.88
+45,2590,Hyperion Books,4.16
+65,10843,MetroBooks (NY),4.11
+6,10571,St. Martin's Griffin,4.26
+49,6816,Harvard University Press,3.95
+96,7699,Springer,3.8
+18,1985,Oxford University Press,4.32
+38,205,Simon  Schuster,3.8
+20,5939,Harper Voyager,4.06
+12,4489,Washington Square Press,3.68
+40,9914,Random House Audio,4.32
+42,10849,Rosenberg Publishing,3.58
+62,6838,University Of Chicago Press,4.12
+85,2555,Transworld Publishers,3.64
+84,341,Wiley,4.07
+59,4869,Jump At The Sun,4.18
+56,5260,Cliffs Notes,4.32
+80,9538,Portfolio,3.87
+6,4778,Aerie,3.64
+10,6528,HarperOne,4.23
+86,501,Focus Publishing/R. Pullins Company,3.42
+70,740,Candlewick Press,3.71
+90,11032,Penguin Books,4.33
+89,11109,Panamericana Editorial,4.13
+56,144,Abdo Publishing Company,4.05
+68,8306,O'Reilly Media,3.79
+12,9828,Candlewick,3.82
+43,8582,Applewood Books,3.86
+15,11055,Crossway Books,4.34
+31,9674,Ace,4.07
+31,662,Picador USA,3.58
+93,2235,Red Fox,4.12
+86,2382,Picador USA,4.22
+17,6730,Oxford University Press,3.86
+39,5009,Laurel Leaf Library,4.13
+35,4198,Three Rivers Press (CA),3.58
+57,8253,Reclam,4.11
+96,2841,Baronet Books,4.08
+83,8590,Billboard Books,3.67
+27,4045,Disney Press,3.13
+91,669,Gramercy Books,4.55
+57,3713,Dell,3.85
+36,5654,Bantam,4.04
+78,4925,Picador,3.98
+17,7103,Grove Press,4.64
+13,889,Modern Library,3.67
+95,7586,VIZ Media LLC,4.0
+85,1213,Warner Books (NY),3.88
+18,5614,Zondervan Publishing House,4.7
+97,10488,Penguin Books,3.29
+64,7945,Cisne,3.94
+62,7673,Basic Books,4.06
+77,4571,Bantam Books,4.01
+55,7283,Princeton University Press,4.24
+55,1327,Ballantine Books,3.42
+18,755,Harvard University Press,4.03
+38,661,Broadway Books,4.23
+20,4249,Houghton Mifflin Harcourt,4.51
+14,4631,Ace,4.0
+9,7245,Cambridge University Press,3.75
+98,9859,Simon & Schuster Childrens Books,3.97
+68,8224,HMH Books for Young Readers,4.3
+77,6522,Hesperus Press,3.93
+64,2039,HarperCollins Publishers Ltd,4.05
+73,4544,BBC Audiobooks,3.94
+71,10867,Penguin Books,4.34
+96,8295,Oxford University Press  USA,4.0
+68,11120,Penguin Books,3.96
+79,2300,HarperTrophy,4.19
+79,1001,Wings,3.67
+81,1002,Pocket Books,3.95
+51,9832,William Morrow,3.86
+67,2356,Fawcett,3.79
+30,2509,Dial,3.72
+65,4057,Simon  Schuster,3.96
+93,4528,HarperCollins Publishers Ltd,4.05
+22,1185,HarperTorch,3.6
+13,5007,Everyman,4.26
+87,9314,Jossey-Bass,3.67
+33,7069,Hackett Publishing Company  Inc.,3.67
+89,6921,Harper,3.68
+84,7600,Signet,4.01
+9,2137,Free Press,3.82
+58,5280,Dover Publications,3.94
+92,5085,Manesse Verlag,4.12
+88,10444,Presidio Press,4.31
+22,8070,Lonely Planet,4.05
+63,5199,Barnes  Noble Classics,4.18
+78,1250,Chaosium,3.97
+67,9216,Free Press,4.1
+48,10201,Viz Media,4.15
+94,4346,Harper Perennial Modern Classics,3.99
+58,3644,Grand Central Publishing,4.02
+9,4763,Library of America (NY),4.61
+81,7106,HarperCollins,3.53
+44,10031,Del Rey,3.75
+97,3887,Avon Books,4.05
+80,3965,Farrar  Straus and Giroux,3.99
+94,6386,Scholastic Books,3.99
+88,7284,Ohio State University Press,3.92
+84,4020,Alfred A. Knopf,3.98
+19,9652,Bantam Books,3.44
+11,10720,Vertigo,4.2
+45,1390,Pocket Books,4.08
+2,9944,Vintage,3.68
+36,3579,Bloomsbury Arden Shakespeare,4.27
+62,1128,Pan,3.82
+44,4196,Hampton Roads Publishing Company,4.13
+61,10420,Sagebrush,4.02
+41,8187,Columbia University Press,4.25
+40,7633,Ace,4.12
+73,657,NAL,3.94
+66,4213,Headline Book Publishing,3.8
+2,6102,Schocken,3.75
+91,1851,Ballantine Books,3.98
+72,4473,Grove Press,4.07
+40,4543,St. Martin's Paperbacks,3.5
+35,9639,Black Sparrow Press,4.24
+86,5896,Del Rey Books,4.24
+22,3173,Da Capo Press,3.92
+21,3770,VIZ Media LLC,4.26
+10,5054,State University of New York Press,3.73
+21,7794,Image Comics,4.3
+15,10817,Dial Books,3.93
+5,11017,Everyman's Library,4.0
+28,1152,Zebra,4.19
+25,32,The New Press,3.45
+72,10262,Raintree,5.0
+22,3174,Anchor,4.17
+49,3078,Alfred A. Knopf,3.81
+39,6352,Dell,4.02
+61,6720,Taplinger Publishing,4.08
+54,968,Scribner,3.97
+12,4725,Marvel Comics Group,3.92
+44,6073,小学館,4.25
+45,356,Harper,3.97
+90,883,Yearling,3.67
+14,6060,Pocket,3.81
+88,2972,Library of America,4.44
+7,7963,Oxford University Press,3.76
+96,9616,Springer,4.27
+25,5774,Bantam Press,4.18
+19,24,Houghton Mifflin Harcourt,4.5
+15,3470,Rowman & Littlefield Publishers,3.76
+19,1125,Pan,3.95
+40,10372,Bloomsbury Academic,4.25
+34,1165,Simon  Schuster Audio,3.82
+8,9369,Arrow,3.48
+43,1311,Atheneum/Richard Jackson Books,4.07
+9,7938,Mira (Mills and Boon),3.66
+82,9476,Hearst Communications,4.37
+24,1626,Jane Nissen Books,3.67
+4,5786,HarperTorch,4.09
+37,10311,CQ Press,4.0
+90,8820,Everyman,4.06
+46,10723,Marvel,4.09
+1,345,Penguin Books,4.15
+74,6404,Harper Perennial Modern Classics,3.76
+10,2639,Tarcherperigee,3.51
+38,1594,Anchor,4.1
+16,3008,Anagrama,4.18
+3,727,Viking,3.8
+34,1830,Faber & Faber,4.02
+64,4928,Vintage,4.04
+74,6410,Grand Central Publishing,3.79
+17,1596,Anchor Books,3.82
+57,8984,Ballantine Books,4.27
+46,5912,Hyperion Paperbacks,3.64
+87,4436,Plume,3.89
+53,8208,Signet,3.69
+63,3181,Vintage,3.91
+87,6846,Dutton Books,3.91
+97,1271,Longman Schools Division (a Pearson Education Company),3.96
+82,6029,La factoría de ideas,4.09
+28,8146,Avenel Books,4.39
+87,8750,HQN Books,3.8
+81,5741,Bantam,3.52
+62,11016,Penguin Classics,3.8
+93,9370,University of California Press,3.42
+37,5626,Berkley,3.8
+56,2615,Dial Press,3.87
+11,6726,Dover Publications,3.82
+53,9437,Routledge,0.0
+87,2146,Barnes  Noble Classics,4.03
+70,3916,DAW,4.01
+76,10575,The New Press,3.92
+71,6717,Grove Press,3.89
+64,2518,New Directions,3.81
+23,368,Harper Paperbacks,3.55
+23,1961,Alfred A. Knopf,3.72
+6,2553,Dell Publishing Company,3.78
+43,747,University of Illinois Press,3.33
+63,4177,Mariner Books,4.26
+23,3042,Penguin Classics,3.93
+98,2691,Vintage,3.72
+16,5052,Indiana University Press,4.29
+72,1994,Cliffs Notes,3.72
+46,4714,Little  Brown Books for Young Readers,3.87
+48,4413,Wizarding World Press,4.05
+89,10257,University Press of Mississippi,4.5
+2,3431,Harper Perennial,3.91
+16,5713,Putnam Adult,4.18
+61,8349,List,3.92
+39,6484,Bethany House Publishers,4.33
+45,3537,Schocken,3.92
+86,10610,Grand Central,3.84
+60,708,Random House Audio,4.07
+0,7860,Viz Media,4.24
+46,9599,Doubleday Books,3.92
+31,6055,Pocket,3.69
+53,3126,Penguin Classics,3.86
+63,4711,St. Martin's Paperbacks,4.19
+51,5420,Knopf Publishing Group,4.16
+32,9845,Chatto  Windus,4.0
+6,6652,Bantam,3.69
+43,2180,Penguin Books Ltd,4.15
+51,3285,Penguin Books Ltd,3.76
+66,9867,Penguin Books,4.18
+29,8655,Soft Skull Press,3.92
+94,2162,Random House,4.08
+0,8700,Penguin Books,3.99
+76,8399,Del Rey,4.04
+95,8132,Penguin Books,4.01
+34,2703,Windsor Golden Series,4.31
+77,4064,Greenwillow Books,4.43
+26,3009,Rowohlt Taschenbuch Verlag GmbH,3.59
+71,5452,Berkley,3.98
+99,1651,Harper Perennial Modern Classics,4.03
+24,10175,Marvel Comics,4.39
+97,9893,Multnomah,5.0
+42,2531,Everyman's Library,4.23
+4,4965,New Directions Publishing Corporation,4.33
+72,7736,Universe,4.29
+0,7503,Del Rey Books,3.81
+40,9059,Harmony,3.85
+33,2017,Multnomah Books,4.22
+0,10781,Signet,4.0
+60,10447,Simon  Schuster,3.98
+7,2731,Riverhead Books,3.42
+54,3031,Gürze Books,3.57
+59,396,Penguin Classics,3.99
+63,7982,Everyman's Library,3.9
+35,10507,Fawcett,3.83
+32,3908,Pan,3.82
+2,6587,Andrews McMeel Publishing,4.82
+5,9546,Orion Books,3.9
+16,6385,Scholastic,4.11
+7,5097,Tanglewood,4.43
+29,1006,Avon,3.81
+0,3803,ComicsOne Corporation,3.94
+78,2172,Lectorum Publications,4.18
+65,4258,Berkley Trade,4.08
+8,41,Harper,3.83
+69,5748,Brilliance Audio,4.18
+5,1160,Bantam Books,4.17
+18,7176,Tyndale House Publishers,3.83
+41,6658,Perennial,3.82
+23,5017,Naxos Audiobooks,3.74
+81,6748,Dark Horse Manga,3.82
+76,8102,Vintage,3.8
+91,5221,Houghton Mifflin Company,4.26
+97,1234,McSweeney's,3.88
+28,1245,Hachette Books,4.11
+26,9762,Anchor Books,3.33
+2,1811,Hay House,4.05
+39,1976,Scholastic  Inc.,3.77
+61,5223,Beach Lane Books,4.18
+86,7018,Liveright Publishing Corp.,4.38
+9,9529,Plexus Publishing,3.86
+23,5392,Shambhala,4.61
+61,1735,Modern Library,4.02
+34,10362,Headline Review,3.8
+46,6318,River City Publishing,4.13
+35,10837,Do-Not Press,4.27
+96,1249,HarperTorch,4.02
+3,3384,Vintage,4.04
+67,6358,Grove Press,3.98
+69,2080,Villard,3.88
+23,1657,St. Martin's Minotaur,3.22
+50,4636,Stanford University Press,4.06
+91,1767,Vintage,4.21
+79,2452,Naxos Audiobooks,4.11
+93,5906,Silhouette Special Edition,3.95
+59,10055,Banner of Truth,4.54
+99,3970,VeloPress,4.29
+47,2575,Destiny Image Incorporated,4.33
+5,1134,Dark Horse Books,3.71
+29,9102,Dark Horse Books,4.1
+22,6153,Riverhead Books,3.81
+72,5139,Oxford University Press  USA,3.89
+17,5375,Modern Library,3.98
+2,2,Scholastic,4.42
+46,9909,Harper Perennial,3.65
+94,2666,Picador,4.27
+10,1081,Picador,3.61
+33,3452,University Press of Mississippi,4.43
+18,3123,Alfred A. Knopf,4.07
+77,2427,Simon  Schuster,3.9
+49,2026,Booksales,3.68
+37,7363,Dalkey Archive Press,3.97
+37,2426,Gallimard Jeunesse,4.31
+4,6473,Hippo/Scholastic,4.26
+23,10798,Other Press (NY),3.34
+89,7087,Tachyon Publications,4.21
+8,3451,Library of America,4.17
+35,925,AA World Services,4.45
+84,9016,Del Rey Books,3.88
+49,66,Ace Books,3.91
+64,2280,Tommy Nelson,3.92
+11,4846,Prentice Hall,4.01
+55,7527,William Morrow / HarperCollins / Harper Perennial,4.25
+75,10080,W. W. Norton & Company,4.0
+49,3225,Modern Library,3.8
+81,3526,Washington Square Press,4.13
+65,1188,Thomas Nelson,4.25
+57,9865,Penguin Books,3.96
+5,1049,Oxford University Press  USA,4.24
+5,5466,Berkley Books,3.82
+72,9087,Del Rey,4.53
+87,4276,BBC Audiobooks,4.5
+46,1778,Vintage,3.91
+93,4487,Washington Square Press,3.62
+14,1124,MacMillan UK,4.27
+12,6825,University of Notre Dame Press,3.83
+33,7156,Anchor,4.19
+92,7143,Hackett Publ. Co Inc,3.98
+56,6144,Vintage,3.85
+85,8390,TokyoPop,4.3
+22,9491,HarperCollins Publishers,4.21
+15,7984,Modern Library,4.0
+22,2372,Edimat Libros,4.33
+32,6526,Kaplan,3.77
+10,10,Random House Audio,4.22
+50,4294,Del Rey Books,4.13
+73,6817,Oxford University Press,3.99
+91,1862,Hachette Books,3.41
+15,1021,Vision,3.99
+88,9748,Better Homes and Gardens Books,3.83
+21,9388,Dark Horse,3.52
+60,5138,Puffin Books,3.68
+80,2665,Nostalgia Ventures,3.99
+22,10089,Bloomsbury Publishing PLC,4.08
+58,2588,Pantheon,3.86
+53,2816,HighBridge Company,3.4
+66,9128,Avery Publishing Group,4.25
+15,1217,IVP Books,3.91
+75,9364,Avon,3.77
+11,5679,W. W. Norton  Company,3.76
+82,3321,Simon Pulse,3.94
+63,7628,Ecco Press,4.25
+96,8858,Henry Holt and Co.,4.08
+71,902,Dover Publications,4.2
+83,552,Oxford University Press,3.64
+94,5547,Bantam,4.15
+93,7605,Riverhead Books,4.11
+29,182,Knopf Publishing Group,3.89
+46,8097,Zebra,3.19
+83,2579,Little  Brown Book Group,3.8
+10,10358,Headline Review,3.65
+96,1490,Washington Square Press,3.69
+0,4402,National Geographic Society,4.38
+0,2597,HarperOne,4.04
+72,4741,Dodo Press,3.82
+21,3308,University of Washington Press,4.0
+40,5667,American Girl Publishing Inc,4.16
+38,5601,Puffin,4.25
+65,9522,Multnomah,4.3
+24,9253,Ecco,4.19
+26,8832,Polity Press,3.93
+52,5514,Circlet Press,3.37
+34,3074,Everyman's Library,3.83
+78,1622,Cambridge University Press,4.09
+80,2243,Price Stern Sloan,4.02
+10,4418,Riverhead Books,3.94
+18,339,High Point Media,3.95
+27,6052,VIZ Media LLC,4.36
+26,6114,DAW,3.98
+42,304,Oni Press,3.44
+16,10951,Crown,4.16
+96,5779,Mariner Books,3.58
+18,2578,Harper Perennial,4.47
+34,6365,Penguin Books,3.7
+68,11068,Disney-Hyperion,3.88
+28,1030,Three Rivers Press,4.03
+86,10764,Dell Publishing Company,4.1
+52,7530,Puffin Books,3.98
+89,4804,Star Trek,3.69
+68,7182,St. Martin's Griffin,4.12
+12,11084,Scholastic Press,3.98
+2,9713,Chicago Review Press,4.24
+25,2294,HarperCollins,4.18
+89,10157,Random House Value Publishing,3.55
+63,5496,White Wolf Games Studio,3.36
+65,3117,Grove Press,3.98
+30,691,Scribner,4.16
+65,4066,Greenwillow Books,4.13
+95,939,Penguin Classics,3.48
+55,387,Oxford University Press  USA,3.92
+98,4431,Pocket,4.17
+94,8795,Jossey-Bass,3.59
+10,1442,Punto de Lectura,3.66
+35,6972,McGraw-Hill,3.37
+52,629,Vintage Crime/Black Lizard,4.08
+88,5191,Penguin Classics,4.14
+42,9152,Modern Library Classics,4.35
+52,3491,Signet Classics,3.85
+24,1169,Farrar  Straus and Giroux,3.86
+14,10907,Zondervan,4.2
+7,11034,Harper Perennial Modern Classics,3.99
+6,4516,Berkley,3.92
+52,8302,Signet,3.74
+25,5002,Signet Book,4.24
+35,43,Archaia,4.13
+92,5631,Spectra Books,3.67
+57,8906,Corgi Childrens,4.3
+65,5409,Dover Publications,4.19
+63,8909,Transworld Publishers,4.06
+76,3758,Del Rey,4.11
+19,6653,Spectra,3.92
+60,8689,Chaosium,3.63
+71,159,Ballantine Books,3.6
+44,6570,Young Picador,3.19
+89,11043,Alfred A. Knopf,3.83
+33,3365,Palgrave Macmillan,4.25
+15,8921,Turtleback Books,4.33
+4,4044,Vintage,4.07
+61,1512,Plume Books,4.03
+75,6778,Regal Books,4.35
+61,785,Knopf Publishing Group,4.11
+88,11023,Del Rey,4.31
+70,1865,Hyperion,4.2
+50,5684,Laurel Leaf Library,3.9
+77,3828,ADV Manga,4.28
+2,1186,Picador USA,4.18
+85,3066,Aladdin Paperbacks,3.75
+78,6405,Penguin Books,4.29
+59,4131,Ballantine Books,3.99
+80,8424,Berkley,3.84
+82,9696,Bloomsbury Publishing PLC,3.76
+35,6089,Spectra,4.15
+79,1051,Blackstone Audiobooks,4.23
+76,1931,Hay House,4.14
+4,8535,NYRB Classics,4.04
+35,3692,Canadian Broadcasting Corporation (CBC Audio),4.45
+2,5346,Warne,4.18
+94,801,Prima Lifestyles,4.02
+75,5596,Vintage Books USA,4.22
+19,4858,Scholastic,4.14
+10,496,Routledge,3.94
+15,5495,Wizards of the Coast,3.98
+59,10970,Gramercy Books,4.22
+58,8904,Harper,4.0
+93,7415,Wizards of the Coast,3.87
+21,5042,Dover Publications,3.86
+8,508,Oxford University Press,4.07
+60,6067,小学館,4.27
+88,6469,Focus,3.94
+11,9664,Avon,3.91
+21,4219,Harper Perennial,3.85
+30,54,Vintage,3.84
+92,7105,Free Press,3.9
+74,624,Oxford University Press  USA,5.0
+43,5045,Penguin Classics,3.87
+92,4583,Tor Books,3.84
+40,4692,University Press of Kansas,3.9
+43,10633,Verso,4.16
+18,6555,Penguin Books,4.01
+90,8265,Bloomsbury Academic,4.1
+87,6687,Penguin Books,3.81
+2,908,David C Cook,3.96
+74,8898,Leete's Island Books,4.09
+34,3071,Western Publishing Company  Golden Books,4.62
+72,7043,Abradale Books/Harry N. Abrams,4.11
+60,2218,Orb Books,3.9
+50,11071,List,3.84
+60,9789,Candlewick Press (MA),4.09
+50,5132,Laurel Leaf,3.76
+32,10822,St. Martins Press-3PL,4.19
+61,425,HarperOne,3.31
+68,273,Spectra,4.19
+33,4611,Digital Manga Publishing / Dark Horse,3.99
+98,1716,Puffin Books,3.69
+50,10624,Pocket Books,3.62
+29,7058,Jonathan Cape,3.77
+36,4917,Ullstein Buchverlage GmbH & Co. KG / Ullstein Tas,4.41
+94,4581,Random House Books for Young Readers,4.21
+29,413,Penguin Classics,3.76
+18,9392,Fourth Estate,4.02
+10,3784,集英社,4.21
+23,8701,Pocket Books,3.59
+20,5165,Scribner Book Company,2.72
+30,3914,Games Workshop,3.57
+92,10934,Picador USA,3.2
+54,2931,Simon & Schuster,4.08
+56,8336,Ballantine Books,3.57
+42,8760,Carlton Publishing Group,3.44
+35,5306,Bantam Books,4.0
+63,4469,University of Chicago Press,4.26
+49,1856,Dell,3.91
+14,215,Listening Library (Audio),3.68
+23,5312,Penguin Classics,4.02
+27,10017,St. Martin's Press,4.11
+6,4492,Tropismos,3.84
+45,5339,Ignatius Press,4.3
+93,6493,Chronicle Books,4.11
+96,9754,Doubleday Books,3.87
+94,7738,Faber  Faber,3.99
+18,9855,Simon & Schuster Childrens Books,3.97
+83,1190,HarperOne,3.61
+57,76,Wiley,3.34
+91,1589,HarperCollins,4.16
+20,7225,Viking UK,4.14
+73,6470,Chelsea House Publications,4.41
+35,10043,Bantam Books,3.88
+28,8565,Penguin Books,3.58
+58,2678,Little  Brown and Company,3.77
+34,1935,Vintage,4.06
+72,191,Penguin Books,3.79
+24,7948,Penguin Classics,3.55
+62,615,Bloomsbury Publishing,4.57
+2,7664,Vintage,3.66
+24,5633,Ace,4.22
+21,8869,Delacorte Press,3.53
+74,4946,Signet,4.18
+5,9252,Library of America,4.34
+80,2234,Firebird,4.0
+39,9138,Delta,4.16
+59,953,Livre de Poche,4.33
+23,2260,Ace,3.77
+71,9950,Plume,3.76
+12,9345,Clarendon Press,4.1
+22,7780,Atheneum,4.34
+14,5689,Ballantine Books,4.48
+52,6125,Vintage,4.25
+98,3419,Vintage Classics,3.9
+93,8457,Wordsworth Editions,3.96
+82,10347,Anchor Books,4.27
+96,5299,Plaza & Janes Editores  S.A.,4.02
+76,1708,St. Martin's Griffin,3.67
+67,1604,Cliffs Notes,3.9
+84,8607,Knopf,3.04
+59,3590,Bloomsbury Arden Shakespeare,3.83
+42,237,Dutton,3.87
+74,1450,NAL,3.97
+41,10449,Johns Hopkins University Press,4.08
+46,2609,Rowohlt Verlag,3.74
+16,10026,Tantor Media,3.83
+24,10020,Pan MacMillan,4.19
+52,185,Vintage,3.86
+48,5211,Mariner Books,4.16
+84,6170,Push,3.76
+72,9684,Planeta,4.29
+12,4225,Doubleday,3.83
+97,6047,Berkley,3.7
+65,3605,Alfred A. Knopf Books for Young Readers,3.88
+37,4760,Virago Press Ltd,4.11
+45,1774,Vintage,4.23
+63,7448,Faber and Faber,4.14
+33,3856,Kids Can Press,4.19
+11,9894,Crystal Clarity Publishers,4.36
+94,7148,University of Michigan Press,3.97
+66,4567,Bantam,3.8
+34,10514,W Publishing Group,4.04
+93,6058,DeBolsillo,3.95
+4,3811,Shambhala,4.3
+35,3741,J'ai Lu,4.42
+96,10339,Simon  Schuster Books for Young Readers,3.96
+12,2169,London : Collins  2004.,4.01
+69,3721,VIZ Media,4.45
+20,580,Penguin Books,4.26
+16,8705,William Morrow Paperbacks,3.95
+63,7678,Bantam,4.16
+39,9998,Legend,4.07
+77,8031,Tyndale House Publishers,3.98
+14,780,Castle Books,4.42
+52,5390,Candlewick Press,3.32
+29,6093,VIZ Media LLC,3.83
+37,10133,Tor Fantasy,3.86
+35,9311,Andrews McMeel Publishing,4.12
+59,2627,iBooks,4.07
+53,5116,Everyman Paperbacks,3.79
+23,9723,Harlequin Presents,3.23
+58,2056,Picador USA,4.09
+79,5915,Smart Pop,3.63
+58,6911,Mira,4.11
+42,8925,Harper,4.38
+79,9144,Alpha,3.73
+26,7271,Tor Books,3.9
+91,8980,Union Square Press,4.2
+81,2634,Mariner Books,4.38
+76,8843,Penguin Books,4.19
+5,47,Farrar  Straus and Giroux,4.24
+45,6883,Blu,4.23
+71,2644,Farrar  Straus and Giroux,3.84
+14,4953,Penguin Books,3.99
+52,2746,MacMillan General Books,4.18
+23,9135,Hal Leonard Publishing Corporation,4.47
+67,10292,Putnam Publishing Group,3.94
+40,94,Dover Publications,4.05
+24,9560,Kodansha America,3.76
+29,4791,Kaplan,3.4
+83,3355,Penguin-HighBridge,3.86
+45,3993,Citadel,4.26
+90,2629,William Morrow Paperbacks,3.73
+39,563,Simon  Schuster,3.61
+71,10264,Yearling Books,3.68
+15,2598,Vintage Classics,4.09
+56,3213,Amistad Press,4.03
+18,9242,Picador,3.55
+80,1671,Titan Books,3.7
+19,7372,Turtleback Books,4.14
+58,9201,St. Martin's Press,3.83
+58,4313,Anchor Bible,4.04
+46,1675,Apress,3.13
+56,296,Puffin,4.02
+53,9974,Vintage,3.96
+0,3278,Heyne,4.21
+54,5836,HarperAudio,4.25
+58,3247,Penguin Classics,3.76
+65,4114,Borgo Press,3.79
+68,4004,Penguin Books,3.93
+22,4995,Harry N. Abrams,4.06
+17,3490,William Morrow; 1ST edition,4.13
+40,6100,Ballantine Books,3.83
+96,5335,Puffin Books,4.29
+32,2662,Anchor Books,4.06
+76,3378,Random House Trade,4.01
+21,9149,MJF Books,4.11
+91,3480,Dial Press,4.18
+96,5921,Doubleday Books,3.81
+53,6789,Holt McDougal,4.24
+5,1775,Vintage,4.4
+4,3651,Pocket Books,3.77
+4,4500,Corgi,4.12
+56,9611,Harcourt Brace & Company,4.18
+31,10759,Dutton,3.99
+65,8849,Readers Digest.,4.23
+31,10923,Ivy Books,3.82
+63,9233,Avon,3.92
+74,6301,Leisure Books,3.94
+77,7343,Verba Mundi,3.8
+71,1644,Anchor,3.8
+66,10479,Berkley Sensation,3.53
+42,1016,Penguin Books,3.45
+34,8024,Dark Horse Manga,4.28
+74,1971,Sun and Moon Press,3.91
+53,10549,Sarah Crichton Books,4.16
+57,4008,Harper Perennial,4.0
+2,5771,VIZ Media LLC,3.94
+18,6063,Heyne,3.75
+25,10770,Headline Book Publishing,3.97
+1,8953,Ivy Books,2.62
+10,6111,DAW,3.74
+40,4524,HarperCollins Publishers,3.76
+5,7559,Thomas Nelson,3.92
+43,8559,Hodder & Stoughton,3.54
+84,8699,Pearson,4.19
+47,2434,Harper Perennial,4.09
+17,655,Back Bay Books,4.13
+44,5277,W.W. Norton & Company,3.67
+84,8550,Fredonia Books (NL),3.64
+0,1679,Vintage International,3.25
+93,7116,Penguin Books Ltd,3.83
+37,1161,Broadway Books,4.21
+1,4345,Harpperen,4.16
+64,4653,Vintage,3.67
+25,5359,Penguin Books,3.82
+9,3966,Companhia das Letras,3.99
+61,2778,Eerdmans,4.03
+68,980,Modern Library,4.0
+58,5590,Harper Business,3.11
+53,7695,MIRA,3.45
+45,7634,Moody Publishers,0.0
+28,1195,Grand Central Publishing,4.06
+62,1045,Harlequin Superromance,3.73
+97,8591,Harry N. Abrams,3.67
+40,6306,Barnes  Noble Classics,4.33
+48,8268,Open Court,3.68
+19,5408,Books on Tape,3.55
+27,204,Cambridge University Press,4.15
+31,7061,Babel,3.99
+44,5745,Bantam,3.8
+22,5034,Konemann,4.11
+14,3208,Mariner Books,3.47
+40,8698,Penguin Books,3.83
+77,4009,Anchor,4.06
+9,1683,DAW Hardcover,4.13
+79,10391,Orb Books,3.89
+15,6554,Penguin Books,3.96
+48,10583,University Press of Florida,3.92
+80,9479,University Press of Florida,4.09
+31,6767,Denoël,3.89
+93,9976,Canongate Books,3.89
+25,4628,Gollancz,3.64
+19,9021,Del Rey Books,3.95
+9,8408,Chicago Review Press,4.07
+64,4138,Bear  Company,3.71
+17,4153,Lübbe,3.8
+23,8629,Prestwick House,3.74
+7,9024,iBooks,3.84
+1,410,Penguin Classics,3.76
+20,7381,Gallimard,4.06
+92,3155,New English Library,4.33
+26,10791,Oxford University Press  USA,3.69
+62,7642,Grand Central Publishing,4.07
+88,7463,Daw Books,3.9
+29,10761,Dutton,3.96
+72,5568,Carroll & Graf,3.9
+26,1060,Atlantic Monthly Press,4.26
+88,3868,Simon Pulse,4.29
+99,9390,Delcourt,3.8
+82,4356,Vintage,4.1
+33,6660,Harper Perennial,3.79
+48,2319,Eminent Lives,4.08
+21,9554,Multnomah Books,3.67
+12,67,Ace Books,3.88
+66,7803,Aspect,3.65
+42,5134,National Geographic,4.03
+64,4340,Jones & Bartlett Publishers,4.06
+90,7900,Hachette Books,4.04
+0,2411,Mondadori,3.63
+67,1883,Puffin,4.08
+18,6150,Charlesbridge,3.78
+81,6177,Love Spell,3.67
+67,5240,Polity Press,3.46
+62,8831,Aladdin,3.47
+80,4185,Penguin,4.46
+44,7537,Faber and Faber,3.76
+55,6215,Vintage,3.91
+50,1199,Summit University Press,3.79
+80,7273,University of Nebraska Press,3.3
+27,4130,Santillana USA Publishing Company,3.42
+10,2730,Laurel Leaf Library,4.17
+92,10942,Oxford University Press,3.87
+82,6403,Black Dog & Leventhal,3.93
+13,8307,Marvel,4.19
+51,10120,DAW Books Inc,3.9
+85,3844,Vintage,3.84
+71,9170,Serpent's Tail,3.69
+30,6904,Silhouette Books,3.8
+77,8419,Pearson,3.85
+82,974,HarperCollins Espanol,3.84
+17,2616,Washington Square Press,3.72
+91,10564,HarperTorch,3.96
+44,4397,Recorded Books,3.85
+77,9133,Four Ninety-Eight Productions,4.72
+55,357,Putnam Publishing Group,4.27
+72,1905,Barrons Educational Series,3.75
+14,5717,Vertigo,4.09
+6,10466,Bloomsbury Arden Shakespeare,3.83
+75,2942,Zebra,3.69
+47,3427,Penguin Books,3.86
+35,2632,Harcourt  Inc.(Harvest Book),4.14
+14,4260,Rough Guides,3.89
+73,921,Basic Books,4.39
+16,1205,Addison-Wesley Professional,4.31
+19,3143,Pocket Books,4.06
+67,2852,Debolsillo,3.82
+63,1251,HarperCollins Publishers Ltd,3.9
+39,4032,Simon  Schuster,3.98
+8,2229,Macmillan Audio,3.95
+25,9815,Leisure Books,3.94
+77,5586,Little  Brown and Company,4.4
+38,8386,Mariner Books,4.03
+74,6891,Penguin Classics,3.98
+28,2188,Andrews McMeel Publishing,4.35
+97,6527,Hackett Publishing Company  Inc.,4.23
+3,10490,Fischer Taschenbuch Verlag,3.94
+93,430,Harper Perennial,3.7
+5,4659,Dial Press Trade Paperback,4.24
+74,5362,University of Wisconsin Press,3.8
+25,885,Yearling,4.44
+1,4315,Avon Books,3.34
+49,6550,Penguin Books,3.85
+68,6238,Little  Brown and Company,4.0
+34,1224,DeVorss & Company,2.98
+11,3920,Baen,3.9
+15,10547,Back Bay Books,3.47
+21,2783,Crown Forum,4.0
+58,3423,St. Martin's Griffin,3.8
+77,6012,Main Street Books,4.17
+54,6422,HarperCollinsPublishers,4.17
+54,10415,Whitaker House,4.45
+38,10626,Yale University Press,3.87
+30,7917,Bantam,3.51
+57,6643,Puffin Books (Penguin Books),4.28
+5,7490,Harper Perennial,3.75
+89,4495,Umbriel,3.16
+73,6066,小学館,4.26
+50,6663,Kyle Books,4.19
+96,2524,William Morrow Paperbacks,3.95
+26,5205,Vintage,3.83
+57,6015,Monolith Graphics,4.23
+4,9800,Scholastic,3.75
+96,6662,Sceptre,3.81
+19,10373,Doubleday Books,4.34
+98,6269,Mariner Books,4.02
+75,1208,Plexus Publishing Ltd,4.42
+85,6340,Plaza y Janés,3.9
+95,8477,Barnes  Noble Classics,4.03
+91,4530,HarperCollins Publishers,3.77
+41,8124,BBC Audiobooks,4.37
+93,10618,Pocket Books,3.75
+88,606,Signet,3.99
+62,9860,Simon Pulse,3.97
+80,491,Prestwick House - (Literary Touchstone Classic),3.7
+35,2680,W. W. Norton  Company,3.85
+21,2061,Gallery Books,3.62
+92,681,Picador USA,4.0
+53,8004,Scribner,4.04
+99,11042,Knopf Publishing Group,4.14
+13,6337,Vintage,3.97
+3,5322,Faber and Faber,4.15
+12,8085,Cambridge University Press,3.96
+38,4412,Emece Editores,4.49
+0,256,Plaza y Janes,4.07
+18,9125,New World Library,4.22
+59,1707,Vintage,3.57
+31,8885,VIZ Media LLC,4.41
+29,4406,Pi Press,4.18
+33,3415,Plume Books,3.66
+10,7552,Berkley,3.5
+52,6336,Plaza y Janes,3.85
+75,8154,Workman Publishing Company,4.25
+41,5892,Advantage World Press,3.74
+36,5080,Mariner Books,4.18
+23,2355,Fawcett,3.59
+13,10489,Penguin Books,3.94
+27,3613,North Point Press,4.08
+30,3813,Random House Value Publishing,4.13
+11,1537,Candlewick Press,4.05
+48,8214,William Morrow Paperbacks,4.26
+76,2088,Drawn and Quarterly,4.17
+8,4297,Tor Fantasy,3.8
+99,4371,Totem Books,3.8
+26,10060,Ballantine,4.27
+25,3600,Grand Central Publishing,3.95
+80,2276,Treat Enterprises,3.63
+36,6948,Soho Press,3.57
+17,8652,Abacus,3.66
+76,4790,Disney-Hyperion,4.04
+18,4232,Warner Books,4.02
+63,4231,Knopf Publishing Group,4.15
+82,4446,Penguin Classics,3.82
+46,8994,Management Books 2000,3.95
+59,10743,Arrow,3.85
+39,6438,Ballantine Books,3.97
+62,7546,Farrar  Straus and Giroux,4.16
+15,4336,HarperTrophy,3.72
+59,771,Mariner Books,3.92
+16,3843,Little Brown and Company,3.7
+34,10348,Allyn & Bacon,3.64
+63,154,Del Rey,3.78
+87,7468,DAW,3.73
+90,4892,Psychology Press,3.73
+61,3699,Prentice Hall/Library of Liberal Arts,4.04
+37,9115,Black Classic Press,4.53
+21,6844,Vertical,3.67
+79,8937,Puffin Books,3.97
+22,5621,Washington Square Press,3.76
+23,8932,Citadel,4.0
+34,4444,Houghton Mifflin Harcourt,3.4
+75,3445,Penguin Classics,4.17
+89,1053,Starfire,4.43
+42,2079,Villard,3.98
+49,9741,Scholastic Paperbacks,3.88
+91,8919,Doubleday,4.11
+13,1246,Albin Michel,3.82
+71,4115,Dover Publications,4.01
+82,11093,Penguin,3.96
+99,9732,Delta,3.59
+35,2764,Penguin,4.12
+65,2855,Simon & Schuster Audio,4.22
+3,3095,Kessinger Publishing,3.9
+89,460,Loeb Classical Library,4.47
+91,2966,Gold Eagle,3.88
+90,437,Harvard University Press,4.35
+18,1032,St. Martin's Press,4.15
+14,7715,Vintage,3.73
+96,6068,小学館,4.26
+93,4025,Kodansha,3.68
+84,10384,Phoenix,3.68
+98,3676,Thames & Hudson Ltd,4.04
+12,7470,DAW Fantasy,4.2
+18,4173,Buccaneer Books,4.14
+68,5185,The Modern Library New York,4.3
+85,7249,Harry N. Abrams,4.09
+0,2674,William Morrow,3.51
+52,9306,HMH Books for Young Readers,4.13
+67,2331,G.P. Putnam's Sons,4.0
+21,1003,Pocket Books,4.29
+95,9317,Hazelden Publishing,4.44
+60,2477,Roberts Rinehart Publishers,3.45
+22,8622,Cliffs Notes,3.76
+42,3373,Stanford University Press (Stanford  CA),4.21
+72,120,Puffin,4.02
+9,9937,Bloomsbury,3.63
+31,5337,Puffin Books,4.18
+52,4736,Bantam,4.07
+83,3639,Grand Central Publishing,3.83
+0,2992,Random House Books for Young Readers,4.06
+11,10283,Berkley,4.12
+96,9905,Ten Speed Press,4.28
+86,9277,Berkley,4.01
+88,10448,Times Books,3.84
+74,4050,Kent State University Press (OH),4.04
+23,7703,Vintage Classics,3.94
+75,9841,Mariner Books,3.9
+89,8857,Free Press,3.85
+9,7973,Ivan R. Dee,4.29
+63,7515,Santillana USA Publishing Company,4.29
+44,11012,Penguin Books,3.68
+81,10471,Waterbrook Press,4.18
+33,9150,Signet,4.35
+86,7550,Atlantic Monthly Press,3.79
+42,3589,Cliffs Notes,3.88
+9,10687,Vertigo,3.71
+90,3667,Picador,3.71
+34,2369,Tor Books,3.79
+96,7218,Eos,4.09
+98,5831,Vision,3.78
+62,9614,Dark Horse Manga,3.58
+92,2359,G.P. Putnam's Sons Books for Young Readers,4.15
+55,3340,Owl Books,4.25
+35,2827,Yale University Press,3.99
+46,6751,New Harbinger Publications,4.05
+72,2950,Avon,4.01
+32,1203,W. W. Norton & Company,4.1
+97,9471,Laurel Leaf Library,3.82
+28,10396,Scholastic Paperbacks,3.78
+2,3857,St. Martins Press,3.56
+90,1427,Bantam Books,3.51
+53,9510,Penguin Books,3.87
+80,3276,Pocket Books/Simon & Schuster (NY),4.2
+24,2784,Simon  Schuster,3.87
+30,533,Hackett Publ. Co Inc,3.92
+70,1171,Santillana USA Publishing Company,2.88
+99,1609,Rodale Books,3.98
+68,609,Penguin Classics,3.83
+42,2581,Planeta Publishing,3.43
+38,6799,Kensington,3.78
+98,7260,Addison-Wesley Professional,4.16
+44,7202,Jossey-Bass,3.95
+1,8977,BradyGames,4.14
+8,9583,Riverhead Hardcover,4.16
+87,7001,Ace Books,3.74
+84,8375,HarperTorch,3.79
+52,1534,Broadway Books,4.08
+7,8178,Harvest House Publishers,4.15
+59,3311,Grove Press,4.04
+12,7231,Editions Gallimard,3.98
+38,10908,Grand Central Publishing,4.09
+71,2498,Dover Publications,4.38
+95,3907,Atria Books,3.87
+69,5077,Houghton Mifflin Harcourt,4.13
+67,2716,Vintage,3.61
+97,4645,Harper Perennial,3.64
+8,6205,Del Rey Books,3.68
+25,2532,Frederick P. Lenz Foundation for American Buddhism,0.0
+91,5094,Mariner Books,3.07
+35,5810,Vintage,3.44
+98,3841,TokyoPop,4.25
+74,1597,Anchor Books,3.85
+72,2771,St. Martin's Press,4.38
+14,3420,Brava,3.72
+84,1254,Harper,3.96
+83,2767,St. Martin's Press,4.22
+36,5901,Orion,4.14
+74,6476,Random House Trade,4.17
+4,7502,iBooks,3.72
+76,8216,Oxford University Press  USA,3.9
+1,9763,Vintage,3.33
+0,4744,Longman Publishing Group,2.83
+65,8681,DC Comics,3.92
+76,4527,Black Dog & Leventhal Publishers,3.85
+93,5950,Vertigo,3.44
+52,1691,Penguin Classics,4.0
+84,2367,Counterpoint LLC,3.57
+31,2959,Dell Publishing Company,4.23
+1,3103,Tyndale House Publishers,4.43
+71,2700,Modern Library,3.44
+14,1348,Little  Brown Book Group,4.37
+10,7359,New Directions,4.05
+67,768,Harcourt,4.29
+44,5340,Editorial Juventud,4.13
+70,3305,Ivan R. Dee Publisher,4.06
+33,9470,Princeton Architectural Press,4.22
+16,97,Cambridge University Press,4.19
+12,9434,Canongate Books,4.0
+68,3646,Doubleday Books,3.84
+79,7693,Harlequin,3.89
+35,9157,W. W. Norton  Company,3.56
+98,6085,VIZ Media LLC,4.11
+47,1687,Disney Press,3.98
+91,10357,Headline Review,3.68
+41,7455,Chatto and Windus,3.85
+47,8033,Tyndale House Publishers,4.24
+26,10366,Headline Review,3.71
+64,1111,Penguin,3.73
+86,4855,Berlitz Kids,4.14
+22,6875,HarperOne,3.9
+48,7460,HarperCollins Publishers,4.16
+26,4584,Baen,3.7
+77,3737,William Morrow Paperbacks,3.47
+55,4262,University of Utah Press,3.73
+5,6809,Penguin Books USA Inc.,3.8
+33,3232,Greenwillow Books,3.57
+35,1988,Simon  Schuster,4.25
+4,3324,Owlet Paperbacks,4.15
+81,6614,Harry N. Abrams,3.68
+94,4443,Le Livre de Poche,3.99
+84,479,University of Pennsylvania Press,4.1
+7,2419,Methuen Drama,3.84
+51,5595,Library of America,4.36
+20,2497,Columbia University Press,3.95
+64,295,It Books,3.74
+82,5086,Wordsworth Editions,4.11
+0,8090,Viking Adult,3.58
+5,2036,Mariner Books,3.71
+48,9993,Pocket Books,3.78
+5,1423,McSweeney's,3.75
+83,4632,Ace,3.94
+24,4390,Newmarket Press,4.38
+29,2585,Pantheon,4.25
+84,9650,Bantam,3.7
+10,7563,Van Patten Publishing,4.39
+15,3729,Dabel Brothers Publishing,4.14
+30,2529,VIZ Media LLC,4.56
+0,3556,Yearling,3.93
+16,10337,Barnes & Noble,4.07
+21,2999,Mariner Books,4.18
+6,10634,Verso,3.96
+26,1717,Margaret K. McElderry Books,3.78
+50,399,Penguin Classics,3.99
+38,2052,Yale University Press,4.19
+38,4673,Vintage,2.86
+82,6650,Bantam Doubleday Dell Publishing Company Inc.,3.52
+20,2611,Dial Press Trade Paperback,3.79
+11,11077,Listening Library (Audio),3.86
+43,2800,Scholastic Press,3.9
+19,2123,Wings Books,3.99
+22,7562,Vintage,4.1
+12,324,Recorded Books  Inc.,4.26
+15,10423,Doubleday Books,4.12
+0,2586,Pantheon Books,4.24
+42,6044,Impact,3.76
+69,1147,Signet Classics,3.87
+90,4719,Marvel Comics,4.22
+47,8021,Red Hen Pr,3.96
+9,2568,Orchard Books,3.82
+7,8735,Turtleback Books,4.08
+62,10054,St. Martin's Press,3.96
+87,9601,Fantagraphics,3.94
+17,5348,Warne,4.62
+59,2431,Warner Books,3.83
+41,2325,Beacon Press,3.84
+7,1993,Picador,3.83
+29,5577,Grove Press,3.98
+74,6001,Harper Perennial,4.02
+70,7806,Vintage,3.77
+54,10388,Tor Books,3.88
+53,5884,Vintage,4.03
+82,7869,HarperTorch,4.39
+57,5318,Candlewick Press,3.85
+76,5851,Ballantine Books,3.97
+51,283,HarperOne,3.86
+27,922,Basic Books,4.31
+46,11018,Oxford University Press,3.91
+98,8724,Cruithne Press,3.0
+34,1457,Knopf Publishing Group,4.17
+64,6952,VIZ Media LLC,4.02
+52,8100,Seal Press,4.43
+82,7230,Penguin Books,3.49
+3,9331,Random House Puzzles & Games,0.0
+35,10474,Replica Books,4.13
+0,6987,Penguin Classics,3.93
+8,8990,Del Rey,3.79
+91,6930,Rider,4.36
+6,3483,Fawcett Books,4.24
+41,1078,Vintage,3.66
+87,5426,Berkley,3.91
+65,6994,Scholastic Paperbacks,3.82
+90,8402,Del Rey,4.07
+94,6350,Castle Books,4.38
+9,7659,Anchor,3.91
+26,3223,Modern Library,3.71
+43,7180,PublicAffairs,4.09
+34,3689,Bookclub-In-A-Box,4.0
+63,145,Black Classic Press,4.61
+59,825,A K PETERS,4.5
+82,7479,Baen,3.95
+3,3,Scholastic Inc.,4.56
+55,5263,Puffin Books,3.95
+99,7340,Heinemann Educational Books,3.84
+67,596,Collector's Library,4.07
+56,9357,Univ Of Minnesota Press,4.08
+5,5,Nimble Books,3.74
+75,6716,Penguin Books,3.71
+30,1167,Clarkson Potter,4.15
+86,3273,Hamish Hamilton,4.11
+42,5469,G.P. Putnam's Sons,3.67
+74,1345,Warner Books (NY),3.86
+95,3268,Vintage,4.04
+18,302,Vintage,4.11
+14,8800,W. W. Norton  Company,4.11
+88,10349,Corgi,4.05
+80,1481,Random House,4.2
+59,3611,Grand Central Publishing,3.81
+79,4706,Wiley-Blackwell,3.73
+6,10623,Pocket Books,3.81
+68,3034,Waterbrook Press,4.04
+41,10010,St. Martin's Press,4.45
+71,4425,Knopf,3.9
+7,8733,Mira Books,3.5
+9,4302,Wings,4.06
+14,3236,Timeless Texts,4.25
+76,8458,Berkley Books,3.83
+44,7064,Vintage,3.75
+5,2037,Paulist Press,4.01
+66,2198,Simon & Schuster,4.0
+97,2933,Fulcrum Publishing,3.96
+72,3416,Penguin Classics,4.07
+81,10400,Red Dress Ink,3.54
+55,1685,Black Swan,4.16
+41,4334,McSweeney's,3.87
+99,4806,Dover Publications,4.19
+6,7613,Viking Books for Young Readers,4.46
+35,10721,Marvel Comics Group,4.16
+22,2982,Dell,3.86
+64,2503,Grosset & Dunlap,4.07
+18,4422,Pantheon Books,3.75
+93,2232,Philomel Books,4.12
+58,9354,Vintage,3.73
+49,6791,Routledge Taylor & Francis Books Ltd imprint,4.17
+68,3454,Caedmon,3.94
+93,7084,Fawcett Books,3.65
+97,3358,New Directions,4.31
+67,3132,Pocket,4.25
+77,10991,Harper Voyager,4.23
+62,8425,Berkley,4.06
+88,8613,Little Brown and Company,3.48
+31,9414,HarperCollins,3.6
+55,5063,Wildside Press,4.08
+59,9947,Lark Books,4.07
+92,5959,DC Comics,3.97
+57,7730,Rowman & Littlefield Publishers,4.0
+87,1896,Abacus,3.86
+32,5315,Signet Classics,3.44
+60,7986,Beacon Press,3.9
+14,2725,Piper Verlag,3.95
+79,1494,Back Bay Books,3.52
+29,10537,Hodder & Stoughton,3.63
+57,291,VIZ Media LLC,4.52
+8,83,Wiley,3.39
+74,9452,Tor Classics,4.14
+16,2035,HarperCollins,4.17
+70,7718,Vintage,3.66
+71,4117,Oxford University Press  USA,3.93
+46,4526,Minotaur Books,4.04
+34,7875,Jove Books,4.07
+86,5858,DC Comics,3.55
+46,8696,Barnes & Noble,3.88
+6,153,Ace Books,3.87
+62,9552,Zondervan Publishing Company,3.59
+50,7802,Vertigo,3.94
+77,6724,New Directions,3.96
+34,1666,Pocket Star Books,4.15
+44,2504,Grosset & Dunlap,4.06
+22,10539,Fawcett Books,4.04
+72,912,Sterling,4.33
+96,2628,Harper Perennial,4.24
+41,5787,Delacorte Press,4.19
+3,7213,MacMillan,4.28
+30,10208,Silhouette Books,3.57
+91,11108,Seix Barral,3.92
+35,3876,Gibbs Smith,4.09
+82,10323,Bantam,3.88
+30,8597,Three Rivers Press,3.95
+72,10360,Headline,3.9
+53,9593,Modern Library,3.52
+37,4199,Yale University Press,3.2
+69,10232,Pocket Books,3.61
+90,10485,Avon,4.15
+93,7361,Dalkey Archive Press,3.8
+58,8144,AudioGO,3.75
+52,3523,Washington Square Press,4.12
+83,1166,Houghton Mifflin Harcourt,4.07
+22,2090,Penguin Group,3.77
+60,6453,Candlewick Press,4.04
+29,6457,HarperCollins,3.99
+30,5844,Grand Central Publishing,4.13
+85,8509,Tor Books,3.92
+69,463,Cliffs Notes,4.2
+24,2685,Vintage,3.93
+49,10205,Plume,4.48
+51,70,Tor Science Fiction,3.88
+18,816,Houghton Mifflin,4.18
+14,378,Spectra Books,4.07
+38,7289,Penguin Books,4.15
+90,1638,Vintage Classics,4.47
+44,5598,Penguin Classics,3.79
+75,4585,Tor Fantasy,3.88
+25,5232,Del Rey Books,4.09
+56,3623,Little Brown and Company,4.0
+43,8128,St. Martin's Paperbacks,3.86
+9,6594,Ace,3.74
+92,10468,Bantam,4.11
+6,8672,William Morrow,3.83
+86,9048,Bantam,3.56
+67,3271,Harper Voyager,4.09
+97,3026,Harvard University Press,3.9
+10,666,MTV Books,4.39
+43,7991,HarperOne,4.22
+26,8728,Clarion Books,3.24
+61,8348,Vintage/Ebury,3.92
+13,4926,Dover Publications (NY),4.06
+48,10735,Severn House Publishers,3.58
+90,7021,Ballantine Books,3.95
+46,10419,HMH Books for Young Readers,4.09
+80,9963,Pantheon,4.04
+14,9463,MacMillan Audio,3.76
+42,8468,W. W. Norton & Company,4.11
+61,861,Doubleday,3.94
+22,5293,Meisha Merlin Publishing,4.24
+35,855,Teaching Resources,5.0
+5,4099,Moyer Bell and its subsidiaries,4.0
+31,2394,St. Martin's Paperbacks,4.01
+46,9612,ビブロス,4.37
+95,7553,Berkley Trade,3.7
+51,7618,Clarion Books,4.21
+35,7811,HarperCollins,4.28
+14,9180,Silhouette Desire,4.12
+10,9793,St. Martin's Griffin,4.35
+79,966,Totem Books,3.54
+22,7831,Berkley Sensation,3.87
+16,2417,Penguin Books,3.99
+33,4815,W. W. Norton  Company,3.86
+4,7849,Random House Books for Young Readers,4.03
+78,5441,Time Life Medical,3.68
+36,7003,Wizards of the Coast,3.91
+52,9945,Crown Publishing Group (NY),3.7
+58,5255,Houghton Mifflin Harcourt,3.93
+17,7486,DAW,4.06
+42,4506,Touchstone,3.9
+28,3565,Bantam Classic,3.8
+59,6850,Orion,3.8
+35,4366,Gallimard,3.98
+16,7929,Fanfare,3.54
+23,167,Penguin,3.99
+67,8801,W. W. Norton  Company,4.15
+91,6173,Love Spell,3.57
+0,2752,Picador USA,3.72
+74,9667,ECW Press,4.13
+96,3988,Library of American Comics,4.02
+48,6126,Blackwell Publishers,4.17
+67,5863,Berkley Trade,3.65
+34,6445,Blackstone Audiobooks,3.85
+70,9559,Harper Paperbacks,3.99
+51,5387,Scholastic Paperbacks,3.81
+15,1706,Miramax Books,4.46
+16,8753,HQN,3.77
+47,8679,W. W. Norton  Company,4.37
+34,10033,Penguin Books,3.81
+85,7814,HarperCollins,4.34
+31,11110,HarperCollins Espanol,4.26
+63,8595,Oxford University Press,3.96
+20,5724,Scholastic Inc.,4.03
+52,5904,Silhouette Romance,3.89
+44,8746,Dell Publishing Company,3.84
+37,1607,Cliffs Notes,3.45
+71,4241,Salem Press Inc,0.0
+28,3545,Cliffs Notes,3.12
+18,5962,DC Comics Vertigo,3.57
+65,8192,Signet Classics,3.94
+6,6131,Vintage,3.62
+37,9892,Avon Books,3.95
+77,1365,Free Press,3.75
+72,5516,Small Beer Press,3.77
+59,976,Faber  Faber,3.43
+47,310,Anchor,3.84
+3,9047,Kaplan,3.79
+11,4299,Tor Fantasy,3.76
+3,6275,Viz Media,4.08
+29,5742,Dell,3.94
+88,6999,Pfeiffer & Company,4.05
+87,9943,Prentice Hall,3.64
+80,915,David R. Godine Publisher,3.8
+5,10752,Tor Books,3.88
+26,2595,Thomas Nelson,4.2
+17,7516,Dante University of America Press,3.81
+90,8255,Vintage Books,4.05
+8,9055,John F. Blair  Publisher,3.94
+41,5278,Tantor Media,3.67
+18,6071,小学館,4.25
+17,10544,Back Bay Books,3.93
+60,8924,Science Fiction Book Club,4.21
+17,8987,Del Rey Books,3.77
+99,1858,Love Spell,3.8
+15,7508,Dover Publications,4.07
+5,2536,Simon  Schuster,3.91
+36,10235,Simon & Schuster Adult Publishing Group,3.82
+15,515,Little Brown and Company,3.64
+44,490,Oxford University Press,3.94
+72,11082,Ediciones B,4.09
+83,2071,Grand Central Publishing,3.84
+33,10639,Penguin Classics,4.14
+23,6043,Turtleback Books,3.7
+80,10515,Harper Business,3.65
+75,8712,Tor Books,4.04
+70,4956,Farrar  Straus and Giroux,4.29
+1,5248,John Wiley,4.03
+74,9305,HMH Books for Young Readers,3.92
+26,2772,University of California Press,4.25
+55,1282,Atlantic,4.03
+11,6455,Rutgers University Press,3.55
+41,9263,Salamandra,3.71
+90,9250,Penguin Books,4.31
+65,3612,Yearling Books,3.82
+9,9,Crown,4.22
+85,2338,G.P. Putnam's Sons,4.0
+78,6065,Red Dress Ink,3.68
+85,317,Gallery Books,4.03
+3,8782,Project Management Institute,3.77
+49,7166,Anchor Books,4.1
+33,4172,Houghton Mifflin Harcourt,3.79
+37,9646,St. Martin's Press,4.06
+9,2003,Modern Library,3.89
+76,1175,Marvel,3.45
+86,3503,Harlequin Historical,3.27
+55,9879,Puffin,3.81
+89,7674,Panther,3.8
+87,6688,Penguin Books,3.85
+6,9134,Rough Guides,3.91
+16,8870,The Orion Publishing Group Ltd,3.93
+38,7566,Vanderbilt University Press,3.14
+24,4759,Morpheus International,4.35
+65,6104,Univ Of Minnesota Press,4.17
+18,6259,Del Rey,3.93
+13,685,Penguin Classics,4.14
+21,9350,ガンガンコミックス,4.57
+37,3463,Siete Cuentos,3.73
+88,4681,Univ Of Minnesota Press,4.1
+95,8523,Avenel Books,4.26
+75,5645,Chu Hartley Publishers LLC,3.76
+38,856,Clarion Books,3.76
+54,9468,Montena,4.04
+95,6378,Tusquets,3.81
+14,1733,Vintage,4.2
+57,8892,Grand Central Publishing,4.16
+56,10882,Festival Books,4.31
+6,3409,Library of America,4.18
+0,4178,Penguin Classics,3.59
+15,10079,University of California Press,4.12
+42,4512,A & C Black (Childrens books),4.4
+74,10504,Harlequin Romance,2.83
+53,7093,Worth Publishers,3.99
+75,4243,Headline,3.88
+40,1611,Addison Wesley Publishing Company,4.6
+86,7746,Ballantine Books,4.11
+32,6722,Tuttle Publishing,3.79
+5,5275,Peripatetic Press,3.94
+71,6195,Thomas Dunne Books,3.79
+25,2352,G.P. Putnam's Sons,4.06
+71,7912,Grand Central Publishing,3.97
+52,10965,Basic Books,3.94
+58,2661,Broadway Books,4.06
+57,162,Princeton University Press,3.57
+76,6333,Macmillan Publ. Co.,4.13
+73,1180,HarperTorch,4.03
+95,1048,Dell Laurel-Leaf,4.1
+59,9469,Penguin Group,4.04
+21,1943,Ave Maria Press,4.3
+91,1549,Delta,3.92
+62,643,MIT Press,3.92
+0,8174,Harper,4.04
+48,3861,EOS,4.0
+89,8275,Routledge,3.84
+5,4668,Soft Skull Press,3.51
+84,6121,Harper Perennial,3.61
+69,6000,Beacon Press,3.98
+25,5395,Thorndike Press,3.4
+24,10993,Harper Voyager,3.39
+16,5290,Everyman's Library,3.99
+19,6665,Running Press,4.05
+50,3681,Harvard University Press,4.19
+91,8239,Penguin Classics,4.55
+26,2301,HarperCollins,4.21
+58,4386,Topaz,3.49
+91,9265,British Academy,3.11
+32,3949,Rizzoli International Publications,3.75
+24,1697,Houghton Mifflin,4.27
+0,5454,Berkley,3.83
+28,9362,Avon HarperCollins,3.66
+48,10569,Algonquin Books,3.44
+41,6966,Bantam,4.01
+82,7723,Knopf Publishing Group,3.66
+78,1954,Oxford University Press  USA,3.94
+38,3380,Penguin Books,3.96
+31,11000,Jove,3.62
+75,7909,Mira Books,3.7
+87,1522,Vintage,4.24
+90,6656,NYRB Classics,3.75
+27,1956,Scholastic  Inc.,4.1
+45,8816,Prentice Hall,3.8
+59,3211,Picador USA,3.82
+74,1207,Penguin,3.93
+37,9049,Plume,3.79
+90,8417,W. W. Norton & Company,3.83
+70,6117,Knopf Publishing Group,4.21
+92,8501,Modern Library,3.86
+70,10025,Del Rey,3.82
+61,5475,BBC Physical Audio,4.43
+17,6706,Viz Media,4.27
+71,9155,Harper Collins,2.98
+78,5975,Vertigo,4.34
+80,8189,Broadway Books,3.55
+33,6670,Scholastic,3.98
+63,6498,W. W. Norton  Company,4.35
+63,9836,Orion,4.07
+86,2722,Vintage,3.89
+37,1344,Grand Central Publishing,3.75
+46,1492,Anchor Books,3.85
+76,4577,Ivy Books,3.86
+49,9562,Holloway House,4.32
+68,7025,Luna Books,3.85
+5,8989,Random House Value Publishing,3.96
+24,5675,W. W. Norton  Company,3.88
+22,9078,DK Publishing (Dorling Kindersley),4.31
+58,6280,VIZ Media LLC,4.3
+91,10435,Tor Books,3.64
+25,11075,Montena,3.95
+45,6240,Oxford University Press  USA,4.11
+2,3506,Penguin Books Ltd,3.71
+35,916,Festival,4.3
+5,3167,Harvard University Press,4.29
+4,5513,Bloomsbury Publishing PLC,3.65
+37,5265,Scholastic Paperbacks,3.96
+95,10115,Ace Books,4.15
+54,10892,Mariner Books,3.5
+22,502,Oxford University Press  USA,3.75
+79,8983,Simon & Schuster Books for Young Readers,3.86
+56,10931,Vintage Classics,4.13
+34,5676,The New Press,4.01
+20,1750,Everyman's Library,4.44
+51,10599,Vintage,3.77
+74,7419,HarperTorch,3.67
+81,6266,HarperCollins,4.25
+47,3670,Harvard University Press,4.11
+53,7092,NAL,3.9
+75,4749,Gallery Books,4.08
+58,4324,Earthlight,3.96
+89,9188,Baen Books,4.13
+20,8506,Plaza & Janés Editores  S.A.,3.6
+91,2708,Vintage,3.9
+81,6432,Penguin Group (USA),4.07
+16,6391,Scholastic,4.01
+55,1990,Bantam Classics,4.32
+89,5151,Simon  Schuster,3.64
+75,1431,Chelsea House Publications,4.35
+85,3510,University of Chicago Press,3.9
+70,3739,Anchor Books,3.85
+20,3170,Anchor,4.31
+78,7506,Library of America,4.21
+10,8951,Wizards of the Coast,3.65
+32,927,Mariner Books,3.9
+53,9482,Belknap Press,3.51
+69,9428,Zondervan Publishing Company,4.17
+35,523,Anagrama,3.96
+39,7206,Signet,3.96
+82,9585,Power Press,4.05
+82,1050,Bantam Starfire,3.83
+46,4101,Yearling,4.08
+27,5021,Harvard Business Review Press,3.49
+88,10403,Dover Publications,3.98
+92,531,University of California Press,4.27
+42,8435,Berkley,3.9
+84,2635,Everyman's Library,4.05
+68,4240,Del Rey,4.29
+52,7181,Bantam,3.81
+14,5186,Penguin Classics,4.3
+79,5538,University Press of Mississippi,3.55
+4,9657,Charlesbridge,3.51
+64,1350,Fawcett,3.69
+89,4939,Tor Fantasy,3.52
+1,6961,Carole Marsh Mysteries,3.5
+69,10016,HarperAudio,3.67
+56,6771,Farrar  Straus and Giroux,3.92
+7,7188,Grand Central Publishing,3.95
+58,3453,Modern Library,4.04
+46,6363,Re/Search Publications,4.26
+44,5055,Dover Publications,3.94
+75,3077,University of Texas Press,4.39
+46,8538,Penguin Classics,4.02
+91,2142,Penguin Classics,3.9
+86,1083,Simon and Schuster,3.79
+78,7898,University of California Press,4.37
+45,7373,Nantier Beall Minoustchine Publishing,3.79
+44,3573,Vintage,3.9
+21,5830,Warner Books (NY),3.94
+56,3153,Penguin Books,4.25
+97,8631,Hungry Minds,3.74
+50,9229,DAW,4.04
+41,3585,Oxford University Press  USA,3.68
+97,8334,Oxford University Press  USA,4.06
+14,7376,British Film Institute,3.93
+38,5622,St. Martin's Griffin,3.75
+48,9268,Dover Publications,4.5
+95,8118,St. Martin's Griffin,3.39
+8,3140,Pocket Books,3.9
+31,8273,Oxford University Press  USA,4.11
+37,2705,Delta,3.46
+61,6535,New York Review of Books,4.39
+1,3462,Seven Stories Press,4.02
+3,9064,Berkley Books (NY),3.56
+37,4411,Salamandra,4.57
+35,2130,Plaza y Janes,4.02
+21,5369,Weiser Books,4.1
+48,3956,Scholastic Paperbacks,3.87
+25,10176,Anchor,3.81
+62,8755,Planeta Publishing,3.92
+73,736,Signet Book,4.19
+2,5141,Harper Perennial,4.22
+70,4197,Wiley,3.72
+20,9244,Bantam Books (NY),3.73
+15,4623,Sourcebooks,4.25
+31,713,Library of America,4.3
+94,6591,Andrews McMeel Publishing,4.69
+71,9764,Free Press,3.78
+34,652,Princeton University Press,4.09
+22,1369,Penguin Books,4.04
+43,2109,Vintage Books,4.28
+10,2450,Scholastic Paperbacks,3.64
+58,10766,Dell Publishing Company,4.11
+60,1470,The Crossroad Publishing Company,4.3
+66,3572,Mariner Books,3.5
+91,7458,Voyager,4.04
+75,10405,Dover Publications,3.98
+1,6519,New Directions,4.3
+47,1058,Wiley,4.22
+45,10408,Golden Books,4.24
+54,6004,Free Press,4.05
+66,10824,Villard,3.93
+82,808,Library of America,4.22
+85,5642,DAW,3.36
+97,8499,Pocket Books,3.96
+70,9997,Orb Books,3.38
+49,8845,Penguin Books,4.19
+65,8707,Tor Books,4.09
+63,5231,Del Rey,4.36
+58,8783,Marion Boyars Publishers Ltd,3.25
+67,1116,Penguin Books Ltd,3.92
+80,6146,Le Livre de Poche,4.12
+13,6683,Pinnacle,3.84
+42,6576,Firebird Books,3.92
+4,4,Scholastic,4.78
+95,3838,TokyoPop,4.2
+56,7144,K.G. Saur Verlag,0.0
+49,3924,Daw Books,4.03
+76,3156,New English Library (Hodder & Stoughton),4.22
+94,4859,Little  Brown Books for Young Readers,4.04
+27,6036,Citadel,3.84
+27,9382,Kuperard,3.29
+5,8086,Atria Books,3.8
+54,7880,Penguin Classics,3.94
+6,1465,Back Bay Books,4.11
+54,730,Routledge,3.68
+61,4752,Random House Children's Books,4.15
+87,5235,Llewellyn Publications,4.12
+84,1085,Scholastic Paperbacks,3.96
+17,7422,Harper Voyager,3.86
+94,8270,Oxford University Press  USA,4.08
+53,7521,HarperCollins Publishers,3.97
+25,5680,Gibbs Smith,3.84
+37,10233,Pocket Books,3.87
+47,8320,東立,4.56
+2,2988,Oxford University Press,3.85
+82,6039,Hackett Publishing Company,4.08
+29,10002,Dover Publications,3.84
+10,3718,St. Martin's Griffin,3.15
+10,7068,Library of America,4.37
+37,8714,IDW Publishing,4.5
+11,2341,G.P. Putnam's Sons,3.89
+32,7504,Prentice Hall,4.0
+34,683,Simon & Schuster Paperbacks,4.06
+58,3534,Barnes  Noble Classics,4.18
+84,7278,Scribner,3.94
+78,7033,TokyoPop,3.49
+86,9005,The Guilford Press,3.12
+35,9171,Serpent's Tail,3.65
+10,9450,Oxford University Press  USA,3.61
+41,10134,Tor Books,4.01
+9,992,Vintage,3.98
+0,1801,Paul Dry Books,4.3
+68,192,Penguin Books,3.64
+30,9765,Berrett-Koehler Publishers,4.05
+51,3790,VIZ Media LLC,4.43
+11,2141,Dover Publications,3.9
+53,5072,Tor Fantasy,3.94
+67,9312,HarperCollins,4.37
+98,4874,Beacon Press,3.95
+72,3448,Mariner Books,4.25
+99,2405,HarperCollins,4.16
+9,6843,Houghton Mifflin Harcourt,4.27
+94,725,Houghton Mifflin Harcourt,3.85
+89,8392,TokyoPop,4.26
+96,7344,David R. Godine Publisher,3.98
+18,2310,HarperTrophy,3.96
+45,10418,HMH Books for Young Readers,4.07
+1,4266,Basic Books,3.93
+48,4175,Mariner Books,4.05
+35,11105,Punto de Lectura,3.9
+98,7641,Plume Books,3.98
+27,3748,J'ai lu,4.45
+89,1240,Penguin,3.8
+58,242,NAL,3.96
+22,6409,Aladdin Paperbacks,3.79
+14,896,Council Press,3.57
+17,10868,Scribner,4.18
+12,776,Punto de Lectura,3.8
+1,376,Penguin (Business),4.18
+17,4300,Tor Books,3.72
+99,10913,Grijalbo,4.16
+94,1342,Picador,3.33
+43,4330,Yale University Press,3.86
+55,1355,HarperCollins UK,3.57
+53,2785,Picador,3.8
+61,9164,Puffin Books,3.77
+89,10278,See Sharp Press,3.74
+28,9603,Pantheon,3.84
+94,5869,Pocket,3.86
+27,9608,Walter de Gruyter,3.84
+1,10009,Harper,3.68
+6,7039,Bethany House Publishers,3.96
+46,8777,Onyx,3.87
+68,6174,Berkley Publishing Group,3.89
+17,284,HarperCollins,3.86
+89,4211,Brill/Rodopi,3.7
+81,7394,Oxford University Press  USA,4.14
+9,4320,Del Rey Books,3.98
+76,2151,Tantor Media,3.57
+47,8615,Wizards of the Coast,3.65
+35,1319,Vintage Classics,3.97
+1,4332,Yale University Press,4.03
+38,10076,Umbriel,3.65
+25,11104,Manning Publications,3.56
+1,5984,Penguin,4.11
+8,5681,Chelsea House Publishers,4.25
+21,1555,Addison Wesley Publishing Company,4.01
+14,7536,Faber and Faber,3.74
+94,5039,Plume,4.16
+1,6197,Veritas Publishing,4.51
+65,5677,Folio,4.15
+21,8682,W. W. Norton  Company,3.74
+54,7152,Farrar  Straus & Giroux,3.85
+52,10453,Touchstone Books,4.2
+77,1210,Simon & Schuster Childrens Books,3.9
+33,3610,Random House Audio,4.45
+59,5599,Oxford University Press,3.78
+36,6271,Houghton Mifflin Company,4.27
+7,3733,The New Press,3.96
+70,2780,Oxford University Press  USA,3.72
+75,125,Grove Press,4.1
+46,10961,Addison-Wesley Professional,4.24
+4,3229,Vintage,3.85
+83,10563,It Books,4.13
+48,5308,Barron's Educational Series,4.0
+15,6964,Bantam Books,3.98
+85,2092,Faber  Faber,3.76
+80,7756,Arrow Books Ltd,4.15
+18,7882,Hackett Publishing Company  Inc.,4.13
+45,5686,Laurel Leaf,3.94
+74,1474,Penguin Classics,4.12
+32,2843,Scribner,3.68
+21,3981,Harper Perennial Modern Classics,4.04
+6,9240,Chicago Review Press,4.09
+92,8945,Ballantine Books,4.14
+90,3904,Vintage,4.18
+55,5746,Macmillan Audio,3.86
+84,6819,Modern Library,3.88
+44,2596,Luna,3.79
+42,10905,Carroll & Graf Publishers,4.06
+11,326,Simon  Schuster,4.07
+37,5131,Turtleback Books,3.79
+48,6959,Gallopade International,3.61
+69,8272,University of Chicago Press,3.89
+96,10166,Spectra,3.69
+16,10211,Warner Books (NY),3.22
+60,2292,HarperFestival,3.89
+99,5985,Princeton University Press,4.32
+10,3011,Penguin Books,4.41
+31,8371,Debolsillo,3.7
+69,7224,Farrar  Straus and Giroux (BYR),4.12
+71,2481,Lawbook Exchange  Ltd.,4.0
+24,3749,J'ai Lu,4.44
+6,10869,Penguin Classics,4.29
+20,2343,G.P. Putnam's Sons,3.9
+84,2199,Orion,4.02
+31,3665,St. Martin's Press,3.52
+77,10438,Twin Palms Publishers,4.54
+3,2519,Dell,4.06
+29,8194,Oxford University Press,3.94
+10,8866,Arrow,3.6
+82,3540,Vintage,3.77
+96,848,Anchor,4.01
+20,3178,Vintage,3.92
+86,5415,Folio,4.2
+45,7874,Jove,3.77
+92,2449,Dover Publications,3.84
+43,8905,Bloomsbury Methuen Drama,4.27
+36,251,Oxford University Press  USA,3.59
+47,9726,New York University Press,3.85
+47,3694,Berkley,3.94
+84,10019,Headline Review,4.17
+17,2936,Simon & Schuster,4.07
+25,5548,Bantam,3.83
+88,5329,Touchstone,4.13
+23,258,Vintage,3.99
+33,4417,Destino Ediciones,3.48
+58,6222,iBooks,3.57
+95,6960,Carole Marsh Mysteries,3.73
+16,7266,Spectra,3.54
+15,2168,Random House Books for Young Readers,4.04
+27,6514,Simon  Schuster Audio,3.77
+34,6607,Puffin Books,3.85
+11,8172,Writer's Digest Books,3.9
+80,10959,Bantam Books,3.5
+41,7345,David R. Godine Publisher,3.88
+76,10222,Aladdin Paperbacks,4.27
+80,1086,Harper Perennial,3.94
+86,5986,Books on Tape,4.11
+62,895,University of California Press,3.85
+77,4654,Touchstone,4.03
+92,2076,W. W. Norton  Company,4.18
+40,9094,Chronicle Books,4.5
+36,9442,Back Bay Books,3.09
+95,4508,Harper,4.44
+6,1660,Penguin Books,3.79
+88,8236,Vintage,4.14
+54,2353,Michael Joseph,4.06
+36,6586,Penguin Books,3.82
+11,4745,Longman Publishing Group,3.5
+50,4143,Warners Visions Books,4.04
+36,1899,Barrons Educational Series,4.06
+68,10007,Harper,3.67
+60,2534,Simon & Schuster,3.82
+6,852,Oxford University Press  USA,3.79
+54,4726,DC Comics,3.93
+97,5575,Simon & Schuster Books for Young Readers,4.3
+87,6954,Loeb Classical Library 443,4.52
+46,7010,Random House Books for Young Readers,4.03
+19,9403,Columbia University Press,3.84
+23,7355,Vanguard Press,4.0
+72,8467,Bantam,4.16
+16,1677,Vintage,3.61
+97,9232,MIRA,3.91
+3,7029,Pluto Press,4.12
+16,2108,Random House Trade Paperbacks,3.61
+96,6851,Disney-Hyperion,3.44
+66,4565,HarperCollins Publishers,3.79
+53,3398,Scribner,4.07
+70,7417,Del Rey Fantasy,3.67
+51,3967,ADV Manga,3.96
+47,8337,Anchor,3.81
+88,1341,Penguin Books,3.91
+27,5862,Pocket Star,3.77
+95,4068,Greenwillow Books,4.21
+86,2128,Avon,3.67
+83,8614,W. W. Norton & Company,3.81
+79,7989,HarperOne,4.36
+99,9467,Scholastic Inc.,4.04
+3,2226,Tor Books,4.07
+75,7541,Dial Press,3.32
+44,6446,Yearling,3.59
+13,10953,Shambhala Publications,4.19
+96,9249,Signet,4.02
+59,3514,Penguin Classics,3.93
+25,1098,Vintage,3.77
+83,9834,HarperTorch,3.88
+25,1886,Knopf Books for Young Readers,4.09
+31,8793,Modern Language Association of America,3.75
+30,9655,Bantam Books,3.32
+21,7492,DAW Books Inc,4.21
+73,6468,DC Comics,3.26
+2,263,Lonely Planet,3.83
+10,5671,Fawcett,3.91
+57,8675,William Morrow,4.07
+54,8637,Bantam,3.46
+24,640,MIT Press,3.95
+19,9222,St. Martin's Press,4.0
+72,1297,Dell,3.57
+76,4840,Vintage,4.28
+1,10153,DAW SF,3.11
+82,6370,Bloomsbury Methuen Drama,3.51
+3,10210,Harper Perennial,3.97
+56,3446,Houghton Mifflin/Seymour Lawrence,4.15
+63,3109,Tyndale House Publishers,4.41
+5,9017,Del Rey Books,3.68
+27,3900,Alfred A. Knopf,4.09
+40,10503,Bantam Books,3.76
+82,7863,Harper Voyager,4.33
+64,3894,Rizzoli,4.13
+3,7737,Lawrence Hill Books,4.07
+67,4484,Washington Square Press,3.9
+45,7390,Scribner,3.85
+51,497,Bantam Classics,4.21
+50,8422,William Heinemann Ltd.,4.42
+49,7060,Harper Perennial,3.78
+25,6616,Dutton Books,3.6
+77,3400,NYRB Classics,4.26
+6,2570,Modern Library,4.4
+84,6868,Modern Library,3.84
+24,3241,Random House UK Ltd (A Division of Random House Group),3.66
+77,10021,HarperAudio,3.62
+37,80,McGraw-Hill,3.62
+48,2613,Dial Press,3.88
+35,6639,Heinemann Library,4.09
+79,9007,Thomas Publications (PA),4.03
+21,10874,Thomas Nelson,3.65
+56,10740,Random House Audio Publishing Group,4.23
+37,7934,Wings,4.21
+13,6132,Vintage,3.32
+10,6168,Ember,3.93
+75,1118,Penguin Books Ltd,3.68
+49,10684,Vertigo,3.6
+51,9911,HarperTeen,3.49
+64,8573,Puffin Group,4.09
+31,9880,Puffin,3.74
+57,8062,Pocket Books,3.77
+39,9853,Love Spell,3.74
+19,1283,Atlantic Books,3.72
+33,9539,Walter Foster Publishing,1.0
+14,1257,Three Rivers Press,4.21
+6,5437,Time Life Medical,3.77
+78,201,Actes Sud,4.38
+41,7125,Ballantine Books,3.83
+11,8586,One World (UK),4.08
+67,9999,Doherty  Tom Associates  LLC,3.89
+32,4844,Prentice Hall,3.88
+83,1289,Atheneum Books for Young Readers,3.91
+6,3862,Wildside Press,3.95
+87,9443,Cambridge University Press,4.1
+61,4982,AudioGO,4.36
+14,2010,Ave Maria Press,4.2
+29,3961,St. Martin's Paperbacks,3.89
+10,10305,Pocket Books,3.88
+71,983,Random House Trade Paperbacks,3.78
+50,8867,Dell Publishing Company,3.8
+26,6898,Moyer Bell and its subsidiaries,4.04
+32,7808,Regnery Publishing,4.13
+77,8799,Three Rivers Press,3.63
+68,3294,Penguin Books,3.84
+64,9386,HMH Books for Young Readers,3.8
+57,10550,Dalkey Archive Press,3.83
+43,11003,Viking Children's Books,4.08
+1,6779,Newmarket,4.05
+6,11059,Ballantine Books,3.61
+16,4912,Waking Lion Press,3.95
+58,4479,Harper Perennial (HarperCollins),4.04
+91,1940,Penguin Books,3.13
+64,1628,Everyman's Library,4.14
+6,9672,Bantam Books,3.53
+63,2409,Amistad,3.45
+87,5888,Poppy,3.55
+86,3785,集英社,4.24
+17,3449,St. Martin's Griffin,3.78
+61,241,Signet,3.88
+15,3465,Serpent's Tail,3.98
+20,2594,Tom Doherty Tor Fantasy,4.24
+48,9825,DC Comics,2.82
+49,3230,Penguin Essential Editions,3.87
+71,10853,HarperTeen,4.18
+44,8015,Penguin Books Ltd,4.52
+34,4256,HarperCollins,4.59
+53,5756,Random House Audio,3.82
+96,1515,Harper,4.23
+23,8042,Broadway Books,3.77
+96,6362,Picador,3.77
+58,6677,HarperCollins,4.16
+87,3084,Editions 10/18,3.93
+71,8690,Chaosium,3.92
+32,975,Rayo,3.71
+10,2140,Modern Library/Random House (NY),3.67
+10,10421,Yearling,3.61
+2,7014,Listening Library (Audio),4.04
+59,5591,Harper Business,3.45
+68,593,Scholastic Paperbacks,4.07
+50,7844,Wizards of the Coast,3.43
+74,7191,Harper Perennial,3.49
+53,6538,New Page Books,3.83
+17,6776,Destiny Books,4.1
+88,1093,Penguin Classics Deluxe Editions,3.97
+60,9083,Dark Horse Books,3.79

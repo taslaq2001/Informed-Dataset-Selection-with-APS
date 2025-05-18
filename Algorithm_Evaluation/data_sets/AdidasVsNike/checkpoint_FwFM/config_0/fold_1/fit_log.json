@@ -1,0 +1,10 @@
+{
+    "model_file": "./data_sets/adidasvsnike/checkpoint_FwFM/config_0/fold_1/FwFM-May-18-2025_20-16-35.pth",
+    "data_set_name": "adidasvsnike",
+    "algorithm_name": "FwFM",
+    "algorithm_config_index": 0,
+    "algorithm_configuration": {},
+    "fold": 1,
+    "setup_time": 1.5618491172790527,
+    "training_time": 0.4954795837402344
+}

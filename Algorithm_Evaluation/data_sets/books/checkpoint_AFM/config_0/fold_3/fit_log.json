@@ -1,0 +1,10 @@
+{
+    "model_file": "./data_sets/books/checkpoint_AFM/config_0/fold_3/AFM-May-18-2025_21-28-08.pth",
+    "data_set_name": "books",
+    "algorithm_name": "AFM",
+    "algorithm_config_index": 0,
+    "algorithm_configuration": {},
+    "fold": 3,
+    "setup_time": 1.8243021965026855,
+    "training_time": 1.8072824478149414
+}

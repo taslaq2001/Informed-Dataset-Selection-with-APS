@@ -1,0 +1,10 @@
+{
+    "model_file": "./data_sets/rottentomatoesmovies/checkpoint_FwFM/config_0/fold_4/FwFM-May-18-2025_21-49-23.pth",
+    "data_set_name": "rottentomatoesmovies",
+    "algorithm_name": "FwFM",
+    "algorithm_config_index": 0,
+    "algorithm_configuration": {},
+    "fold": 4,
+    "setup_time": 1.7827882766723633,
+    "training_time": 1.6357998847961426
+}

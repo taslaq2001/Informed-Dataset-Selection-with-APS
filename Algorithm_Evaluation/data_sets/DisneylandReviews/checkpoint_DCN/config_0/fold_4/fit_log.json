@@ -1,0 +1,10 @@
+{
+    "model_file": "./data_sets/disneylandreviews/checkpoint_DCN/config_0/fold_4/DCN-May-18-2025_20-34-39.pth",
+    "data_set_name": "disneylandreviews",
+    "algorithm_name": "DCN",
+    "algorithm_config_index": 0,
+    "algorithm_configuration": {},
+    "fold": 4,
+    "setup_time": 1.5543036460876465,
+    "training_time": 0.9704301357269287
+}

@@ -15,14 +15,16 @@ class rottentomatoesmovies (Loader) :
         import numpy as np
         df['user'] = np.random.randint(1, 101, size=len(df))  # 100 fake 
 
+
         df = df.rename(columns={
             'user':user_column_name,
             'movie_title': item_column_name,
-            'tomatometer_rating': rating_column_name,          
+            'review': rating_column_name,          
             'on_streaming_date': timestamp_column_name,
-            'genre':'feature'
+            'genre':'feature Str'
         })
+        df = df.loc[:, ~df.columns.duplicated()]
 
-        df = df.dropna(subset=[rating_column_name, timestamp_column_name])
+        #df = df.dropna(subset=[rating_column_name, timestamp_column_name])
 
-        return df[[ user_column_name,item_column_name, rating_column_name,timestamp_column_name,'feature']]
+        return df[[ user_column_name,item_column_name, rating_column_name,timestamp_column_name,'feature Str']]

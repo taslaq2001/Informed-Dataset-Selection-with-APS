@@ -1,0 +1,10 @@
+{
+    "model_file": "./data_sets/winesspa/checkpoint_LR/config_0/fold_1/LR-May-18-2025_20-58-11.pth",
+    "data_set_name": "winesspa",
+    "algorithm_name": "LR",
+    "algorithm_config_index": 0,
+    "algorithm_configuration": {},
+    "fold": 1,
+    "setup_time": 1.5691919326782227,
+    "training_time": 0.4392056465148926
+}

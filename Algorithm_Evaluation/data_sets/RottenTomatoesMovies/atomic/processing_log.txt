@@ -1,0 +1,35 @@
+Converting processed data to atomic data.
+No data set already loaded.
+Loading processed data set.
+Loaded processed data set.
+Function process_data executed in 14 milliseconds.
+Making data set implicit with threshold 0.0.
+Minimum rating: 0.0
+Maximum rating: 100.0
+Number of interactions before: 16634
+Number of interactions after: 16382
+Function make_implicit executed in 4 milliseconds.
+Data set has less interactions than the sample size. Unable to subsample.
+Function subsample executed in 0 milliseconds.
+Pruning data set to 1-core.
+Number of interactions before: 16382
+Number of interactions after: 16382
+Function core_pruning executed in 3403 milliseconds.
+Normalizing identifiers.
+Function normalize_identifiers executed in 60 milliseconds.
+Data set already loaded.
+Writing atomic data set to file.
+Writing atomic data set to file.
+Written atomic data set to file.
+Function write_data executed in 25 milliseconds.
+Function split_data executed in 11 milliseconds.
+Data splits do not exist.
+Writing data splits to file.
+Function write_data_splits executed in 140 milliseconds.
+Data set already loaded.
+Calculating metadata.
+Calculated metadata.
+Function calculate_metadata executed in 9 milliseconds.
+Writing atomic metadata to file.
+Written atomic metadata to file.
+Function write_metadata executed in 1 milliseconds.

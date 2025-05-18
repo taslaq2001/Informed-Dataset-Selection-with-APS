@@ -1,0 +1,14 @@
+{
+    "model_file": "./data_sets/disneylandreviews/checkpoint_FM/config_0/fold_4/FM-May-18-2025_20-38-10.pth",
+    "data_set_name": "disneylandreviews",
+    "algorithm_name": "FM",
+    "algorithm_config_index": 0,
+    "algorithm_configuration": {
+        "task": "rating",
+        "epoch": 10,
+        "lr": 0.05
+    },
+    "fold": 4,
+    "setup_time": 1.8088102340698242,
+    "training_time": 0.2961885929107666
+}

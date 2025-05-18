@@ -1,0 +1,10 @@
+{
+    "model_file": "./data_sets/hashedwabreviews/checkpoint_DeepFM/config_0/fold_1/DeepFM-May-18-2025_20-42-42.pth",
+    "data_set_name": "hashedwabreviews",
+    "algorithm_name": "DeepFM",
+    "algorithm_config_index": 0,
+    "algorithm_configuration": {},
+    "fold": 1,
+    "setup_time": 1.6329154968261719,
+    "training_time": 0.7297337055206299
+}

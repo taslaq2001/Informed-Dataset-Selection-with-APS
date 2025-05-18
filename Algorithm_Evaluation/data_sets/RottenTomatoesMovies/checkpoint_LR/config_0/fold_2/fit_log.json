@@ -1,0 +1,10 @@
+{
+    "model_file": "./data_sets/rottentomatoesmovies/checkpoint_LR/config_0/fold_2/LR-May-18-2025_21-38-08.pth",
+    "data_set_name": "rottentomatoesmovies",
+    "algorithm_name": "LR",
+    "algorithm_config_index": 0,
+    "algorithm_configuration": {},
+    "fold": 2,
+    "setup_time": 1.7005958557128906,
+    "training_time": 1.0199108123779297
+}

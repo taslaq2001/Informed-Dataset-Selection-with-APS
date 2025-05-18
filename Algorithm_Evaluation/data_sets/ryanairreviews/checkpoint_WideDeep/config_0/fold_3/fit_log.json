@@ -1,0 +1,10 @@
+{
+    "model_file": "./data_sets/ryanairreviews/checkpoint_WideDeep/config_0/fold_3/WideDeep-May-18-2025_22-00-11.pth",
+    "data_set_name": "ryanairreviews",
+    "algorithm_name": "WideDeep",
+    "algorithm_config_index": 0,
+    "algorithm_configuration": {},
+    "fold": 3,
+    "setup_time": 1.5826971530914307,
+    "training_time": 0.462169885635376
+}

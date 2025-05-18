@@ -1,0 +1,13 @@
+{
+    "model_file": "./data_sets/disneylandreviews/checkpoint_NFM/config_0/fold_2/NFM-May-18-2025_20-33-26.pth",
+    "data_set_name": "disneylandreviews",
+    "algorithm_name": "NFM",
+    "algorithm_config_index": 0,
+    "algorithm_configuration": {
+        "n_factors": 15,
+        "n_epochs": 10
+    },
+    "fold": 2,
+    "setup_time": 1.5560197830200195,
+    "training_time": 0.6000955104827881
+}

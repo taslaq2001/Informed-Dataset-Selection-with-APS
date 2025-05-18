@@ -1,0 +1,10 @@
+{
+    "model_file": "./data_sets/adidasvsnike/checkpoint_DSSM/config_0/fold_0/DSSM-May-18-2025_20-12-28.pth",
+    "data_set_name": "adidasvsnike",
+    "algorithm_name": "DSSM",
+    "algorithm_config_index": 0,
+    "algorithm_configuration": {},
+    "fold": 0,
+    "setup_time": 1.6080656051635742,
+    "training_time": 3.6152055263519287
+}

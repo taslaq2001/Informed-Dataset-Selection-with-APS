@@ -1,0 +1,10 @@
+{
+    "model_file": "./data_sets/rottentomatoesmovies/checkpoint_EulerNet/config_0/fold_0/EulerNet-May-18-2025_21-45-58.pth",
+    "data_set_name": "rottentomatoesmovies",
+    "algorithm_name": "EulerNet",
+    "algorithm_config_index": 0,
+    "algorithm_configuration": {},
+    "fold": 0,
+    "setup_time": 1.743941307067871,
+    "training_time": 10.01881718635559
+}

@@ -1,0 +1,10 @@
+{
+    "model_file": "./data_sets/airlinesreviews/checkpoint_FFM/config_0/fold_2/FFM-May-18-2025_21-20-32.pth",
+    "data_set_name": "airlinesreviews",
+    "algorithm_name": "FFM",
+    "algorithm_config_index": 0,
+    "algorithm_configuration": {},
+    "fold": 2,
+    "setup_time": 1.7314281463623047,
+    "training_time": 0.9819207191467285
+}

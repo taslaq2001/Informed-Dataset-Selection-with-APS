@@ -1,0 +1,10 @@
+{
+    "model_file": "./data_sets/adidasvsnike/checkpoint_xDeepFM/config_0/fold_2/xDeepFM-May-18-2025_20-18-18.pth",
+    "data_set_name": "adidasvsnike",
+    "algorithm_name": "xDeepFM",
+    "algorithm_config_index": 0,
+    "algorithm_configuration": {},
+    "fold": 2,
+    "setup_time": 1.7789978981018066,
+    "training_time": 4.24303126335144
+}

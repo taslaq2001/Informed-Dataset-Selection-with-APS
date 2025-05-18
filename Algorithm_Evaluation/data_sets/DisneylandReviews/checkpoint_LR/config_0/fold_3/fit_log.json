@@ -1,0 +1,10 @@
+{
+    "model_file": "./data_sets/disneylandreviews/checkpoint_LR/config_0/fold_3/LR-May-18-2025_20-33-03.pth",
+    "data_set_name": "disneylandreviews",
+    "algorithm_name": "LR",
+    "algorithm_config_index": 0,
+    "algorithm_configuration": {},
+    "fold": 3,
+    "setup_time": 1.6637678146362305,
+    "training_time": 0.39569711685180664
+}

@@ -1,0 +1,10 @@
+{
+    "model_file": "./data_sets/hashedwabreviews/checkpoint_DSSM/config_0/fold_4/DSSM-May-18-2025_20-43-34.pth",
+    "data_set_name": "hashedwabreviews",
+    "algorithm_name": "DSSM",
+    "algorithm_config_index": 0,
+    "algorithm_configuration": {},
+    "fold": 4,
+    "setup_time": 1.5957167148590088,
+    "training_time": 1.823448896408081
+}

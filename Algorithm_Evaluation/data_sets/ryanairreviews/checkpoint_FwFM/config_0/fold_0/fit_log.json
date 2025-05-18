@@ -1,0 +1,10 @@
+{
+    "model_file": "./data_sets/ryanairreviews/checkpoint_FwFM/config_0/fold_0/FwFM-May-18-2025_21-58-58.pth",
+    "data_set_name": "ryanairreviews",
+    "algorithm_name": "FwFM",
+    "algorithm_config_index": 0,
+    "algorithm_configuration": {},
+    "fold": 0,
+    "setup_time": 1.8466520309448242,
+    "training_time": 0.3338925838470459
+}
