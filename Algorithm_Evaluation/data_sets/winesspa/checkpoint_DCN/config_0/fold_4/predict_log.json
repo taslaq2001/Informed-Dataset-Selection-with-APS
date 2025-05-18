@@ -1,0 +1,12 @@
+{
+    "model_file": "./data_sets/winesspa/checkpoint_DCN/config_0/fold_4/DCN-May-18-2025_21-00-09.pth",
+    "data_set_name": "winesspa",
+    "algorithm_name": "DCN",
+    "algorithm_config_index": 0,
+    "algorithm_configuration": {},
+    "fold": 4,
+    "train_users": 100,
+    "test_users": 100,
+    "users_to_predict": 100,
+    "prediction_time": 0.18087100982666016
+}

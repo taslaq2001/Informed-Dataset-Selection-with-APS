@@ -1,0 +1,12 @@
+{
+    "model_file": "./data_sets/rottentomatoesmovies/checkpoint_PNN/config_0/fold_1/PNN-May-18-2025_21-49-39.pth",
+    "data_set_name": "rottentomatoesmovies",
+    "algorithm_name": "PNN",
+    "algorithm_config_index": 0,
+    "algorithm_configuration": {},
+    "fold": 1,
+    "train_users": 100,
+    "test_users": 100,
+    "users_to_predict": 100,
+    "prediction_time": 1.397956132888794
+}

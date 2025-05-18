@@ -1,0 +1,15 @@
+{
+    "model_file": "./data_sets/ryanairreviews/checkpoint_NFM/config_0/fold_3/NFM-May-18-2025_21-53-47.pth",
+    "data_set_name": "ryanairreviews",
+    "algorithm_name": "NFM",
+    "algorithm_config_index": 0,
+    "algorithm_configuration": {
+        "n_factors": 15,
+        "n_epochs": 10
+    },
+    "fold": 3,
+    "train_users": 97,
+    "test_users": 62,
+    "users_to_predict": 59,
+    "prediction_time": 0.0438838005065918
+}

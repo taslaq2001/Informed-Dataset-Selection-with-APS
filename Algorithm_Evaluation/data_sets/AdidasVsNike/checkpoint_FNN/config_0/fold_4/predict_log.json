@@ -1,0 +1,12 @@
+{
+    "model_file": "./data_sets/adidasvsnike/checkpoint_FNN/config_0/fold_4/FNN-May-18-2025_20-16-23.pth",
+    "data_set_name": "adidasvsnike",
+    "algorithm_name": "FNN",
+    "algorithm_config_index": 0,
+    "algorithm_configuration": {},
+    "fold": 4,
+    "train_users": 1119,
+    "test_users": 503,
+    "users_to_predict": 271,
+    "prediction_time": 0.9611027240753174
+}

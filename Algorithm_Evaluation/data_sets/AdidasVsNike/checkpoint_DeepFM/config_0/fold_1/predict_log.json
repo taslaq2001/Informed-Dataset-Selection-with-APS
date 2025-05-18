@@ -1,0 +1,12 @@
+{
+    "model_file": "./data_sets/adidasvsnike/checkpoint_DeepFM/config_0/fold_1/DeepFM-May-18-2025_20-12-02.pth",
+    "data_set_name": "adidasvsnike",
+    "algorithm_name": "DeepFM",
+    "algorithm_config_index": 0,
+    "algorithm_configuration": {},
+    "fold": 1,
+    "train_users": 1116,
+    "test_users": 505,
+    "users_to_predict": 275,
+    "prediction_time": 0.580204963684082
+}

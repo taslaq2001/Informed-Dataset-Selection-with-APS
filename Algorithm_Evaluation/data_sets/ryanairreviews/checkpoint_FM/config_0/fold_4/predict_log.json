@@ -1,0 +1,16 @@
+{
+    "model_file": "./data_sets/ryanairreviews/checkpoint_FM/config_0/fold_4/FM-May-18-2025_21-58-23.pth",
+    "data_set_name": "ryanairreviews",
+    "algorithm_name": "FM",
+    "algorithm_config_index": 0,
+    "algorithm_configuration": {
+        "task": "rating",
+        "epoch": 10,
+        "lr": 0.05
+    },
+    "fold": 4,
+    "train_users": 100,
+    "test_users": 66,
+    "users_to_predict": 66,
+    "prediction_time": 0.015015125274658203
+}

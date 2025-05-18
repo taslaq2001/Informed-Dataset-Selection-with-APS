@@ -1,0 +1,12 @@
+{
+    "model_file": "./data_sets/adidasvsnike/checkpoint_WideDeep/config_0/fold_3/WideDeep-May-18-2025_20-17-47.pth",
+    "data_set_name": "adidasvsnike",
+    "algorithm_name": "WideDeep",
+    "algorithm_config_index": 0,
+    "algorithm_configuration": {},
+    "fold": 3,
+    "train_users": 1123,
+    "test_users": 501,
+    "users_to_predict": 274,
+    "prediction_time": 0.2662684917449951
+}

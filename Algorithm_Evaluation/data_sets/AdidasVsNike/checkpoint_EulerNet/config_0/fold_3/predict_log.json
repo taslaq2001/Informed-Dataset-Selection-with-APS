@@ -1,0 +1,12 @@
+{
+    "model_file": "./data_sets/adidasvsnike/checkpoint_EulerNet/config_0/fold_3/EulerNet-May-18-2025_20-15-11.pth",
+    "data_set_name": "adidasvsnike",
+    "algorithm_name": "EulerNet",
+    "algorithm_config_index": 0,
+    "algorithm_configuration": {},
+    "fold": 3,
+    "train_users": 1123,
+    "test_users": 501,
+    "users_to_predict": 274,
+    "prediction_time": 2.657311201095581
+}

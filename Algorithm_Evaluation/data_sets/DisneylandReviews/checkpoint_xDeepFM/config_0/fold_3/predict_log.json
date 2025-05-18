@@ -1,0 +1,12 @@
+{
+    "model_file": "./data_sets/disneylandreviews/checkpoint_xDeepFM/config_0/fold_3/xDeepFM-May-18-2025_20-40-27.pth",
+    "data_set_name": "disneylandreviews",
+    "algorithm_name": "xDeepFM",
+    "algorithm_config_index": 0,
+    "algorithm_configuration": {},
+    "fold": 3,
+    "train_users": 97,
+    "test_users": 52,
+    "users_to_predict": 49,
+    "prediction_time": 0.06106877326965332
+}

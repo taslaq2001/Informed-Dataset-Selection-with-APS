@@ -1,0 +1,12 @@
+{
+    "model_file": "./data_sets/winesspa/checkpoint_DSSM/config_0/fold_3/DSSM-May-18-2025_21-01-19.pth",
+    "data_set_name": "winesspa",
+    "algorithm_name": "DSSM",
+    "algorithm_config_index": 0,
+    "algorithm_configuration": {},
+    "fold": 3,
+    "train_users": 100,
+    "test_users": 100,
+    "users_to_predict": 100,
+    "prediction_time": 0.3553605079650879
+}
