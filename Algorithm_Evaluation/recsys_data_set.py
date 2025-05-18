@@ -104,6 +104,31 @@ class RecSysDataSet:
                     self.log_and_print(f"Skipping writing processed data set.")
                     return
             self.log_and_print(f"Writing processed data set to file.")
+            if self.data_origin == "atomic":
+                self.log_and_print(f"Writing atomic data set to file.")
+                
+                # Rename for atomic schema
+                atomic_data = self.data.rename(columns={
+                    self.user_column_name: "user_id:token",
+                    self.item_column_name: "item_id:token",
+                })
+                
+                if self.rating_column_name and self.rating_column_name in self.data.columns:
+                    atomic_data[self.rating_column_name] = self.data[self.rating_column_name]
+                    atomic_data = atomic_data.rename(columns={self.rating_column_name: "rating:float"})
+
+
+
+                # Save only required columns for atomic format
+                atomic_cols = ["user_id:token", "item_id:token"]
+                if "rating:float" in atomic_data.columns:
+                    atomic_cols.append("rating:float")
+                if "timestamp:float" in atomic_data.columns:
+                    atomic_cols.append("timestamp:float")
+                
+                atomic_data[atomic_cols].to_csv(self.atomic_data_path, index=False, sep="\t")
+                self.log_and_print(f"Written atomic data set to file.")
+
             self.data.to_csv(self.processed_data_path, index=False)
             self.log_and_print(f"Written processed data set to file.")
         elif self.data_origin == "atomic":
@@ -115,6 +140,29 @@ class RecSysDataSet:
                     self.log_and_print(f"Skipping writing atomic data set.")
                     return
             self.log_and_print(f"Writing atomic data set to file.")
+            if self.data_origin == "atomic":
+                self.log_and_print(f"Writing atomic data set to file.")
+                
+                # Rename for atomic schema
+                atomic_data = self.data.rename(columns={
+                    self.user_column_name: "user_id:token",
+                    self.item_column_name: "item_id:token",
+                })
+                
+            if self.rating_column_name and self.rating_column_name in self.data.columns:
+                atomic_data[self.rating_column_name] = self.data[self.rating_column_name]
+                atomic_data = atomic_data.rename(columns={self.rating_column_name: "rating:float"})
+
+
+                # Save only required columns for atomic format
+                atomic_cols = ["user_id:token", "item_id:token"]
+                if "rating:float" in atomic_data.columns:
+                    atomic_cols.append("rating:float")
+                if "timestamp:float" in atomic_data.columns:
+                    atomic_cols.append("timestamp:float")
+                
+                atomic_data[atomic_cols].to_csv(self.atomic_data_path, index=False, sep="\t")
+                self.log_and_print(f"Written atomic data set to file.")
             self.data.to_csv(self.atomic_data_path, index=False)
             self.log_and_print(f"Written atomic data set to file.")
         else:
@@ -587,8 +635,8 @@ class RecSysDataSet:
         elif isinstance(threshold, float) and (0 <= threshold <= 1):
             scaled_max_rating = abs(self.max_rating()) + abs(self.min_rating())
             rating_cutoff = round(scaled_max_rating * threshold) - abs(self.min_rating())
-            self.data = self.data[self.data[self.rating_column_name] >= rating_cutoff][
-                [self.user_column_name, self.item_column_name]]
+            self.data = self.data[self.data[self.rating_column_name] >= rating_cutoff]
+            #[[self.user_column_name, self.item_column_name]]
         else:
             self.log_and_print(f"Threshold must be an integer or a float between 0 and 1.")
         self.set_feedback_type()

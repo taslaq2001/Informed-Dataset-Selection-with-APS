@@ -50,12 +50,25 @@ if __name__ == "__main__":
     top_k_score = []
     top_k_iid_list = []
     start_prediction = time.time()
+    # Assuming you have access to the dataset object or config with item count
+    num_items = dataset.item_num  # get total number of items from dataset
+
+    for uid in uid_series:
+        k = min(20, num_items)  # ensure k is never more than number of items
+        uid_top_k_score, uid_top_k_iid_list = full_sort_topk(
+            np.array([uid]), model, test_data, k=k, device=config['device'])
+        top_k_score.append(uid_top_k_score.cpu().numpy().tolist()[0])
+        top_k_iid_list.append(uid_top_k_iid_list.cpu().numpy().tolist()[0])
+
+
+    """
     for uid in uid_series:
         uid_top_k_score, uid_top_k_iid_list = full_sort_topk(np.array([uid]), model, test_data, k=20,
                                                              device=config['device'])
         # convert tensor to numpy array and then to list
         top_k_score.append(uid_top_k_score.cpu().numpy().tolist()[0])
         top_k_iid_list.append(uid_top_k_iid_list.cpu().numpy().tolist()[0])
+        """
     end_prediction = time.time()
     # make dictionary with uid_series as key and top_k as value
     top_k_dict = dict(zip(uid_series.tolist(), zip(top_k_iid_list, top_k_score)))

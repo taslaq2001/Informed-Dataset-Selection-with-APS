@@ -14,7 +14,9 @@ def ndcg(top_k_dict, k_options, test, user_column, item_column):
     for user, predictions in top_k_dict.items():
         positive_test_interactions = test[item_column][test[user_column] == user].values
         hits = np.in1d(predictions[:max(k_options)], positive_test_interactions)
-        user_dcg = np.where(hits, discounted_gain_per_k, 0)
+        discounted_gain = discounted_gain_per_k[:len(hits)]  # slice to hits length
+        user_dcg = np.where(hits, discounted_gain, 0)
+
         for k in k_options:
             user_ndcg = user_dcg[:k].sum() / ideal_discounted_gain_per_k[k - 1]
             ndcg_per_user_per_k[k].append(user_ndcg)
