@@ -1,0 +1,2162 @@
+user_id:token,item_id:token,feature Str:token,feature_second:float,rating:float
+12,0,Paula's Choice,52.0,5.0
+17,0,Paula's Choice,52.0,5.0
+20,0,Paula's Choice,52.0,5.0
+30,0,Paula's Choice,52.0,5.0
+37,0,Paula's Choice,52.0,5.0
+41,0,Paula's Choice,52.0,5.0
+45,0,Paula's Choice,52.0,5.0
+46,0,Paula's Choice,52.0,5.0
+48,0,Paula's Choice,52.0,5.0
+56,0,Paula's Choice,52.0,5.0
+57,0,Paula's Choice,52.0,5.0
+58,0,Paula's Choice,52.0,5.0
+59,0,Paula's Choice,52.0,3.0
+61,0,Paula's Choice,52.0,5.0
+65,0,Paula's Choice,52.0,5.0
+68,0,Paula's Choice,52.0,5.0
+69,0,Paula's Choice,52.0,5.0
+70,0,Paula's Choice,52.0,5.0
+73,0,Paula's Choice,52.0,5.0
+79,0,Paula's Choice,52.0,5.0
+81,0,Paula's Choice,52.0,5.0
+84,0,Paula's Choice,52.0,5.0
+87,0,Paula's Choice,52.0,4.0
+91,0,Paula's Choice,52.0,1.0
+99,0,Paula's Choice,52.0,3.0
+100,0,Paula's Choice,52.0,5.0
+102,0,Paula's Choice,52.0,5.0
+104,0,Paula's Choice,52.0,5.0
+111,0,Paula's Choice,52.0,5.0
+118,0,Paula's Choice,52.0,5.0
+122,0,Paula's Choice,52.0,4.0
+132,0,Paula's Choice,52.0,5.0
+151,1,La Mer,200.0,4.0
+156,1,La Mer,200.0,5.0
+164,1,La Mer,200.0,5.0
+168,1,La Mer,200.0,5.0
+172,1,La Mer,200.0,5.0
+176,1,La Mer,200.0,2.0
+177,1,La Mer,200.0,5.0
+179,1,La Mer,200.0,5.0
+180,1,La Mer,200.0,1.0
+181,1,La Mer,200.0,5.0
+188,1,La Mer,200.0,5.0
+196,1,La Mer,200.0,5.0
+199,1,La Mer,200.0,1.0
+208,1,La Mer,200.0,5.0
+209,1,La Mer,200.0,4.0
+211,1,La Mer,200.0,5.0
+212,1,La Mer,200.0,5.0
+214,1,La Mer,200.0,5.0
+218,1,La Mer,200.0,3.0
+221,1,La Mer,200.0,1.0
+222,1,La Mer,200.0,5.0
+229,1,La Mer,200.0,1.0
+230,1,La Mer,200.0,4.0
+231,1,La Mer,200.0,5.0
+233,1,La Mer,200.0,2.0
+237,1,La Mer,200.0,1.0
+239,1,La Mer,200.0,1.0
+246,1,La Mer,200.0,5.0
+247,1,La Mer,200.0,5.0
+254,1,La Mer,200.0,5.0
+257,1,La Mer,200.0,1.0
+261,1,La Mer,200.0,4.0
+280,2,Dr. Zenovia Skincare,48.0,5.0
+300,2,Dr. Zenovia Skincare,48.0,4.0
+308,2,Dr. Zenovia Skincare,48.0,4.0
+313,2,Dr. Zenovia Skincare,48.0,5.0
+319,2,Dr. Zenovia Skincare,48.0,4.0
+323,2,Dr. Zenovia Skincare,48.0,4.0
+328,2,Dr. Zenovia Skincare,48.0,5.0
+332,2,Dr. Zenovia Skincare,48.0,4.0
+334,2,Dr. Zenovia Skincare,48.0,5.0
+337,2,Dr. Zenovia Skincare,48.0,4.0
+343,2,Dr. Zenovia Skincare,48.0,5.0
+347,2,Dr. Zenovia Skincare,48.0,3.0
+350,2,Dr. Zenovia Skincare,48.0,3.0
+353,2,Dr. Zenovia Skincare,48.0,4.0
+354,2,Dr. Zenovia Skincare,48.0,5.0
+361,2,Dr. Zenovia Skincare,48.0,5.0
+363,2,Dr. Zenovia Skincare,48.0,4.0
+372,2,Dr. Zenovia Skincare,48.0,4.0
+377,2,Dr. Zenovia Skincare,48.0,5.0
+385,2,Dr. Zenovia Skincare,48.0,5.0
+394,2,Dr. Zenovia Skincare,48.0,4.0
+397,2,Dr. Zenovia Skincare,48.0,5.0
+400,2,Dr. Zenovia Skincare,48.0,5.0
+402,2,Dr. Zenovia Skincare,48.0,4.0
+403,2,Dr. Zenovia Skincare,48.0,4.0
+411,2,Dr. Zenovia Skincare,48.0,5.0
+414,3,Tata Harper,130.0,5.0
+415,3,Tata Harper,130.0,5.0
+418,3,Tata Harper,130.0,1.0
+420,3,Tata Harper,130.0,1.0
+428,3,Tata Harper,130.0,5.0
+429,3,Tata Harper,130.0,2.0
+432,3,Tata Harper,130.0,5.0
+433,3,Tata Harper,130.0,5.0
+435,3,Tata Harper,130.0,2.0
+438,3,Tata Harper,130.0,3.0
+445,3,Tata Harper,130.0,5.0
+449,3,Tata Harper,130.0,2.0
+453,3,Tata Harper,130.0,5.0
+455,3,Tata Harper,130.0,5.0
+456,3,Tata Harper,130.0,1.0
+462,3,Tata Harper,130.0,3.0
+471,3,Tata Harper,130.0,5.0
+472,3,Tata Harper,130.0,1.0
+473,3,Tata Harper,130.0,1.0
+477,3,Tata Harper,130.0,5.0
+485,3,Tata Harper,130.0,4.0
+495,3,Tata Harper,130.0,4.0
+503,3,Tata Harper,130.0,1.0
+509,3,Tata Harper,130.0,2.0
+511,3,Tata Harper,130.0,3.0
+524,3,Tata Harper,130.0,5.0
+527,3,Tata Harper,130.0,2.0
+528,3,Tata Harper,130.0,4.0
+535,3,Tata Harper,130.0,4.0
+538,3,Tata Harper,130.0,5.0
+540,3,Tata Harper,130.0,5.0
+544,3,Tata Harper,130.0,4.0
+546,3,Tata Harper,130.0,1.0
+550,4,SOBEL SKIN Rx,75.0,5.0
+551,4,SOBEL SKIN Rx,75.0,3.0
+555,4,SOBEL SKIN Rx,75.0,4.0
+561,4,SOBEL SKIN Rx,75.0,5.0
+564,4,SOBEL SKIN Rx,75.0,5.0
+573,4,SOBEL SKIN Rx,75.0,5.0
+578,4,SOBEL SKIN Rx,75.0,4.0
+579,4,SOBEL SKIN Rx,75.0,5.0
+591,4,SOBEL SKIN Rx,75.0,3.0
+595,4,SOBEL SKIN Rx,75.0,5.0
+601,4,SOBEL SKIN Rx,75.0,4.0
+604,4,SOBEL SKIN Rx,75.0,3.0
+611,4,SOBEL SKIN Rx,75.0,3.0
+613,4,SOBEL SKIN Rx,75.0,3.0
+617,4,SOBEL SKIN Rx,75.0,2.0
+618,4,SOBEL SKIN Rx,75.0,5.0
+625,4,SOBEL SKIN Rx,75.0,4.0
+639,4,SOBEL SKIN Rx,75.0,5.0
+641,4,SOBEL SKIN Rx,75.0,4.0
+642,4,SOBEL SKIN Rx,75.0,5.0
+648,4,SOBEL SKIN Rx,75.0,3.0
+653,4,SOBEL SKIN Rx,75.0,3.0
+654,4,SOBEL SKIN Rx,75.0,3.0
+664,4,SOBEL SKIN Rx,75.0,5.0
+665,4,SOBEL SKIN Rx,75.0,4.0
+675,4,SOBEL SKIN Rx,75.0,4.0
+678,4,SOBEL SKIN Rx,75.0,3.0
+682,5,Dr. Jart+,7.0,5.0
+693,5,Dr. Jart+,7.0,5.0
+696,5,Dr. Jart+,7.0,3.0
+701,5,Dr. Jart+,7.0,4.0
+702,5,Dr. Jart+,7.0,4.0
+706,5,Dr. Jart+,7.0,5.0
+711,5,Dr. Jart+,7.0,5.0
+712,5,Dr. Jart+,7.0,5.0
+722,5,Dr. Jart+,7.0,3.0
+723,5,Dr. Jart+,7.0,3.0
+724,5,Dr. Jart+,7.0,2.0
+737,5,Dr. Jart+,7.0,5.0
+740,5,Dr. Jart+,7.0,5.0
+743,5,Dr. Jart+,7.0,3.0
+744,5,Dr. Jart+,7.0,4.0
+745,5,Dr. Jart+,7.0,4.0
+748,5,Dr. Jart+,7.0,4.0
+749,5,Dr. Jart+,7.0,5.0
+751,5,Dr. Jart+,7.0,4.0
+752,5,Dr. Jart+,7.0,5.0
+753,5,Dr. Jart+,7.0,5.0
+754,5,Dr. Jart+,7.0,1.0
+759,5,Dr. Jart+,7.0,4.0
+763,5,Dr. Jart+,7.0,4.0
+766,5,Dr. Jart+,7.0,5.0
+772,5,Dr. Jart+,7.0,5.0
+773,5,Dr. Jart+,7.0,5.0
+777,5,Dr. Jart+,7.0,5.0
+779,5,Dr. Jart+,7.0,5.0
+786,5,Dr. Jart+,7.0,5.0
+792,5,Dr. Jart+,7.0,5.0
+800,5,Dr. Jart+,7.0,4.0
+809,5,Dr. Jart+,7.0,5.0
+810,6,Tata Harper,75.0,5.0
+811,6,Tata Harper,75.0,5.0
+812,6,Tata Harper,75.0,5.0
+815,6,Tata Harper,75.0,3.0
+819,6,Tata Harper,75.0,1.0
+821,6,Tata Harper,75.0,1.0
+828,6,Tata Harper,75.0,5.0
+831,6,Tata Harper,75.0,1.0
+833,6,Tata Harper,75.0,1.0
+834,6,Tata Harper,75.0,3.0
+835,6,Tata Harper,75.0,1.0
+841,6,Tata Harper,75.0,1.0
+842,6,Tata Harper,75.0,5.0
+847,6,Tata Harper,75.0,3.0
+858,6,Tata Harper,75.0,4.0
+862,6,Tata Harper,75.0,5.0
+865,6,Tata Harper,75.0,5.0
+868,6,Tata Harper,75.0,5.0
+871,6,Tata Harper,75.0,5.0
+877,6,Tata Harper,75.0,4.0
+879,6,Tata Harper,75.0,4.0
+880,6,Tata Harper,75.0,5.0
+898,6,Tata Harper,75.0,1.0
+906,6,Tata Harper,75.0,4.0
+930,6,Tata Harper,75.0,5.0
+934,6,Tata Harper,75.0,5.0
+940,7,Origins,17.0,5.0
+947,7,Origins,17.0,3.0
+957,7,Origins,17.0,5.0
+962,7,Origins,17.0,5.0
+964,7,Origins,17.0,3.0
+981,7,Origins,17.0,5.0
+982,7,Origins,17.0,5.0
+994,7,Origins,17.0,5.0
+996,7,Origins,17.0,1.0
+997,7,Origins,17.0,3.0
+1005,7,Origins,17.0,1.0
+1009,7,Origins,17.0,5.0
+1017,7,Origins,17.0,5.0
+1018,7,Origins,17.0,5.0
+1025,7,Origins,17.0,4.0
+1027,7,Origins,17.0,4.0
+1031,7,Origins,17.0,4.0
+1034,7,Origins,17.0,1.0
+1038,7,Origins,17.0,5.0
+1042,7,Origins,17.0,4.0
+1043,7,Origins,17.0,5.0
+1044,7,Origins,17.0,5.0
+1046,7,Origins,17.0,4.0
+1047,7,Origins,17.0,5.0
+1052,7,Origins,17.0,5.0
+1053,7,Origins,17.0,5.0
+1055,7,Origins,17.0,4.0
+1057,7,Origins,17.0,1.0
+1061,7,Origins,17.0,5.0
+1070,8,Naturally Serious,27.0,2.0
+1074,8,Naturally Serious,27.0,5.0
+1075,8,Naturally Serious,27.0,5.0
+1092,8,Naturally Serious,27.0,5.0
+1095,8,Naturally Serious,27.0,5.0
+1097,8,Naturally Serious,27.0,5.0
+1101,8,Naturally Serious,27.0,4.0
+1103,8,Naturally Serious,27.0,5.0
+1108,8,Naturally Serious,27.0,5.0
+1109,8,Naturally Serious,27.0,5.0
+1115,8,Naturally Serious,27.0,5.0
+1126,8,Naturally Serious,27.0,5.0
+1127,8,Naturally Serious,27.0,5.0
+1139,8,Naturally Serious,27.0,2.0
+1143,8,Naturally Serious,27.0,2.0
+1144,8,Naturally Serious,27.0,5.0
+1146,8,Naturally Serious,27.0,4.0
+1152,8,Naturally Serious,27.0,4.0
+1153,8,Naturally Serious,27.0,5.0
+1162,8,Naturally Serious,27.0,5.0
+1163,8,Naturally Serious,27.0,4.0
+1166,8,Naturally Serious,27.0,1.0
+1168,8,Naturally Serious,27.0,2.0
+1172,8,Naturally Serious,27.0,5.0
+1173,8,Naturally Serious,27.0,4.0
+1176,8,Naturally Serious,27.0,5.0
+1193,9,REN Clean Skincare,38.0,4.0
+1197,9,REN Clean Skincare,38.0,3.0
+1201,9,REN Clean Skincare,38.0,5.0
+1204,9,REN Clean Skincare,38.0,5.0
+1212,9,REN Clean Skincare,38.0,5.0
+1219,9,REN Clean Skincare,38.0,4.0
+1220,9,REN Clean Skincare,38.0,5.0
+1222,9,REN Clean Skincare,38.0,4.0
+1223,9,REN Clean Skincare,38.0,4.0
+1226,9,REN Clean Skincare,38.0,4.0
+1233,9,REN Clean Skincare,38.0,5.0
+1242,9,REN Clean Skincare,38.0,5.0
+1244,9,REN Clean Skincare,38.0,1.0
+1259,9,REN Clean Skincare,38.0,5.0
+1263,9,REN Clean Skincare,38.0,4.0
+1272,9,REN Clean Skincare,38.0,5.0
+1278,9,REN Clean Skincare,38.0,5.0
+1280,9,REN Clean Skincare,38.0,4.0
+1281,9,REN Clean Skincare,38.0,5.0
+1282,9,REN Clean Skincare,38.0,5.0
+1287,9,REN Clean Skincare,38.0,4.0
+1295,9,REN Clean Skincare,38.0,5.0
+1298,9,REN Clean Skincare,38.0,4.0
+1299,9,REN Clean Skincare,38.0,5.0
+1302,9,REN Clean Skincare,38.0,4.0
+1313,9,REN Clean Skincare,38.0,4.0
+1314,9,REN Clean Skincare,38.0,5.0
+1320,10,SEPHORA COLLECTION,12.0,4.0
+1321,10,SEPHORA COLLECTION,12.0,4.0
+1322,10,SEPHORA COLLECTION,12.0,1.0
+1323,10,SEPHORA COLLECTION,12.0,1.0
+1328,10,SEPHORA COLLECTION,12.0,1.0
+1329,10,SEPHORA COLLECTION,12.0,1.0
+1332,10,SEPHORA COLLECTION,12.0,5.0
+1334,10,SEPHORA COLLECTION,12.0,5.0
+1336,10,SEPHORA COLLECTION,12.0,3.0
+1345,10,SEPHORA COLLECTION,12.0,3.0
+1346,10,SEPHORA COLLECTION,12.0,4.0
+1352,10,SEPHORA COLLECTION,12.0,5.0
+1354,10,SEPHORA COLLECTION,12.0,5.0
+1359,10,SEPHORA COLLECTION,12.0,5.0
+1362,10,SEPHORA COLLECTION,12.0,5.0
+1372,10,SEPHORA COLLECTION,12.0,3.0
+1374,10,SEPHORA COLLECTION,12.0,4.0
+1379,10,SEPHORA COLLECTION,12.0,4.0
+1385,10,SEPHORA COLLECTION,12.0,1.0
+1392,10,SEPHORA COLLECTION,12.0,5.0
+1395,10,SEPHORA COLLECTION,12.0,5.0
+1396,10,SEPHORA COLLECTION,12.0,5.0
+1400,10,SEPHORA COLLECTION,12.0,5.0
+1405,10,SEPHORA COLLECTION,12.0,4.0
+1410,10,SEPHORA COLLECTION,12.0,3.0
+1414,10,SEPHORA COLLECTION,12.0,2.0
+1416,10,SEPHORA COLLECTION,12.0,5.0
+1417,10,SEPHORA COLLECTION,12.0,5.0
+1419,10,SEPHORA COLLECTION,12.0,2.0
+1420,10,SEPHORA COLLECTION,12.0,5.0
+1421,10,SEPHORA COLLECTION,12.0,4.0
+1425,10,SEPHORA COLLECTION,12.0,1.0
+1426,10,SEPHORA COLLECTION,12.0,5.0
+1429,10,SEPHORA COLLECTION,12.0,3.0
+1430,10,SEPHORA COLLECTION,12.0,5.0
+1437,10,SEPHORA COLLECTION,12.0,5.0
+1438,11,Origins,36.0,3.0
+1443,11,Origins,36.0,3.0
+1444,11,Origins,36.0,4.0
+1452,11,Origins,36.0,5.0
+1456,11,Origins,36.0,5.0
+1459,11,Origins,36.0,5.0
+1467,11,Origins,36.0,5.0
+1468,11,Origins,36.0,4.0
+1469,11,Origins,36.0,3.0
+1477,11,Origins,36.0,5.0
+1480,11,Origins,36.0,3.0
+1482,11,Origins,36.0,5.0
+1483,11,Origins,36.0,5.0
+1487,11,Origins,36.0,5.0
+1489,11,Origins,36.0,5.0
+1491,11,Origins,36.0,5.0
+1502,11,Origins,36.0,5.0
+1506,11,Origins,36.0,5.0
+1507,11,Origins,36.0,3.0
+1513,11,Origins,36.0,4.0
+1527,11,Origins,36.0,5.0
+1532,11,Origins,36.0,4.0
+1533,11,Origins,36.0,5.0
+1535,11,Origins,36.0,5.0
+1544,11,Origins,36.0,5.0
+1545,11,Origins,36.0,5.0
+1550,11,Origins,36.0,5.0
+1554,11,Origins,36.0,5.0
+1557,12,Community Sixty-Six,16.0,3.0
+1559,12,Community Sixty-Six,16.0,3.0
+1561,12,Community Sixty-Six,16.0,4.0
+1563,12,Community Sixty-Six,16.0,4.0
+1565,12,Community Sixty-Six,16.0,5.0
+1568,12,Community Sixty-Six,16.0,5.0
+1569,12,Community Sixty-Six,16.0,5.0
+1570,12,Community Sixty-Six,16.0,5.0
+1575,12,Community Sixty-Six,16.0,4.0
+1582,12,Community Sixty-Six,16.0,4.0
+1586,12,Community Sixty-Six,16.0,5.0
+1598,12,Community Sixty-Six,16.0,3.0
+1599,12,Community Sixty-Six,16.0,4.0
+1600,12,Community Sixty-Six,16.0,3.0
+1602,12,Community Sixty-Six,16.0,3.0
+1603,12,Community Sixty-Six,16.0,5.0
+1612,12,Community Sixty-Six,16.0,1.0
+1613,12,Community Sixty-Six,16.0,3.0
+1614,12,Community Sixty-Six,16.0,5.0
+1615,12,Community Sixty-Six,16.0,4.0
+1618,12,Community Sixty-Six,16.0,2.0
+1624,12,Community Sixty-Six,16.0,5.0
+1641,12,Community Sixty-Six,16.0,4.0
+1642,12,Community Sixty-Six,16.0,4.0
+1643,12,Community Sixty-Six,16.0,2.0
+1649,12,Community Sixty-Six,16.0,4.0
+1656,12,Community Sixty-Six,16.0,4.0
+1658,12,Community Sixty-Six,16.0,4.0
+1659,12,Community Sixty-Six,16.0,5.0
+1665,12,Community Sixty-Six,16.0,4.0
+1672,12,Community Sixty-Six,16.0,5.0
+1680,13,Algenist,38.0,5.0
+1699,13,Algenist,38.0,2.0
+1701,13,Algenist,38.0,5.0
+1702,13,Algenist,38.0,5.0
+1720,13,Algenist,38.0,5.0
+1721,13,Algenist,38.0,5.0
+1726,13,Algenist,38.0,5.0
+1728,13,Algenist,38.0,5.0
+1729,13,Algenist,38.0,5.0
+1737,13,Algenist,38.0,5.0
+1738,13,Algenist,38.0,5.0
+1739,13,Algenist,38.0,5.0
+1741,13,Algenist,38.0,2.0
+1743,13,Algenist,38.0,5.0
+1745,13,Algenist,38.0,5.0
+1760,13,Algenist,38.0,4.0
+1765,13,Algenist,38.0,4.0
+1770,13,Algenist,38.0,5.0
+1777,13,Algenist,38.0,4.0
+1790,13,Algenist,38.0,5.0
+1794,14,Dr. Dennis Gross Skincare,12.0,5.0
+1797,14,Dr. Dennis Gross Skincare,12.0,2.0
+1808,14,Dr. Dennis Gross Skincare,12.0,5.0
+1817,14,Dr. Dennis Gross Skincare,12.0,5.0
+1821,14,Dr. Dennis Gross Skincare,12.0,2.0
+1832,14,Dr. Dennis Gross Skincare,12.0,5.0
+1834,14,Dr. Dennis Gross Skincare,12.0,5.0
+1836,14,Dr. Dennis Gross Skincare,12.0,4.0
+1840,14,Dr. Dennis Gross Skincare,12.0,5.0
+1844,14,Dr. Dennis Gross Skincare,12.0,4.0
+1860,14,Dr. Dennis Gross Skincare,12.0,5.0
+1880,14,Dr. Dennis Gross Skincare,12.0,4.0
+1888,14,Dr. Dennis Gross Skincare,12.0,4.0
+1897,14,Dr. Dennis Gross Skincare,12.0,5.0
+1901,14,Dr. Dennis Gross Skincare,12.0,5.0
+1918,15,Estée Lauder,30.0,3.0
+1919,15,Estée Lauder,30.0,4.0
+1922,15,Estée Lauder,30.0,5.0
+1928,15,Estée Lauder,30.0,1.0
+1934,15,Estée Lauder,30.0,5.0
+1937,15,Estée Lauder,30.0,5.0
+1945,15,Estée Lauder,30.0,5.0
+1947,15,Estée Lauder,30.0,5.0
+1962,15,Estée Lauder,30.0,5.0
+1978,15,Estée Lauder,30.0,5.0
+1982,15,Estée Lauder,30.0,3.0
+1989,15,Estée Lauder,30.0,5.0
+1992,15,Estée Lauder,30.0,5.0
+1995,15,Estée Lauder,30.0,1.0
+2002,15,Estée Lauder,30.0,5.0
+2004,15,Estée Lauder,30.0,5.0
+2006,15,Estée Lauder,30.0,5.0
+2008,15,Estée Lauder,30.0,2.0
+2013,15,Estée Lauder,30.0,5.0
+2022,15,Estée Lauder,30.0,5.0
+2024,15,Estée Lauder,30.0,5.0
+2029,16,The Outset,32.0,3.0
+2034,16,The Outset,32.0,5.0
+2045,16,The Outset,32.0,3.0
+2054,16,The Outset,32.0,5.0
+2057,16,The Outset,32.0,5.0
+2058,16,The Outset,32.0,5.0
+2063,16,The Outset,32.0,5.0
+2072,16,The Outset,32.0,5.0
+2073,16,The Outset,32.0,5.0
+2083,16,The Outset,32.0,5.0
+2084,16,The Outset,32.0,4.0
+2087,16,The Outset,32.0,4.0
+2089,16,The Outset,32.0,4.0
+2094,16,The Outset,32.0,4.0
+2102,16,The Outset,32.0,5.0
+2110,16,The Outset,32.0,5.0
+2111,16,The Outset,32.0,3.0
+2114,16,The Outset,32.0,5.0
+2115,16,The Outset,32.0,5.0
+2129,16,The Outset,32.0,5.0
+2131,16,The Outset,32.0,5.0
+2132,16,The Outset,32.0,5.0
+2133,16,The Outset,32.0,5.0
+2134,16,The Outset,32.0,5.0
+2142,17,The Ordinary,9.0,5.0
+2144,17,The Ordinary,9.0,1.0
+2147,17,The Ordinary,9.0,5.0
+2149,17,The Ordinary,9.0,3.0
+2164,17,The Ordinary,9.0,5.0
+2165,17,The Ordinary,9.0,4.0
+2166,17,The Ordinary,9.0,3.0
+2175,17,The Ordinary,9.0,5.0
+2177,17,The Ordinary,9.0,5.0
+2178,17,The Ordinary,9.0,4.0
+2201,17,The Ordinary,9.0,5.0
+2213,17,The Ordinary,9.0,5.0
+2214,17,The Ordinary,9.0,5.0
+2223,17,The Ordinary,9.0,5.0
+2225,17,The Ordinary,9.0,2.0
+2228,17,The Ordinary,9.0,2.0
+2231,17,The Ordinary,9.0,1.0
+2233,17,The Ordinary,9.0,3.0
+2246,17,The Ordinary,9.0,5.0
+2248,18,Lancôme,15.0,5.0
+2251,18,Lancôme,15.0,5.0
+2262,18,Lancôme,15.0,5.0
+2264,18,Lancôme,15.0,5.0
+2266,18,Lancôme,15.0,5.0
+2267,18,Lancôme,15.0,2.0
+2268,18,Lancôme,15.0,4.0
+2269,18,Lancôme,15.0,5.0
+2272,18,Lancôme,15.0,2.0
+2273,18,Lancôme,15.0,1.0
+2275,18,Lancôme,15.0,3.0
+2276,18,Lancôme,15.0,5.0
+2281,18,Lancôme,15.0,2.0
+2283,18,Lancôme,15.0,5.0
+2290,18,Lancôme,15.0,2.0
+2291,18,Lancôme,15.0,5.0
+2299,18,Lancôme,15.0,2.0
+2302,18,Lancôme,15.0,2.0
+2303,18,Lancôme,15.0,5.0
+2316,18,Lancôme,15.0,4.0
+2318,18,Lancôme,15.0,5.0
+2320,18,Lancôme,15.0,5.0
+2321,18,Lancôme,15.0,5.0
+2332,18,Lancôme,15.0,5.0
+2333,18,Lancôme,15.0,5.0
+2335,18,Lancôme,15.0,5.0
+2354,18,Lancôme,15.0,5.0
+2358,19,DAMDAM,47.0,5.0
+2362,19,DAMDAM,47.0,2.0
+2372,19,DAMDAM,47.0,5.0
+2373,19,DAMDAM,47.0,5.0
+2375,19,DAMDAM,47.0,5.0
+2379,19,DAMDAM,47.0,4.0
+2399,19,DAMDAM,47.0,5.0
+2400,19,DAMDAM,47.0,5.0
+2404,19,DAMDAM,47.0,4.0
+2412,19,DAMDAM,47.0,5.0
+2413,19,DAMDAM,47.0,5.0
+2420,19,DAMDAM,47.0,5.0
+2425,19,DAMDAM,47.0,5.0
+2436,19,DAMDAM,47.0,5.0
+2439,19,DAMDAM,47.0,5.0
+2441,19,DAMDAM,47.0,5.0
+2442,19,DAMDAM,47.0,4.0
+2444,19,DAMDAM,47.0,4.0
+2446,19,DAMDAM,47.0,5.0
+2456,19,DAMDAM,47.0,5.0
+2470,20,Sulwhasoo,54.0,3.0
+2471,20,Sulwhasoo,54.0,5.0
+2486,20,Sulwhasoo,54.0,3.0
+2498,20,Sulwhasoo,54.0,5.0
+2507,20,Sulwhasoo,54.0,5.0
+2508,20,Sulwhasoo,54.0,5.0
+2510,20,Sulwhasoo,54.0,5.0
+2513,20,Sulwhasoo,54.0,5.0
+2515,20,Sulwhasoo,54.0,3.0
+2517,20,Sulwhasoo,54.0,5.0
+2526,20,Sulwhasoo,54.0,5.0
+2533,20,Sulwhasoo,54.0,4.0
+2540,20,Sulwhasoo,54.0,3.0
+2542,20,Sulwhasoo,54.0,5.0
+2543,20,Sulwhasoo,54.0,5.0
+2544,20,Sulwhasoo,54.0,5.0
+2545,20,Sulwhasoo,54.0,5.0
+2554,20,Sulwhasoo,54.0,5.0
+2569,21,Origins,17.0,2.0
+2571,21,Origins,17.0,5.0
+2574,21,Origins,17.0,4.0
+2577,21,Origins,17.0,5.0
+2595,21,Origins,17.0,5.0
+2603,21,Origins,17.0,5.0
+2605,21,Origins,17.0,4.0
+2608,21,Origins,17.0,5.0
+2615,21,Origins,17.0,5.0
+2623,21,Origins,17.0,4.0
+2629,21,Origins,17.0,4.0
+2631,21,Origins,17.0,5.0
+2636,21,Origins,17.0,4.0
+2637,21,Origins,17.0,5.0
+2648,21,Origins,17.0,5.0
+2650,21,Origins,17.0,5.0
+2651,21,Origins,17.0,5.0
+2663,21,Origins,17.0,5.0
+2673,21,Origins,17.0,5.0
+2682,22,Origins,17.0,5.0
+2683,22,Origins,17.0,1.0
+2685,22,Origins,17.0,5.0
+2688,22,Origins,17.0,3.0
+2689,22,Origins,17.0,4.0
+2692,22,Origins,17.0,5.0
+2697,22,Origins,17.0,5.0
+2698,22,Origins,17.0,5.0
+2707,22,Origins,17.0,5.0
+2715,22,Origins,17.0,5.0
+2718,22,Origins,17.0,1.0
+2726,22,Origins,17.0,5.0
+2729,22,Origins,17.0,5.0
+2732,22,Origins,17.0,5.0
+2750,22,Origins,17.0,5.0
+2753,22,Origins,17.0,3.0
+2755,22,Origins,17.0,5.0
+2758,22,Origins,17.0,5.0
+2760,22,Origins,17.0,4.0
+2766,22,Origins,17.0,5.0
+2770,22,Origins,17.0,5.0
+2777,22,Origins,17.0,5.0
+2793,23,Dr. Brandt Skincare,36.0,1.0
+2794,23,Dr. Brandt Skincare,36.0,5.0
+2807,23,Dr. Brandt Skincare,36.0,5.0
+2815,23,Dr. Brandt Skincare,36.0,1.0
+2816,23,Dr. Brandt Skincare,36.0,5.0
+2823,23,Dr. Brandt Skincare,36.0,5.0
+2825,23,Dr. Brandt Skincare,36.0,5.0
+2830,23,Dr. Brandt Skincare,36.0,5.0
+2833,23,Dr. Brandt Skincare,36.0,5.0
+2835,23,Dr. Brandt Skincare,36.0,1.0
+2846,23,Dr. Brandt Skincare,36.0,4.0
+2856,23,Dr. Brandt Skincare,36.0,5.0
+2859,23,Dr. Brandt Skincare,36.0,3.0
+2864,23,Dr. Brandt Skincare,36.0,5.0
+2867,23,Dr. Brandt Skincare,36.0,5.0
+2868,23,Dr. Brandt Skincare,36.0,5.0
+2870,23,Dr. Brandt Skincare,36.0,5.0
+2874,23,Dr. Brandt Skincare,36.0,5.0
+2879,23,Dr. Brandt Skincare,36.0,5.0
+2880,23,Dr. Brandt Skincare,36.0,5.0
+2883,24,Dr. Brandt Skincare,50.0,3.0
+2884,24,Dr. Brandt Skincare,50.0,1.0
+2885,24,Dr. Brandt Skincare,50.0,2.0
+2886,24,Dr. Brandt Skincare,50.0,2.0
+2889,24,Dr. Brandt Skincare,50.0,4.0
+2894,24,Dr. Brandt Skincare,50.0,2.0
+2900,24,Dr. Brandt Skincare,50.0,5.0
+2901,24,Dr. Brandt Skincare,50.0,5.0
+2905,24,Dr. Brandt Skincare,50.0,5.0
+2906,24,Dr. Brandt Skincare,50.0,5.0
+2910,24,Dr. Brandt Skincare,50.0,5.0
+2922,24,Dr. Brandt Skincare,50.0,5.0
+2926,24,Dr. Brandt Skincare,50.0,5.0
+2929,24,Dr. Brandt Skincare,50.0,5.0
+2940,24,Dr. Brandt Skincare,50.0,4.0
+2944,24,Dr. Brandt Skincare,50.0,5.0
+2945,24,Dr. Brandt Skincare,50.0,5.0
+2948,24,Dr. Brandt Skincare,50.0,3.0
+2952,24,Dr. Brandt Skincare,50.0,3.0
+2957,24,Dr. Brandt Skincare,50.0,1.0
+2968,24,Dr. Brandt Skincare,50.0,4.0
+2970,24,Dr. Brandt Skincare,50.0,5.0
+2973,24,Dr. Brandt Skincare,50.0,5.0
+2982,24,Dr. Brandt Skincare,50.0,2.0
+2986,25,CLINIQUE,23.5,5.0
+2992,25,CLINIQUE,23.5,5.0
+2995,25,CLINIQUE,23.5,5.0
+2997,25,CLINIQUE,23.5,5.0
+3000,25,CLINIQUE,23.5,5.0
+3001,25,CLINIQUE,23.5,4.0
+3006,25,CLINIQUE,23.5,4.0
+3007,25,CLINIQUE,23.5,5.0
+3014,25,CLINIQUE,23.5,5.0
+3018,25,CLINIQUE,23.5,2.0
+3019,25,CLINIQUE,23.5,4.0
+3029,25,CLINIQUE,23.5,4.0
+3033,25,CLINIQUE,23.5,4.0
+3035,25,CLINIQUE,23.5,5.0
+3038,25,CLINIQUE,23.5,5.0
+3039,25,CLINIQUE,23.5,2.0
+3044,25,CLINIQUE,23.5,1.0
+3048,25,CLINIQUE,23.5,5.0
+3055,25,CLINIQUE,23.5,5.0
+3057,25,CLINIQUE,23.5,1.0
+3064,25,CLINIQUE,23.5,1.0
+3065,25,CLINIQUE,23.5,5.0
+3069,25,CLINIQUE,23.5,3.0
+3078,25,CLINIQUE,23.5,3.0
+3085,25,CLINIQUE,23.5,5.0
+3091,26,Origins,36.0,5.0
+3095,26,Origins,36.0,2.0
+3098,26,Origins,36.0,5.0
+3110,26,Origins,36.0,5.0
+3118,26,Origins,36.0,3.0
+3122,26,Origins,36.0,5.0
+3123,26,Origins,36.0,5.0
+3126,26,Origins,36.0,5.0
+3127,26,Origins,36.0,5.0
+3128,26,Origins,36.0,5.0
+3139,26,Origins,36.0,5.0
+3142,26,Origins,36.0,5.0
+3143,26,Origins,36.0,5.0
+3145,26,Origins,36.0,5.0
+3146,26,Origins,36.0,3.0
+3149,26,Origins,36.0,5.0
+3151,26,Origins,36.0,5.0
+3160,26,Origins,36.0,4.0
+3166,26,Origins,36.0,5.0
+3172,26,Origins,36.0,5.0
+3181,26,Origins,36.0,4.0
+3187,26,Origins,36.0,1.0
+3202,27,Sunday Riley,20.0,5.0
+3205,27,Sunday Riley,20.0,1.0
+3208,27,Sunday Riley,20.0,1.0
+3209,27,Sunday Riley,20.0,1.0
+3215,27,Sunday Riley,20.0,5.0
+3233,27,Sunday Riley,20.0,1.0
+3235,27,Sunday Riley,20.0,2.0
+3238,27,Sunday Riley,20.0,4.0
+3245,27,Sunday Riley,20.0,5.0
+3257,27,Sunday Riley,20.0,5.0
+3265,27,Sunday Riley,20.0,3.0
+3282,27,Sunday Riley,20.0,5.0
+3287,27,Sunday Riley,20.0,5.0
+3290,28,Hyper Skin,28.0,5.0
+3297,28,Hyper Skin,28.0,5.0
+3298,28,Hyper Skin,28.0,5.0
+3299,28,Hyper Skin,28.0,5.0
+3309,28,Hyper Skin,28.0,4.0
+3315,28,Hyper Skin,28.0,4.0
+3316,28,Hyper Skin,28.0,4.0
+3317,28,Hyper Skin,28.0,5.0
+3319,28,Hyper Skin,28.0,5.0
+3325,28,Hyper Skin,28.0,5.0
+3329,28,Hyper Skin,28.0,5.0
+3334,28,Hyper Skin,28.0,5.0
+3337,28,Hyper Skin,28.0,5.0
+3338,28,Hyper Skin,28.0,5.0
+3350,28,Hyper Skin,28.0,5.0
+3352,28,Hyper Skin,28.0,5.0
+3353,28,Hyper Skin,28.0,5.0
+3355,28,Hyper Skin,28.0,5.0
+3375,28,Hyper Skin,28.0,5.0
+3381,28,Hyper Skin,28.0,5.0
+3382,28,Hyper Skin,28.0,5.0
+3383,28,Hyper Skin,28.0,5.0
+3392,29,Tata Harper,88.0,1.0
+3396,29,Tata Harper,88.0,3.0
+3401,29,Tata Harper,88.0,5.0
+3410,29,Tata Harper,88.0,4.0
+3413,29,Tata Harper,88.0,5.0
+3418,29,Tata Harper,88.0,5.0
+3422,29,Tata Harper,88.0,5.0
+3428,29,Tata Harper,88.0,5.0
+3438,29,Tata Harper,88.0,5.0
+3443,29,Tata Harper,88.0,4.0
+3459,29,Tata Harper,88.0,3.0
+3460,29,Tata Harper,88.0,4.0
+3467,29,Tata Harper,88.0,5.0
+3473,29,Tata Harper,88.0,5.0
+3481,30,KORA Organics,52.0,3.0
+3485,30,KORA Organics,52.0,3.0
+3497,30,KORA Organics,52.0,3.0
+3518,30,KORA Organics,52.0,4.0
+3535,30,KORA Organics,52.0,5.0
+3540,30,KORA Organics,52.0,1.0
+3542,30,KORA Organics,52.0,5.0
+3543,30,KORA Organics,52.0,5.0
+3555,30,KORA Organics,52.0,4.0
+3570,30,KORA Organics,52.0,2.0
+3578,31,Kate Somerville,140.0,5.0
+3592,31,Kate Somerville,140.0,3.0
+3597,31,Kate Somerville,140.0,5.0
+3608,31,Kate Somerville,140.0,5.0
+3609,31,Kate Somerville,140.0,5.0
+3614,31,Kate Somerville,140.0,5.0
+3617,31,Kate Somerville,140.0,5.0
+3625,31,Kate Somerville,140.0,5.0
+3632,31,Kate Somerville,140.0,5.0
+3652,31,Kate Somerville,140.0,5.0
+3658,31,Kate Somerville,140.0,5.0
+3659,31,Kate Somerville,140.0,5.0
+3660,31,Kate Somerville,140.0,5.0
+3661,31,Kate Somerville,140.0,5.0
+3666,32,Kate Somerville,76.0,2.0
+3679,32,Kate Somerville,76.0,1.0
+3684,32,Kate Somerville,76.0,5.0
+3686,32,Kate Somerville,76.0,2.0
+3688,32,Kate Somerville,76.0,5.0
+3689,32,Kate Somerville,76.0,2.0
+3703,32,Kate Somerville,76.0,1.0
+3708,32,Kate Somerville,76.0,1.0
+3720,32,Kate Somerville,76.0,4.0
+3723,32,Kate Somerville,76.0,4.0
+3724,32,Kate Somerville,76.0,5.0
+3728,32,Kate Somerville,76.0,5.0
+3739,32,Kate Somerville,76.0,5.0
+3742,32,Kate Somerville,76.0,5.0
+3745,32,Kate Somerville,76.0,3.0
+3746,32,Kate Somerville,76.0,4.0
+3761,33,Hourglass,68.0,5.0
+3767,33,Hourglass,68.0,4.0
+3771,33,Hourglass,68.0,3.0
+3776,33,Hourglass,68.0,5.0
+3777,33,Hourglass,68.0,5.0
+3780,33,Hourglass,68.0,3.0
+3781,33,Hourglass,68.0,5.0
+3784,33,Hourglass,68.0,1.0
+3785,33,Hourglass,68.0,5.0
+3790,33,Hourglass,68.0,5.0
+3795,33,Hourglass,68.0,5.0
+3799,33,Hourglass,68.0,5.0
+3815,33,Hourglass,68.0,5.0
+3819,33,Hourglass,68.0,5.0
+3826,33,Hourglass,68.0,5.0
+3827,33,Hourglass,68.0,5.0
+3833,33,Hourglass,68.0,5.0
+3834,33,Hourglass,68.0,5.0
+3837,33,Hourglass,68.0,5.0
+3842,33,Hourglass,68.0,5.0
+3844,34,SEPHORA COLLECTION,5.5,1.0
+3846,34,SEPHORA COLLECTION,5.5,4.0
+3848,34,SEPHORA COLLECTION,5.5,3.0
+3853,34,SEPHORA COLLECTION,5.5,4.0
+3857,34,SEPHORA COLLECTION,5.5,4.0
+3859,34,SEPHORA COLLECTION,5.5,5.0
+3872,34,SEPHORA COLLECTION,5.5,5.0
+3879,34,SEPHORA COLLECTION,5.5,5.0
+3881,34,SEPHORA COLLECTION,5.5,5.0
+3883,34,SEPHORA COLLECTION,5.5,1.0
+3885,34,SEPHORA COLLECTION,5.5,3.0
+3889,34,SEPHORA COLLECTION,5.5,2.0
+3891,34,SEPHORA COLLECTION,5.5,3.0
+3894,34,SEPHORA COLLECTION,5.5,1.0
+3895,34,SEPHORA COLLECTION,5.5,5.0
+3905,34,SEPHORA COLLECTION,5.5,5.0
+3912,34,SEPHORA COLLECTION,5.5,5.0
+3919,34,SEPHORA COLLECTION,5.5,4.0
+3933,35,BeautyBio,39.0,5.0
+3934,35,BeautyBio,39.0,2.0
+3938,35,BeautyBio,39.0,4.0
+3941,35,BeautyBio,39.0,4.0
+3944,35,BeautyBio,39.0,5.0
+3945,35,BeautyBio,39.0,1.0
+3946,35,BeautyBio,39.0,5.0
+3949,35,BeautyBio,39.0,5.0
+3955,35,BeautyBio,39.0,5.0
+3963,35,BeautyBio,39.0,5.0
+3964,35,BeautyBio,39.0,3.0
+3989,35,BeautyBio,39.0,5.0
+3991,35,BeautyBio,39.0,3.0
+3994,35,BeautyBio,39.0,2.0
+3999,35,BeautyBio,39.0,5.0
+4001,35,BeautyBio,39.0,5.0
+4003,35,BeautyBio,39.0,5.0
+4010,35,BeautyBio,39.0,5.0
+4028,36,iNNBEAUTY PROJECT,22.0,2.0
+4029,36,iNNBEAUTY PROJECT,22.0,4.0
+4030,36,iNNBEAUTY PROJECT,22.0,1.0
+4032,36,iNNBEAUTY PROJECT,22.0,1.0
+4040,36,iNNBEAUTY PROJECT,22.0,2.0
+4047,36,iNNBEAUTY PROJECT,22.0,1.0
+4048,36,iNNBEAUTY PROJECT,22.0,1.0
+4052,36,iNNBEAUTY PROJECT,22.0,5.0
+4055,36,iNNBEAUTY PROJECT,22.0,5.0
+4074,36,iNNBEAUTY PROJECT,22.0,5.0
+4076,36,iNNBEAUTY PROJECT,22.0,5.0
+4077,36,iNNBEAUTY PROJECT,22.0,5.0
+4095,36,iNNBEAUTY PROJECT,22.0,5.0
+4097,36,iNNBEAUTY PROJECT,22.0,5.0
+4098,36,iNNBEAUTY PROJECT,22.0,5.0
+4110,37,Kate Somerville,68.0,1.0
+4111,37,Kate Somerville,68.0,3.0
+4112,37,Kate Somerville,68.0,5.0
+4115,37,Kate Somerville,68.0,5.0
+4119,37,Kate Somerville,68.0,5.0
+4121,37,Kate Somerville,68.0,5.0
+4128,37,Kate Somerville,68.0,5.0
+4129,37,Kate Somerville,68.0,5.0
+4136,37,Kate Somerville,68.0,5.0
+4140,37,Kate Somerville,68.0,5.0
+4147,37,Kate Somerville,68.0,5.0
+4148,37,Kate Somerville,68.0,5.0
+4157,37,Kate Somerville,68.0,5.0
+4161,37,Kate Somerville,68.0,4.0
+4165,37,Kate Somerville,68.0,5.0
+4169,37,Kate Somerville,68.0,5.0
+4181,37,Kate Somerville,68.0,4.0
+4185,37,Kate Somerville,68.0,5.0
+4187,37,Kate Somerville,68.0,5.0
+4190,37,Kate Somerville,68.0,5.0
+4192,38,Origins,37.0,5.0
+4193,38,Origins,37.0,5.0
+4196,38,Origins,37.0,5.0
+4201,38,Origins,37.0,5.0
+4205,38,Origins,37.0,4.0
+4210,38,Origins,37.0,5.0
+4222,38,Origins,37.0,5.0
+4224,38,Origins,37.0,2.0
+4226,38,Origins,37.0,5.0
+4228,38,Origins,37.0,4.0
+4237,38,Origins,37.0,5.0
+4254,38,Origins,37.0,5.0
+4256,38,Origins,37.0,2.0
+4262,38,Origins,37.0,5.0
+4269,38,Origins,37.0,5.0
+4272,38,Origins,37.0,5.0
+4273,38,Origins,37.0,5.0
+4288,39,KORRES,16.0,5.0
+4292,39,KORRES,16.0,5.0
+4295,39,KORRES,16.0,5.0
+4301,39,KORRES,16.0,5.0
+4313,39,KORRES,16.0,3.0
+4326,39,KORRES,16.0,4.0
+4332,39,KORRES,16.0,3.0
+4337,39,KORRES,16.0,1.0
+4341,39,KORRES,16.0,3.0
+4352,39,KORRES,16.0,5.0
+4353,39,KORRES,16.0,5.0
+4354,39,KORRES,16.0,4.0
+4366,40,Tatcha,95.0,4.0
+4367,40,Tatcha,95.0,5.0
+4374,40,Tatcha,95.0,4.0
+4377,40,Tatcha,95.0,5.0
+4381,40,Tatcha,95.0,5.0
+4382,40,Tatcha,95.0,5.0
+4385,40,Tatcha,95.0,5.0
+4387,40,Tatcha,95.0,5.0
+4393,40,Tatcha,95.0,5.0
+4398,40,Tatcha,95.0,5.0
+4401,40,Tatcha,95.0,5.0
+4403,40,Tatcha,95.0,1.0
+4404,40,Tatcha,95.0,5.0
+4407,40,Tatcha,95.0,5.0
+4412,40,Tatcha,95.0,5.0
+4415,40,Tatcha,95.0,2.0
+4419,40,Tatcha,95.0,5.0
+4421,40,Tatcha,95.0,4.0
+4428,40,Tatcha,95.0,5.0
+4429,40,Tatcha,95.0,5.0
+4436,40,Tatcha,95.0,5.0
+4441,40,Tatcha,95.0,5.0
+4442,40,Tatcha,95.0,5.0
+4447,41,Mario Badescu,15.0,5.0
+4453,41,Mario Badescu,15.0,3.0
+4454,41,Mario Badescu,15.0,3.0
+4461,41,Mario Badescu,15.0,1.0
+4474,41,Mario Badescu,15.0,5.0
+4475,41,Mario Badescu,15.0,5.0
+4477,41,Mario Badescu,15.0,3.0
+4480,41,Mario Badescu,15.0,5.0
+4483,41,Mario Badescu,15.0,1.0
+4489,41,Mario Badescu,15.0,3.0
+4503,41,Mario Badescu,15.0,5.0
+4504,41,Mario Badescu,15.0,5.0
+4518,41,Mario Badescu,15.0,5.0
+4525,42,Shiseido,72.0,4.0
+4536,42,Shiseido,72.0,1.0
+4541,42,Shiseido,72.0,5.0
+4549,42,Shiseido,72.0,5.0
+4554,42,Shiseido,72.0,4.0
+4560,42,Shiseido,72.0,5.0
+4565,42,Shiseido,72.0,5.0
+4580,42,Shiseido,72.0,4.0
+4593,42,Shiseido,72.0,5.0
+4602,42,Shiseido,72.0,5.0
+4604,43,The INKEY List,17.99,5.0
+4607,43,The INKEY List,17.99,4.0
+4609,43,The INKEY List,17.99,5.0
+4610,43,The INKEY List,17.99,3.0
+4613,43,The INKEY List,17.99,4.0
+4622,43,The INKEY List,17.99,4.0
+4626,43,The INKEY List,17.99,4.0
+4630,43,The INKEY List,17.99,4.0
+4634,43,The INKEY List,17.99,3.0
+4635,43,The INKEY List,17.99,4.0
+4638,43,The INKEY List,17.99,3.0
+4645,43,The INKEY List,17.99,4.0
+4649,43,The INKEY List,17.99,3.0
+4657,43,The INKEY List,17.99,5.0
+4667,43,The INKEY List,17.99,5.0
+4681,43,The INKEY List,17.99,2.0
+4682,43,The INKEY List,17.99,4.0
+4684,44,Kate Somerville,44.0,5.0
+4687,44,Kate Somerville,44.0,5.0
+4694,44,Kate Somerville,44.0,5.0
+4695,44,Kate Somerville,44.0,4.0
+4698,44,Kate Somerville,44.0,5.0
+4700,44,Kate Somerville,44.0,5.0
+4702,44,Kate Somerville,44.0,5.0
+4705,44,Kate Somerville,44.0,5.0
+4706,44,Kate Somerville,44.0,5.0
+4707,44,Kate Somerville,44.0,5.0
+4712,44,Kate Somerville,44.0,5.0
+4716,44,Kate Somerville,44.0,5.0
+4726,44,Kate Somerville,44.0,5.0
+4730,44,Kate Somerville,44.0,5.0
+4731,44,Kate Somerville,44.0,5.0
+4755,44,Kate Somerville,44.0,5.0
+4759,44,Kate Somerville,44.0,5.0
+4766,45,First Aid Beauty,26.0,5.0
+4768,45,First Aid Beauty,26.0,1.0
+4775,45,First Aid Beauty,26.0,5.0
+4783,45,First Aid Beauty,26.0,5.0
+4794,45,First Aid Beauty,26.0,5.0
+4797,45,First Aid Beauty,26.0,5.0
+4802,45,First Aid Beauty,26.0,5.0
+4807,45,First Aid Beauty,26.0,5.0
+4808,45,First Aid Beauty,26.0,1.0
+4812,45,First Aid Beauty,26.0,5.0
+4819,45,First Aid Beauty,26.0,5.0
+4822,45,First Aid Beauty,26.0,5.0
+4823,45,First Aid Beauty,26.0,5.0
+4830,45,First Aid Beauty,26.0,5.0
+4832,45,First Aid Beauty,26.0,5.0
+4833,45,First Aid Beauty,26.0,5.0
+4836,45,First Aid Beauty,26.0,5.0
+4838,45,First Aid Beauty,26.0,5.0
+4844,46,Alpha-H,38.0,5.0
+4851,46,Alpha-H,38.0,4.0
+4852,46,Alpha-H,38.0,4.0
+4860,46,Alpha-H,38.0,5.0
+4863,46,Alpha-H,38.0,5.0
+4864,46,Alpha-H,38.0,5.0
+4868,46,Alpha-H,38.0,5.0
+4871,46,Alpha-H,38.0,4.0
+4874,46,Alpha-H,38.0,4.0
+4879,46,Alpha-H,38.0,5.0
+4880,46,Alpha-H,38.0,5.0
+4885,46,Alpha-H,38.0,5.0
+4890,46,Alpha-H,38.0,4.0
+4894,46,Alpha-H,38.0,2.0
+4896,46,Alpha-H,38.0,4.0
+4898,46,Alpha-H,38.0,5.0
+4900,46,Alpha-H,38.0,5.0
+4908,46,Alpha-H,38.0,5.0
+4914,46,Alpha-H,38.0,3.0
+4918,47,FaceGym,60.0,4.0
+4919,47,FaceGym,60.0,5.0
+4924,47,FaceGym,60.0,5.0
+4938,47,FaceGym,60.0,5.0
+4950,47,FaceGym,60.0,5.0
+4955,47,FaceGym,60.0,3.0
+4961,47,FaceGym,60.0,5.0
+4963,47,FaceGym,60.0,4.0
+4969,47,FaceGym,60.0,5.0
+4972,47,FaceGym,60.0,5.0
+4974,47,FaceGym,60.0,5.0
+4978,47,FaceGym,60.0,4.0
+4982,47,FaceGym,60.0,3.0
+4983,47,FaceGym,60.0,5.0
+4995,48,INC.redible,20.0,4.0
+5003,48,INC.redible,20.0,5.0
+5006,48,INC.redible,20.0,4.0
+5007,48,INC.redible,20.0,4.0
+5009,48,INC.redible,20.0,5.0
+5012,48,INC.redible,20.0,4.0
+5013,48,INC.redible,20.0,5.0
+5015,48,INC.redible,20.0,4.0
+5020,48,INC.redible,20.0,3.0
+5022,48,INC.redible,20.0,2.0
+5023,48,INC.redible,20.0,1.0
+5025,48,INC.redible,20.0,1.0
+5028,48,INC.redible,20.0,5.0
+5030,48,INC.redible,20.0,1.0
+5032,48,INC.redible,20.0,3.0
+5033,48,INC.redible,20.0,5.0
+5044,48,INC.redible,20.0,4.0
+5058,48,INC.redible,20.0,4.0
+5065,48,INC.redible,20.0,5.0
+5066,48,INC.redible,20.0,5.0
+5076,49,Dr. Dennis Gross Skincare,52.0,5.0
+5081,49,Dr. Dennis Gross Skincare,52.0,4.0
+5111,49,Dr. Dennis Gross Skincare,52.0,5.0
+5114,49,Dr. Dennis Gross Skincare,52.0,4.0
+5117,49,Dr. Dennis Gross Skincare,52.0,5.0
+5118,49,Dr. Dennis Gross Skincare,52.0,3.0
+5120,49,Dr. Dennis Gross Skincare,52.0,5.0
+5121,49,Dr. Dennis Gross Skincare,52.0,5.0
+5123,49,Dr. Dennis Gross Skincare,52.0,5.0
+5125,49,Dr. Dennis Gross Skincare,52.0,5.0
+5128,49,Dr. Dennis Gross Skincare,52.0,5.0
+5138,49,Dr. Dennis Gross Skincare,52.0,3.0
+5143,49,Dr. Dennis Gross Skincare,52.0,1.0
+5144,49,Dr. Dennis Gross Skincare,52.0,5.0
+5145,50,First Aid Beauty,26.0,3.0
+5151,50,First Aid Beauty,26.0,1.0
+5155,50,First Aid Beauty,26.0,3.0
+5159,50,First Aid Beauty,26.0,2.0
+5165,50,First Aid Beauty,26.0,2.0
+5169,50,First Aid Beauty,26.0,5.0
+5170,50,First Aid Beauty,26.0,5.0
+5176,50,First Aid Beauty,26.0,4.0
+5181,50,First Aid Beauty,26.0,2.0
+5186,50,First Aid Beauty,26.0,5.0
+5196,50,First Aid Beauty,26.0,3.0
+5198,50,First Aid Beauty,26.0,5.0
+5199,50,First Aid Beauty,26.0,5.0
+5204,50,First Aid Beauty,26.0,5.0
+5205,50,First Aid Beauty,26.0,5.0
+5210,50,First Aid Beauty,26.0,5.0
+5214,50,First Aid Beauty,26.0,5.0
+5221,51,Paula's Choice,15.0,5.0
+5228,51,Paula's Choice,15.0,3.0
+5229,51,Paula's Choice,15.0,4.0
+5236,51,Paula's Choice,15.0,5.0
+5250,51,Paula's Choice,15.0,5.0
+5254,51,Paula's Choice,15.0,4.0
+5259,51,Paula's Choice,15.0,1.0
+5264,51,Paula's Choice,15.0,2.0
+5266,51,Paula's Choice,15.0,5.0
+5272,51,Paula's Choice,15.0,2.0
+5278,51,Paula's Choice,15.0,5.0
+5282,51,Paula's Choice,15.0,5.0
+5286,51,Paula's Choice,15.0,4.0
+5289,51,Paula's Choice,15.0,5.0
+5294,52,NUDESTIX,39.0,3.0
+5298,52,NUDESTIX,39.0,4.0
+5304,52,NUDESTIX,39.0,1.0
+5312,52,NUDESTIX,39.0,5.0
+5317,52,NUDESTIX,39.0,5.0
+5332,52,NUDESTIX,39.0,5.0
+5333,52,NUDESTIX,39.0,5.0
+5337,52,NUDESTIX,39.0,5.0
+5340,52,NUDESTIX,39.0,5.0
+5344,52,NUDESTIX,39.0,5.0
+5349,52,NUDESTIX,39.0,3.0
+5354,52,NUDESTIX,39.0,5.0
+5357,52,NUDESTIX,39.0,5.0
+5358,52,NUDESTIX,39.0,5.0
+5360,52,NUDESTIX,39.0,4.0
+5365,52,NUDESTIX,39.0,5.0
+5369,53,Mario Badescu,14.0,1.0
+5372,53,Mario Badescu,14.0,5.0
+5376,53,Mario Badescu,14.0,2.0
+5379,53,Mario Badescu,14.0,1.0
+5380,53,Mario Badescu,14.0,5.0
+5382,53,Mario Badescu,14.0,3.0
+5389,53,Mario Badescu,14.0,5.0
+5398,53,Mario Badescu,14.0,1.0
+5399,53,Mario Badescu,14.0,5.0
+5402,53,Mario Badescu,14.0,4.0
+5424,53,Mario Badescu,14.0,4.0
+5426,53,Mario Badescu,14.0,5.0
+5452,54,TULA Skincare,68.0,5.0
+5456,54,TULA Skincare,68.0,3.0
+5464,54,TULA Skincare,68.0,4.0
+5466,54,TULA Skincare,68.0,3.0
+5470,54,TULA Skincare,68.0,5.0
+5474,54,TULA Skincare,68.0,3.0
+5478,54,TULA Skincare,68.0,4.0
+5480,54,TULA Skincare,68.0,5.0
+5481,54,TULA Skincare,68.0,5.0
+5487,54,TULA Skincare,68.0,4.0
+5491,54,TULA Skincare,68.0,5.0
+5492,54,TULA Skincare,68.0,5.0
+5502,54,TULA Skincare,68.0,3.0
+5503,54,TULA Skincare,68.0,5.0
+5506,54,TULA Skincare,68.0,5.0
+5514,55,Wander Beauty,26.0,4.0
+5516,55,Wander Beauty,26.0,1.0
+5524,55,Wander Beauty,26.0,5.0
+5526,55,Wander Beauty,26.0,4.0
+5527,55,Wander Beauty,26.0,4.0
+5537,55,Wander Beauty,26.0,5.0
+5547,55,Wander Beauty,26.0,4.0
+5550,55,Wander Beauty,26.0,4.0
+5551,55,Wander Beauty,26.0,5.0
+5563,55,Wander Beauty,26.0,4.0
+5566,55,Wander Beauty,26.0,5.0
+5572,55,Wander Beauty,26.0,5.0
+5576,55,Wander Beauty,26.0,5.0
+5577,55,Wander Beauty,26.0,1.0
+5583,56,FaceGym,38.0,5.0
+5584,56,FaceGym,38.0,5.0
+5589,56,FaceGym,38.0,5.0
+5610,56,FaceGym,38.0,5.0
+5613,56,FaceGym,38.0,5.0
+5617,56,FaceGym,38.0,5.0
+5629,56,FaceGym,38.0,5.0
+5639,56,FaceGym,38.0,5.0
+5640,56,FaceGym,38.0,5.0
+5643,56,FaceGym,38.0,5.0
+5650,56,FaceGym,38.0,5.0
+5653,57,Farmacy,60.0,5.0
+5665,57,Farmacy,60.0,5.0
+5666,57,Farmacy,60.0,5.0
+5678,57,Farmacy,60.0,5.0
+5683,57,Farmacy,60.0,3.0
+5687,57,Farmacy,60.0,1.0
+5689,57,Farmacy,60.0,5.0
+5695,57,Farmacy,60.0,2.0
+5696,57,Farmacy,60.0,2.0
+5707,57,Farmacy,60.0,5.0
+5711,57,Farmacy,60.0,5.0
+5712,57,Farmacy,60.0,5.0
+5714,57,Farmacy,60.0,4.0
+5719,57,Farmacy,60.0,2.0
+5723,57,Farmacy,60.0,1.0
+5727,58,Fenty Skin,36.0,2.0
+5730,58,Fenty Skin,36.0,5.0
+5731,58,Fenty Skin,36.0,3.0
+5733,58,Fenty Skin,36.0,5.0
+5739,58,Fenty Skin,36.0,5.0
+5740,58,Fenty Skin,36.0,1.0
+5746,58,Fenty Skin,36.0,1.0
+5747,58,Fenty Skin,36.0,4.0
+5749,58,Fenty Skin,36.0,5.0
+5758,58,Fenty Skin,36.0,5.0
+5761,58,Fenty Skin,36.0,2.0
+5770,58,Fenty Skin,36.0,4.0
+5790,58,Fenty Skin,36.0,1.0
+5792,58,Fenty Skin,36.0,5.0
+5798,59,Dr. Jart+,9.0,1.0
+5799,59,Dr. Jart+,9.0,5.0
+5800,59,Dr. Jart+,9.0,3.0
+5805,59,Dr. Jart+,9.0,5.0
+5807,59,Dr. Jart+,9.0,3.0
+5816,59,Dr. Jart+,9.0,1.0
+5819,59,Dr. Jart+,9.0,3.0
+5821,59,Dr. Jart+,9.0,5.0
+5822,59,Dr. Jart+,9.0,5.0
+5828,59,Dr. Jart+,9.0,5.0
+5830,59,Dr. Jart+,9.0,3.0
+5837,59,Dr. Jart+,9.0,5.0
+5840,59,Dr. Jart+,9.0,2.0
+5843,59,Dr. Jart+,9.0,5.0
+5844,59,Dr. Jart+,9.0,5.0
+5846,59,Dr. Jart+,9.0,5.0
+5848,59,Dr. Jart+,9.0,2.0
+5857,59,Dr. Jart+,9.0,5.0
+5858,59,Dr. Jart+,9.0,5.0
+5860,59,Dr. Jart+,9.0,5.0
+5865,60,Dr. Barbara Sturm,75.0,4.0
+5871,60,Dr. Barbara Sturm,75.0,4.0
+5874,60,Dr. Barbara Sturm,75.0,5.0
+5875,60,Dr. Barbara Sturm,75.0,2.0
+5882,60,Dr. Barbara Sturm,75.0,4.0
+5884,60,Dr. Barbara Sturm,75.0,2.0
+5893,60,Dr. Barbara Sturm,75.0,5.0
+5898,60,Dr. Barbara Sturm,75.0,5.0
+5900,60,Dr. Barbara Sturm,75.0,5.0
+5912,60,Dr. Barbara Sturm,75.0,5.0
+5914,60,Dr. Barbara Sturm,75.0,5.0
+5920,60,Dr. Barbara Sturm,75.0,1.0
+5938,61,Kate Somerville,140.0,5.0
+5940,61,Kate Somerville,140.0,5.0
+5942,61,Kate Somerville,140.0,5.0
+5943,61,Kate Somerville,140.0,3.0
+5956,61,Kate Somerville,140.0,5.0
+5965,61,Kate Somerville,140.0,5.0
+5967,61,Kate Somerville,140.0,3.0
+5969,61,Kate Somerville,140.0,4.0
+5974,61,Kate Somerville,140.0,5.0
+5979,61,Kate Somerville,140.0,5.0
+5980,61,Kate Somerville,140.0,4.0
+5981,61,Kate Somerville,140.0,4.0
+5992,61,Kate Somerville,140.0,2.0
+6001,61,Kate Somerville,140.0,5.0
+6010,62,Skinfix,32.0,4.0
+6025,62,Skinfix,32.0,4.0
+6029,62,Skinfix,32.0,3.0
+6041,62,Skinfix,32.0,1.0
+6044,62,Skinfix,32.0,5.0
+6051,62,Skinfix,32.0,2.0
+6054,62,Skinfix,32.0,5.0
+6057,62,Skinfix,32.0,5.0
+6066,62,Skinfix,32.0,5.0
+6070,62,Skinfix,32.0,5.0
+6081,63,Dr. Brandt Skincare,38.0,1.0
+6083,63,Dr. Brandt Skincare,38.0,5.0
+6085,63,Dr. Brandt Skincare,38.0,2.0
+6086,63,Dr. Brandt Skincare,38.0,5.0
+6098,63,Dr. Brandt Skincare,38.0,5.0
+6101,63,Dr. Brandt Skincare,38.0,2.0
+6109,63,Dr. Brandt Skincare,38.0,1.0
+6112,63,Dr. Brandt Skincare,38.0,5.0
+6117,63,Dr. Brandt Skincare,38.0,5.0
+6118,63,Dr. Brandt Skincare,38.0,4.0
+6123,63,Dr. Brandt Skincare,38.0,5.0
+6127,63,Dr. Brandt Skincare,38.0,5.0
+6135,63,Dr. Brandt Skincare,38.0,5.0
+6138,63,Dr. Brandt Skincare,38.0,3.0
+6143,64,Naturally Serious,19.0,5.0
+6145,64,Naturally Serious,19.0,4.0
+6147,64,Naturally Serious,19.0,3.0
+6157,64,Naturally Serious,19.0,5.0
+6161,64,Naturally Serious,19.0,5.0
+6162,64,Naturally Serious,19.0,4.0
+6178,64,Naturally Serious,19.0,5.0
+6182,64,Naturally Serious,19.0,5.0
+6189,64,Naturally Serious,19.0,5.0
+6191,64,Naturally Serious,19.0,5.0
+6200,64,Naturally Serious,19.0,5.0
+6201,64,Naturally Serious,19.0,5.0
+6213,65,SEPHORA COLLECTION,5.0,5.0
+6216,65,SEPHORA COLLECTION,5.0,1.0
+6223,65,SEPHORA COLLECTION,5.0,5.0
+6231,65,SEPHORA COLLECTION,5.0,4.0
+6234,65,SEPHORA COLLECTION,5.0,5.0
+6249,65,SEPHORA COLLECTION,5.0,5.0
+6260,65,SEPHORA COLLECTION,5.0,5.0
+6263,65,SEPHORA COLLECTION,5.0,4.0
+6277,66,Skinfix,15.0,1.0
+6281,66,Skinfix,15.0,2.0
+6282,66,Skinfix,15.0,5.0
+6300,66,Skinfix,15.0,5.0
+6301,66,Skinfix,15.0,5.0
+6302,66,Skinfix,15.0,4.0
+6306,66,Skinfix,15.0,3.0
+6307,66,Skinfix,15.0,1.0
+6321,66,Skinfix,15.0,2.0
+6323,66,Skinfix,15.0,1.0
+6329,66,Skinfix,15.0,1.0
+6330,66,Skinfix,15.0,1.0
+6343,67,SEPHORA COLLECTION,17.0,1.0
+6350,67,SEPHORA COLLECTION,17.0,2.0
+6355,67,SEPHORA COLLECTION,17.0,2.0
+6364,67,SEPHORA COLLECTION,17.0,5.0
+6367,67,SEPHORA COLLECTION,17.0,5.0
+6375,67,SEPHORA COLLECTION,17.0,4.0
+6379,67,SEPHORA COLLECTION,17.0,3.0
+6384,67,SEPHORA COLLECTION,17.0,5.0
+6389,67,SEPHORA COLLECTION,17.0,5.0
+6391,67,SEPHORA COLLECTION,17.0,5.0
+6408,68,Dr. Jart+,9.0,5.0
+6414,68,Dr. Jart+,9.0,1.0
+6421,68,Dr. Jart+,9.0,5.0
+6427,68,Dr. Jart+,9.0,5.0
+6428,68,Dr. Jart+,9.0,3.0
+6436,68,Dr. Jart+,9.0,5.0
+6437,68,Dr. Jart+,9.0,5.0
+6440,68,Dr. Jart+,9.0,5.0
+6442,68,Dr. Jart+,9.0,5.0
+6447,68,Dr. Jart+,9.0,2.0
+6478,69,Wishful,39.0,4.0
+6479,69,Wishful,39.0,5.0
+6480,69,Wishful,39.0,1.0
+6482,69,Wishful,39.0,4.0
+6491,69,Wishful,39.0,4.0
+6496,69,Wishful,39.0,5.0
+6497,69,Wishful,39.0,5.0
+6502,69,Wishful,39.0,3.0
+6510,69,Wishful,39.0,5.0
+6520,69,Wishful,39.0,5.0
+6521,69,Wishful,39.0,5.0
+6522,69,Wishful,39.0,3.0
+6523,69,Wishful,39.0,5.0
+6532,69,Wishful,39.0,5.0
+6536,70,CLINIQUE,34.0,5.0
+6537,70,CLINIQUE,34.0,3.0
+6539,70,CLINIQUE,34.0,5.0
+6550,70,CLINIQUE,34.0,5.0
+6559,70,CLINIQUE,34.0,4.0
+6568,70,CLINIQUE,34.0,5.0
+6569,70,CLINIQUE,34.0,1.0
+6572,70,CLINIQUE,34.0,3.0
+6576,70,CLINIQUE,34.0,5.0
+6587,70,CLINIQUE,34.0,5.0
+6590,70,CLINIQUE,34.0,4.0
+6592,70,CLINIQUE,34.0,5.0
+6598,70,CLINIQUE,34.0,5.0
+6601,71,Dr. Jart+,9.0,3.0
+6605,71,Dr. Jart+,9.0,2.0
+6608,71,Dr. Jart+,9.0,4.0
+6613,71,Dr. Jart+,9.0,5.0
+6615,71,Dr. Jart+,9.0,5.0
+6622,71,Dr. Jart+,9.0,5.0
+6623,71,Dr. Jart+,9.0,5.0
+6624,71,Dr. Jart+,9.0,2.0
+6625,71,Dr. Jart+,9.0,1.0
+6627,71,Dr. Jart+,9.0,4.0
+6646,71,Dr. Jart+,9.0,5.0
+6654,71,Dr. Jart+,9.0,5.0
+6657,71,Dr. Jart+,9.0,2.0
+6661,71,Dr. Jart+,9.0,5.0
+6670,72,Hyper Skin,48.0,5.0
+6682,72,Hyper Skin,48.0,5.0
+6686,72,Hyper Skin,48.0,1.0
+6695,72,Hyper Skin,48.0,1.0
+6697,72,Hyper Skin,48.0,4.0
+6711,72,Hyper Skin,48.0,5.0
+6714,72,Hyper Skin,48.0,5.0
+6717,72,Hyper Skin,48.0,5.0
+6724,72,Hyper Skin,48.0,5.0
+6727,73,Mario Badescu,16.0,1.0
+6742,73,Mario Badescu,16.0,5.0
+6750,73,Mario Badescu,16.0,5.0
+6753,73,Mario Badescu,16.0,5.0
+6754,73,Mario Badescu,16.0,4.0
+6756,73,Mario Badescu,16.0,4.0
+6757,73,Mario Badescu,16.0,5.0
+6759,73,Mario Badescu,16.0,3.0
+6760,73,Mario Badescu,16.0,3.0
+6768,73,Mario Badescu,16.0,4.0
+6774,73,Mario Badescu,16.0,5.0
+6785,73,Mario Badescu,16.0,5.0
+6786,73,Mario Badescu,16.0,5.0
+6795,74,SK-II,170.0,4.0
+6797,74,SK-II,170.0,5.0
+6800,74,SK-II,170.0,4.0
+6810,74,SK-II,170.0,5.0
+6817,74,SK-II,170.0,4.0
+6820,74,SK-II,170.0,5.0
+6822,74,SK-II,170.0,3.0
+6824,74,SK-II,170.0,5.0
+6826,74,SK-II,170.0,5.0
+6835,74,SK-II,170.0,5.0
+6843,74,SK-II,170.0,5.0
+6851,75,DAMDAM,48.0,5.0
+6853,75,DAMDAM,48.0,5.0
+6854,75,DAMDAM,48.0,5.0
+6855,75,DAMDAM,48.0,5.0
+6859,75,DAMDAM,48.0,5.0
+6860,75,DAMDAM,48.0,4.0
+6865,75,DAMDAM,48.0,5.0
+6866,75,DAMDAM,48.0,4.0
+6867,75,DAMDAM,48.0,5.0
+6870,75,DAMDAM,48.0,5.0
+6876,75,DAMDAM,48.0,5.0
+6877,75,DAMDAM,48.0,5.0
+6883,75,DAMDAM,48.0,5.0
+6901,75,DAMDAM,48.0,5.0
+6902,75,DAMDAM,48.0,5.0
+6909,75,DAMDAM,48.0,5.0
+6912,76,Charlotte Tilbury,58.0,5.0
+6913,76,Charlotte Tilbury,58.0,5.0
+6934,76,Charlotte Tilbury,58.0,5.0
+6935,76,Charlotte Tilbury,58.0,5.0
+6942,76,Charlotte Tilbury,58.0,5.0
+6945,76,Charlotte Tilbury,58.0,1.0
+6946,76,Charlotte Tilbury,58.0,5.0
+6953,76,Charlotte Tilbury,58.0,5.0
+6954,76,Charlotte Tilbury,58.0,5.0
+6955,76,Charlotte Tilbury,58.0,4.0
+6969,76,Charlotte Tilbury,58.0,3.0
+6978,77,Shiseido,70.0,5.0
+6987,77,Shiseido,70.0,1.0
+6989,77,Shiseido,70.0,5.0
+6997,77,Shiseido,70.0,5.0
+7015,77,Shiseido,70.0,5.0
+7018,77,Shiseido,70.0,5.0
+7020,77,Shiseido,70.0,5.0
+7024,77,Shiseido,70.0,5.0
+7038,78,St. Tropez,9.0,5.0
+7046,78,St. Tropez,9.0,5.0
+7055,78,St. Tropez,9.0,5.0
+7063,78,St. Tropez,9.0,5.0
+7065,78,St. Tropez,9.0,5.0
+7068,78,St. Tropez,9.0,5.0
+7070,78,St. Tropez,9.0,5.0
+7073,78,St. Tropez,9.0,5.0
+7082,78,St. Tropez,9.0,4.0
+7093,79,tarte,12.0,3.0
+7100,79,tarte,12.0,5.0
+7113,79,tarte,12.0,5.0
+7116,79,tarte,12.0,5.0
+7118,79,tarte,12.0,5.0
+7136,79,tarte,12.0,5.0
+7139,79,tarte,12.0,5.0
+7142,79,tarte,12.0,5.0
+7143,79,tarte,12.0,5.0
+7148,79,tarte,12.0,5.0
+7152,80,Dr. Barbara Sturm,75.0,1.0
+7153,80,Dr. Barbara Sturm,75.0,5.0
+7159,80,Dr. Barbara Sturm,75.0,3.0
+7176,80,Dr. Barbara Sturm,75.0,4.0
+7178,80,Dr. Barbara Sturm,75.0,1.0
+7189,80,Dr. Barbara Sturm,75.0,5.0
+7191,80,Dr. Barbara Sturm,75.0,1.0
+7195,80,Dr. Barbara Sturm,75.0,5.0
+7197,80,Dr. Barbara Sturm,75.0,5.0
+7201,80,Dr. Barbara Sturm,75.0,5.0
+7210,81,St. Tropez,44.0,5.0
+7238,81,St. Tropez,44.0,4.0
+7246,81,St. Tropez,44.0,5.0
+7248,81,St. Tropez,44.0,1.0
+7249,81,St. Tropez,44.0,1.0
+7250,81,St. Tropez,44.0,1.0
+7252,81,St. Tropez,44.0,5.0
+7255,81,St. Tropez,44.0,5.0
+7257,81,St. Tropez,44.0,3.0
+7258,81,St. Tropez,44.0,4.0
+7268,82,Glossier,19.0,1.0
+7273,82,Glossier,19.0,4.0
+7276,82,Glossier,19.0,3.0
+7281,82,Glossier,19.0,5.0
+7296,82,Glossier,19.0,3.0
+7297,82,Glossier,19.0,5.0
+7303,82,Glossier,19.0,5.0
+7309,82,Glossier,19.0,5.0
+7324,82,Glossier,19.0,2.0
+7328,82,Glossier,19.0,3.0
+7332,82,Glossier,19.0,5.0
+7338,83,Saint Jane Beauty,70.0,5.0
+7359,83,Saint Jane Beauty,70.0,5.0
+7363,83,Saint Jane Beauty,70.0,5.0
+7370,83,Saint Jane Beauty,70.0,4.0
+7382,83,Saint Jane Beauty,70.0,4.0
+7387,83,Saint Jane Beauty,70.0,5.0
+7393,84,CAY SKIN,22.0,5.0
+7399,84,CAY SKIN,22.0,2.0
+7403,84,CAY SKIN,22.0,5.0
+7434,84,CAY SKIN,22.0,4.0
+7438,84,CAY SKIN,22.0,5.0
+7448,85,Hourglass,52.0,4.0
+7450,85,Hourglass,52.0,5.0
+7452,85,Hourglass,52.0,5.0
+7456,85,Hourglass,52.0,3.0
+7459,85,Hourglass,52.0,5.0
+7460,85,Hourglass,52.0,3.0
+7475,85,Hourglass,52.0,5.0
+7493,85,Hourglass,52.0,5.0
+7495,85,Hourglass,52.0,5.0
+7498,85,Hourglass,52.0,5.0
+7500,86,Dr. Barbara Sturm,125.0,5.0
+7502,86,Dr. Barbara Sturm,125.0,5.0
+7503,86,Dr. Barbara Sturm,125.0,5.0
+7506,86,Dr. Barbara Sturm,125.0,4.0
+7507,86,Dr. Barbara Sturm,125.0,5.0
+7512,86,Dr. Barbara Sturm,125.0,5.0
+7518,86,Dr. Barbara Sturm,125.0,5.0
+7520,86,Dr. Barbara Sturm,125.0,5.0
+7522,86,Dr. Barbara Sturm,125.0,5.0
+7524,86,Dr. Barbara Sturm,125.0,5.0
+7528,86,Dr. Barbara Sturm,125.0,4.0
+7529,86,Dr. Barbara Sturm,125.0,5.0
+7533,86,Dr. Barbara Sturm,125.0,5.0
+7539,86,Dr. Barbara Sturm,125.0,4.0
+7542,86,Dr. Barbara Sturm,125.0,5.0
+7556,87,Charlotte Tilbury,25.0,5.0
+7557,87,Charlotte Tilbury,25.0,5.0
+7559,87,Charlotte Tilbury,25.0,1.0
+7566,87,Charlotte Tilbury,25.0,5.0
+7571,87,Charlotte Tilbury,25.0,1.0
+7583,87,Charlotte Tilbury,25.0,5.0
+7599,87,Charlotte Tilbury,25.0,1.0
+7602,87,Charlotte Tilbury,25.0,5.0
+7603,87,Charlotte Tilbury,25.0,5.0
+7608,88,Estée Lauder,59.0,2.0
+7609,88,Estée Lauder,59.0,5.0
+7614,88,Estée Lauder,59.0,5.0
+7626,88,Estée Lauder,59.0,2.0
+7631,88,Estée Lauder,59.0,5.0
+7633,88,Estée Lauder,59.0,5.0
+7634,88,Estée Lauder,59.0,4.0
+7635,88,Estée Lauder,59.0,5.0
+7640,88,Estée Lauder,59.0,5.0
+7642,88,Estée Lauder,59.0,5.0
+7645,88,Estée Lauder,59.0,5.0
+7649,88,Estée Lauder,59.0,5.0
+7676,89,Dr. Jart+,9.0,4.0
+7680,89,Dr. Jart+,9.0,1.0
+7695,89,Dr. Jart+,9.0,2.0
+7700,89,Dr. Jart+,9.0,5.0
+7704,89,Dr. Jart+,9.0,1.0
+7708,90,iNNBEAUTY PROJECT,30.0,2.0
+7711,90,iNNBEAUTY PROJECT,30.0,4.0
+7712,90,iNNBEAUTY PROJECT,30.0,3.0
+7716,90,iNNBEAUTY PROJECT,30.0,4.0
+7717,90,iNNBEAUTY PROJECT,30.0,3.0
+7719,90,iNNBEAUTY PROJECT,30.0,4.0
+7724,90,iNNBEAUTY PROJECT,30.0,5.0
+7726,90,iNNBEAUTY PROJECT,30.0,5.0
+7727,90,iNNBEAUTY PROJECT,30.0,5.0
+7729,90,iNNBEAUTY PROJECT,30.0,5.0
+7741,90,iNNBEAUTY PROJECT,30.0,5.0
+7744,90,iNNBEAUTY PROJECT,30.0,4.0
+7746,90,iNNBEAUTY PROJECT,30.0,5.0
+7750,90,iNNBEAUTY PROJECT,30.0,5.0
+7751,90,iNNBEAUTY PROJECT,30.0,5.0
+7755,90,iNNBEAUTY PROJECT,30.0,5.0
+7756,90,iNNBEAUTY PROJECT,30.0,5.0
+7759,91,Tata Harper,88.0,5.0
+7760,91,Tata Harper,88.0,5.0
+7763,91,Tata Harper,88.0,5.0
+7766,91,Tata Harper,88.0,3.0
+7770,91,Tata Harper,88.0,4.0
+7772,91,Tata Harper,88.0,5.0
+7774,91,Tata Harper,88.0,5.0
+7775,91,Tata Harper,88.0,5.0
+7779,91,Tata Harper,88.0,5.0
+7795,91,Tata Harper,88.0,4.0
+7797,91,Tata Harper,88.0,5.0
+7799,91,Tata Harper,88.0,5.0
+7802,91,Tata Harper,88.0,5.0
+7810,92,Augustinus Bader,215.0,5.0
+7812,92,Augustinus Bader,215.0,5.0
+7817,92,Augustinus Bader,215.0,4.0
+7818,92,Augustinus Bader,215.0,5.0
+7820,92,Augustinus Bader,215.0,5.0
+7823,92,Augustinus Bader,215.0,3.0
+7828,92,Augustinus Bader,215.0,5.0
+7829,92,Augustinus Bader,215.0,5.0
+7831,92,Augustinus Bader,215.0,4.0
+7837,92,Augustinus Bader,215.0,3.0
+7841,92,Augustinus Bader,215.0,4.0
+7852,92,Augustinus Bader,215.0,5.0
+7856,92,Augustinus Bader,215.0,5.0
+7859,92,Augustinus Bader,215.0,5.0
+7862,92,Augustinus Bader,215.0,3.0
+7864,92,Augustinus Bader,215.0,3.0
+7874,92,Augustinus Bader,215.0,5.0
+7876,92,Augustinus Bader,215.0,5.0
+7886,93,Paula's Choice,34.0,4.0
+7889,93,Paula's Choice,34.0,5.0
+7890,93,Paula's Choice,34.0,5.0
+7910,93,Paula's Choice,34.0,5.0
+7912,93,Paula's Choice,34.0,5.0
+7918,93,Paula's Choice,34.0,4.0
+7921,93,Paula's Choice,34.0,5.0
+7929,94,Moon Juice,32.0,5.0
+7935,94,Moon Juice,32.0,4.0
+7936,94,Moon Juice,32.0,5.0
+7942,94,Moon Juice,32.0,5.0
+7945,94,Moon Juice,32.0,5.0
+7947,94,Moon Juice,32.0,5.0
+7951,94,Moon Juice,32.0,5.0
+7952,94,Moon Juice,32.0,4.0
+7959,94,Moon Juice,32.0,5.0
+7963,94,Moon Juice,32.0,4.0
+7977,95,Kiehl's Since 1851,47.0,5.0
+7985,95,Kiehl's Since 1851,47.0,5.0
+8008,95,Kiehl's Since 1851,47.0,5.0
+8011,95,Kiehl's Since 1851,47.0,5.0
+8012,95,Kiehl's Since 1851,47.0,5.0
+8018,95,Kiehl's Since 1851,47.0,5.0
+8024,96,tarte,12.0,4.0
+8037,96,tarte,12.0,5.0
+8042,96,tarte,12.0,5.0
+8046,96,tarte,12.0,5.0
+8048,96,tarte,12.0,4.0
+8052,96,tarte,12.0,5.0
+8054,96,tarte,12.0,5.0
+8055,96,tarte,12.0,3.0
+8057,96,tarte,12.0,4.0
+8064,96,tarte,12.0,1.0
+8075,97,StriVectin,65.0,2.0
+8083,97,StriVectin,65.0,5.0
+8091,97,StriVectin,65.0,5.0
+8094,97,StriVectin,65.0,5.0
+8095,97,StriVectin,65.0,5.0
+8107,97,StriVectin,65.0,5.0
+8111,97,StriVectin,65.0,5.0
+8112,98,TULA Skincare,36.0,4.0
+8114,98,TULA Skincare,36.0,3.0
+8115,98,TULA Skincare,36.0,4.0
+8117,98,TULA Skincare,36.0,3.0
+8121,98,TULA Skincare,36.0,4.0
+8122,98,TULA Skincare,36.0,4.0
+8124,98,TULA Skincare,36.0,4.0
+8126,98,TULA Skincare,36.0,5.0
+8131,98,TULA Skincare,36.0,5.0
+8132,98,TULA Skincare,36.0,5.0
+8136,98,TULA Skincare,36.0,4.0
+8138,98,TULA Skincare,36.0,5.0
+8139,98,TULA Skincare,36.0,3.0
+8141,98,TULA Skincare,36.0,4.0
+8161,99,La Mer,300.0,5.0
+8163,99,La Mer,300.0,2.0
+8166,99,La Mer,300.0,5.0
+8169,99,La Mer,300.0,4.0
+8180,99,La Mer,300.0,5.0
+8184,99,La Mer,300.0,5.0
+8199,100,innisfree,13.0,5.0
+8200,100,innisfree,13.0,5.0
+8203,100,innisfree,13.0,5.0
+8209,100,innisfree,13.0,4.0
+8223,100,innisfree,13.0,4.0
+8225,100,innisfree,13.0,5.0
+8236,100,innisfree,13.0,5.0
+8237,100,innisfree,13.0,5.0
+8239,100,innisfree,13.0,5.0
+8252,101,CLINIQUE,74.0,5.0
+8253,101,CLINIQUE,74.0,5.0
+8254,101,CLINIQUE,74.0,5.0
+8257,101,CLINIQUE,74.0,5.0
+8259,101,CLINIQUE,74.0,4.0
+8261,101,CLINIQUE,74.0,5.0
+8267,101,CLINIQUE,74.0,3.0
+8272,101,CLINIQUE,74.0,4.0
+8276,101,CLINIQUE,74.0,4.0
+8277,101,CLINIQUE,74.0,5.0
+8281,101,CLINIQUE,74.0,5.0
+8288,102,StriVectin,99.0,5.0
+8290,102,StriVectin,99.0,5.0
+8295,102,StriVectin,99.0,5.0
+8296,102,StriVectin,99.0,5.0
+8300,102,StriVectin,99.0,5.0
+8310,102,StriVectin,99.0,5.0
+8314,102,StriVectin,99.0,5.0
+8315,102,StriVectin,99.0,4.0
+8316,102,StriVectin,99.0,5.0
+8327,103,First Aid Beauty,30.0,2.0
+8328,103,First Aid Beauty,30.0,5.0
+8330,103,First Aid Beauty,30.0,5.0
+8345,103,First Aid Beauty,30.0,3.0
+8362,103,First Aid Beauty,30.0,5.0
+8364,103,First Aid Beauty,30.0,5.0
+8366,104,REN Clean Skincare,38.0,5.0
+8369,104,REN Clean Skincare,38.0,5.0
+8370,104,REN Clean Skincare,38.0,5.0
+8373,104,REN Clean Skincare,38.0,4.0
+8383,104,REN Clean Skincare,38.0,5.0
+8396,104,REN Clean Skincare,38.0,5.0
+8398,104,REN Clean Skincare,38.0,5.0
+8400,104,REN Clean Skincare,38.0,5.0
+8401,104,REN Clean Skincare,38.0,5.0
+8403,104,REN Clean Skincare,38.0,5.0
+8419,105,SEPHORA COLLECTION,10.0,4.0
+8430,105,SEPHORA COLLECTION,10.0,3.0
+8438,105,SEPHORA COLLECTION,10.0,5.0
+8439,105,SEPHORA COLLECTION,10.0,2.0
+8444,106,SEPHORA COLLECTION,10.0,3.0
+8447,106,SEPHORA COLLECTION,10.0,5.0
+8478,106,SEPHORA COLLECTION,10.0,1.0
+8480,106,SEPHORA COLLECTION,10.0,3.0
+8484,107,CLINIQUE,39.0,5.0
+8486,107,CLINIQUE,39.0,5.0
+8489,107,CLINIQUE,39.0,5.0
+8494,107,CLINIQUE,39.0,4.0
+8495,107,CLINIQUE,39.0,5.0
+8497,107,CLINIQUE,39.0,1.0
+8499,107,CLINIQUE,39.0,4.0
+8511,107,CLINIQUE,39.0,5.0
+8518,107,CLINIQUE,39.0,5.0
+8522,108,Paula's Choice,37.0,4.0
+8528,108,Paula's Choice,37.0,4.0
+8531,108,Paula's Choice,37.0,5.0
+8537,108,Paula's Choice,37.0,5.0
+8545,108,Paula's Choice,37.0,5.0
+8548,108,Paula's Choice,37.0,3.0
+8558,109,Estée Lauder,92.0,5.0
+8559,109,Estée Lauder,92.0,5.0
+8565,109,Estée Lauder,92.0,3.0
+8575,109,Estée Lauder,92.0,5.0
+8582,109,Estée Lauder,92.0,5.0
+8583,109,Estée Lauder,92.0,5.0
+8584,109,Estée Lauder,92.0,5.0
+8608,110,Peter Thomas Roth,43.0,1.0
+8618,110,Peter Thomas Roth,43.0,2.0
+8621,110,Peter Thomas Roth,43.0,5.0
+8627,110,Peter Thomas Roth,43.0,4.0
+8638,111,SEPHORA COLLECTION,5.5,5.0
+8642,111,SEPHORA COLLECTION,5.5,5.0
+8643,111,SEPHORA COLLECTION,5.5,5.0
+8651,111,SEPHORA COLLECTION,5.5,4.0
+8655,111,SEPHORA COLLECTION,5.5,5.0
+8663,111,SEPHORA COLLECTION,5.5,2.0
+8681,112,Dermalogica,74.0,2.0
+8683,112,Dermalogica,74.0,4.0
+8685,112,Dermalogica,74.0,3.0
+8688,112,Dermalogica,74.0,5.0
+8689,112,Dermalogica,74.0,5.0
+8698,112,Dermalogica,74.0,5.0
+8719,113,TULA Skincare,36.0,3.0
+8725,113,TULA Skincare,36.0,4.0
+8726,113,TULA Skincare,36.0,5.0
+8729,113,TULA Skincare,36.0,5.0
+8736,113,TULA Skincare,36.0,4.0
+8741,114,SEPHORA COLLECTION,8.0,5.0
+8745,114,SEPHORA COLLECTION,8.0,3.0
+8752,114,SEPHORA COLLECTION,8.0,3.0
+8757,114,SEPHORA COLLECTION,8.0,5.0
+8759,114,SEPHORA COLLECTION,8.0,4.0
+8761,114,SEPHORA COLLECTION,8.0,4.0
+8763,114,SEPHORA COLLECTION,8.0,5.0
+8765,114,SEPHORA COLLECTION,8.0,1.0
+8768,114,SEPHORA COLLECTION,8.0,3.0
+8778,115,Drunk Elephant,16.0,5.0
+8779,115,Drunk Elephant,16.0,4.0
+8796,115,Drunk Elephant,16.0,5.0
+8804,115,Drunk Elephant,16.0,4.0
+8813,116,La Mer,200.0,1.0
+8816,116,La Mer,200.0,5.0
+8822,116,La Mer,200.0,5.0
+8827,116,La Mer,200.0,5.0
+8829,116,La Mer,200.0,3.0
+8833,116,La Mer,200.0,5.0
+8834,116,La Mer,200.0,5.0
+8844,116,La Mer,200.0,5.0
+8849,117,CLINIQUE,64.0,1.0
+8852,117,CLINIQUE,64.0,5.0
+8854,117,CLINIQUE,64.0,5.0
+8864,117,CLINIQUE,64.0,5.0
+8870,117,CLINIQUE,64.0,1.0
+8871,117,CLINIQUE,64.0,2.0
+8872,117,CLINIQUE,64.0,5.0
+8873,117,CLINIQUE,64.0,5.0
+8877,117,CLINIQUE,64.0,5.0
+8879,117,CLINIQUE,64.0,5.0
+8881,118,SEPHORA COLLECTION,3.5,5.0
+8883,118,SEPHORA COLLECTION,3.5,2.0
+8886,118,SEPHORA COLLECTION,3.5,4.0
+8888,118,SEPHORA COLLECTION,3.5,5.0
+8897,118,SEPHORA COLLECTION,3.5,5.0
+8900,118,SEPHORA COLLECTION,3.5,4.0
+8916,119,Shiseido,75.0,5.0
+8918,119,Shiseido,75.0,5.0
+8933,119,Shiseido,75.0,1.0
+8938,119,Shiseido,75.0,2.0
+8940,119,Shiseido,75.0,1.0
+8948,119,Shiseido,75.0,5.0
+8950,120,Bobbi Brown,53.0,5.0
+8952,120,Bobbi Brown,53.0,5.0
+8953,120,Bobbi Brown,53.0,5.0
+8956,120,Bobbi Brown,53.0,5.0
+8957,120,Bobbi Brown,53.0,5.0
+8959,120,Bobbi Brown,53.0,5.0
+8968,120,Bobbi Brown,53.0,5.0
+8969,120,Bobbi Brown,53.0,3.0
+8974,120,Bobbi Brown,53.0,5.0
+8977,120,Bobbi Brown,53.0,5.0
+8985,121,Tata Harper,95.0,4.0
+8995,121,Tata Harper,95.0,5.0
+8998,121,Tata Harper,95.0,5.0
+8999,121,Tata Harper,95.0,2.0
+9000,121,Tata Harper,95.0,2.0
+9003,121,Tata Harper,95.0,4.0
+9004,121,Tata Harper,95.0,5.0
+9009,121,Tata Harper,95.0,5.0
+9011,121,Tata Harper,95.0,5.0
+9013,122,Dior,60.0,1.0
+9019,122,Dior,60.0,5.0
+9033,122,Dior,60.0,5.0
+9035,122,Dior,60.0,3.0
+9039,122,Dior,60.0,5.0
+9040,122,Dior,60.0,2.0
+9045,123,Biossance,20.0,1.0
+9049,123,Biossance,20.0,4.0
+9053,123,Biossance,20.0,1.0
+9054,123,Biossance,20.0,2.0
+9056,123,Biossance,20.0,2.0
+9058,123,Biossance,20.0,5.0
+9059,123,Biossance,20.0,1.0
+9060,123,Biossance,20.0,1.0
+9066,123,Biossance,20.0,4.0
+9069,123,Biossance,20.0,5.0
+9070,123,Biossance,20.0,2.0
+9074,123,Biossance,20.0,5.0
+9080,124,Origins,71.0,1.0
+9085,124,Origins,71.0,3.0
+9089,124,Origins,71.0,5.0
+9090,124,Origins,71.0,2.0
+9092,124,Origins,71.0,5.0
+9097,124,Origins,71.0,1.0
+9113,125,Peter Thomas Roth,65.0,1.0
+9114,125,Peter Thomas Roth,65.0,1.0
+9121,125,Peter Thomas Roth,65.0,2.0
+9144,126,fresh,40.0,4.0
+9153,126,fresh,40.0,5.0
+9156,126,fresh,40.0,5.0
+9158,126,fresh,40.0,5.0
+9159,126,fresh,40.0,3.0
+9161,127,Dermalogica,48.0,1.0
+9164,127,Dermalogica,48.0,5.0
+9165,127,Dermalogica,48.0,5.0
+9169,127,Dermalogica,48.0,2.0
+9174,127,Dermalogica,48.0,5.0
+9182,127,Dermalogica,48.0,5.0
+9190,128,SEPHORA COLLECTION,5.0,5.0
+9212,128,SEPHORA COLLECTION,5.0,4.0
+9215,129,Lancôme,45.0,4.0
+9217,129,Lancôme,45.0,5.0
+9218,129,Lancôme,45.0,4.0
+9221,129,Lancôme,45.0,2.0
+9222,129,Lancôme,45.0,3.0
+9224,129,Lancôme,45.0,5.0
+9230,129,Lancôme,45.0,1.0
+9235,129,Lancôme,45.0,3.0
+9239,129,Lancôme,45.0,5.0
+9248,130,Charlotte Tilbury,55.0,5.0
+9252,130,Charlotte Tilbury,55.0,2.0
+9254,130,Charlotte Tilbury,55.0,4.0
+9258,130,Charlotte Tilbury,55.0,1.0
+9262,130,Charlotte Tilbury,55.0,3.0
+9264,130,Charlotte Tilbury,55.0,3.0
+9267,130,Charlotte Tilbury,55.0,5.0
+9269,131,innisfree,12.0,5.0
+9271,131,innisfree,12.0,5.0
+9278,131,innisfree,12.0,5.0
+9281,131,innisfree,12.0,5.0
+9297,132,SEPHORA COLLECTION,8.0,1.0
+9304,132,SEPHORA COLLECTION,8.0,3.0
+9305,132,SEPHORA COLLECTION,8.0,2.0
+9307,132,SEPHORA COLLECTION,8.0,2.0
+9308,132,SEPHORA COLLECTION,8.0,5.0
+9315,132,SEPHORA COLLECTION,8.0,5.0
+9319,132,SEPHORA COLLECTION,8.0,5.0
+9320,132,SEPHORA COLLECTION,8.0,4.0
+9332,133,Dr. Jart+,9.0,5.0
+9338,133,Dr. Jart+,9.0,5.0
+9355,134,Paula's Choice,26.0,4.0
+9357,134,Paula's Choice,26.0,2.0
+9360,134,Paula's Choice,26.0,2.0
+9364,134,Paula's Choice,26.0,5.0
+9365,134,Paula's Choice,26.0,5.0
+9368,134,Paula's Choice,26.0,1.0
+9370,134,Paula's Choice,26.0,5.0
+9377,135,Estée Lauder,75.0,5.0
+9379,135,Estée Lauder,75.0,3.0
+9384,135,Estée Lauder,75.0,5.0
+9386,135,Estée Lauder,75.0,5.0
+9388,135,Estée Lauder,75.0,5.0
+9390,135,Estée Lauder,75.0,5.0
+9396,136,Clarins,30.0,3.0
+9400,136,Clarins,30.0,4.0
+9404,136,Clarins,30.0,5.0
+9410,136,Clarins,30.0,1.0
+9411,136,Clarins,30.0,2.0
+9412,136,Clarins,30.0,1.0
+9414,136,Clarins,30.0,2.0
+9416,136,Clarins,30.0,5.0
+9423,137,La Mer,190.0,5.0
+9424,137,La Mer,190.0,5.0
+9425,137,La Mer,190.0,1.0
+9427,137,La Mer,190.0,4.0
+9429,137,La Mer,190.0,5.0
+9432,137,La Mer,190.0,5.0
+9437,137,La Mer,190.0,5.0
+9443,138,Dermalogica,42.0,5.0
+9459,138,Dermalogica,42.0,5.0
+9460,138,Dermalogica,42.0,4.0
+9462,138,Dermalogica,42.0,5.0
+9464,138,Dermalogica,42.0,5.0
+9465,139,St. Tropez,46.0,1.0
+9468,139,St. Tropez,46.0,2.0
+9481,139,St. Tropez,46.0,5.0
+9482,139,St. Tropez,46.0,5.0
+9489,140,goop,65.0,5.0
+9496,140,goop,65.0,2.0
+9497,140,goop,65.0,5.0
+9501,140,goop,65.0,4.0
+9502,140,goop,65.0,5.0
+9507,140,goop,65.0,3.0
+9508,140,goop,65.0,4.0
+9512,141,LANEIGE,35.0,4.0
+9514,141,LANEIGE,35.0,5.0
+9517,141,LANEIGE,35.0,5.0
+9520,141,LANEIGE,35.0,5.0
+9530,141,LANEIGE,35.0,5.0
+9531,141,LANEIGE,35.0,5.0
+9535,142,FOREO,10.99,5.0
+9536,142,FOREO,10.99,5.0
+9541,142,FOREO,10.99,5.0
+9546,142,FOREO,10.99,5.0
+9549,142,FOREO,10.99,5.0
+9560,143,Fenty Skin,15.0,5.0
+9570,143,Fenty Skin,15.0,5.0
+9571,143,Fenty Skin,15.0,4.0
+9575,143,Fenty Skin,15.0,5.0
+9579,143,Fenty Skin,15.0,5.0
+9584,144,La Mer,95.0,5.0
+9596,144,La Mer,95.0,5.0
+9601,144,La Mer,95.0,5.0
+9603,145,SEPHORA COLLECTION,5.5,5.0
+9609,145,SEPHORA COLLECTION,5.5,5.0
+9611,145,SEPHORA COLLECTION,5.5,5.0
+9619,145,SEPHORA COLLECTION,5.5,4.0
+9622,145,SEPHORA COLLECTION,5.5,5.0
+9636,146,NuFACE,39.0,4.0
+9644,146,NuFACE,39.0,5.0
+9646,147,Shiseido,110.0,5.0
+9650,147,Shiseido,110.0,1.0
+9651,147,Shiseido,110.0,2.0
+9661,147,Shiseido,110.0,5.0
+9663,147,Shiseido,110.0,2.0
+9669,148,Clarins,59.0,5.0
+9676,148,Clarins,59.0,3.0
+9677,148,Clarins,59.0,2.0
+9680,148,Clarins,59.0,5.0
+9686,148,Clarins,59.0,5.0
+9716,150,Tatcha,112.0,5.0
+9723,150,Tatcha,112.0,1.0
+9725,150,Tatcha,112.0,5.0
+9726,150,Tatcha,112.0,5.0
+9730,150,Tatcha,112.0,5.0
+9742,151,Estée Lauder,74.0,5.0
+9744,151,Estée Lauder,74.0,5.0
+9746,151,Estée Lauder,74.0,4.0
+9749,151,Estée Lauder,74.0,5.0
+9771,153,tarte,12.0,1.0
+9775,153,tarte,12.0,5.0
+9778,153,tarte,12.0,5.0
+9779,153,tarte,12.0,1.0
+9784,153,tarte,12.0,4.0
+9799,154,INC.redible,20.0,5.0
+9800,154,INC.redible,20.0,5.0
+9805,154,INC.redible,20.0,5.0
+9808,155,FOREO,10.99,5.0
+9820,155,FOREO,10.99,4.0
+9824,155,FOREO,10.99,5.0
+9830,156,CLINIQUE,48.0,5.0
+9845,157,HUM Nutrition,60.0,5.0
+9847,157,HUM Nutrition,60.0,3.0
+9848,157,HUM Nutrition,60.0,4.0
+9849,157,HUM Nutrition,60.0,1.0
+9851,157,HUM Nutrition,60.0,5.0
+9864,158,Lancôme,68.0,5.0
+9870,158,Lancôme,68.0,5.0
+9871,158,Lancôme,68.0,5.0
+9877,158,Lancôme,68.0,5.0
+9893,159,goop,48.0,5.0
+9895,159,goop,48.0,4.0
+9900,160,Clarins,30.0,3.0
+9903,160,Clarins,30.0,5.0
+9908,160,Clarins,30.0,1.0
+9915,161,CLINIQUE,68.0,5.0
+9921,161,CLINIQUE,68.0,5.0
+9922,161,CLINIQUE,68.0,4.0
+9923,161,CLINIQUE,68.0,5.0
+9934,162,Clarins,79.0,5.0
+9938,162,Clarins,79.0,2.0
+9940,162,Clarins,79.0,5.0
+9942,162,Clarins,79.0,5.0
+9953,163,Dr. Barbara Sturm,150.0,5.0
+9960,163,Dr. Barbara Sturm,150.0,5.0
+9965,164,SEPHORA COLLECTION,5.5,5.0
+9966,164,SEPHORA COLLECTION,5.5,5.0
+9967,164,SEPHORA COLLECTION,5.5,5.0
+9968,164,SEPHORA COLLECTION,5.5,5.0
+9977,164,SEPHORA COLLECTION,5.5,5.0
+9985,165,Glossier,14.0,3.0
+9993,165,Glossier,14.0,5.0
+9996,165,Glossier,14.0,5.0
+9997,165,Glossier,14.0,5.0
+10002,166,CLINIQUE,72.0,2.0
+10006,166,CLINIQUE,72.0,5.0
+10007,166,CLINIQUE,72.0,5.0
+10024,167,Herbivore,26.0,5.0
+10027,167,Herbivore,26.0,5.0
+10028,167,Herbivore,26.0,5.0
+10030,167,Herbivore,26.0,5.0
+10032,167,Herbivore,26.0,4.0
+10039,167,Herbivore,26.0,5.0
+10044,167,Herbivore,26.0,5.0
+10045,167,Herbivore,26.0,5.0
+10050,167,Herbivore,26.0,5.0
+10051,167,Herbivore,26.0,5.0
+10052,167,Herbivore,26.0,5.0
+10060,167,Herbivore,26.0,5.0
+10070,168,fresh,28.0,4.0
+10079,168,fresh,28.0,5.0
+10086,169,Estée Lauder,42.0,5.0
+10089,169,Estée Lauder,42.0,5.0
+10103,170,Dr. Dennis Gross Skincare,15.0,5.0
+10111,170,Dr. Dennis Gross Skincare,15.0,2.0
+10112,170,Dr. Dennis Gross Skincare,15.0,5.0
+10116,171,tarte,9.0,3.0
+10124,171,tarte,9.0,2.0
+10129,172,ROSE Ingleton MD,38.0,5.0
+10152,173,Peter Thomas Roth,32.0,5.0
+10155,174,Caudalie,38.0,5.0
+10160,174,Caudalie,38.0,5.0
+10161,174,Caudalie,38.0,5.0
+10165,174,Caudalie,38.0,5.0
+10168,175,First Aid Beauty,46.0,4.0
+10177,175,First Aid Beauty,46.0,4.0
+10180,175,First Aid Beauty,46.0,5.0
+10182,176,BeautyBio,249.0,1.0
+10185,176,BeautyBio,249.0,1.0
+10190,176,BeautyBio,249.0,5.0
+10193,176,BeautyBio,249.0,5.0
+10202,177,SEPHORA COLLECTION,15.0,5.0
+10208,178,MACRENE actives,85.0,4.0
+10210,178,MACRENE actives,85.0,5.0
+10214,178,MACRENE actives,85.0,5.0
+10216,178,MACRENE actives,85.0,5.0
+10218,178,MACRENE actives,85.0,5.0
+10236,178,MACRENE actives,85.0,5.0
+10237,178,MACRENE actives,85.0,4.0
+10241,178,MACRENE actives,85.0,5.0
+10265,179,Dr. Jart+,15.0,5.0
+10270,179,Dr. Jart+,15.0,4.0
+10276,180,INC.redible,15.0,5.0
+10283,180,INC.redible,15.0,4.0
+10284,180,INC.redible,15.0,5.0
+10291,181,Charlotte Tilbury,16.0,1.0
+10297,181,Charlotte Tilbury,16.0,5.0
+10302,182,Herbivore,54.0,1.0
+10307,182,Herbivore,54.0,4.0
+10308,182,Herbivore,54.0,4.0
+10310,182,Herbivore,54.0,5.0
+10311,183,Peter Thomas Roth,55.0,5.0
+10313,183,Peter Thomas Roth,55.0,3.0
+10315,183,Peter Thomas Roth,55.0,5.0
+10320,183,Peter Thomas Roth,55.0,5.0
+10322,183,Peter Thomas Roth,55.0,5.0
+10328,184,IT Cosmetics,15.0,5.0
+10331,184,IT Cosmetics,15.0,5.0
+10332,184,IT Cosmetics,15.0,4.0
+10334,184,IT Cosmetics,15.0,4.0
+10338,185,Alpha-H,38.0,5.0
+10342,185,Alpha-H,38.0,5.0
+10345,185,Alpha-H,38.0,4.0
+10347,186,Dr. Jart+,15.0,5.0
+10356,186,Dr. Jart+,15.0,4.0
+10362,187,Bobbi Brown,86.0,5.0
+10363,187,Bobbi Brown,86.0,1.0
+10367,187,Bobbi Brown,86.0,1.0
+10378,188,Fenty Skin,34.0,5.0
+10380,188,Fenty Skin,34.0,5.0
+10382,188,Fenty Skin,34.0,5.0
+10384,188,Fenty Skin,34.0,5.0
+10391,188,Fenty Skin,34.0,1.0
+10395,188,Fenty Skin,34.0,5.0
+10398,188,Fenty Skin,34.0,5.0
+10403,189,Glossier,25.0,5.0
+10405,189,Glossier,25.0,5.0
+10410,189,Glossier,25.0,5.0
+10411,189,Glossier,25.0,5.0
+10412,189,Glossier,25.0,3.0
+10420,190,SEPHORA COLLECTION,8.0,2.0
+10421,190,SEPHORA COLLECTION,8.0,5.0
+10425,190,SEPHORA COLLECTION,8.0,5.0
+10430,191,FOREO,20.0,3.0
+10441,192,Dermalogica,42.0,1.0
+10449,193,Dior,65.0,5.0
+10455,193,Dior,65.0,4.0
+10458,193,Dior,65.0,5.0
+10464,194,Estée Lauder,46.0,5.0
+10466,194,Estée Lauder,46.0,5.0
+10474,195,FOREO,21.99,5.0
+10477,195,FOREO,21.99,4.0
+10484,196,La Mer,100.0,2.0
+10487,196,La Mer,100.0,3.0
+10488,196,La Mer,100.0,5.0
+10490,196,La Mer,100.0,5.0
+10491,196,La Mer,100.0,5.0
+10496,197,Sulwhasoo,45.0,5.0
+10497,197,Sulwhasoo,45.0,5.0
+10498,197,Sulwhasoo,45.0,5.0
+10499,197,Sulwhasoo,45.0,5.0
+10505,198,Dr. Barbara Sturm,75.0,5.0
+10510,198,Dr. Barbara Sturm,75.0,2.0
+10514,199,Glossier,25.0,3.0
+10518,199,Glossier,25.0,5.0
+10519,199,Glossier,25.0,5.0
+10520,199,Glossier,25.0,5.0
+10526,200,innisfree,14.0,5.0
+10528,200,innisfree,14.0,4.0
+10531,200,innisfree,14.0,5.0
+10536,201,Dr. Barbara Sturm,75.0,3.0
+10540,201,Dr. Barbara Sturm,75.0,5.0
+10551,202,Dr. Barbara Sturm,75.0,2.0
+10562,204,Fenty Skin,40.0,5.0
+10567,204,Fenty Skin,40.0,5.0
+10568,204,Fenty Skin,40.0,5.0
+10573,205,Glossier,21.0,3.0
+10574,205,Glossier,21.0,3.0
+10577,205,Glossier,21.0,5.0
+10581,206,Slip,55.0,5.0
+10587,206,Slip,55.0,2.0
+10590,207,Skin Laundry,12.0,5.0
+10600,208,CLINIQUE,74.0,5.0
+10612,209,tarte,14.0,5.0
+10623,211,CLINIQUE,33.0,1.0
+10624,211,CLINIQUE,33.0,5.0
+10626,211,CLINIQUE,33.0,2.0
+10635,212,CLINIQUE,61.0,5.0
+10642,213,Murad,49.0,1.0
+10644,213,Murad,49.0,5.0
+10650,214,Community Sixty-Six,16.0,5.0
+10653,215,Peter Thomas Roth,19.0,4.0
+10654,215,Peter Thomas Roth,19.0,3.0
+10657,215,Peter Thomas Roth,19.0,5.0
+10660,215,Peter Thomas Roth,19.0,5.0
+10667,216,COOLA,28.0,5.0
+10670,217,SEPHORA COLLECTION,12.0,2.0
+10680,218,Jack Black,40.0,5.0
+10681,218,Jack Black,40.0,1.0
+10683,219,SEPHORA COLLECTION,16.0,5.0
+10685,219,SEPHORA COLLECTION,16.0,4.0
+10687,219,SEPHORA COLLECTION,16.0,4.0
+10688,219,SEPHORA COLLECTION,16.0,5.0
+10691,220,The Ordinary,12.5,1.0
+10695,220,The Ordinary,12.5,2.0
+10697,220,The Ordinary,12.5,4.0
+10699,220,The Ordinary,12.5,4.0
+10700,220,The Ordinary,12.5,4.0
+10706,221,CLINIQUE,64.0,5.0
+10710,221,CLINIQUE,64.0,5.0
+10719,222,The Nue Co.,42.0,5.0
+10721,222,The Nue Co.,42.0,5.0
+10722,223,Dr. Jart+,15.0,1.0
+10738,225,fresh,58.0,5.0
+10745,227,Shani Darden Skin Care,1900.0,5.0
+10759,231,Clarins,42.0,5.0
+10765,232,Clarins,37.0,5.0
+10776,235,Mario Badescu,14.0,5.0

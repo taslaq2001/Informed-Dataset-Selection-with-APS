@@ -1,0 +1,614 @@
+user_id:token,item_id:token,feature Str:token,rating:float
+1619,5,Service Provider: UnlockedColor: MidnightSize: 128GB,5.0
+1246,4,Colour: StarlightSize: 128 GB,5.0
+2958,6,Colour: BlueSize: 128 GB,5.0
+823,2,Size: 256 GBColour: Midnight,1.0
+778,2,Size: 128 GBColour: Blue,5.0
+1826,5,Service Provider: UnlockedColor: (Product) RedSize: 128GB,5.0
+1851,5,Service Provider: UnlockedColor: PurpleSize: 256GB,1.0
+2536,6,Colour: StarlightSize: 256 GB,5.0
+2319,6,Colour: MidnightSize: 256 GB,4.0
+2973,6,Colour: BlueSize: 256 GB,5.0
+273,0,Colour: (PRODUCT) REDSize: 128 GB,4.0
+2003,5,Service Provider: UnlockedColor: PurpleSize: 128GB,4.0
+1634,5,Service Provider: T-MobileColor: BlueSize: 256GB,1.0
+230,0,Colour: BlueSize: 128 GB,5.0
+1142,4,Colour: PurpleSize: 256 GB,5.0
+1723,5,Service Provider: UnlockedColor: BlueSize: 128GB,1.0
+672,1,Size: 256GBColor: blue,1.0
+1630,5,Service Provider: UnlockedColor: BlueSize: 128GB,3.0
+547,0,Colour: (PRODUCT) REDSize: 256 GB,5.0
+2002,5,Service Provider: UnlockedColor: PurpleSize: 128GB,5.0
+2317,6,Colour: MidnightSize: 256 GB,5.0
+2564,6,Colour: PinkSize: 128 GB,1.0
+2403,6,Colour: MidnightSize: 128 GB,5.0
+140,0,Colour: MidnightSize: 256 GB,5.0
+1262,4,Colour: StarlightSize: 128 GB,5.0
+888,3,Colour: BlueSize: 256 GB,4.0
+1633,5,Service Provider: T-MobileColor: BlueSize: 256GB,1.0
+1546,5,Service Provider: VerizonColor: StarlightSize: 256GB,5.0
+1605,5,Service Provider: UnlockedColor: MidnightSize: 128GB,3.0
+686,1,Size: 128GBColor: (Product) RED,5.0
+117,0,Colour: (PRODUCT) REDSize: 128 GB,5.0
+1922,5,Service Provider: AT&TColor: PurpleSize: 128GB,5.0
+2235,6,Colour: StarlightSize: 256 GB,5.0
+72,0,Colour: StarlightSize: 128 GB,5.0
+1268,4,Colour: StarlightSize: 128 GB,1.0
+2598,6,Colour: PinkSize: 128 GB,1.0
+995,3,Colour: PinkSize: 128 GB,1.0
+917,3,Colour: PinkSize: 128 GB,5.0
+2435,6,Colour: GreenSize: 128 GB,1.0
+781,2,Size: 128 GBColour: Blue,5.0
+2810,6,Colour: MidnightSize: 128 GB,5.0
+2880,6,Colour: (PRODUCT) REDSize: 128 GB,5.0
+2082,5,Service Provider: UnlockedColor: StarlightSize: 128GB,1.0
+625,1,Size: 128GBColor: blue,4.0
+1994,5,Service Provider: UnlockedColor: PurpleSize: 128GB,5.0
+1012,3,Colour: BlueSize: 256 GB,5.0
+925,3,Colour: BlackSize: 128 GB,5.0
+1992,5,Service Provider: UnlockedColor: PurpleSize: 128GB,5.0
+2229,6,Colour: StarlightSize: 128 GB,3.0
+1508,4,Colour: YellowSize: 128 GB,1.0
+2942,6,Colour: BlueSize: 128 GB,5.0
+1615,5,Service Provider: UnlockedColor: MidnightSize: 128GB,5.0
+57,0,Colour: StarlightSize: 256 GB,5.0
+2833,6,Colour: BlueSize: 128 GB,2.0
+2233,6,Colour: StarlightSize: 256 GB,4.0
+1033,3,Colour: BlackSize: 256 GB,5.0
+626,1,Size: 128GBColor: blue,4.0
+607,1,Size: 256GBColor: Midnight,1.0
+319,0,Colour: MidnightSize: 128 GB,4.0
+2072,5,Service Provider: UnlockedColor: StarlightSize: 128GB,5.0
+1819,5,Service Provider: UnlockedColor: (Product) RedSize: 128GB,5.0
+966,3,Colour: BlackSize: 128 GB,5.0
+833,3,Colour: PinkSize: 128 GB,4.0
+2171,6,Colour: MidnightSize: 128 GB,2.0
+562,0,Colour: (PRODUCT) REDSize: 256 GB,1.0
+681,1,Size: 128GBColor: Pink,5.0
+2456,6,Colour: GreenSize: 256 GB,4.0
+2136,6,Colour: MidnightSize: 256 GB,5.0
+1618,5,Service Provider: UnlockedColor: MidnightSize: 128GB,4.0
+2608,6,Colour: MidnightSize: 128 GB,1.0
+988,3,Colour: BlackSize: 128 GB,5.0
+2692,6,Colour: BlueSize: 256 GB,1.0
+338,0,Colour: GreenSize: 128 GB,4.0
+1761,5,Service Provider: UnlockedColor: (Product) RedSize: 128GB,5.0
+950,3,Colour: BlueSize: 128 GB,5.0
+2328,6,Colour: MidnightSize: 256 GB,5.0
+2726,6,Colour: (PRODUCT) REDSize: 128 GB,3.0
+725,1,Size: 128GBColor: starlight,1.0
+2819,6,Colour: BlueSize: 256 GB,5.0
+243,0,Colour: (PRODUCT) REDSize: 128 GB,5.0
+2742,6,Colour: BlueSize: 128 GB,3.0
+1729,5,Service Provider: UnlockedColor: BlueSize: 128GB,3.0
+1020,3,Colour: GreenSize: 128 GB,1.0
+1670,5,Service Provider: T-MobileColor: PurpleSize: 128GB,5.0
+769,2,Size: 512 GBColour: Blue,1.0
+1477,4,Colour: MidnightSize: 256 GB,5.0
+1708,5,Service Provider: UnlockedColor: BlueSize: 128GB,5.0
+948,3,Colour: BlueSize: 128 GB,4.0
+1123,4,Colour: PurpleSize: 256 GB,3.0
+1562,5,Service Provider: UnlockedColor: MidnightSize: 128GB,5.0
+1415,4,Colour: BlueSize: 128 GB,5.0
+121,0,Colour: BlueSize: 128 GB,5.0
+831,3,Colour: PinkSize: 128 GB,4.0
+1594,5,Service Provider: UnlockedColor: StarlightSize: 256GB,1.0
+2826,6,Colour: (PRODUCT) REDSize: 128 GB,1.0
+815,2,Size: 128 GBColour: Blue,1.0
+470,0,Colour: GreenSize: 256 GB,1.0
+1776,5,Service Provider: AT&TColor: BlueSize: 128GB,2.0
+2272,6,Colour: GreenSize: 128 GB,5.0
+1304,4,Colour: MidnightSize: 128 GB,1.0
+333,0,Colour: GreenSize: 128 GB,4.0
+1655,5,Service Provider: UnlockedColor: Midnight BlackSize: 512GB,5.0
+1062,3,Colour: BlueSize: 128 GB,3.0
+1305,4,Colour: MidnightSize: 128 GB,1.0
+1147,4,Colour: BlueSize: 512 GB,5.0
+2370,6,Colour: GreenSize: 128 GB,1.0
+431,0,Colour: BlueSize: 128 GB,4.0
+645,1,Size: 128GBColor: Midnight,3.0
+2816,6,Colour: MidnightSize: 128 GB,4.0
+2158,6,Colour: (PRODUCT) REDSize: 256 GB,5.0
+2517,6,Colour: StarlightSize: 256 GB,1.0
+643,1,Size: 128GBColor: Midnight,2.0
+1332,4,Colour: BlueSize: 128 GB,5.0
+1296,4,Colour: MidnightSize: 128 GB,3.0
+1013,3,Colour: GreenSize: 128 GB,1.0
+658,1,Size: 128GBColor: (Product) RED,4.0
+2094,5,Service Provider: VerizonColor: BlueSize: 128GB,1.0
+1543,5,Service Provider: UnlockedColor: (Product) RedSize: 256GB,1.0
+417,0,Colour: StarlightSize: 256 GB,5.0
+539,0,Colour: BlueSize: 256 GB,5.0
+1576,5,Service Provider: UnlockedColor: PurpleSize: 512GB,5.0
+225,0,Colour: MidnightSize: 128 GB,5.0
+480,0,Colour: BlueSize: 256 GB,2.0
+999,3,Colour: BlackSize: 128 GB,3.0
+1828,5,Service Provider: UnlockedColor: (Product) RedSize: 128GB,5.0
+1173,4,Colour: StarlightSize: 128 GB,2.0
+1541,5,Service Provider: UnlockedColor: (Product) RedSize: 256GB,5.0
+1592,5,Service Provider: UnlockedColor: (Product) RedSize: 256GB,1.0
+1109,4,Colour: BlueSize: 128 GB,1.0
+1949,5,Service Provider: UnlockedColor: BlueSize: 256GB,5.0
+2487,6,Colour: StarlightSize: 256 GB,5.0
+992,3,Colour: PinkSize: 128 GB,5.0
+169,0,Colour: PinkSize: 256 GB,1.0
+2262,6,Colour: GreenSize: 256 GB,4.0
+606,1,Size: 256GBColor: Midnight,5.0
+631,1,Size: 128GBColor: starlight,4.0
+1399,4,Colour: MidnightSize: 128 GB,4.0
+671,1,Size: 256GBColor: blue,2.0
+2809,6,Colour: MidnightSize: 128 GB,5.0
+456,0,Colour: PinkSize: 128 GB,5.0
+529,0,Colour: GreenSize: 128 GB,5.0
+2214,6,Colour: GreenSize: 128 GB,5.0
+2175,6,Colour: MidnightSize: 128 GB,1.0
+1710,5,Service Provider: UnlockedColor: BlueSize: 128GB,5.0
+994,3,Colour: PinkSize: 128 GB,4.0
+1215,4,Colour: StarlightSize: 512 GB,1.0
+1700,5,Service Provider: T-MobileColor: MidnightSize: 128GB,5.0
+1400,4,Colour: MidnightSize: 128 GB,5.0
+421,0,Colour: StarlightSize: 256 GB,3.0
+1419,4,Colour: PurpleSize: 128 GB,4.0
+329,0,Colour: StarlightSize: 128 GB,5.0
+2952,6,Colour: BlueSize: 256 GB,5.0
+1087,3,Colour: BlueSize: 128 GB,5.0
+714,1,Size: 128GBColor: starlight,5.0
+1643,5,Service Provider: T-MobileColor: MidnightSize: 128GB,5.0
+2855,6,Colour: (PRODUCT) REDSize: 128 GB,1.0
+738,1,Size: 128GBColor: blue,5.0
+1169,4,Colour: StarlightSize: 128 GB,3.0
+2298,6,Colour: GreenSize: 128 GB,5.0
+2713,6,Colour: BlueSize: 128 GB,4.0
+2309,6,Colour: StarlightSize: 128 GB,5.0
+2544,6,Colour: StarlightSize: 128 GB,3.0
+1364,4,Colour: PurpleSize: 128 GB,5.0
+308,0,Colour: StarlightSize: 128 GB,5.0
+1141,4,Colour: PurpleSize: 256 GB,4.0
+903,3,Colour: BlackSize: 256 GB,5.0
+1581,5,Service Provider: VerizonColor: (Product) RedSize: 128GB,1.0
+2841,6,Colour: BlueSize: 128 GB,2.0
+126,0,Colour: BlueSize: 128 GB,4.0
+2000,5,Service Provider: UnlockedColor: PurpleSize: 128GB,5.0
+320,0,Colour: StarlightSize: 128 GB,5.0
+657,1,Size: 128GBColor: (Product) RED,4.0
+222,0,Colour: MidnightSize: 128 GB,5.0
+1971,5,Service Provider: UnlockedColor: BlueSize: 256GB,2.0
+1129,4,Colour: BlueSize: 128 GB,4.0
+2090,5,Service Provider: VerizonColor: BlueSize: 128GB,1.0
+281,0,Colour: (PRODUCT) REDSize: 128 GB,5.0
+1285,4,Colour: MidnightSize: 128 GB,5.0
+2891,6,Colour: BlueSize: 128 GB,1.0
+231,0,Colour: BlueSize: 128 GB,4.0
+2963,6,Colour: BlueSize: 128 GB,4.0
+2844,6,Colour: StarlightSize: 128 GB,1.0
+808,2,Size: 256 GBColour: Midnight,1.0
+2794,6,Colour: PinkSize: 256 GB,4.0
+2179,6,Colour: (PRODUCT) REDSize: 256 GB,1.0
+2421,6,Colour: GreenSize: 256 GB,5.0
+624,1,Size: 128GBColor: blue,3.0
+2395,6,Colour: MidnightSize: 128 GB,5.0
+1787,5,Service Provider: T-MobileColor: StarlightSize: 128GB,5.0
+603,1,Size: 256GBColor: Midnight,3.0
+2393,6,Colour: MidnightSize: 128 GB,5.0
+1323,4,Colour: BlueSize: 128 GB,5.0
+386,0,Colour: StarlightSize: 128 GB,4.0
+2205,6,Colour: StarlightSize: 128 GB,5.0
+2369,6,Colour: GreenSize: 128 GB,1.0
+560,0,Colour: (PRODUCT) REDSize: 256 GB,4.0
+2875,6,Colour: (PRODUCT) REDSize: 128 GB,4.0
+363,0,Colour: GreenSize: 128 GB,4.0
+2535,6,Colour: StarlightSize: 256 GB,5.0
+2325,6,Colour: MidnightSize: 256 GB,5.0
+3028,6,Colour: BlueSize: 128 GB,4.0
+2063,5,Service Provider: UnlockedColor: StarlightSize: 128GB,1.0
+726,1,Size: 128GBColor: starlight,2.0
+2555,6,Colour: StarlightSize: 256 GB,5.0
+2890,6,Colour: (PRODUCT) REDSize: 128 GB,1.0
+2326,6,Colour: MidnightSize: 256 GB,5.0
+1864,5,Service Provider: UnlockedColor: YellowSize: 128GB,5.0
+1694,5,Service Provider: T-MobileColor: MidnightSize: 128GB,5.0
+1839,5,Service Provider: UnlockedColor: (Product) RedSize: 128GB,1.0
+306,0,Colour: StarlightSize: 128 GB,5.0
+2015,5,Service Provider: UnlockedColor: MidnightSize: 256GB,5.0
+274,0,Colour: (PRODUCT) REDSize: 128 GB,4.0
+1552,5,Service Provider: UnlockedColor: MidnightSize: 128GB,4.0
+1668,5,Service Provider: T-MobileColor: PurpleSize: 128GB,5.0
+1065,3,Colour: BlueSize: 128 GB,4.0
+1752,5,Service Provider: UnlockedColor: BlueSize: 128GB,5.0
+1504,4,Colour: YellowSize: 128 GB,5.0
+2358,6,Colour: MidnightSize: 128 GB,5.0
+2908,6,Colour: BlueSize: 128 GB,5.0
+1351,4,Colour: BlueSize: 128 GB,1.0
+1463,4,Colour: YellowSize: 128 GB,4.0
+2321,6,Colour: MidnightSize: 256 GB,5.0
+1535,5,Service Provider: UnlockedColor: (Product) RedSize: 256GB,4.0
+2987,6,Colour: StarlightSize: 128 GB,1.0
+1975,5,Service Provider: UnlockedColor: PurpleSize: 128GB,5.0
+2086,5,Service Provider: VerizonColor: BlueSize: 128GB,5.0
+1083,3,Colour: BlueSize: 128 GB,4.0
+1276,4,Colour: MidnightSize: 128 GB,5.0
+2779,6,Colour: PinkSize: 256 GB,5.0
+253,0,Colour: MidnightSize: 128 GB,5.0
+928,3,Colour: BlackSize: 128 GB,3.0
+2469,6,Colour: GreenSize: 256 GB,5.0
+328,0,Colour: StarlightSize: 128 GB,5.0
+2669,6,Colour: PinkSize: 256 GB,3.0
+894,3,Colour: BlueSize: 256 GB,5.0
+2183,6,Colour: (PRODUCT) REDSize: 256 GB,1.0
+36,0,Colour: GreenSize: 256 GB,2.0
+578,0,Colour: (PRODUCT) REDSize: 256 GB,4.0
+1085,3,Colour: BlueSize: 128 GB,4.0
+688,1,Size: 128GBColor: (Product) RED,1.0
+269,0,Colour: MidnightSize: 256 GB,5.0
+616,1,Size: 128GBColor: Pink,2.0
+530,0,Colour: GreenSize: 128 GB,4.0
+573,0,Colour: (PRODUCT) REDSize: 256 GB,5.0
+1589,5,Service Provider: UnlockedColor: StarlightSize: 256GB,5.0
+1236,4,Colour: StarlightSize: 128 GB,5.0
+1417,4,Colour: BlueSize: 128 GB,5.0
+1522,5,Service Provider: VerizonColor: MidnightSize: 128GB,3.0
+768,2,Size: 512 GBColour: Blue,5.0
+2308,6,Colour: StarlightSize: 128 GB,5.0
+541,0,Colour: BlueSize: 256 GB,5.0
+55,0,Colour: StarlightSize: 256 GB,5.0
+1924,5,Service Provider: AT&TColor: PurpleSize: 128GB,1.0
+1938,5,Service Provider: UnlockedColor: PurpleSize: 128GB,4.0
+824,2,Size: 256 GBColour: Midnight,5.0
+259,0,Colour: MidnightSize: 128 GB,5.0
+295,0,Colour: MidnightSize: 128 GB,5.0
+384,0,Colour: StarlightSize: 128 GB,5.0
+1733,5,Service Provider: UnlockedColor: BlueSize: 128GB,2.0
+2823,6,Colour: (PRODUCT) REDSize: 128 GB,2.0
+1277,4,Colour: MidnightSize: 128 GB,4.0
+1038,3,Colour: BlackSize: 256 GB,5.0
+2408,6,Colour: MidnightSize: 128 GB,5.0
+1954,5,Service Provider: AT&TColor: MidnightSize: 128GB,1.0
+89,0,Colour: MidnightSize: 128 GB,5.0
+2668,6,Colour: PinkSize: 256 GB,2.0
+791,2,Size: 128 GBColour: Blue,4.0
+667,1,Size: 256GBColor: starlight,1.0
+804,2,Size: 256 GBColour: Midnight,4.0
+617,1,Size: 128GBColor: Pink,3.0
+656,1,Size: 128GBColor: (Product) RED,4.0
+1935,5,Service Provider: UnlockedColor: PurpleSize: 128GB,5.0
+2397,6,Colour: MidnightSize: 128 GB,4.0
+369,0,Colour: GreenSize: 128 GB,4.0
+534,0,Colour: BlueSize: 256 GB,5.0
+628,1,Size: 128GBColor: blue,5.0
+3019,6,Colour: BlueSize: 256 GB,5.0
+503,0,Colour: GreenSize: 256 GB,4.0
+1892,5,Service Provider: UnlockedColor: MidnightSize: 256GB,1.0
+1676,5,Service Provider: AT&TColor: YellowSize: 128GB,5.0
+2781,6,Colour: PinkSize: 256 GB,5.0
+1264,4,Colour: StarlightSize: 128 GB,5.0
+1540,5,Service Provider: UnlockedColor: (Product) RedSize: 256GB,5.0
+2694,6,Colour: BlueSize: 256 GB,1.0
+782,2,Size: 128 GBColour: Blue,1.0
+901,3,Colour: BlackSize: 256 GB,5.0
+1071,3,Colour: BlueSize: 128 GB,5.0
+2772,6,Colour: BlueSize: 256 GB,5.0
+461,0,Colour: PinkSize: 128 GB,5.0
+1788,5,Service Provider: T-MobileColor: StarlightSize: 128GB,1.0
+2334,6,Colour: MidnightSize: 256 GB,4.0
+1054,3,Colour: BlueSize: 128 GB,4.0
+1190,4,Colour: StarlightSize: 512 GB,5.0
+1200,4,Colour: MidnightSize: 128 GB,3.0
+962,3,Colour: BlueSize: 256 GB,1.0
+195,0,Colour: (PRODUCT) REDSize: 128 GB,4.0
+2290,6,Colour: GreenSize: 128 GB,4.0
+1312,4,Colour: MidnightSize: 128 GB,1.0
+1145,4,Colour: BlueSize: 512 GB,4.0
+2058,5,Service Provider: T-MobileColor: BlueSize: 128GB,5.0
+2322,6,Colour: MidnightSize: 256 GB,4.0
+1544,5,Service Provider: UnlockedColor: (Product) RedSize: 256GB,1.0
+2483,6,Colour: StarlightSize: 256 GB,5.0
+828,3,Colour: PinkSize: 128 GB,5.0
+2635,6,Colour: PinkSize: 128 GB,1.0
+212,0,Colour: MidnightSize: 256 GB,5.0
+1361,4,Colour: PurpleSize: 128 GB,5.0
+1798,5,Service Provider: UnlockedColor: MidnightSize: 256GB,5.0
+2348,6,Colour: MidnightSize: 256 GB,5.0
+2783,6,Colour: PinkSize: 256 GB,5.0
+1281,4,Colour: MidnightSize: 128 GB,5.0
+1588,5,Service Provider: UnlockedColor: StarlightSize: 256GB,5.0
+2693,6,Colour: BlueSize: 256 GB,2.0
+62,0,Colour: GreenSize: 128 GB,5.0
+85,0,Colour: MidnightSize: 128 GB,5.0
+2928,6,Colour: (PRODUCT) REDSize: 128 GB,4.0
+2412,6,Colour: MidnightSize: 128 GB,5.0
+61,0,Colour: GreenSize: 128 GB,5.0
+993,3,Colour: PinkSize: 128 GB,4.0
+2992,6,Colour: StarlightSize: 128 GB,1.0
+2562,6,Colour: PinkSize: 128 GB,3.0
+2950,6,Colour: BlueSize: 256 GB,5.0
+157,0,Colour: BlueSize: 256 GB,5.0
+1906,5,Service Provider: UnlockedColor: MidnightSize: 128GB,5.0
+1797,5,Service Provider: UnlockedColor: MidnightSize: 256GB,5.0
+2257,6,Colour: GreenSize: 128 GB,4.0
+2489,6,Colour: StarlightSize: 256 GB,4.0
+2357,6,Colour: MidnightSize: 128 GB,5.0
+2373,6,Colour: GreenSize: 128 GB,3.0
+886,3,Colour: BlackSize: 128 GB,5.0
+766,2,Size: 512 GBColour: Pink,5.0
+1878,5,Service Provider: UnlockedColor: MidnightSize: 256GB,1.0
+1189,4,Colour: StarlightSize: 512 GB,5.0
+2935,6,Colour: (PRODUCT) REDSize: 128 GB,4.0
+1863,5,Service Provider: UnlockedColor: YellowSize: 128GB,5.0
+1396,4,Colour: MidnightSize: 128 GB,5.0
+2852,6,Colour: (PRODUCT) REDSize: 128 GB,1.0
+2464,6,Colour: StarlightSize: 256 GB,5.0
+1203,4,Colour: MidnightSize: 128 GB,3.0
+2677,6,Colour: PinkSize: 128 GB,4.0
+2207,6,Colour: StarlightSize: 128 GB,5.0
+310,0,Colour: MidnightSize: 128 GB,5.0
+795,2,Size: 128 GBColour: Blue,1.0
+90,0,Colour: BlueSize: 256 GB,5.0
+1475,4,Colour: YellowSize: 128 GB,5.0
+2586,6,Colour: MidnightSize: 128 GB,2.0
+94,0,Colour: BlueSize: 256 GB,5.0
+1603,5,Service Provider: UnlockedColor: MidnightSize: 128GB,5.0
+2801,6,Colour: PinkSize: 256 GB,5.0
+2519,6,Colour: StarlightSize: 256 GB,1.0
+2381,6,Colour: StarlightSize: 128 GB,5.0
+2154,6,Colour: PinkSize: 128 GB,2.0
+2314,6,Colour: MidnightSize: 256 GB,5.0
+2222,6,Colour: StarlightSize: 128 GB,3.0
+748,2,Size: 128 GBColour: Blue,5.0
+1926,5,Service Provider: AT&TColor: PurpleSize: 128GB,5.0
+205,0,Colour: BlueSize: 128 GB,5.0
+2258,6,Colour: GreenSize: 128 GB,4.0
+2438,6,Colour: GreenSize: 128 GB,3.0
+1636,5,Service Provider: T-MobileColor: MidnightSize: 128GB,5.0
+2343,6,Colour: MidnightSize: 256 GB,5.0
+1893,5,Service Provider: UnlockedColor: MidnightSize: 256GB,1.0
+2009,5,Service Provider: UnlockedColor: PurpleSize: 128GB,4.0
+1234,4,Colour: StarlightSize: 128 GB,5.0
+934,3,Colour: BlackSize: 256 GB,1.0
+65,0,Colour: GreenSize: 128 GB,5.0
+2246,6,Colour: StarlightSize: 256 GB,2.0
+632,1,Size: 128GBColor: starlight,3.0
+1391,4,Colour: MidnightSize: 128 GB,4.0
+2571,6,Colour: MidnightSize: 128 GB,1.0
+2957,6,Colour: BlueSize: 128 GB,4.0
+575,0,Colour: (PRODUCT) REDSize: 256 GB,5.0
+2028,5,Service Provider: VerizonColor: BlueSize: 128GB,5.0
+2388,6,Colour: StarlightSize: 128 GB,4.0
+2295,6,Colour: GreenSize: 128 GB,5.0
+379,0,Colour: GreenSize: 128 GB,5.0
+2047,5,Service Provider: T-MobileColor: BlueSize: 128GB,2.0
+1155,4,Colour: BlueSize: 128 GB,2.0
+2674,6,Colour: PinkSize: 256 GB,2.0
+2906,6,Colour: BlueSize: 128 GB,5.0
+1784,5,Service Provider: AT&TColor: BlueSize: 128GB,1.0
+2427,6,Colour: GreenSize: 128 GB,1.0
+2279,6,Colour: GreenSize: 128 GB,4.0
+2951,6,Colour: BlueSize: 256 GB,5.0
+1176,4,Colour: StarlightSize: 128 GB,1.0
+1884,5,Service Provider: UnlockedColor: MidnightSize: 256GB,4.0
+2514,6,Colour: PinkSize: 128 GB,5.0
+446,0,Colour: PinkSize: 128 GB,2.0
+2777,6,Colour: PinkSize: 256 GB,5.0
+1509,4,Colour: YellowSize: 128 GB,1.0
+1726,5,Service Provider: UnlockedColor: BlueSize: 128GB,5.0
+388,0,Colour: StarlightSize: 128 GB,3.0
+989,3,Colour: PinkSize: 128 GB,5.0
+885,3,Colour: BlackSize: 128 GB,5.0
+2352,6,Colour: MidnightSize: 128 GB,5.0
+1856,5,Service Provider: UnlockedColor: PurpleSize: 256GB,4.0
+1586,5,Service Provider: UnlockedColor: StarlightSize: 256GB,1.0
+1816,5,Service Provider: AT&TColor: BlueSize: 128GB,5.0
+284,0,Colour: (PRODUCT) REDSize: 128 GB,5.0
+772,2,Size: 128 GBColour: Blue,3.0
+2739,6,Colour: BlueSize: 128 GB,2.0
+2743,6,Colour: BlueSize: 128 GB,3.0
+2733,6,Colour: (PRODUCT) REDSize: 128 GB,1.0
+106,0,Colour: GreenSize: 256 GB,5.0
+2488,6,Colour: StarlightSize: 256 GB,5.0
+2450,6,Colour: GreenSize: 256 GB,5.0
+2615,6,Colour: MidnightSize: 128 GB,3.0
+137,0,Colour: PinkSize: 256 GB,5.0
+462,0,Colour: PinkSize: 128 GB,5.0
+1175,4,Colour: StarlightSize: 128 GB,1.0
+569,0,Colour: (PRODUCT) REDSize: 256 GB,5.0
+378,0,Colour: GreenSize: 128 GB,4.0
+1040,3,Colour: BlackSize: 256 GB,5.0
+703,1,Size: 128GBColor: starlight,1.0
+789,2,Size: 128 GBColour: Blue,5.0
+2521,6,Colour: PinkSize: 128 GB,5.0
+522,0,Colour: GreenSize: 128 GB,4.0
+2174,6,Colour: MidnightSize: 128 GB,3.0
+549,0,Colour: (PRODUCT) REDSize: 256 GB,1.0
+1022,3,Colour: GreenSize: 128 GB,5.0
+2389,6,Colour: StarlightSize: 128 GB,4.0
+2965,6,Colour: BlueSize: 128 GB,5.0
+854,3,Colour: PinkSize: 256 GB,5.0
+275,0,Colour: (PRODUCT) REDSize: 128 GB,4.0
+1887,5,Service Provider: UnlockedColor: MidnightSize: 256GB,5.0
+2150,6,Colour: PinkSize: 128 GB,2.0
+1408,4,Colour: MidnightSize: 128 GB,4.0
+1621,5,Service Provider: UnlockedColor: BlueSize: 128GB,4.0
+3048,6,Colour: PinkSize: 128 GB,2.0
+1051,3,Colour: BlueSize: 128 GB,5.0
+1383,4,Colour: BlueSize: 128 GB,1.0
+2481,6,Colour: StarlightSize: 256 GB,4.0
+2538,6,Colour: StarlightSize: 256 GB,5.0
+2055,5,Service Provider: UnlockedColor: BlueSize: 256GB,5.0
+20,0,Colour: BlueSize: 256 GB,5.0
+2135,6,Colour: MidnightSize: 256 GB,4.0
+2031,5,Service Provider: VerizonColor: BlueSize: 128GB,2.0
+2432,6,Colour: GreenSize: 128 GB,1.0
+2140,6,Colour: MidnightSize: 256 GB,5.0
+3058,6,Colour: (PRODUCT) REDSize: 128 GB,3.0
+2345,6,Colour: MidnightSize: 256 GB,5.0
+784,2,Size: 128 GBColour: Blue,5.0
+97,0,Colour: BlueSize: 256 GB,5.0
+1307,4,Colour: MidnightSize: 128 GB,1.0
+587,1,Size: 256GBColor: (Product) RED,1.0
+2639,6,Colour: PinkSize: 128 GB,2.0
+2567,6,Colour: PinkSize: 128 GB,1.0
+1184,4,Colour: StarlightSize: 128 GB,5.0
+217,0,Colour: MidnightSize: 256 GB,5.0
+683,1,Size: 512GBColor: starlight,2.0
+1613,5,Service Provider: UnlockedColor: MidnightSize: 128GB,5.0
+1616,5,Service Provider: UnlockedColor: MidnightSize: 128GB,4.0
+1021,3,Colour: GreenSize: 128 GB,1.0
+2589,6,Colour: MidnightSize: 128 GB,3.0
+283,0,Colour: (PRODUCT) REDSize: 128 GB,4.0
+580,0,Colour: (PRODUCT) REDSize: 256 GB,4.0
+856,3,Colour: GreenSize: 256 GB,5.0
+715,1,Size: 128GBColor: starlight,2.0
+1416,4,Colour: BlueSize: 128 GB,5.0
+392,0,Colour: StarlightSize: 256 GB,1.0
+2065,5,Service Provider: UnlockedColor: StarlightSize: 128GB,5.0
+182,0,Colour: BlueSize: 128 GB,5.0
+2606,6,Colour: MidnightSize: 128 GB,2.0
+805,2,Size: 256 GBColour: Midnight,4.0
+1082,3,Colour: BlueSize: 128 GB,5.0
+2681,6,Colour: PinkSize: 256 GB,5.0
+1534,5,Service Provider: AT&TColor: StarlightSize: 256GB,1.0
+2037,5,Service Provider: UnlockedColor: StarlightSize: 128GB,5.0
+2930,6,Colour: (PRODUCT) REDSize: 128 GB,5.0
+1153,4,Colour: BlueSize: 128 GB,1.0
+2451,6,Colour: GreenSize: 256 GB,5.0
+481,0,Colour: BlueSize: 256 GB,5.0
+300,0,Colour: StarlightSize: 128 GB,4.0
+1595,5,Service Provider: UnlockedColor: StarlightSize: 256GB,1.0
+171,0,Colour: MidnightSize: 256 GB,4.0
+31,0,Colour: GreenSize: 256 GB,4.0
+2752,6,Colour: StarlightSize: 128 GB,5.0
+1378,4,Colour: PurpleSize: 128 GB,1.0
+2021,5,Service Provider: UnlockedColor: MidnightSize: 256GB,5.0
+1219,4,Colour: StarlightSize: 128 GB,5.0
+595,1,Size: 256GBColor: Pink,4.0
+1959,5,Service Provider: AT&TColor: MidnightSize: 128GB,1.0
+2267,6,Colour: GreenSize: 256 GB,5.0
+2032,5,Service Provider: VerizonColor: BlueSize: 128GB,5.0
+1319,4,Colour: BlueSize: 128 GB,5.0
+248,0,Colour: (PRODUCT) REDSize: 128 GB,3.0
+377,0,Colour: GreenSize: 128 GB,4.0
+226,0,Colour: MidnightSize: 128 GB,2.0
+2874,6,Colour: (PRODUCT) REDSize: 128 GB,4.0
+1860,5,Service Provider: UnlockedColor: YellowSize: 128GB,1.0
+2261,6,Colour: GreenSize: 128 GB,5.0
+1420,4,Colour: PurpleSize: 128 GB,4.0
+2910,6,Colour: BlueSize: 128 GB,5.0
+2269,6,Colour: GreenSize: 256 GB,5.0
+161,0,Colour: PinkSize: 256 GB,5.0
+444,0,Colour: PinkSize: 128 GB,5.0
+2651,6,Colour: (PRODUCT) REDSize: 256 GB,4.0
+747,2,Size: 128 GBColour: Blue,5.0
+1263,4,Colour: StarlightSize: 128 GB,5.0
+302,0,Colour: StarlightSize: 128 GB,5.0
+563,0,Colour: (PRODUCT) REDSize: 256 GB,1.0
+1118,4,Colour: MidnightSize: 256 GB,5.0
+397,0,Colour: StarlightSize: 256 GB,5.0
+775,2,Size: 128 GBColour: Blue,5.0
+1250,4,Colour: StarlightSize: 128 GB,1.0
+499,0,Colour: GreenSize: 256 GB,5.0
+2452,6,Colour: GreenSize: 256 GB,5.0
+2036,5,Service Provider: UnlockedColor: StarlightSize: 128GB,4.0
+2830,6,Colour: (PRODUCT) REDSize: 128 GB,1.0
+1469,4,Colour: YellowSize: 128 GB,5.0
+526,0,Colour: GreenSize: 128 GB,5.0
+229,0,Colour: MidnightSize: 128 GB,3.0
+553,0,Colour: (PRODUCT) REDSize: 256 GB,5.0
+1007,3,Colour: BlackSize: 128 GB,4.0
+2074,5,Service Provider: AT&TColor: PurpleSize: 128GB,3.0
+2033,5,Service Provider: VerizonColor: BlueSize: 128GB,5.0
+1218,4,Colour: StarlightSize: 128 GB,5.0
+237,0,Colour: BlueSize: 128 GB,5.0
+1009,3,Colour: BlueSize: 256 GB,4.0
+2365,6,Colour: GreenSize: 128 GB,1.0
+2288,6,Colour: GreenSize: 128 GB,5.0
+1170,4,Colour: StarlightSize: 128 GB,3.0
+1120,4,Colour: MidnightSize: 256 GB,5.0
+868,3,Colour: GreenSize: 128 GB,4.0
+2716,6,Colour: (PRODUCT) REDSize: 128 GB,5.0
+2439,6,Colour: GreenSize: 128 GB,2.0
+816,2,Size: 128 GBColour: Blue,5.0
+2903,6,Colour: BlueSize: 128 GB,5.0
+2759,6,Colour: BlueSize: 256 GB,1.0
+793,2,Size: 128 GBColour: Blue,5.0
+1958,5,Service Provider: AT&TColor: MidnightSize: 128GB,1.0
+1757,5,Service Provider: UnlockedColor: (Product) RedSize: 128GB,5.0
+1341,4,Colour: BlueSize: 128 GB,4.0
+150,0,Colour: BlueSize: 256 GB,5.0
+2342,6,Colour: MidnightSize: 256 GB,5.0
+365,0,Colour: GreenSize: 128 GB,5.0
+3037,6,Colour: BlueSize: 128 GB,3.0
+2597,6,Colour: PinkSize: 128 GB,1.0
+2176,6,Colour: (PRODUCT) REDSize: 256 GB,2.0
+1695,5,Service Provider: T-MobileColor: MidnightSize: 128GB,2.0
+832,3,Colour: PinkSize: 128 GB,3.0
+477,0,Colour: BlueSize: 256 GB,1.0
+1611,5,Service Provider: UnlockedColor: MidnightSize: 128GB,5.0
+1327,4,Colour: BlueSize: 128 GB,5.0
+2402,6,Colour: MidnightSize: 128 GB,5.0
+2524,6,Colour: PinkSize: 128 GB,5.0
+263,0,Colour: MidnightSize: 256 GB,1.0
+1230,4,Colour: StarlightSize: 128 GB,5.0
+153,0,Colour: BlueSize: 256 GB,5.0
+371,0,Colour: GreenSize: 128 GB,4.0
+1941,5,Service Provider: UnlockedColor: PurpleSize: 128GB,5.0
+2490,6,Colour: StarlightSize: 128 GB,5.0
+358,0,Colour: StarlightSize: 256 GB,5.0
+1090,3,Colour: BlueSize: 128 GB,5.0
+2227,6,Colour: StarlightSize: 128 GB,3.0
+469,0,Colour: GreenSize: 256 GB,1.0
+2335,6,Colour: MidnightSize: 256 GB,5.0
+1836,5,Service Provider: UnlockedColor: (Product) RedSize: 128GB,5.0
+1568,5,Service Provider: UnlockedColor: MidnightSize: 128GB,4.0
+374,0,Colour: GreenSize: 128 GB,4.0
+2649,6,Colour: (PRODUCT) REDSize: 256 GB,5.0
+1538,5,Service Provider: UnlockedColor: (Product) RedSize: 256GB,5.0
+997,3,Colour: PinkSize: 128 GB,5.0
+550,0,Colour: (PRODUCT) REDSize: 256 GB,5.0
+2147,6,Colour: PinkSize: 128 GB,2.0
+1159,4,Colour: BlueSize: 128 GB,1.0
+1890,5,Service Provider: UnlockedColor: MidnightSize: 256GB,5.0
+968,3,Colour: BlackSize: 128 GB,5.0
+83,0,Colour: MidnightSize: 128 GB,5.0
+1957,5,Service Provider: AT&TColor: MidnightSize: 128GB,1.0
+2384,6,Colour: StarlightSize: 128 GB,5.0
+3042,6,Colour: PinkSize: 128 GB,1.0
+3018,6,Colour: BlueSize: 256 GB,5.0
+297,0,Colour: MidnightSize: 128 GB,4.0
+2771,6,Colour: BlueSize: 256 GB,5.0
+1989,5,Service Provider: UnlockedColor: PurpleSize: 128GB,5.0
+2974,6,Colour: BlueSize: 256 GB,5.0
+2840,6,Colour: BlueSize: 128 GB,1.0
+2338,6,Colour: MidnightSize: 256 GB,5.0
+2401,6,Colour: MidnightSize: 128 GB,5.0
+1286,4,Colour: MidnightSize: 128 GB,5.0
+489,0,Colour: PinkSize: 256 GB,5.0
+866,3,Colour: GreenSize: 128 GB,5.0
+1812,5,Service Provider: UnlockedColor: (Product) RedSize: 128GB,5.0
+1484,4,Colour: MidnightSize: 256 GB,5.0
+385,0,Colour: StarlightSize: 128 GB,5.0
+2515,6,Colour: PinkSize: 128 GB,4.0
+125,0,Colour: BlueSize: 128 GB,4.0
+1494,4,Colour: PurpleSize: 128 GB,5.0
+1579,5,Service Provider: UnlockedColor: PurpleSize: 512GB,5.0
+1481,4,Colour: MidnightSize: 256 GB,1.0
+684,1,Size: 512GBColor: starlight,5.0
+1479,4,Colour: MidnightSize: 256 GB,1.0
+2617,6,Colour: MidnightSize: 128 GB,1.0
+2688,6,Colour: BlueSize: 256 GB,2.0
+238,0,Colour: BlueSize: 128 GB,4.0
+2330,6,Colour: MidnightSize: 256 GB,5.0
+1067,3,Colour: BlueSize: 128 GB,4.0
+1635,5,Service Provider: T-MobileColor: MidnightSize: 128GB,5.0
+2310,6,Colour: MidnightSize: 256 GB,5.0
+2111,5,Service Provider: UnlockedColor: StarlightSize: 128GB,5.0
+660,1,Size: 128GBColor: (Product) RED,2.0
+1869,5,Service Provider: UnlockedColor: YellowSize: 128GB,5.0
+2331,6,Colour: MidnightSize: 256 GB,5.0
+2547,6,Colour: StarlightSize: 128 GB,1.0
+2576,6,Colour: MidnightSize: 128 GB,1.0
+198,0,Colour: (PRODUCT) REDSize: 128 GB,5.0
+3003,6,Colour: StarlightSize: 128 GB,3.0
+1485,4,Colour: PurpleSize: 128 GB,5.0
+1329,4,Colour: BlueSize: 128 GB,4.0
+2717,6,Colour: (PRODUCT) REDSize: 128 GB,4.0
+2785,6,Colour: PinkSize: 256 GB,5.0
+27,0,Colour: BlueSize: 256 GB,5.0

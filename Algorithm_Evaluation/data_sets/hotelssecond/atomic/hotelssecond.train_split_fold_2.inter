@@ -1,0 +1,6001 @@
+user_id:token,item_id:token,feature Str:token,rating:float
+4801,610,Orlando,4.0
+8023,1203,Post Falls,5.0
+6075,714,Wauchula,3.0
+667,29,Boston,3.35
+7648,1112,Ojai,5.0
+8128,1225,Augusta,3.0
+4020,484,Austin,5.0
+7603,1100,Silverton,4.0
+6993,943,Boise,5.0
+715,31,Boston,5.0
+9387,1657,Russellville,2.0
+3596,441,Baltimore,5.0
+9418,1665,Canal Winchester,3.0
+2740,310,Rockford,4.0
+8028,1205,Hilton Head Island,3.0
+2550,239,Athens,4.0
+806,37,Chicago,3.35
+3067,395,San Francisco,4.0
+3031,391,Marietta,5.0
+5009,619,Arlington,5.0
+930,37,Chicago,2.7
+7265,1012,Nashua,4.0
+6221,743,Springfield,5.0
+2471,227,Altoona,5.0
+6657,878,Tampa,3.0
+4353,518,Springfield,4.0
+2719,302,Albert Lea,2.0
+8686,1428,Kansas City,5.0
+9543,1712,Balmorhea,5.0
+415,26,Miami Beach,4.8
+2282,173,Las Vegas,5.0
+6308,762,Tallahassee,4.0
+6487,832,Athens,5.0
+376,21,Honolulu,5.0
+2196,173,Las Vegas,2.0
+3976,476,Longboat Key,5.0
+8795,1443,Chillicothe,3.0
+3451,437,Lahaina,4.0
+2984,373,Omaha,4.0
+5613,642,Hyattsville,2.0
+9687,1748,Kissimmee,3.0
+3880,462,Golden,5.0
+6653,878,Tampa,3.0
+4337,518,Springfield,4.0
+5481,639,Virginia Beach,5.0
+9376,1648,Fayetteville,5.0
+8412,1324,Twentynine Palms,5.0
+8345,1302,Summersville,5.0
+6395,794,Sulphur,5.0
+1095,44,Chicago,4.0
+9457,1674,Harrisburg,2.0
+8489,1361,Grand Prairie,4.0
+4640,560,Port Aransas,5.0
+9918,1815,Cartersville,2.0
+471,27,Las Vegas,4.15
+4351,518,Springfield,5.0
+3007,381,Elk City,3.0
+7923,1170,King of Prussia,4.0
+7881,1161,Sylva,4.0
+7117,984,Brentwood,5.0
+5625,642,Hyattsville,1.0
+9583,1722,Dayton,1.0
+1715,120,Seattle,4.0
+1150,49,Napa,4.0
+6467,829,Dayton,3.0
+5381,636,Hanover,5.0
+9969,1834,Pinedale,4.0
+5771,646,Arlington,4.0
+1216,50,New Orleans,4.0
+1790,123,Key West,5.0
+156,16,Las Vegas,5.0
+605,27,Las Vegas,5.0
+836,36,Chicago,5.0
+8384,1317,Mesa,5.0
+2747,311,Franklin,5.0
+6554,854,Sevierville,5.0
+2678,286,Tomah,4.0
+555,27,Las Vegas,5.0
+1735,121,Seattle,5.0
+1814,124,Las Vegas,3.0
+5491,640,Hampton,2.0
+5431,638,Virginia Beach,3.0
+1855,124,Las Vegas,2.0
+8454,1348,Gainesville,4.0
+1479,84,Anaheim,3.0
+5687,642,Hyattsville,4.0
+6800,897,Boston,5.0
+3068,395,San Francisco,5.0
+4941,619,Arlington,5.0
+3858,461,Atlanta,4.0
+360,17,Boston,4.8
+3237,417,Glen Burnie,4.0
+5795,646,Arlington,4.0
+1390,76,Seattle,5.0
+7802,1139,Moosic,4.0
+2132,167,Orlando,1.0
+2691,290,Bowling Green,4.0
+4158,500,Kissimmee,4.8
+3042,395,San Francisco,5.0
+7882,1162,Vinton,3.0
+6365,779,Port Clyde,3.0
+730,32,New York,4.0
+70,9,San Diego,5.0
+1004,40,San Francisco,2.7
+3187,414,Silver Spring,4.0
+7315,1018,Greenville,4.0
+6416,801,Loup City,4.0
+5392,636,Hanover,5.0
+8862,1466,Sioux Falls,5.0
+6740,886,Carpinteria,5.0
+9388,1658,Renton,4.0
+9436,1670,Tampa,5.0
+4887,613,Hampton,5.0
+9373,1647,Ashland,5.0
+8017,1203,Post Falls,4.0
+6492,835,Hudson,5.0
+8510,1364,Annapolis,3.0
+235,16,Las Vegas,3.35
+3098,397,Hanover,5.0
+3151,413,Houston,4.0
+535,27,Las Vegas,4.8
+701,29,Boston,5.0
+1757,121,Seattle,2.0
+8957,1507,Sioux Falls,3.0
+3026,391,Marietta,5.0
+8553,1383,Greybull,5.0
+2213,173,Las Vegas,5.0
+9400,1659,Muskegon,4.0
+385,21,Honolulu,5.0
+560,27,Las Vegas,2.7
+4424,518,Springfield,3.0
+1410,77,Phoenix,1.0
+3353,430,Portland,5.0
+3272,421,Linthicum Heights,4.0
+2413,199,Morro Bay,5.0
+828,37,Chicago,2.7
+5902,663,Jacksonville,1.0
+6955,935,Louisville,5.0
+3807,453,Miami Beach,3.75
+5309,635,Gloucester,5.0
+7773,1131,Baton Rouge,5.0
+5068,621,Lanham,3.0
+8398,1319,Ames,5.0
+7797,1139,Moosic,5.0
+707,29,Boston,4.8
+8441,1342,Jackson,5.0
+1727,121,Seattle,5.0
+1146,49,Napa,5.0
+5017,620,Arlington,5.0
+1802,123,Key West,4.0
+9739,1763,Franklin,5.0
+5534,642,Hyattsville,2.0
+6316,763,Tallahassee,5.0
+7476,1058,Laughlin,4.0
+1169,49,Napa,5.0
+4003,479,Santa Barbara,5.0
+17,3,Kansas City,3.0
+9054,1548,Sioux Falls,5.0
+9106,1557,Augusta,5.0
+7163,988,Seattle,5.0
+1461,84,Anaheim,3.0
+4494,532,West Middlesex,4.0
+5320,636,Hanover,3.0
+9152,1565,Salem,5.0
+6207,741,Phoenixville,5.0
+7024,951,West Palm Beach,5.0
+4903,615,Fairfield,4.0
+1718,120,Seattle,4.0
+1530,96,New Orleans,2.0
+2355,182,Williamsburg,3.35
+3153,414,Silver Spring,4.0
+3794,452,Virginia Beach,3.15
+7799,1139,Moosic,5.0
+9165,1569,Captiva,4.0
+1474,84,Anaheim,4.0
+7935,1172,Tupelo,4.0
+8174,1238,Old Orchard Beach,2.0
+4870,613,Hampton,5.0
+2299,177,Chicago,4.0
+6272,755,Boise,3.0
+2332,181,New Orleans,5.0
+4011,481,South Lake Tahoe,5.0
+5019,620,Arlington,5.0
+5238,627,Columbia,4.0
+4647,562,Virginia Beach,3.35
+7182,991,Clearwater Beach,5.0
+488,27,Las Vegas,4.8
+6423,805,Pocomoke City,4.0
+1306,60,Phoenix,5.0
+6897,915,Ludlow,3.0
+7997,1193,Lubbock,1.0
+4798,609,Palo Alto,4.0
+6551,853,Pigeon Forge,3.0
+1175,49,Napa,2.0
+5303,635,Gloucester,4.0
+875,36,Chicago,4.4
+2375,186,El Segundo,5.0
+4703,578,Pittsburgh,4.0
+5426,638,Virginia Beach,5.0
+7973,1187,Mount Tremper,5.0
+3126,404,Dayton,5.0
+8478,1357,Carlisle,2.0
+52,8,Oxon Hill,5.0
+6743,887,Ojai,3.0
+2846,345,Pismo Beach,4.0
+8829,1456,Wheelersburg,1.0
+4249,509,Harrisburg,5.0
+6329,768,Bowling Green,5.0
+3769,449,Miami Beach,3.35
+2120,167,Orlando,5.0
+7490,1060,Santa Monica,5.0
+9810,1778,Webster,5.0
+76,10,Des Plaines,5.0
+4329,518,Springfield,3.0
+6027,704,Wisconsin Dells,4.0
+4281,517,Fresno,1.0
+292,17,Boston,4.4
+5160,624,Virginia Beach,1.0
+6299,763,Tallahassee,5.0
+6770,895,Punta Gorda,5.0
+9185,1579,Fullerton,5.0
+1221,51,Napa,4.0
+2266,173,Las Vegas,5.0
+5268,629,Denton,5.0
+4268,514,West Branch,4.0
+5317,636,Hanover,4.0
+7139,986,Charleston,5.0
+3390,437,Lahaina,3.0
+8525,1370,Hall,4.0
+2333,181,New Orleans,5.0
+4974,619,Arlington,2.0
+6445,818,Indianapolis,5.0
+9919,1816,Beaver Island,4.0
+3557,441,Baltimore,5.0
+330,17,Boston,4.15
+4777,605,Portland,5.0
+9990,1840,Boise,5.0
+2246,173,Las Vegas,5.0
+8278,1280,Honolulu,5.0
+2583,250,Janesville,4.0
+8636,1419,Carrollton,4.0
+3586,441,Baltimore,5.0
+7253,1009,Daytona Beach,5.0
+2389,193,San Luis Obispo,5.0
+2661,280,Milwaukee,1.0
+7406,1042,Louisville,5.0
+3372,437,Lahaina,4.0
+8497,1362,Erie,5.0
+6951,932,Minneapolis,5.0
+5732,644,Exmore,4.0
+92,12,Chicago,5.0
+8704,1429,Spokane,4.0
+545,27,Las Vegas,4.6
+5115,622,Virginia Beach,5.0
+5561,642,Hyattsville,5.0
+9752,1768,Shell,5.0
+4642,561,Dunedin,3.0
+7171,988,Seattle,5.0
+6710,884,Charleston,4.0
+8256,1271,Smyrna,1.0
+2895,352,Palestine,5.0
+6305,763,Tallahassee,5.0
+313,17,Boston,4.15
+997,39,Beverly Hills,5.0
+1707,120,Seattle,4.0
+5589,642,Hyattsville,3.0
+1233,51,Napa,4.0
+1030,40,San Francisco,5.0
+2721,302,Albert Lea,1.0
+2013,133,Miami Beach,2.9
+8528,1372,Miles City,4.0
+3910,468,Sedona,3.0
+2038,133,Miami Beach,4.15
+3537,439,Linthicum Heights,5.0
+1862,124,Las Vegas,5.0
+6962,935,Louisville,4.0
+2262,173,Las Vegas,5.0
+2629,266,Abingdon,4.0
+8790,1442,Grove City,5.0
+1710,120,Seattle,4.0
+6645,877,Clearwater,5.0
+5855,649,Wytheville,4.0
+3617,444,Baltimore,4.8
+4833,612,Norfolk,4.0
+3991,477,Charleston,1.0
+8375,1314,Lahaina,5.0
+3944,474,Linthicum Heights,5.0
+7608,1101,Idaho Falls,5.0
+4089,492,Nashville,1.0
+9929,1821,Asheboro,5.0
+32,8,Oxon Hill,4.0
+9526,1702,West Memphis,5.0
+3874,461,Atlanta,5.0
+1380,71,Atlanta,3.0
+158,16,Las Vegas,1.65
+5299,635,Gloucester,5.0
+7335,1018,Greenville,5.0
+3772,449,Miami Beach,2.3
+6154,728,Silverdale,5.0
+2889,350,Scottsdale,5.0
+6397,796,Pebble Beach,5.0
+1957,130,Atlanta,4.0
+8533,1373,Miles City,4.0
+756,32,New York,5.0
+6496,836,Evansville,3.0
+1778,122,Philadelphia,5.0
+4616,556,Virginia Beach,4.0
+5165,624,Virginia Beach,3.0
+5900,662,Fruitland,5.0
+7006,948,Sacramento,4.0
+2757,316,Bear,5.0
+4854,612,Norfolk,5.0
+5665,642,Hyattsville,5.0
+9327,1625,Eau Claire,4.0
+1028,40,San Francisco,4.15
+9649,1744,Kissimmee,4.0
+1208,50,New Orleans,5.0
+6265,749,Tulsa,4.0
+5950,676,Los Angeles,2.0
+1031,40,San Francisco,3.75
+1059,40,San Francisco,5.0
+7670,1116,Doswell,5.0
+3233,417,Glen Burnie,1.0
+1560,101,Anaheim,5.0
+1548,100,Atlantic City,5.0
+6573,861,Knoxville,5.0
+9819,1782,Horse Cave,5.0
+3754,449,Miami Beach,4.8
+8935,1501,San Antonio,5.0
+7780,1131,Baton Rouge,5.0
+6158,732,Sarasota,5.0
+3650,445,Williamsburg,4.4
+6082,716,Lake Mary,3.0
+2084,151,Cherokee,4.0
+8548,1380,Fargo,4.0
+571,27,Las Vegas,3.95
+7643,1109,Port Aransas,4.0
+4157,500,Kissimmee,5.0
+537,27,Las Vegas,2.9
+1542,99,Atlantic City,4.0
+8758,1440,Santa Monica,5.0
+6520,841,Wisconsin Dells,4.0
+9326,1625,Eau Claire,5.0
+5489,640,Hampton,5.0
+125,13,Boston,5.0
+6176,736,Myrtle Beach,3.0
+3941,474,Linthicum Heights,4.0
+1994,56,Chicago,5.0
+7654,1113,Spearfish,3.0
+2769,318,Cortez,2.0
+220,16,Las Vegas,5.0
+9081,1552,Tokeland,4.0
+176,16,Las Vegas,2.5
+9967,1832,Herkimer,1.0
+5670,642,Hyattsville,3.0
+1650,118,New Orleans,4.0
+9005,1527,Republic,5.0
+2872,345,Pismo Beach,5.0
+7203,999,Allentown,4.0
+8857,1465,Mason,2.0
+5777,646,Arlington,3.0
+8800,1446,Tallahassee,4.0
+2433,206,Clermont,5.0
+7775,1131,Baton Rouge,4.0
+9159,1566,Manitou Springs,4.0
+3426,437,Lahaina,4.0
+1027,40,San Francisco,4.6
+2566,244,Elkhorn,5.0
+5499,640,Hampton,4.0
+581,27,Las Vegas,5.0
+2460,220,Old Orchard Beach,4.0
+6123,726,South Lake Tahoe,4.0
+1019,40,San Francisco,4.6
+6530,841,Wisconsin Dells,4.0
+1353,65,Atlanta,3.0
+188,16,Las Vegas,3.15
+1687,119,New Orleans,5.0
+5436,638,Virginia Beach,5.0
+3918,469,Brooklyn,4.0
+2625,265,Morrisville,5.0
+6252,747,Camarillo,5.0
+6683,882,Hollywood,1.0
+3714,447,Baltimore,3.0
+5615,642,Hyattsville,5.0
+5978,684,Spartanburg,3.0
+3540,439,Linthicum Heights,5.0
+1266,53,Key West,5.0
+5997,692,Dunkirk,5.0
+8925,1494,Macon,4.0
+703,29,Boston,4.6
+8445,1342,Jackson,5.0
+1865,124,Las Vegas,3.0
+7179,990,Savannah,3.0
+1603,107,Atlantic City,3.0
+1772,122,Philadelphia,5.0
+8830,1457,Williamsport,3.0
+9140,1562,Orlando,3.0
+1847,124,Las Vegas,5.0
+7848,1143,Indianapolis,2.0
+7994,1191,Minneapolis,4.0
+8469,1353,Arlington,4.0
+5793,646,Arlington,5.0
+9795,1777,Newark,3.0
+4636,558,Naples,4.0
+1239,51,Napa,5.0
+8511,1365,Ojai,5.0
+3598,441,Baltimore,5.0
+8835,1459,Tampa,1.0
+1599,107,Atlantic City,4.0
+9734,1760,Springfield,4.0
+349,17,Boston,4.4
+827,37,Chicago,5.0
+3283,421,Linthicum Heights,5.0
+3575,441,Baltimore,3.0
+3659,445,Williamsburg,4.6
+7031,955,Myrtle Beach,5.0
+4361,518,Springfield,3.0
+745,32,New York,5.0
+5702,642,Hyattsville,3.0
+8034,1206,Santa Barbara,5.0
+7047,958,Houston,5.0
+9620,1736,Albany,4.0
+4917,617,Marana,5.0
+8630,1415,Ogunquit,5.0
+7125,985,Norwalk,3.0
+2269,173,Las Vegas,1.0
+9738,1762,Southaven,5.0
+7162,988,Seattle,4.0
+4468,524,Suffolk,5.0
+856,37,Chicago,5.0
+4412,518,Springfield,3.0
+6762,895,Punta Gorda,5.0
+4202,500,Kissimmee,4.4
+3755,449,Miami Beach,3.35
+5859,650,Naples,4.0
+8691,1428,Kansas City,5.0
+3053,395,San Francisco,4.0
+5202,624,Virginia Beach,5.0
+9240,1598,Columbus,5.0
+6924,921,Katy,5.0
+5135,623,Baltimore,3.0
+3676,446,Baltimore,5.0
+7354,1021,Redding,5.0
+2026,133,Miami Beach,4.4
+5363,636,Hanover,2.0
+7200,998,Simpsonville,5.0
+9697,1751,Mount Vernon,5.0
+5449,638,Virginia Beach,3.0
+7137,986,Charleston,5.0
+4802,610,Orlando,4.0
+765,32,New York,5.0
+3914,468,Sedona,5.0
+7156,988,Seattle,5.0
+1844,124,Las Vegas,4.0
+7400,1037,Monroe,4.0
+4783,605,Portland,4.0
+4693,578,Pittsburgh,4.0
+7403,1039,Wallace,4.0
+9336,1629,Great Falls,5.0
+4729,589,Schellsburg,5.0
+2707,296,Butte,4.0
+3527,439,Linthicum Heights,5.0
+9572,857,Goodlettsville,3.0
+2606,260,Corpus Christi,1.0
+8969,1510,Olathe,4.0
+8598,1404,Athens,5.0
+8242,1265,Hollywood,5.0
+5987,689,Florence,5.0
+739,32,New York,5.0
+7292,1015,Morgantown,4.0
+3391,437,Lahaina,4.0
+7613,1105,Meredith,5.0
+3516,439,Linthicum Heights,5.0
+7770,1130,Milford,3.0
+6426,807,Twin Mountain,5.0
+8939,1501,San Antonio,5.0
+7649,1112,Ojai,3.0
+3116,402,Albert Lea,5.0
+7820,1140,Gatlinburg,5.0
+9627,1740,Atlanta,5.0
+7090,973,Garden Grove,2.0
+439,26,Miami Beach,4.15
+3756,449,Miami Beach,5.0
+5811,646,Arlington,4.0
+4112,496,Santa Rosa,4.0
+9383,1653,Davis,1.0
+4935,619,Arlington,4.0
+7769,1130,Milford,5.0
+8634,1417,Charlevoix,5.0
+7498,1060,Santa Monica,5.0
+107,13,Boston,5.0
+4731,589,Schellsburg,2.0
+7232,1004,New Albany,5.0
+6239,747,Camarillo,5.0
+4305,518,Springfield,4.0
+2659,280,Milwaukee,3.0
+5305,635,Gloucester,3.0
+7621,1107,Portland,5.0
+5752,645,Prince Frederick,4.0
+8888,1478,Oakley,5.0
+1196,50,New Orleans,5.0
+9181,1576,Waterville Valley,4.0
+5385,636,Hanover,5.0
+5312,635,Gloucester,5.0
+1120,49,Napa,4.0
+8717,1431,McMinnville,3.0
+5659,642,Hyattsville,4.0
+8355,1310,Cortez,3.0
+6313,762,Tallahassee,5.0
+8923,1493,Thomaston,2.0
+9169,1570,Federal Way,4.0
+7411,1042,Louisville,5.0
+6721,884,Charleston,4.0
+5994,692,Dunkirk,3.0
+6702,884,Charleston,4.0
+8235,1265,Hollywood,5.0
+7058,959,Helena,5.0
+3034,392,Saint Louis,4.0
+6360,775,Bar Harbor,5.0
+9266,1606,Cherokee,3.0
+4902,614,Elizabeth,3.0
+6759,895,Punta Gorda,4.0
+7930,1171,Redmond,1.0
+3906,468,Sedona,3.0
+3017,386,Chimney Rock,4.0
+5789,646,Arlington,3.0
+2150,173,Las Vegas,5.0
+6755,894,Niceville,5.0
+5901,662,Fruitland,5.0
+1495,84,Anaheim,5.0
+5483,639,Virginia Beach,5.0
+9604,1730,Lewes,3.0
+7225,1003,Vail,5.0
+7634,1107,Portland,5.0
+9774,1774,Bend,5.0
+198,15,Las Vegas,3.55
+1155,49,Napa,2.0
+1644,115,Philadelphia,3.0
+4819,611,Olympia,5.0
+9117,1560,Milwaukee,1.0
+5908,664,Yachats,4.0
+6641,877,Clearwater,3.0
+1758,121,Seattle,4.0
+3155,414,Silver Spring,5.0
+234,16,Las Vegas,1.45
+9425,1668,Prairie du Chien,4.0
+7871,1154,Denver,4.0
+3780,451,Portland,4.15
+3036,392,Saint Louis,5.0
+593,27,Las Vegas,4.4
+1219,50,New Orleans,5.0
+6708,884,Charleston,4.0
+6632,875,Irving,5.0
+265,16,Las Vegas,5.0
+2468,224,Waldorf,5.0
+1134,49,Napa,4.0
+7607,1102,Idaho Falls,5.0
+3235,417,Glen Burnie,2.0
+6151,727,Denton,5.0
+2227,173,Las Vegas,5.0
+7286,1014,Oklahoma City,5.0
+2891,351,Saint Louis,5.0
+1527,95,New Orleans,5.0
+6182,736,Myrtle Beach,4.0
+5733,645,Prince Frederick,4.0
+4975,619,Arlington,5.0
+1579,103,Anaheim,4.0
+5770,646,Arlington,3.0
+3960,474,Linthicum Heights,3.0
+7352,1021,Redding,5.0
+6051,707,Harrisburg,5.0
+5297,635,Gloucester,5.0
+378,21,Honolulu,5.0
+9037,1542,Flagstaff,3.0
+1326,65,Atlanta,5.0
+6801,897,Boston,5.0
+4115,496,Santa Rosa,4.0
+353,17,Boston,4.6
+2562,243,Coshocton,2.0
+5395,636,Hanover,1.0
+3321,428,Hampton,4.0
+7266,1012,Nashua,5.0
+6986,941,Elk Grove Village,1.0
+1373,70,New York,2.0
+7036,955,Myrtle Beach,4.0
+9516,1698,Medford,4.0
+6975,935,Louisville,5.0
+9987,1838,Chandler,4.0
+3784,451,Portland,2.3
+4430,518,Springfield,2.0
+6385,787,Rantoul,3.0
+7800,1139,Moosic,1.0
+4188,500,Kissimmee,2.5
+3706,447,Baltimore,3.55
+3508,438,Virginia Beach,3.0
+5047,621,Lanham,4.0
+773,33,Los Angeles,5.0
+7142,986,Charleston,5.0
+4733,590,Texarkana,5.0
+4227,505,Winchester,4.0
+5606,642,Hyattsville,3.0
+5870,653,Tulsa,4.0
+2198,173,Las Vegas,4.0
+9028,1538,Mackinaw City,5.0
+7679,1119,Las Vegas,4.0
+3972,476,Longboat Key,5.0
+4680,575,Tidioute,5.0
+6285,755,Boise,4.0
+3937,474,Linthicum Heights,5.0
+5371,636,Hanover,2.0
+2706,296,Butte,4.0
+1692,119,New Orleans,5.0
+9666,1744,Kissimmee,4.0
+7538,1075,Baton Rouge,3.0
+9718,1758,Sheboygan,1.0
+1202,50,New Orleans,4.0
+8637,1419,Carrollton,3.0
+1895,127,Chicago,5.0
+4150,500,Kissimmee,5.0
+9939,1826,Santa Fe,4.0
+3846,460,Cape May,5.0
+1413,77,Phoenix,4.0
+5675,642,Hyattsville,4.0
+6044,707,Harrisburg,5.0
+5465,638,Virginia Beach,5.0
+3893,465,Flagstaff,5.0
+9396,1659,Muskegon,5.0
+3819,453,Miami Beach,4.8
+530,27,Las Vegas,3.95
+5944,675,Yountville,5.0
+3052,395,San Francisco,4.0
+3645,445,Williamsburg,4.15
+714,30,Miami,5.0
+3166,414,Silver Spring,3.0
+1546,100,Atlantic City,1.0
+185,15,Las Vegas,5.0
+1871,125,Atlantic City,1.0
+7953,1180,Cannon Beach,3.0
+8421,1327,Onalaska,3.0
+2517,231,Honolulu,4.0
+1508,93,Boston,5.0
+9500,1688,Kingsland,3.0
+3625,444,Baltimore,3.15
+2208,173,Las Vegas,5.0
+628,27,Las Vegas,2.5
+3603,444,Baltimore,4.15
+9765,1773,Bar Harbor,5.0
+1152,49,Napa,4.0
+918,37,Chicago,5.0
+7311,1017,Seattle,4.0
+9374,1648,Fayetteville,5.0
+1885,127,Chicago,4.0
+3781,451,Portland,5.0
+1917,127,Chicago,5.0
+6427,808,Las Vegas,1.0
+5378,636,Hanover,4.0
+4863,612,Norfolk,4.0
+6189,737,Columbus,5.0
+8081,1216,Old Forge,4.0
+135,13,Boston,4.15
+2205,173,Las Vegas,5.0
+7866,1154,Denver,5.0
+1702,120,Seattle,4.0
+8195,1248,DeLand,5.0
+7032,955,Myrtle Beach,5.0
+4379,518,Springfield,5.0
+2482,228,Charlotte,4.0
+429,26,Miami Beach,4.4
+8219,1261,Saint Louis,5.0
+8554,1383,Greybull,3.0
+4558,549,Tampa,4.0
+3773,449,Miami Beach,5.0
+7147,986,Charleston,5.0
+4156,500,Kissimmee,3.55
+922,37,Chicago,4.8
+972,37,Chicago,3.75
+5567,642,Hyattsville,5.0
+6761,895,Punta Gorda,5.0
+5647,642,Hyattsville,1.0
+397,25,New Orleans,5.0
+1610,108,San Diego,4.0
+8721,1432,Marina,3.0
+4686,578,Pittsburgh,4.0
+7816,1140,Gatlinburg,5.0
+6166,734,San Diego,5.0
+9070,1551,Richmond,4.0
+2248,173,Las Vegas,1.0
+5203,624,Virginia Beach,4.0
+9246,1598,Columbus,5.0
+7669,1116,Doswell,3.0
+2576,247,Appleton,5.0
+5621,642,Hyattsville,1.0
+6561,857,Goodlettsville,5.0
+87,12,Chicago,5.0
+4944,619,Arlington,5.0
+5082,621,Lanham,3.0
+6679,882,Hollywood,4.0
+3628,444,Baltimore,3.75
+5166,624,Virginia Beach,5.0
+1589,106,Anaheim,1.0
+2097,158,Gardner,4.0
+5516,641,Columbia,5.0
+5054,621,Lanham,4.0
+5326,636,Hanover,5.0
+8115,1223,Columbia,4.0
+2720,302,Albert Lea,2.0
+9523,1701,Traverse City,2.0
+3174,414,Silver Spring,3.0
+2133,167,Orlando,5.0
+1383,72,Atlanta,4.0
+7554,1081,Fort Wayne,3.0
+7357,1021,Redding,5.0
+4695,578,Pittsburgh,5.0
+2050,137,Durham,5.0
+6165,733,Santa Barbara,4.0
+2361,182,Williamsburg,2.7
+5672,642,Hyattsville,3.0
+6750,892,Atlanta,1.0
+2027,133,Miami Beach,2.3
+1236,51,Napa,5.0
+4995,619,Arlington,3.0
+7152,986,Charleston,5.0
+8853,1465,Mason,1.0
+1074,42,Philadelphia,5.0
+4721,583,Carrollton,3.0
+4585,553,Norfolk,5.0
+2858,345,Pismo Beach,5.0
+3011,384,Saint Louis,5.0
+8738,1435,Saint Louis,5.0
+2296,177,Chicago,4.0
+3461,437,Lahaina,5.0
+56,8,Oxon Hill,5.0
+9561,1719,Erie,4.0
+1701,120,Seattle,5.0
+9309,1623,Fort Lauderdale,3.0
+3852,461,Atlanta,4.0
+563,27,Las Vegas,4.4
+2826,340,Long Beach,5.0
+2191,173,Las Vegas,5.0
+1069,42,Philadelphia,5.0
+6483,830,Knoxville,5.0
+3594,441,Baltimore,5.0
+6971,935,Louisville,4.0
+3061,395,San Francisco,5.0
+858,37,Chicago,5.0
+8861,1466,Sioux Falls,5.0
+5653,642,Hyattsville,1.0
+1631,110,San Diego,4.0
+3460,437,Lahaina,5.0
+4813,610,Orlando,4.0
+5760,646,Arlington,5.0
+9341,1631,Bonne Terre,1.0
+7192,997,Dayton,3.0
+7410,1042,Louisville,4.0
+1403,77,Phoenix,5.0
+987,39,Beverly Hills,3.25
+9449,1671,Albuquerque,5.0
+2807,335,Culver City,1.0
+2802,333,Eureka,5.0
+2703,296,Butte,5.0
+6847,907,Koloa,4.0
+6370,782,Mattoon,2.0
+5977,683,Walterboro,4.0
+1722,121,Seattle,5.0
+1845,124,Las Vegas,4.0
+2322,181,New Orleans,5.0
+2470,226,Cedar Rapids,3.0
+3670,446,Baltimore,4.0
+8846,1462,Rockford,3.0
+5906,663,Jacksonville,3.0
+4865,612,Norfolk,5.0
+613,27,Las Vegas,5.0
+2816,338,Palm Springs,4.0
+5070,621,Lanham,4.0
+3879,462,Golden,4.0
+9281,1612,Mansfield,4.0
+7699,1126,Hollywood,3.0
+33,8,Oxon Hill,5.0
+2359,182,Williamsburg,5.0
+7284,1014,Oklahoma City,4.0
+5355,636,Hanover,5.0
+3911,468,Sedona,5.0
+4255,510,Sevierville,5.0
+6500,837,Raton,5.0
+9968,1833,Perrysburg,4.0
+1310,61,Phoenix,4.0
+800,35,Chicago,4.4
+7521,1070,Weatherford,1.0
+3812,453,Miami Beach,4.8
+1369,67,Atlanta,5.0
+3284,421,Linthicum Heights,5.0
+1090,44,Chicago,4.0
+5050,621,Lanham,4.0
+1142,49,Napa,1.0
+8428,1332,Sioux City,5.0
+137,13,Boston,3.55
+9615,1736,Albany,5.0
+9278,1610,Lake George,5.0
+8241,1265,Hollywood,5.0
+9566,1719,Erie,1.0
+8423,1328,Pittsburg,5.0
+9546,1712,Balmorhea,5.0
+7377,1030,Prescott,5.0
+2297,177,Chicago,4.0
+8775,1440,Santa Monica,5.0
+6326,767,Bowling Green,5.0
+996,39,Beverly Hills,3.55
+9750,1767,Mountain Home,5.0
+8920,1492,Warner Robins,5.0
+4574,552,El Paso,3.0
+6087,718,Fort Myers,4.0
+3547,441,Baltimore,4.0
+4889,613,Hampton,5.0
+2289,175,Austin,5.0
+3286,421,Linthicum Heights,5.0
+6940,930,San Ramon,3.0
+1382,72,Atlanta,5.0
+7064,962,Belfast,1.0
+7145,986,Charleston,5.0
+4233,506,Edison,5.0
+6120,725,Avalon,4.0
+4943,619,Arlington,4.0
+3600,442,Sarasota,2.0
+2079,149,Flagstaff,5.0
+8214,1261,Saint Louis,5.0
+9163,1568,Downsville,4.0
+2923,356,Beverly Hills,1.0
+3032,391,Marietta,5.0
+7692,1123,Tallahassee,4.0
+3330,428,Hampton,1.0
+3774,450,Baltimore,3.15
+3361,434,Southfield,1.0
+5693,642,Hyattsville,5.0
+6552,853,Pigeon Forge,3.0
+7010,949,Elkridge,4.0
+6293,758,Mount Airy,4.0
+9865,1801,Independence,3.0
+229,15,Las Vegas,5.0
+6919,919,Anaheim,5.0
+7140,986,Charleston,2.0
+4187,500,Kissimmee,5.0
+1521,95,New Orleans,3.0
+2765,316,Bear,5.0
+6798,896,West Hollywood,5.0
+8147,1232,Moses Lake,5.0
+7739,1129,Charleston,4.0
+9210,1587,Cass,4.0
+9941,1826,Santa Fe,4.0
+4947,619,Arlington,4.0
+2223,173,Las Vegas,5.0
+1054,40,San Francisco,3.75
+1189,50,New Orleans,5.0
+3967,475,Plainview,5.0
+3118,403,Clinton,5.0
+789,34,Chicago,2.1
+3766,449,Miami Beach,4.6
+5913,665,Indio,3.0
+1168,49,Napa,4.0
+382,21,Honolulu,4.0
+1328,65,Atlanta,2.0
+3400,437,Lahaina,4.0
+4024,484,Austin,5.0
+8663,1428,Kansas City,2.0
+3602,444,Baltimore,4.6
+3500,438,Virginia Beach,1.0
+1193,50,New Orleans,4.0
+7980,1189,Broomfield,4.0
+8321,1295,Juneau,5.0
+13,2,Vancouver,5.0
+1408,77,Phoenix,5.0
+7320,1018,Greenville,4.0
+9777,1776,Florence,3.0
+6900,917,Bowling Green,5.0
+3902,468,Sedona,5.0
+6117,724,Secaucus,3.0
+1663,119,New Orleans,5.0
+993,39,Beverly Hills,3.75
+9762,1772,Ironwood,3.0
+9149,1565,Salem,3.0
+4531,540,San Diego,4.0
+4712,579,Pittsburgh,1.0
+548,27,Las Vegas,4.15
+825,37,Chicago,4.6
+3107,398,Sacramento,5.0
+6625,874,Miami Beach,4.0
+7442,1052,Bossier City,5.0
+6060,708,Omaha,3.0
+5792,646,Arlington,3.0
+3823,453,Miami Beach,3.95
+9737,1761,Random Lake,4.0
+5065,621,Lanham,2.0
+3627,444,Baltimore,4.4
+8092,1219,Pryor,3.0
+5998,693,Watertown,2.0
+7324,1018,Greenville,5.0
+4638,559,Key Biscayne,2.0
+3736,448,Virginia Beach,5.0
+6999,946,Bethlehem,5.0
+722,32,New York,5.0
+1820,124,Las Vegas,3.0
+6356,777,Bar Harbor,2.0
+5073,621,Lanham,2.0
+6090,718,Fort Myers,5.0
+5132,623,Baltimore,3.0
+2193,173,Las Vegas,5.0
+3440,437,Lahaina,5.0
+2004,56,Chicago,3.0
+4782,605,Portland,3.0
+370,19,Miami Beach,5.0
+2184,173,Las Vegas,3.0
+6310,762,Tallahassee,2.0
+8844,1462,Rockford,4.0
+4292,518,Springfield,5.0
+6244,747,Camarillo,4.0
+8455,1348,Gainesville,5.0
+6895,914,Greenville,5.0
+7241,1006,Brooklyn,2.0
+3548,441,Baltimore,5.0
+2121,167,Orlando,5.0
+6563,858,Goodlettsville,1.0
+1685,119,New Orleans,4.0
+5407,637,Springfield,3.0
+3441,437,Lahaina,5.0
+8735,1435,Saint Louis,5.0
+8231,1265,Hollywood,5.0
+4841,612,Norfolk,5.0
+7169,988,Seattle,3.0
+3644,445,Williamsburg,4.4
+2838,345,Pismo Beach,5.0
+5814,646,Arlington,5.0
+6100,718,Fort Myers,5.0
+4948,619,Arlington,5.0
+8259,1274,Tulsa,1.0
+9486,1685,Crawfordsville,3.0
+5530,642,Hyattsville,4.0
+1970,130,Atlanta,5.0
+7662,1115,Hollywood,3.0
+5832,646,Arlington,4.0
+9996,1845,Anchorage,1.0
+5975,683,Walterboro,4.0
+2742,310,Rockford,4.0
+5136,623,Baltimore,4.0
+1556,100,Atlantic City,1.0
+6666,881,Denver,2.0
+1587,104,Anaheim,4.0
+2834,345,Pismo Beach,5.0
+2454,215,Clearwater Beach,5.0
+9291,1619,Victor,5.0
+144,13,Boston,4.8
+8516,1368,Missoula,4.0
+3145,413,Houston,3.0
+7361,1022,Austin,4.0
+5064,621,Lanham,2.0
+3709,447,Baltimore,4.6
+3194,414,Silver Spring,5.0
+5137,623,Baltimore,2.0
+639,29,Boston,4.8
+5930,671,Alton,3.0
+5864,651,Texarkana,4.0
+4397,518,Springfield,4.0
+8867,1468,Santa Monica,5.0
+7212,999,Allentown,5.0
+5328,636,Hanover,5.0
+3581,441,Baltimore,5.0
+5872,654,Tampa,5.0
+5341,636,Hanover,2.0
+9407,1661,Austin,4.0
+448,26,Miami Beach,3.55
+5945,675,Yountville,5.0
+3648,445,Williamsburg,3.15
+6373,782,Mattoon,5.0
+5624,642,Hyattsville,2.0
+3141,412,Portland,4.0
+3290,421,Linthicum Heights,5.0
+7332,1018,Greenville,5.0
+1405,77,Phoenix,4.0
+3576,441,Baltimore,5.0
+7108,980,Lafayette,5.0
+386,21,Honolulu,5.0
+2109,164,North Las Vegas,5.0
+7965,1184,Erie,4.0
+9471,1679,Clear Lake,1.0
+5405,637,Springfield,2.0
+7647,1111,Yuba City,3.0
+8188,1246,Sandston,5.0
+4514,535,Florence,4.0
+4596,554,Hampton,5.0
+295,17,Boston,4.8
+93,12,Chicago,4.8
+7531,1073,Columbia,4.0
+6991,943,Boise,4.0
+9729,1759,Vandalia,4.0
+6481,830,Knoxville,5.0
+2638,270,Clearfield,2.0
+9288,1618,Spartanburg,5.0
+8194,1248,DeLand,5.0
+8769,1440,Santa Monica,5.0
+4135,497,Long Beach,5.0
+6977,936,Durham,3.0
+7525,1072,Plano,5.0
+2030,133,Miami Beach,5.0
+767,33,Los Angeles,4.4
+4823,612,Norfolk,5.0
+5928,671,Alton,5.0
+1381,72,Atlanta,5.0
+6668,881,Denver,5.0
+3292,421,Linthicum Heights,5.0
+8130,1225,Augusta,4.0
+9816,1782,Horse Cave,5.0
+9489,1685,Crawfordsville,2.0
+259,16,Las Vegas,3.75
+3005,380,Broken Arrow,4.0
+4619,556,Virginia Beach,2.0
+5779,646,Arlington,4.0
+1062,42,Philadelphia,5.0
+3678,446,Baltimore,5.0
+6863,908,Charleston,5.0
+9915,1814,Wytheville,3.0
+1555,100,Atlantic City,5.0
+7620,1107,Portland,5.0
+2024,133,Miami Beach,2.1
+9353,1639,Naples,5.0
+4352,518,Springfield,5.0
+8193,1247,Daytona Beach,5.0
+9527,1703,Albany,5.0
+8451,1346,Fort Wayne,4.0
+3430,437,Lahaina,5.0
+6728,884,Charleston,3.0
+8057,1210,Carmel,5.0
+8589,1399,Fort Worth,5.0
+7891,709,Oklahoma City,5.0
+4184,500,Kissimmee,4.8
+4671,572,Ardmore,5.0
+7652,1113,Spearfish,4.0
+6142,726,South Lake Tahoe,5.0
+4225,504,Vallejo,4.0
+5077,621,Lanham,3.0
+831,37,Chicago,3.25
+1009,40,San Francisco,4.6
+4426,518,Springfield,4.0
+7834,1140,Gatlinburg,5.0
+8268,1276,Scranton,5.0
+3212,417,Glen Burnie,4.0
+4961,619,Arlington,5.0
+1713,120,Seattle,4.0
+9175,1572,Mount Arlington,3.0
+2954,361,Gloucester,4.0
+6829,906,Las Vegas,5.0
+5800,646,Arlington,5.0
+3489,438,Virginia Beach,4.0
+7432,1049,Jacksonville,1.0
+9196,1583,South Bend,4.0
+7622,1107,Portland,5.0
+8756,1440,Santa Monica,5.0
+4372,518,Springfield,5.0
+775,33,Los Angeles,4.4
+3232,417,Glen Burnie,1.0
+8106,1221,Fort Wayne,5.0
+2911,355,Long Beach,4.0
+2144,172,Portland,5.0
+7134,986,Charleston,5.0
+7767,1130,Milford,5.0
+8561,1386,Evansville,4.0
+2235,173,Las Vegas,5.0
+4232,506,Edison,5.0
+1023,40,San Francisco,4.6
+1085,44,Chicago,4.0
+5739,645,Prince Frederick,4.0
+5861,650,Naples,5.0
+1248,52,Dallas,4.0
+6766,895,Punta Gorda,5.0
+7889,1164,Port Allegany,4.0
+4001,479,Santa Barbara,5.0
+7113,983,Paso Robles,5.0
+281,17,Boston,5.0
+5607,642,Hyattsville,3.0
+1624,108,San Diego,3.0
+737,32,New York,3.0
+3287,421,Linthicum Heights,5.0
+51,8,Oxon Hill,5.0
+1559,101,Anaheim,4.0
+8908,1486,Chapel Hill,5.0
+9481,1683,Birdsboro,4.0
+4123,497,Long Beach,5.0
+9671,1745,Columbus,5.0
+2376,187,Dublin,4.0
+6126,726,South Lake Tahoe,4.0
+8771,1440,Santa Monica,5.0
+5750,645,Prince Frederick,5.0
+8961,1508,Oklahoma City,5.0
+1351,65,Atlanta,2.0
+914,37,Chicago,4.8
+2974,368,Aiken,2.0
+1896,127,Chicago,3.0
+847,37,Chicago,4.8
+5784,646,Arlington,3.0
+3698,446,Baltimore,5.0
+6069,710,Omaha,5.0
+9306,1623,Fort Lauderdale,3.0
+5825,646,Arlington,1.0
+1136,49,Napa,4.0
+8074,1214,Kingsland,4.0
+3344,429,Chincoteague Island,4.0
+3631,444,Baltimore,5.0
+4629,556,Virginia Beach,4.0
+1929,127,Chicago,5.0
+4304,518,Springfield,4.0
+8390,1318,Wichita,4.0
+5776,646,Arlington,1.0
+8004,1198,Chattanooga,1.0
+5457,638,Virginia Beach,3.0
+5427,638,Virginia Beach,4.0
+9673,1745,Columbus,4.0
+5711,642,Hyattsville,5.0
+7651,1113,Spearfish,4.0
+2353,182,Williamsburg,3.75
+2982,371,Springfield,5.0
+2222,173,Las Vegas,5.0
+7306,1017,Seattle,5.0
+4809,610,Orlando,5.0
+2493,228,Charlotte,5.0
+673,29,Boston,5.0
+7207,999,Allentown,1.0
+8866,1468,Santa Monica,5.0
+8972,1512,Monterey Park,3.0
+3619,444,Baltimore,5.0
+98,12,Chicago,5.0
+4882,613,Hampton,1.0
+8171,1237,Greeley,5.0
+4097,494,Sunnyvale,3.0
+2716,301,Austin,4.0
+932,36,Chicago,5.0
+2945,360,Madison,5.0
+7308,1017,Seattle,4.0
+2808,336,Rialto,1.0
+7939,1174,Leesburg,5.0
+6732,884,Charleston,5.0
+9424,1668,Prairie du Chien,2.0
+6368,781,Grand Island,5.0
+5780,646,Arlington,5.0
+7065,962,Belfast,1.0
+4735,592,Iraan,1.0
+8148,1232,Moses Lake,5.0
+3398,437,Lahaina,4.0
+1584,104,Anaheim,3.0
+2641,271,King of Prussia,5.0
+5403,637,Springfield,3.0
+5532,642,Hyattsville,1.0
+5526,642,Hyattsville,3.0
+1137,49,Napa,5.0
+543,27,Las Vegas,3.55
+9001,1524,Enterprise,4.0
+6913,919,Anaheim,1.0
+7858,1148,Pittsburg,5.0
+9060,547,San Jose,4.0
+1544,100,Atlantic City,1.0
+4428,518,Springfield,2.0
+4358,518,Springfield,4.0
+8588,1399,Fort Worth,4.0
+8685,1428,Kansas City,5.0
+9348,1635,Emmetsburg,4.0
+7579,1088,Gainesville,5.0
+2039,133,Miami Beach,4.4
+8948,1504,Lawrence,1.0
+5140,623,Baltimore,5.0
+8005,1199,Shamrock,5.0
+1385,73,New York,2.0
+3412,437,Lahaina,5.0
+2601,257,Forest Grove,5.0
+9820,1782,Horse Cave,4.0
+6929,923,Ann Arbor,5.0
+5250,627,Columbia,5.0
+9735,1760,Springfield,2.0
+8462,1352,Richmond,3.0
+3247,418,Gladstone,5.0
+2245,173,Las Vegas,5.0
+7285,1014,Oklahoma City,5.0
+4942,619,Arlington,5.0
+668,29,Boston,5.0
+5093,621,Lanham,5.0
+246,16,Las Vegas,2.75
+5657,642,Hyattsville,5.0
+1419,78,Phoenix,4.0
+4340,518,Springfield,5.0
+4615,556,Virginia Beach,5.0
+8126,1225,Augusta,1.0
+394,22,New York,5.0
+4440,518,Springfield,5.0
+1628,109,Philadelphia,4.0
+85,12,Chicago,3.55
+4443,520,Newark,5.0
+5740,645,Prince Frederick,5.0
+3376,437,Lahaina,3.0
+8950,1505,Salina,3.0
+4572,552,El Paso,4.0
+1056,40,San Francisco,4.6
+6306,762,Tallahassee,5.0
+1831,124,Las Vegas,5.0
+5020,620,Arlington,5.0
+6157,731,Sunnyvale,5.0
+308,17,Boston,3.95
+110,13,Boston,4.0
+3725,448,Virginia Beach,3.55
+4336,518,Springfield,2.0
+4923,617,Marana,5.0
+9700,1752,Walla Walla,3.0
+5191,624,Virginia Beach,5.0
+8467,1353,Arlington,5.0
+4266,513,Louisville,4.0
+5290,633,Kennesaw,3.0
+8493,1362,Erie,5.0
+1264,53,Key West,3.0
+5181,624,Virginia Beach,5.0
+9579,1722,Dayton,5.0
+2993,376,Rahway,3.0
+6631,875,Irving,5.0
+6278,755,Boise,4.0
+8265,1276,Scranton,4.0
+8573,1395,Red Oak,4.0
+1931,127,Chicago,5.0
+3029,391,Marietta,3.0
+6101,718,Fort Myers,5.0
+525,27,Las Vegas,1.45
+4497,532,West Middlesex,5.0
+9590,1724,Lakeland,5.0
+9466,1676,Brownsburg,5.0
+3523,439,Linthicum Heights,5.0
+9233,1596,Big Spring,5.0
+9809,1777,Newark,4.0
+3854,461,Atlanta,4.0
+7402,1039,Wallace,4.0
+2180,173,Las Vegas,5.0
+8504,1363,Bloomington,4.0
+6318,764,East Syracuse,4.0
+9124,1561,Henrietta,3.0
+7942,1175,Gatlinburg,5.0
+8087,1217,Albuquerque,3.0
+4256,511,Harrisburg,3.0
+796,34,Chicago,3.15
+3777,450,Baltimore,4.6
+629,27,Las Vegas,5.0
+6048,707,Harrisburg,3.0
+3088,397,Hanover,4.0
+5655,642,Hyattsville,4.0
+801,34,Chicago,3.75
+917,37,Chicago,5.0
+372,19,Miami Beach,3.55
+963,37,Chicago,5.0
+5879,654,Tampa,4.0
+5720,643,Alexandria,4.0
+3864,461,Atlanta,5.0
+5868,653,Tulsa,2.0
+6869,908,Charleston,5.0
+6983,938,Oklahoma City,4.0
+567,27,Las Vegas,3.95
+753,32,New York,5.0
+4509,534,Jackson,2.0
+1348,65,Atlanta,5.0
+2444,210,Jacksonville,5.0
+2070,147,Dodge City,5.0
+4966,619,Arlington,5.0
+6630,875,Irving,5.0
+3392,437,Lahaina,4.0
+2139,170,Northwood,4.0
+9961,1830,Franconia,1.0
+5963,682,Gillette,2.0
+5486,639,Virginia Beach,5.0
+3688,446,Baltimore,1.0
+8369,1314,Lahaina,4.0
+8234,1265,Hollywood,5.0
+7209,999,Allentown,3.0
+2667,281,Elkhart,3.0
+5187,624,Virginia Beach,3.0
+103,13,Boston,3.95
+2905,354,Corrales,4.0
+3359,432,Myrtle Beach,5.0
+6790,896,West Hollywood,4.0
+7044,958,Houston,4.0
+8349,1305,Chattanooga,2.0
+3257,421,Linthicum Heights,4.0
+6711,884,Charleston,2.0
+3826,455,Warner Robins,4.0
+1302,60,Phoenix,3.0
+6888,913,Blacksburg,5.0
+3614,444,Baltimore,4.8
+5651,642,Hyattsville,2.0
+6162,733,Santa Barbara,5.0
+2693,291,Harker Heights,3.0
+4979,619,Arlington,5.0
+8179,1239,Austin,2.0
+6315,763,Tallahassee,5.0
+1515,94,New Orleans,5.0
+2541,235,Kingman,4.0
+782,33,Los Angeles,4.8
+9098,1553,Freehold,4.0
+716,32,New York,5.0
+8817,1451,Houston,3.0
+2304,179,Biddeford,1.0
+1681,119,New Orleans,5.0
+4849,612,Norfolk,1.0
+9511,1694,Wall,3.0
+2634,268,Erie,5.0
+8559,1386,Evansville,4.0
+4267,513,Louisville,4.0
+5423,638,Virginia Beach,5.0
+2126,167,Orlando,5.0
+950,37,Chicago,5.0
+6894,914,Greenville,5.0
+8406,1322,Fort Collins,5.0
+2744,311,Franklin,5.0
+249,15,Las Vegas,5.0
+1452,83,Phoenix,5.0
+8233,1265,Hollywood,3.0
+6642,877,Clearwater,4.0
+1022,40,San Francisco,5.0
+6292,757,Richmond,1.0
+2957,361,Gloucester,4.0
+9746,1766,Salina,5.0
+4265,513,Louisville,2.0
+9062,547,San Jose,4.0
+6518,841,Wisconsin Dells,4.0
+2595,253,Chantilly,5.0
+3649,445,Williamsburg,5.0
+8365,1314,Lahaina,4.0
+9325,1625,Eau Claire,4.0
+814,36,Chicago,4.4
+9285,1615,Marble Falls,4.0
+7530,1072,Plano,5.0
+4540,544,La Jolla,5.0
+4728,588,Easton,5.0
+8700,1429,Spokane,5.0
+154,15,Las Vegas,4.4
+2232,173,Las Vegas,5.0
+3730,448,Virginia Beach,2.5
+5352,636,Hanover,2.0
+3844,458,Benton Harbor,4.0
+8063,1212,Norfolk,2.0
+7744,1129,Charleston,4.0
+8751,1440,Santa Monica,4.0
+3795,452,Virginia Beach,4.6
+2682,286,Tomah,4.0
+8491,1362,Erie,5.0
+9445,1671,Albuquerque,4.0
+173,16,Las Vegas,2.5
+8848,1462,Rockford,4.0
+5156,623,Baltimore,2.0
+5456,638,Virginia Beach,4.0
+5323,636,Hanover,3.0
+9645,1744,Kissimmee,4.0
+5772,646,Arlington,4.0
+3210,417,Glen Burnie,2.0
+74,9,San Diego,5.0
+8125,1225,Augusta,2.0
+9355,1639,Naples,5.0
+5397,636,Hanover,4.0
+2064,144,Danville,5.0
+7151,986,Charleston,5.0
+3094,397,Hanover,5.0
+860,37,Chicago,2.9
+5617,642,Hyattsville,2.0
+943,37,Chicago,4.6
+1529,96,New Orleans,5.0
+2724,303,Peoria,5.0
+7574,1087,Horseheads,4.0
+8157,1235,Cincinnati,3.0
+6698,884,Charleston,5.0
+3642,445,Williamsburg,5.0
+4087,492,Nashville,4.0
+717,32,New York,3.0
+2352,182,Williamsburg,4.6
+819,37,Chicago,5.0
+3260,421,Linthicum Heights,2.0
+2159,173,Las Vegas,4.0
+8316,1291,Tucson,1.0
+3572,441,Baltimore,5.0
+1750,121,Seattle,5.0
+7544,1078,Littleton,5.0
+4561,549,Tampa,2.0
+6705,884,Charleston,5.0
+6628,874,Miami Beach,5.0
+7373,1028,Flagstaff,3.0
+618,27,Las Vegas,5.0
+622,27,Las Vegas,3.75
+874,36,Chicago,5.0
+7056,958,Houston,4.0
+761,32,New York,5.0
+2400,196,Valencia,4.0
+6935,927,Augusta,5.0
+9142,1564,Speculator,5.0
+7553,1081,Fort Wayne,3.0
+7136,986,Charleston,5.0
+4425,518,Springfield,3.0
+6353,776,Bar Harbor,5.0
+6904,917,Bowling Green,5.0
+2976,368,Aiken,5.0
+1496,85,New Orleans,5.0
+355,17,Boston,5.0
+5697,642,Hyattsville,5.0
+6279,755,Boise,4.0
+1716,120,Seattle,5.0
+4746,595,Canyon,5.0
+1925,127,Chicago,5.0
+7027,953,Ann Arbor,3.0
+4892,613,Hampton,5.0
+9847,1794,Durham,4.0
+1953,129,Atlanta,4.0
+423,26,Miami Beach,4.6
+9403,1660,Oldsmar,5.0
+1684,119,New Orleans,5.0
+6856,907,Koloa,5.0
+1194,50,New Orleans,5.0
+7897,709,Oklahoma City,3.0
+2830,342,Atascadero,2.0
+7903,709,Oklahoma City,5.0
+1021,40,San Francisco,4.6
+4929,619,Arlington,5.0
+2953,361,Gloucester,5.0
+81,12,Chicago,4.8
+9597,1728,Ormond Beach,4.0
+7155,987,Hollywood,5.0
+3493,438,Virginia Beach,5.0
+2012,133,Miami Beach,4.8
+5262,628,Chimney Rock,5.0
+5920,668,Pineville,5.0
+8650,1425,Normal,1.0
+1894,127,Chicago,4.0
+6336,768,Bowling Green,4.0
+197,16,Las Vegas,1.65
+3522,439,Linthicum Heights,5.0
+4959,619,Arlington,3.0
+2619,263,Panhandle,2.0
+9116,1560,Milwaukee,1.0
+2839,345,Pismo Beach,5.0
+4940,619,Arlington,5.0
+9829,1789,Durham,1.0
+7738,1129,Charleston,5.0
+7244,1007,Hollywood,4.0
+1088,44,Chicago,2.0
+4354,518,Springfield,1.0
+6266,750,Port Arthur,5.0
+4380,518,Springfield,5.0
+6039,706,Savannah,3.0
+5155,623,Baltimore,4.0
+9603,1729,Flagstaff,5.0
+466,27,Las Vegas,4.4
+1800,123,Key West,5.0
+5391,636,Hanover,3.0
+8998,1523,Cedar City,5.0
+2234,173,Las Vegas,2.0
+8712,1430,Houston,4.0
+5217,624,Virginia Beach,3.0
+2279,173,Las Vegas,5.0
+6434,812,Ithaca,5.0
+1066,42,Philadelphia,5.0
+3397,437,Lahaina,3.0
+1498,87,New Orleans,1.0
+226,16,Las Vegas,3.35
+5570,642,Hyattsville,4.0
+9405,1660,Oldsmar,5.0
+778,33,Los Angeles,4.8
+2627,266,Abingdon,4.0
+4149,500,Kissimmee,3.75
+7301,1016,Lone Tree,4.0
+4791,608,Virginia Beach,5.0
+99,13,Boston,4.6
+4781,605,Portland,5.0
+4018,483,Portland,5.0
+1039,40,San Francisco,4.6
+1303,60,Phoenix,3.0
+5122,622,Virginia Beach,5.0
+390,21,Honolulu,5.0
+7909,1166,Oklahoma City,4.0
+1850,124,Las Vegas,5.0
+364,17,Boston,1.45
+2544,236,Clarksville,4.0
+5398,636,Hanover,1.0
+6172,735,Kings Beach,5.0
+7961,1182,Buffalo,5.0
+3657,445,Williamsburg,3.55
+2274,173,Las Vegas,5.0
+1602,107,Atlantic City,4.0
+7782,1133,Holland,1.0
+6637,875,Irving,5.0
+8216,1261,Saint Louis,4.0
+8281,1280,Honolulu,5.0
+6371,782,Mattoon,5.0
+6415,800,Burnet,1.0
+3940,474,Linthicum Heights,3.0
+1043,40,San Francisco,4.8
+2910,355,Long Beach,5.0
+2521,231,Honolulu,5.0
+6064,709,Oklahoma City,4.0
+3317,428,Hampton,3.0
+8666,1428,Kansas City,3.0
+9114,1560,Milwaukee,3.0
+2900,353,Sutter Creek,4.0
+8065,1212,Norfolk,1.0
+7238,1005,Columbus,5.0
+121,13,Boston,5.0
+5889,658,Wytheville,4.0
+948,37,Chicago,4.8
+9605,1731,Kenedy,5.0
+9247,1599,Norfolk,4.0
+4968,619,Arlington,5.0
+606,27,Las Vegas,3.95
+8979,1513,Tarpon Springs,4.0
+9698,1751,Mount Vernon,5.0
+7114,983,Paso Robles,4.0
+1457,83,Phoenix,5.0
+8408,1323,Crestview,1.0
+9267,1607,Seward,5.0
+7408,1042,Louisville,1.0
+1807,123,Key West,5.0
+3033,392,Saint Louis,5.0
+6102,718,Fort Myers,5.0
+513,27,Las Vegas,3.75
+7594,1096,Manitou Springs,2.0
+2754,314,Walla Walla,5.0
+1198,50,New Orleans,5.0
+5207,624,Virginia Beach,4.0
+2593,253,Chantilly,1.0
+9564,1719,Erie,5.0
+7052,958,Houston,4.0
+845,36,Chicago,3.15
+280,17,Boston,4.8
+4216,503,Port Richey,5.0
+9628,1740,Atlanta,3.0
+2469,225,Cedar Rapids,5.0
+4869,613,Hampton,4.0
+7276,1013,New York,4.0
+2782,323,Clearwater Beach,5.0
+3307,427,New Philadelphia,4.0
+2087,153,Middletown,5.0
+4541,544,La Jolla,1.0
+6748,890,Bourbonnais,5.0
+6673,881,Denver,5.0
+6902,917,Bowling Green,3.0
+2694,292,Florence,5.0
+988,39,Beverly Hills,3.15
+3055,395,San Francisco,2.0
+3835,456,Lockport,5.0
+5585,642,Hyattsville,1.0
+7215,1000,Little Rock,4.0
+8586,1399,Fort Worth,4.0
+6115,723,Fremont,4.0
+1875,125,Atlantic City,1.0
+4432,518,Springfield,4.0
+3943,474,Linthicum Heights,4.0
+4722,584,Clarksville,5.0
+8047,1210,Carmel,5.0
+4493,531,Lake Elsinore,4.0
+8307,1289,Deer Park,1.0
+5815,646,Arlington,5.0
+654,29,Boston,4.8
+4932,619,Arlington,5.0
+5200,624,Virginia Beach,5.0
+5678,642,Hyattsville,5.0
+6910,918,Bowling Green,3.0
+9720,1758,Sheboygan,5.0
+7685,1120,Dublin,1.0
+1777,122,Philadelphia,5.0
+718,32,New York,5.0
+460,26,Miami Beach,3.75
+5060,621,Lanham,1.0
+8635,1418,Wisconsin Dells,5.0
+7795,1137,Ellis,3.0
+5208,624,Virginia Beach,3.0
+3878,461,Atlanta,3.0
+4895,613,Hampton,4.0
+965,37,Chicago,3.75
+4436,518,Springfield,3.0
+8178,1239,Austin,5.0
+9399,1659,Muskegon,1.0
+9641,1744,Kissimmee,3.0
+8149,1232,Moses Lake,2.0
+6574,862,Johnson City,2.0
+271,17,Boston,3.15
+5042,620,Arlington,5.0
+8623,1410,Union Dale,3.0
+4623,556,Virginia Beach,5.0
+7450,1055,Hilliard,2.0
+5726,643,Alexandria,1.0
+5102,621,Lanham,5.0
+1851,124,Las Vegas,4.0
+2822,340,Long Beach,5.0
+923,37,Chicago,5.0
+5721,643,Alexandria,5.0
+4449,521,Suffolk,5.0
+58,8,Oxon Hill,4.0
+7864,1153,Lebanon,5.0
+7475,1058,Laughlin,5.0
+3913,468,Sedona,4.0
+1124,49,Napa,5.0
+8767,1440,Santa Monica,3.0
+5545,642,Hyattsville,2.0
+3634,444,Baltimore,5.0
+9567,1719,Erie,4.0
+9042,1543,Charleston,4.0
+653,29,Boston,3.55
+3965,475,Plainview,5.0
+3695,446,Baltimore,5.0
+4853,612,Norfolk,5.0
+180,15,Las Vegas,3.75
+8424,1329,Hugoton,5.0
+4857,612,Norfolk,5.0
+6616,874,Miami Beach,1.0
+4004,479,Santa Barbara,4.0
+9461,1674,Harrisburg,5.0
+141,13,Boston,3.95
+4002,479,Santa Barbara,5.0
+582,27,Las Vegas,4.6
+9057,547,San Jose,4.0
+1558,100,Atlantic City,4.0
+4076,490,Middletown,5.0
+751,32,New York,5.0
+6108,722,Temecula,2.0
+568,27,Las Vegas,5.0
+9344,1633,Onalaska,5.0
+4110,496,Santa Rosa,2.0
+7619,1107,Portland,5.0
+5880,654,Tampa,4.0
+402,26,Miami Beach,3.15
+9529,1703,Albany,2.0
+9103,1554,Edison,4.0
+5839,646,Arlington,4.0
+6086,717,West Palm Beach,2.0
+9044,1543,Charleston,4.0
+6781,896,West Hollywood,5.0
+569,27,Las Vegas,3.35
+3963,475,Plainview,2.0
+8086,1217,Albuquerque,4.0
+8481,1359,Monroeville,5.0
+4542,545,Boulder,3.0
+1127,49,Napa,4.0
+3464,437,Lahaina,5.0
+832,36,Chicago,5.0
+1897,127,Chicago,4.0
+5018,620,Arlington,5.0
+5713,642,Hyattsville,5.0
+9357,1639,Naples,4.0
+1261,53,Key West,5.0
+491,27,Las Vegas,3.15
+4263,511,Harrisburg,2.0
+2931,359,Cambridge,5.0
+1854,124,Las Vegas,5.0
+2817,339,Valencia,4.0
+9000,1523,Cedar City,4.0
+9011,1531,Salina,4.0
+8363,1314,Lahaina,5.0
+4921,617,Marana,5.0
+8457,1348,Gainesville,4.0
+3719,448,Virginia Beach,4.8
+4238,507,Wilmington,5.0
+3482,438,Virginia Beach,5.0
+2417,199,Morro Bay,3.0
+964,37,Chicago,3.75
+885,37,Chicago,5.0
+8770,1440,Santa Monica,4.0
+1629,110,San Diego,3.0
+8833,1458,South Haven,5.0
+3608,444,Baltimore,3.75
+8391,1318,Wichita,4.0
+3177,414,Silver Spring,5.0
+8429,1333,International Falls,4.0
+2394,194,Palm Springs,1.0
+8660,1428,Kansas City,5.0
+8781,1440,Santa Monica,3.0
+468,27,Las Vegas,4.15
+2437,209,Hialeah,3.0
+5272,629,Denton,5.0
+1449,83,Phoenix,5.0
+9584,1722,Dayton,1.0
+6393,793,Lake Charles,5.0
+5240,627,Columbia,3.0
+5359,636,Hanover,4.0
+3764,449,Miami Beach,4.6
+9828,1788,Cincinnati,5.0
+245,16,Las Vegas,3.15
+9095,1553,Freehold,4.0
+5549,642,Hyattsville,3.0
+225,15,Las Vegas,4.8
+2390,192,San Luis Obispo,3.0
+1388,75,Seattle,3.0
+6677,881,Denver,5.0
+4566,551,Jupiter,5.0
+4264,512,Miami Beach,5.0
+4862,612,Norfolk,4.0
+2882,347,Monrovia,1.0
+8726,1434,Cedar Rapids,4.0
+9712,1756,Atlanta,3.0
+6687,882,Hollywood,3.0
+6155,729,Louisville,5.0
+1466,84,Anaheim,1.0
+6478,830,Knoxville,5.0
+5826,646,Arlington,5.0
+4757,601,Waco,5.0
+8705,1429,Spokane,5.0
+6309,763,Tallahassee,5.0
+4588,553,Norfolk,4.0
+7129,986,Charleston,4.0
+2089,153,Middletown,5.0
+641,29,Boston,5.0
+215,15,Las Vegas,3.55
+6939,930,San Ramon,4.0
+6936,928,Kalispell,4.0
+5121,622,Virginia Beach,3.0
+7030,954,Kearney,5.0
+4098,494,Sunnyvale,3.0
+6794,896,West Hollywood,5.0
+4368,518,Springfield,4.0
+8163,1235,Cincinnati,1.0
+126,13,Boston,4.5
+4094,492,Nashville,4.0
+1402,77,Phoenix,3.0
+6111,722,Temecula,5.0
+5100,621,Lanham,5.0
+1393,77,Phoenix,3.0
+6211,741,Phoenixville,4.0
+2203,173,Las Vegas,5.0
+8947,1504,Lawrence,3.0
+5654,642,Hyattsville,5.0
+5210,624,Virginia Beach,2.0
+8891,1479,Elsah,5.0
+3658,445,Williamsburg,5.0
+6643,877,Clearwater,4.0
+2085,152,Coeur d'Alene,5.0
+199,15,Las Vegas,4.6
+5520,642,Hyattsville,3.0
+3115,402,Albert Lea,4.0
+1997,56,Chicago,5.0
+8437,1339,Saint Cloud,5.0
+3202,416,Coeur d'Alene,5.0
+9782,1777,Newark,5.0
+4915,617,Marana,4.0
+4439,518,Springfield,4.0
+4656,564,San Francisco,4.0
+5480,639,Virginia Beach,5.0
+8083,1217,Albuquerque,5.0
+4759,602,Tyler,5.0
+8753,1440,Santa Monica,5.0
+2772,320,DeLand,5.0
+5578,642,Hyattsville,5.0
+6251,747,Camarillo,5.0
+5601,642,Hyattsville,4.0
+3737,448,Virginia Beach,4.4
+2286,174,Rockford,5.0
+4987,619,Arlington,5.0
+7743,1129,Charleston,5.0
+5757,646,Arlington,4.0
+8394,1318,Wichita,4.0
+6380,785,Auburn,1.0
+399,26,Miami Beach,5.0
+269,17,Boston,4.6
+9742,1764,Princeton,2.0
+6036,706,Savannah,5.0
+4504,533,Alexandria,3.0
+4536,542,Marina,1.0
+5500,641,Columbia,4.0
+9217,1591,Los Angeles,4.0
+4316,518,Springfield,4.0
+624,27,Las Vegas,5.0
+7217,1000,Little Rock,3.0
+4083,491,Orange City,1.0
+261,15,Las Vegas,4.4
+1803,123,Key West,5.0
+1430,82,Chicago,5.0
+3242,417,Glen Burnie,5.0
+1101,44,Chicago,5.0
+3449,437,Lahaina,4.0
+4524,539,McMinnville,5.0
+395,23,New York,5.0
+2320,181,New Orleans,5.0
+5311,635,Gloucester,5.0
+5056,621,Lanham,4.0
+2498,229,Calistoga,4.0
+4064,488,Suffolk,4.0
+3512,439,Linthicum Heights,4.0
+7233,1005,Columbus,4.0
+1933,127,Chicago,1.0
+3888,465,Flagstaff,5.0
+1068,42,Philadelphia,3.0
+2497,229,Calistoga,5.0
+9009,1530,Grants Pass,1.0
+6768,895,Punta Gorda,3.0
+2156,173,Las Vegas,4.0
+484,27,Las Vegas,3.75
+1937,128,San Francisco,5.0
+267,16,Las Vegas,3.75
+4241,508,Panama City Beach,1.0
+8050,1210,Carmel,5.0
+2461,221,Old Orchard Beach,4.0
+6599,871,Madison,3.0
+3059,395,San Francisco,5.0
+3425,437,Lahaina,4.0
+7824,1140,Gatlinburg,4.0
+7641,1108,Nephi,5.0
+1699,119,New Orleans,5.0
+6314,762,Tallahassee,3.0
+7370,1027,Flagstaff,2.0
+4479,528,Whippany,5.0
+7686,1121,Denver,5.0
+862,36,Chicago,3.55
+231,16,Las Vegas,4.4
+9520,1700,Killdeer,1.0
+5031,620,Arlington,5.0
+9236,1597,Grand Coulee,4.0
+7492,1060,Santa Monica,5.0
+359,17,Boston,4.15
+4811,610,Orlando,4.0
+4162,500,Kissimmee,3.35
+4079,490,Middletown,3.0
+3154,414,Silver Spring,2.0
+3111,400,Saint Louis,5.0
+374,19,Miami Beach,4.6
+3845,459,Austin,5.0
+6271,754,Lake Charles,2.0
+5275,631,Woburn,5.0
+7546,1078,Littleton,4.0
+1252,53,Key West,5.0
+4055,488,Suffolk,5.0
+2813,337,Sausalito,4.0
+9333,1629,Great Falls,4.0
+46,8,Oxon Hill,5.0
+9452,1673,Bradenton Beach,5.0
+6811,899,Lake Elsinore,4.0
+7115,984,Brentwood,5.0
+3455,437,Lahaina,5.0
+8038,1208,Buffalo,5.0
+4949,619,Arlington,5.0
+351,17,Boston,4.15
+4856,612,Norfolk,5.0
+3621,444,Baltimore,2.9
+8197,1249,Kimberling City,5.0
+6495,836,Evansville,4.0
+6604,874,Miami Beach,3.0
+7236,1005,Columbus,5.0
+7966,1185,Tupper Lake,4.0
+7801,1139,Moosic,5.0
+140,13,Boston,2.5
+4030,485,Montgomery,3.0
+1749,121,Seattle,5.0
+3266,421,Linthicum Heights,5.0
+282,17,Boston,3.75
+5926,670,Emerald Isle,2.0
+6059,708,Omaha,4.0
+9234,1597,Grand Coulee,4.0
+7187,994,San Luis Obispo,3.0
+100,13,Boston,4.8
+1107,48,San Francisco,3.0
+9259,1604,Westmont,4.0
+6300,762,Tallahassee,3.0
+580,27,Las Vegas,5.0
+9551,1715,Bradenton Beach,5.0
+7269,1012,Nashua,5.0
+699,29,Boston,4.4
+4998,619,Arlington,5.0
+2990,374,Bethlehem,4.0
+8430,1334,Moose Lake,3.0
+5258,627,Columbia,5.0
+2824,340,Long Beach,5.0
+9411,1663,Austin,4.0
+5717,642,Hyattsville,3.0
+3072,397,Hanover,4.0
+2930,359,Cambridge,2.0
+8415,1325,Prosser,1.0
+2695,292,Florence,5.0
+9434,1670,Tampa,3.0
+5538,642,Hyattsville,4.0
+8839,1461,Radford,5.0
+822,36,Chicago,3.35
+9402,1660,Oldsmar,5.0
+899,36,Chicago,5.0
+8570,1392,Beaver,5.0
+5347,636,Hanover,3.0
+5476,638,Virginia Beach,5.0
+8673,1428,Kansas City,4.0
+3831,456,Lockport,4.0
+6760,895,Punta Gorda,2.0
+4197,500,Kissimmee,3.95
+1791,123,Key West,5.0
+1535,97,New Orleans,4.0
+7664,1116,Doswell,2.0
+2419,199,Morro Bay,4.0
+130,13,Boston,3.55
+1343,65,Atlanta,5.0
+4736,593,Center,4.0
+404,26,Miami Beach,4.8
+1625,108,San Diego,2.0
+7534,1074,Basalt,5.0
+1794,123,Key West,5.0
+9024,1535,Coalinga,5.0
+9171,1571,West Hollywood,4.0
+3912,468,Sedona,5.0
+9991,1841,Rockaway Beach,5.0
+8124,1225,Augusta,1.0
+3762,449,Miami Beach,3.95
+8297,1285,Chattanooga,5.0
+1394,77,Phoenix,4.0
+5495,640,Hampton,1.0
+7399,1037,Monroe,1.0
+7161,988,Seattle,4.0
+9994,1843,Coeur d'Alene,4.0
+8701,1429,Spokane,5.0
+867,37,Chicago,5.0
+7663,1115,Hollywood,5.0
+6488,833,Danbury,5.0
+3466,437,Lahaina,5.0
+6223,744,Buford,4.0
+9003,1526,Lakeview,5.0
+6217,743,Springfield,5.0
+4612,556,Virginia Beach,5.0
+9164,1569,Captiva,5.0
+8617,1408,Omaha,4.0
+8690,1428,Kansas City,5.0
+3073,397,Hanover,5.0
+9339,1630,Lesterville,5.0
+5429,638,Virginia Beach,5.0
+4787,606,Atlanta,5.0
+416,26,Miami Beach,5.0
+3328,428,Hampton,3.0
+8388,1317,Mesa,1.0
+9677,1745,Columbus,4.0
+2732,306,Woodstock,4.0
+5524,642,Hyattsville,3.0
+5943,675,Yountville,5.0
+8675,1428,Kansas City,4.0
+4161,500,Kissimmee,5.0
+5949,676,Los Angeles,4.0
+5225,626,Sanibel,5.0
+9863,1801,Independence,5.0
+3497,438,Virginia Beach,4.0
+6870,908,Charleston,5.0
+5237,627,Columbia,4.0
+2110,164,North Las Vegas,4.0
+8971,1512,Monterey Park,4.0
+445,26,Miami Beach,3.95
+8509,1364,Annapolis,3.0
+4043,488,Suffolk,3.0
+7717,1129,Charleston,5.0
+6404,797,Hawthorne,5.0
+2046,136,Woodbridge,3.0
+6134,726,South Lake Tahoe,2.0
+5124,622,Virginia Beach,5.0
+7259,1010,Oklahoma City,1.0
+2980,369,Delavan,1.0
+1105,47,Las Vegas,5.0
+7214,1000,Little Rock,5.0
+2787,325,Palm Beach,4.0
+8877,1471,Chicago,5.0
+2788,325,Palm Beach,5.0
+4172,500,Kissimmee,4.8
+8483,1360,Coal Center,5.0
+4484,529,Chapel Hill,5.0
+7877,1158,Fort Morgan,5.0
+8864,1468,Santa Monica,4.0
+2664,280,Milwaukee,4.0
+6352,775,Bar Harbor,4.0
+177,16,Las Vegas,4.4
+7876,1157,Norwood,5.0
+102,13,Boston,2.5
+9337,1630,Lesterville,5.0
+2356,182,Williamsburg,4.6
+3518,439,Linthicum Heights,5.0
+4599,554,Hampton,5.0
+7706,1128,Redding,4.0
+7926,1171,Redmond,4.0
+3315,428,Hampton,2.0
+8582,1396,San Antonio,4.0
+9158,1566,Manitou Springs,3.0
+3618,444,Baltimore,4.15
+8208,1256,Chesapeake,4.0
+623,27,Las Vegas,5.0
+2532,231,Honolulu,4.0
+6470,829,Dayton,4.0
+3165,414,Silver Spring,4.0
+6034,706,Savannah,1.0
+5130,623,Baltimore,4.0
+7760,1129,Charleston,5.0
+9271,1609,Danville,1.0
+1601,107,Atlantic City,3.0
+5761,646,Arlington,5.0
+5677,642,Hyattsville,4.0
+3636,444,Baltimore,3.55
+7747,1129,Charleston,5.0
+9205,1584,Anchorage,2.0
+779,33,Los Angeles,3.75
+8580,1396,San Antonio,5.0
+4282,518,Springfield,5.0
+5564,642,Hyattsville,4.0
+9802,1777,Newark,1.0
+6276,755,Boise,5.0
+5474,638,Virginia Beach,5.0
+5044,620,Arlington,5.0
+5991,691,East Springfield,5.0
+1775,122,Philadelphia,5.0
+2762,316,Bear,2.0
+2514,231,Honolulu,5.0
+7499,1060,Santa Monica,3.0
+1102,45,Las Vegas,4.0
+2967,365,Beverly,5.0
+2519,231,Honolulu,5.0
+3866,461,Atlanta,4.0
+2921,355,Long Beach,5.0
+6990,943,Boise,5.0
+456,26,Miami Beach,5.0
+1463,84,Anaheim,5.0
+7632,1107,Portland,3.0
+3833,456,Lockport,5.0
+5063,621,Lanham,4.0
+3954,474,Linthicum Heights,4.0
+4718,581,Indiana,3.0
+6330,768,Bowling Green,5.0
+6346,774,Marquette,5.0
+3274,421,Linthicum Heights,5.0
+9852,1796,Bridgeport,4.0
+2374,186,El Segundo,5.0
+734,32,New York,5.0
+2919,355,Long Beach,5.0
+5420,638,Virginia Beach,5.0
+8535,1374,Butte,3.0
+4452,521,Suffolk,5.0
+2129,167,Orlando,5.0
+1091,44,Chicago,4.0
+6830,906,Las Vegas,5.0
+8222,1261,Saint Louis,5.0
+2997,378,Medina,4.0
+2995,378,Medina,4.0
+8695,1428,Kansas City,3.0
+4743,595,Canyon,4.0
+9778,1776,Florence,5.0
+7446,1054,Springfield,4.0
+4146,500,Kissimmee,3.55
+9076,1551,Richmond,5.0
+4374,518,Springfield,3.0
+5509,641,Columbia,5.0
+1407,77,Phoenix,4.0
+1941,128,San Francisco,5.0
+7678,1118,Newport,3.0
+7727,1129,Charleston,4.0
+9199,1584,Anchorage,1.0
+9980,1836,El Cajon,1.0
+5542,642,Hyattsville,4.0
+6809,898,Westport,3.0
+8006,1200,Haverhill,2.0
+4583,553,Norfolk,5.0
+5681,642,Hyattsville,5.0
+6746,889,Braidwood,5.0
+6571,860,Columbia,3.0
+9789,1777,Newark,5.0
+4215,503,Port Richey,4.0
+9365,1645,Sedona,3.0
+3136,408,Louisville,1.0
+8854,1465,Mason,3.0
+6409,799,Burnet,4.0
+9899,1809,Airway Heights,4.0
+5367,636,Hanover,2.0
+8893,1480,Bedford,4.0
+9850,1795,Albuquerque,5.0
+4768,605,Portland,5.0
+8425,1330,Hays,5.0
+7566,1085,Eugene,5.0
+8895,1481,Platte City,1.0
+9530,1704,Cherokee,4.0
+5451,638,Virginia Beach,4.0
+9293,1620,Rochester,2.0
+7472,1058,Laughlin,5.0
+6701,884,Charleston,5.0
+9582,1722,Dayton,3.0
+4592,554,Hampton,5.0
+2574,247,Appleton,2.0
+5329,636,Hanover,1.0
+2231,173,Las Vegas,4.0
+5645,642,Hyattsville,5.0
+4154,500,Kissimmee,5.0
+6183,736,Myrtle Beach,4.0
+3178,414,Silver Spring,3.0
+9640,1744,Kissimmee,5.0
+8832,1457,Williamsport,5.0
+2006,56,Chicago,5.0
+2166,173,Las Vegas,4.0
+4385,518,Springfield,4.0
+8698,1428,Kansas City,2.0
+7372,1028,Flagstaff,2.0
+3280,421,Linthicum Heights,5.0
+5188,624,Virginia Beach,4.0
+6862,908,Charleston,5.0
+5413,637,Springfield,5.0
+619,27,Las Vegas,3.95
+8434,1337,Thomson,5.0
+4357,518,Springfield,3.0
+3652,445,Williamsburg,4.8
+1274,56,Chicago,5.0
+8002,1197,North Dartmouth,5.0
+4289,518,Springfield,4.0
+3139,410,Solvang,4.0
+9289,1619,Victor,5.0
+6355,776,Bar Harbor,5.0
+27,7,Vineland,1.0
+8915,1488,Flint,1.0
+3028,391,Marietta,4.0
+4099,494,Sunnyvale,3.0
+1954,129,Atlanta,4.0
+8607,1407,Louisville,4.0
+7511,1065,Myrtle Beach,5.0
+4843,612,Norfolk,3.0
+4258,511,Harrisburg,4.0
+1237,51,Napa,5.0
+3331,428,Hampton,2.0
+2318,181,New Orleans,4.0
+6570,859,Knoxville,3.0
+8596,1402,Springfield,5.0
+5898,661,Myrtle Beach,4.0
+7463,1057,Mesquite,5.0
+5948,675,Yountville,5.0
+1391,76,Seattle,5.0
+4109,496,Santa Rosa,5.0
+7092,973,Garden Grove,4.0
+7456,1056,Albuquerque,5.0
+9689,1748,Kissimmee,1.0
+5000,619,Arlington,4.0
+248,16,Las Vegas,3.35
+811,37,Chicago,4.4
+4118,497,Long Beach,5.0
+3896,467,Oshkosh,5.0
+4472,526,Charlottesville,5.0
+8228,1265,Hollywood,3.0
+2770,319,Orange City,4.0
+4650,563,Naples,5.0
+1224,51,Napa,4.0
+916,37,Chicago,4.8
+8965,1510,Olathe,1.0
+4874,613,Hampton,5.0
+3520,439,Linthicum Heights,1.0
+3220,417,Glen Burnie,3.0
+5036,620,Arlington,4.0
+36,8,Oxon Hill,5.0
+7905,1165,Corvallis,5.0
+5085,621,Lanham,5.0
+8095,1220,Oklahoma City,1.0
+2136,168,Alpharetta,5.0
+3506,438,Virginia Beach,4.0
+2793,328,Guilford,4.0
+4711,579,Pittsburgh,2.0
+4837,612,Norfolk,3.0
+7595,1096,Manitou Springs,5.0
+8078,1216,Old Forge,5.0
+5515,641,Columbia,4.0
+7431,1049,Jacksonville,3.0
+4704,578,Pittsburgh,4.0
+6709,884,Charleston,5.0
+4044,488,Suffolk,4.0
+7068,965,Midlothian,5.0
+4883,613,Hampton,5.0
+2865,345,Pismo Beach,5.0
+5628,642,Hyattsville,5.0
+1761,121,Seattle,3.0
+940,37,Chicago,4.8
+6161,733,Santa Barbara,5.0
+9089,1553,Freehold,5.0
+7755,1129,Charleston,5.0
+6763,895,Punta Gorda,5.0
+9995,1844,Jackson,1.0
+9812,1780,Lexington,5.0
+853,36,Chicago,4.6
+5242,627,Columbia,5.0
+4806,610,Orlando,1.0
+2276,173,Las Vegas,5.0
+7005,947,Houston,5.0
+9685,1747,Pittsfield,1.0
+8574,1396,San Antonio,5.0
+7489,1060,Santa Monica,4.0
+2635,268,Erie,1.0
+8449,1345,Terre Haute,4.0
+2636,268,Erie,2.0
+5753,645,Prince Frederick,4.0
+1950,129,Atlanta,1.0
+5278,631,Woburn,4.0
+4169,500,Kissimmee,5.0
+9681,1746,Kissimmee,3.0
+455,26,Miami Beach,4.6
+1836,124,Las Vegas,3.0
+8874,1470,Anderson,5.0
+4033,486,Denver,4.0
+7183,991,Clearwater Beach,2.0
+6510,838,Estes Park,4.0
+2201,173,Las Vegas,5.0
+6609,874,Miami Beach,5.0
+6270,753,Lafayette,5.0
+2225,173,Las Vegas,5.0
+1510,93,Boston,4.0
+2358,182,Williamsburg,3.35
+3348,429,Chincoteague Island,5.0
+9978,1836,El Cajon,4.0
+2529,231,Honolulu,5.0
+2518,231,Honolulu,2.0
+4871,613,Hampton,5.0
+4060,488,Suffolk,5.0
+2608,261,Grand Prairie,3.0
+503,27,Las Vegas,4.8
+3499,438,Virginia Beach,1.0
+7363,1024,Safford,4.0
+5094,621,Lanham,4.0
+9818,1782,Horse Cave,2.0
+5976,683,Walterboro,3.0
+1916,127,Chicago,5.0
+7080,973,Garden Grove,3.0
+1734,121,Seattle,5.0
+1296,60,Phoenix,2.0
+3245,417,Glen Burnie,4.0
+6303,762,Tallahassee,5.0
+3591,441,Baltimore,5.0
+6917,919,Anaheim,1.0
+2049,136,Woodbridge,4.0
+4403,518,Springfield,3.0
+9562,1719,Erie,5.0
+4517,538,Temecula,5.0
+8943,1501,San Antonio,5.0
+302,17,Boston,3.95
+9773,1774,Bend,5.0
+4748,597,Brookeland,4.0
+5152,623,Baltimore,5.0
+4754,600,Abilene,5.0
+6231,747,Camarillo,2.0
+7397,1035,Elkins,5.0
+2451,213,Daytona Beach,5.0
+8896,1481,Platte City,3.0
+6235,747,Camarillo,5.0
+4366,518,Springfield,3.0
+3351,430,Portland,3.35
+9195,1583,South Bend,5.0
+2795,329,Ca√±on City,4.0
+1395,77,Phoenix,5.0
+8791,1442,Grove City,3.0
+1041,40,San Francisco,2.3
+7822,1140,Gatlinburg,2.0
+7732,1129,Charleston,5.0
+8887,1477,Fayetteville,1.0
+1125,49,Napa,4.0
+3058,395,San Francisco,5.0
+1040,40,San Francisco,4.6
+4270,515,San Marcos,3.0
+2947,360,Madison,5.0
+8239,1265,Hollywood,5.0
+3964,475,Plainview,4.0
+7418,1045,Falmouth,5.0
+6629,874,Miami Beach,3.0
+1594,107,Atlantic City,4.0
+9223,1591,Los Angeles,1.0
+8918,1490,Indianola,3.0
+7088,973,Garden Grove,3.0
+1552,100,Atlantic City,1.0
+6004,698,Red River,5.0
+61,9,San Diego,5.0
+6042,707,Harrisburg,5.0
+7105,980,Lafayette,3.0
+208,15,Las Vegas,3.55
+6232,747,Camarillo,4.0
+2001,56,Chicago,2.0
+2003,56,Chicago,5.0
+5959,681,Rawlins,1.0
+9422,1667,Perry,1.0
+6339,769,Lexington,4.0
+4829,612,Norfolk,1.0
+5529,642,Hyattsville,3.0
+3549,441,Baltimore,4.0
+551,27,Las Vegas,4.15
+6724,884,Charleston,5.0
+4852,612,Norfolk,3.0
+2002,56,Chicago,5.0
+3488,438,Virginia Beach,2.0
+8161,1235,Cincinnati,2.0
+7405,1041,Florence,5.0
+7389,1031,Lexington,5.0
+1226,51,Napa,4.0
+1565,101,Anaheim,2.0
+3697,446,Baltimore,5.0
+2948,360,Madison,5.0
+8794,1442,Grove City,5.0
+8565,1387,Newcastle,4.0
+1886,127,Chicago,4.0
+5332,636,Hanover,2.0
+3041,395,San Francisco,5.0
+8890,1479,Elsah,5.0
+8492,1362,Erie,4.0
+8632,1416,Sister Bay,5.0
+2626,265,Morrisville,5.0
+2528,231,Honolulu,3.0
+8295,1283,Jamaica,3.0
+7326,1018,Greenville,5.0
+239,16,Las Vegas,3.15
+5673,642,Hyattsville,5.0
+4576,552,El Paso,5.0
+4283,518,Springfield,5.0
+6620,874,Miami Beach,5.0
+1738,121,Seattle,2.0
+6159,732,Sarasota,5.0
+527,27,Las Vegas,3.75
+4183,500,Kissimmee,5.0
+4516,537,Charlottesville,4.0
+9375,1648,Fayetteville,5.0
+7322,1018,Greenville,5.0
+6431,811,Grand Forks,5.0
+334,17,Boston,3.75
+5827,646,Arlington,4.0
+9798,1777,Newark,1.0
+2812,337,Sausalito,4.0
+2220,173,Las Vegas,3.0
+5304,635,Gloucester,4.0
+9092,1553,Freehold,1.0
+1983,130,Atlanta,4.0
+26,7,Vineland,1.0
+7936,1172,Tupelo,4.0
+1376,71,Atlanta,4.0
+3384,437,Lahaina,5.0
+6257,748,Tracy,4.0
+4254,510,Sevierville,2.0
+4448,521,Suffolk,5.0
+8474,1355,Duncan,5.0
+3568,441,Baltimore,5.0
+2908,354,Corrales,5.0
+7695,1124,Fairhaven,4.0
+9499,1688,Kingsland,5.0
+5193,624,Virginia Beach,4.0
+1649,118,New Orleans,5.0
+879,37,Chicago,4.8
+5513,641,Columbia,4.0
+4697,578,Pittsburgh,5.0
+1550,100,Atlantic City,1.0
+2512,231,Honolulu,4.0
+357,17,Boston,5.0
+5594,642,Hyattsville,4.0
+8223,1261,Saint Louis,5.0
+7956,1181,Erie,2.0
+9128,1562,Orlando,5.0
+6816,901,Napa,5.0
+9417,1665,Canal Winchester,3.0
+9956,1829,Ronks,1.0
+5801,646,Arlington,4.0
+1432,82,Chicago,4.4
+3468,438,Virginia Beach,4.0
+6752,893,Lansing,3.0
+6350,775,Bar Harbor,5.0
+1190,50,New Orleans,5.0
+8085,1217,Albuquerque,5.0
+4919,617,Marana,5.0
+3002,379,Somerset,4.0
+147,13,Boston,4.4
+9367,1645,Sedona,5.0
+9946,1827,Escalante,5.0
+3899,468,Sedona,5.0
+5333,636,Hanover,4.0
+5540,642,Hyattsville,4.0
+7899,709,Oklahoma City,1.0
+3538,439,Linthicum Heights,5.0
+4784,606,Atlanta,4.0
+8348,1304,Gaffney,5.0
+8042,1208,Buffalo,4.0
+4758,601,Waco,5.0
+4422,518,Springfield,4.0
+4788,606,Atlanta,5.0
+7562,1085,Eugene,5.0
+2449,211,Clearwater,5.0
+8664,1428,Kansas City,5.0
+4362,518,Springfield,4.0
+2025,133,Miami Beach,5.0
+7796,1138,Dickinson,5.0
+2753,314,Walla Walla,5.0
+6767,895,Punta Gorda,5.0
+706,29,Boston,1.9
+8444,1342,Jackson,5.0
+1524,95,New Orleans,5.0
+5806,646,Arlington,5.0
+6032,704,Wisconsin Dells,2.0
+1901,127,Chicago,4.0
+4793,608,Virginia Beach,4.0
+4672,571,Ardmore,4.0
+6566,859,Knoxville,2.0
+4022,484,Austin,5.0
+4547,546,Columbus,5.0
+6880,912,Fairfax,3.0
+6885,913,Blacksburg,5.0
+346,17,Boston,4.4
+1435,82,Chicago,5.0
+3955,474,Linthicum Heights,5.0
+9447,1671,Albuquerque,4.0
+9188,1581,Williston,5.0
+2396,195,Lake Forest,5.0
+8277,1279,Wisconsin Dells,5.0
+8555,1384,Greybull,5.0
+830,37,Chicago,4.4
+7127,985,Norwalk,5.0
+6469,829,Dayton,4.0
+1259,53,Key West,5.0
+6127,726,South Lake Tahoe,3.0
+3559,441,Baltimore,4.0
+8526,1371,Dillon,5.0
+1562,101,Anaheim,5.0
+8352,1307,Lake Charles,4.0
+6538,845,Hudson,4.0
+7667,1116,Doswell,3.0
+2743,311,Franklin,5.0
+1429,82,Chicago,4.4
+1642,115,Philadelphia,5.0
+2047,136,Woodbridge,5.0
+6493,835,Hudson,5.0
+1919,127,Chicago,5.0
+458,26,Miami Beach,5.0
+179,16,Las Vegas,4.15
+388,21,Honolulu,4.0
+1960,130,Atlanta,4.0
+483,27,Las Vegas,5.0
+6966,935,Louisville,5.0
+5748,645,Prince Frederick,3.0
+8309,1290,Detroit,5.0
+7299,1016,Lone Tree,4.0
+5887,656,Springfield,3.0
+8121,1224,Lexington,5.0
+6944,931,Duluth,4.0
+8610,1407,Louisville,5.0
+3419,437,Lahaina,5.0
+2428,202,Lithonia,5.0
+6466,828,Savannah,4.0
+9002,1525,Moro,5.0
+9052,1548,Sioux Falls,4.0
+5205,624,Virginia Beach,3.0
+8658,1428,Kansas City,2.0
+4766,605,Portland,5.0
+8567,1389,Red River,5.0
+7166,988,Seattle,2.0
+5195,624,Virginia Beach,3.0
+5216,624,Virginia Beach,2.0
+1016,40,San Francisco,4.8
+3035,392,Saint Louis,3.0
+1000,40,San Francisco,4.6
+3949,474,Linthicum Heights,3.0
+157,16,Las Vegas,3.95
+2726,303,Peoria,5.0
+7261,1010,Oklahoma City,3.0
+7201,998,Simpsonville,3.0
+5438,638,Virginia Beach,5.0
+1149,49,Napa,5.0
+2906,354,Corrales,4.0
+9361,1642,Hope,5.0
+4552,547,San Jose,2.0
+1586,104,Anaheim,4.0
+1484,84,Anaheim,5.0
+4571,552,El Paso,5.0
+559,27,Las Vegas,4.4
+7700,1127,West Palm Beach,4.0
+1759,121,Seattle,5.0
+1832,124,Las Vegas,4.0
+6212,741,Phoenixville,5.0
+1330,65,Atlanta,5.0
+4107,496,Santa Rosa,4.0
+7702,1127,West Palm Beach,5.0
+4630,557,Nashville,2.0
+4705,578,Pittsburgh,4.0
+1173,49,Napa,4.0
+7128,985,Norwalk,5.0
+2295,177,Chicago,4.0
+8498,1362,Erie,3.0
+5284,631,Woburn,5.0
+9170,1570,Federal Way,4.0
+8077,1216,Old Forge,5.0
+8863,1467,Marinette,1.0
+2524,231,Honolulu,5.0
+7614,1105,Meredith,5.0
+6996,943,Boise,5.0
+9588,1723,Prairieville,1.0
+3273,421,Linthicum Heights,5.0
+4093,492,Nashville,5.0
+7592,1095,Los Angeles,3.0
+9208,1585,Culver,2.0
+7,1,Hanover,5.0
+3728,448,Virginia Beach,3.75
+4211,501,Williamsburg,4.15
+2446,210,Jacksonville,5.0
+9717,1757,Rhinelander,4.0
+9201,1584,Anchorage,5.0
+8479,1358,Forney,3.0
+7709,1129,Charleston,5.0
+7833,1140,Gatlinburg,4.0
+9197,1584,Anchorage,1.0
+3919,470,Richardson,5.0
+6401,797,Hawthorne,5.0
+2819,339,Valencia,3.0
+1852,124,Las Vegas,5.0
+7454,1056,Albuquerque,2.0
+2373,186,El Segundo,5.0
+4294,518,Springfield,5.0
+6268,751,Lafayette,5.0
+4637,558,Naples,5.0
+2534,231,Honolulu,4.0
+5029,620,Arlington,5.0
+7904,709,Oklahoma City,5.0
+7176,988,Seattle,4.0
+8275,1278,Amarillo,2.0
+3334,429,Chincoteague Island,5.0
+1425,82,Chicago,5.0
+6067,710,Omaha,5.0
+9061,547,San Jose,3.0
+6177,736,Myrtle Beach,2.0
+5408,637,Springfield,2.0
+9258,1604,Westmont,4.0
+5184,624,Virginia Beach,1.0
+1561,101,Anaheim,3.0
+9679,1745,Columbus,2.0
+8996,1522,Lynchburg,4.0
+2870,345,Pismo Beach,5.0
+6833,907,Koloa,5.0
+8764,1440,Santa Monica,3.0
+5123,622,Virginia Beach,5.0
+5828,646,Arlington,3.0
+8609,1407,Louisville,5.0
+487,27,Las Vegas,5.0
+2048,136,Woodbridge,4.0
+4488,529,Chapel Hill,4.0
+3411,437,Lahaina,5.0
+8627,1413,Holland,3.0
+7694,1124,Fairhaven,5.0
+8766,1440,Santa Monica,4.0
+3996,477,Charleston,4.0
+5393,636,Hanover,4.0
+1148,49,Napa,4.0
+7584,1090,Annapolis,5.0
+2341,181,New Orleans,5.0
+2312,181,New Orleans,4.0
+3132,408,Louisville,1.0
+8213,1260,Pensacola,5.0
+6526,841,Wisconsin Dells,4.0
+6367,780,Ainsworth,4.0
+5012,620,Arlington,5.0
+3394,437,Lahaina,5.0
+8246,1268,Watkins Glen,2.0
+424,26,Miami Beach,3.55
+5891,658,Wytheville,2.0
+9682,1746,Kissimmee,4.0
+3083,397,Hanover,5.0
+2228,173,Las Vegas,2.0
+6269,752,Lafayette,5.0
+6590,869,Tallahassee,3.0
+3375,437,Lahaina,3.0
+8458,1349,Baileys Harbor,5.0
+8151,1232,Moses Lake,5.0
+8665,1428,Kansas City,5.0
+7387,1031,Lexington,5.0
+8572,1394,Ashton,2.0
+7672,1117,Arlington,4.0
+7173,988,Seattle,5.0
+7556,1081,Fort Wayne,3.0
+224,15,Las Vegas,5.0
+4164,500,Kissimmee,5.0
+7704,1127,West Palm Beach,5.0
+4222,504,Vallejo,4.0
+4152,500,Kissimmee,5.0
+6024,704,Wisconsin Dells,5.0
+9053,1548,Sioux Falls,5.0
+9800,1777,Newark,5.0
+6717,884,Charleston,5.0
+4259,511,Harrisburg,4.0
+20,4,Huntingdon,5.0
+4622,556,Virginia Beach,5.0
+7577,1088,Gainesville,5.0
+5127,623,Baltimore,5.0
+4544,546,Columbus,5.0
+7945,1176,Lodi,5.0
+2729,304,DeKalb,3.0
+1709,120,Seattle,4.0
+6091,718,Fort Myers,5.0
+9071,1551,Richmond,2.0
+3891,465,Flagstaff,5.0
+233,16,Las Vegas,3.75
+7842,1143,Indianapolis,5.0
+7938,1173,Hampton,4.0
+2273,173,Las Vegas,5.0
+6501,837,Raton,5.0
+2261,173,Las Vegas,5.0
+3050,395,San Francisco,5.0
+7748,1129,Charleston,5.0
+9629,1740,Atlanta,2.0
+9770,1774,Bend,5.0
+7012,949,Elkridge,5.0
+6699,884,Charleston,2.0
+9535,1707,Algoma,5.0
+1459,84,Anaheim,5.0
+1531,96,New Orleans,5.0
+1671,119,New Orleans,5.0
+6202,740,Fresno,5.0
+1829,124,Las Vegas,5.0
+5885,655,Madras,3.0
+7682,1119,Las Vegas,4.0
+2066,145,Sedona,5.0
+2688,290,Bowling Green,2.0
+5691,642,Hyattsville,3.0
+5590,642,Hyattsville,4.0
+8105,1221,Fort Wayne,3.0
+5490,640,Hampton,1.0
+929,36,Chicago,4.6
+5462,638,Virginia Beach,5.0
+2436,208,Brooksville,5.0
+4744,595,Canyon,4.0
+9330,1627,Billings,1.0
+8641,1420,Saginaw,4.0
+8850,1462,Rockford,4.0
+1401,77,Phoenix,5.0
+8154,1233,Lincoln City,5.0
+3750,449,Miami Beach,4.6
+3013,384,Saint Louis,4.0
+1494,84,Anaheim,3.0
+2520,231,Honolulu,5.0
+247,15,Las Vegas,2.9
+9549,1714,Phoenix,5.0
+733,32,New York,3.0
+981,37,Chicago,4.15
+3014,384,Saint Louis,5.0
+9898,1809,Airway Heights,4.0
+2317,181,New Orleans,4.0
+8389,1317,Mesa,2.0
+5354,636,Hanover,2.0
+4681,576,Duncansville,4.0
+5768,646,Arlington,5.0
+8366,1314,Lahaina,4.0
+7847,1143,Indianapolis,5.0
+2602,257,Forest Grove,5.0
+2381,190,Brookings,5.0
+7394,1035,Elkins,4.0
+4580,553,Norfolk,5.0
+2996,378,Medina,2.0
+1819,124,Las Vegas,1.0
+436,26,Miami Beach,3.75
+8831,1457,Williamsport,1.0
+3167,414,Silver Spring,5.0
+927,36,Chicago,3.75
+5742,645,Prince Frederick,5.0
+1229,51,Napa,5.0
+7096,976,Charlotte,5.0
+4394,518,Springfield,4.0
+7601,1100,Silverton,4.0
+9594,1727,Edgewater,4.0
+4928,618,Hollywood,5.0
+1638,112,La Jolla,5.0
+9183,1577,Heber,5.0
+834,37,Chicago,5.0
+1877,126,Atlantic City,3.0
+6774,896,West Hollywood,5.0
+7004,947,Houston,5.0
+7351,1021,Redding,5.0
+2913,355,Long Beach,5.0
+9277,1609,Danville,4.0
+9204,1584,Anchorage,1.0
+1372,69,Atlanta,1.0
+9427,1668,Prairie du Chien,5.0
+4005,479,Santa Barbara,5.0
+3386,1011,Portland,5.0
+6832,907,Koloa,5.0
+80,12,Chicago,5.0
+7974,1187,Mount Tremper,1.0
+2856,345,Pismo Beach,5.0
+7102,979,Hermann,4.0
+7587,1091,East Syracuse,4.0
+7911,1166,Oklahoma City,5.0
+4312,518,Springfield,4.0
+2978,368,Aiken,4.0
+5973,683,Walterboro,4.0
+8921,1493,Thomaston,4.0
+3148,413,Houston,5.0
+3421,437,Lahaina,4.0
+8539,1375,Bozeman,2.0
+7427,1048,DuPont,5.0
+1439,83,Phoenix,5.0
+9484,1685,Crawfordsville,2.0
+8175,1238,Old Orchard Beach,3.0
+8594,1402,Springfield,3.0
+8647,1423,Richmond,2.0
+4740,595,Canyon,3.0
+2791,326,Mulberry,5.0
+2932,359,Cambridge,5.0
+6922,920,Lexington,5.0
+7571,1087,Horseheads,2.0
+9290,1619,Victor,5.0
+5116,622,Virginia Beach,4.0
+2474,228,Charlotte,4.0
+7852,1146,Davenport,5.0
+9231,1594,Springfield,5.0
+5471,638,Virginia Beach,5.0
+538,27,Las Vegas,4.15
+8680,1428,Kansas City,4.0
+2391,193,San Luis Obispo,4.0
+9075,1551,Richmond,4.0
+4898,614,Elizabeth,3.0
+4532,540,San Diego,4.0
+1064,42,Philadelphia,3.0
+5764,646,Arlington,4.0
+6186,736,Myrtle Beach,5.0
+182,16,Las Vegas,3.55
+8279,1280,Honolulu,3.0
+1733,121,Seattle,5.0
+4602,554,Hampton,5.0
+7803,1140,Gatlinburg,2.0
+9791,1777,Newark,4.0
+4767,605,Portland,5.0
+1433,82,Chicago,4.15
+2837,345,Pismo Beach,5.0
+2244,173,Las Vegas,5.0
+4924,617,Marana,5.0
+6793,896,West Hollywood,5.0
+9202,1584,Anchorage,2.0
+578,27,Las Vegas,4.8
+9143,1565,Salem,4.0
+1197,50,New Orleans,5.0
+4631,557,Nashville,2.0
+1683,119,New Orleans,4.0
+5798,646,Arlington,3.0
+9459,1674,Harrisburg,5.0
+2016,133,Miami Beach,5.0
+2815,337,Sausalito,3.0
+805,37,Chicago,5.0
+9646,1744,Kissimmee,2.0
+4794,608,Virginia Beach,3.0
+7046,958,Houston,4.0
+9632,1741,Bozeman,5.0
+8956,1507,Sioux Falls,4.0
+1350,65,Atlanta,5.0
+202,16,Las Vegas,3.75
+2885,348,Glendale,5.0
+7021,951,West Palm Beach,5.0
+5744,645,Prince Frederick,4.0
+1377,71,Atlanta,5.0
+3686,446,Baltimore,3.0
+8477,1357,Carlisle,1.0
+5498,640,Hampton,5.0
+1174,49,Napa,4.0
+3651,445,Williamsburg,5.0
+6480,830,Knoxville,5.0
+9430,1669,Boise,4.0
+4073,489,Newport News,4.0
+9085,1553,Freehold,5.0
+8397,1318,Wichita,4.0
+9214,1589,Fort Davis,4.0
+8869,1468,Santa Monica,5.0
+8652,1427,Coralville,5.0
+9386,1656,Russellville,1.0
+2137,168,Alpharetta,4.0
+9691,1750,Monroe,3.0
+9938,1825,Prairie du Chien,4.0
+6807,897,Boston,4.0
+4795,609,Palo Alto,4.0
+9112,1560,Milwaukee,3.0
+9661,1744,Kissimmee,5.0
+1243,51,Napa,5.0
+2285,174,Rockford,5.0
+8805,1446,Tallahassee,5.0
+743,32,New York,3.0
+9536,1707,Algoma,5.0
+6989,942,Oklahoma City,3.0
+9105,1556,Superior,4.0
+9933,1823,Trinidad,4.0
+8103,1221,Fort Wayne,5.0
+7964,1183,Buffalo,4.0
+4445,520,Newark,5.0
+1754,121,Seattle,4.0
+344,17,Boston,5.0
+4435,518,Springfield,5.0
+6850,907,Koloa,5.0
+9126,1562,Orlando,3.0
+8826,1455,Montvale,1.0
+4835,612,Norfolk,4.0
+8323,1295,Juneau,5.0
+3019,387,Asheville,2.0
+8339,1299,Kansas City,4.0
+4643,561,Dunedin,5.0
+321,17,Boston,4.8
+2008,133,Miami Beach,4.4
+9708,1756,Atlanta,1.0
+7069,965,Midlothian,4.0
+1166,49,Napa,4.0
+7133,986,Charleston,4.0
+9282,1613,Findlay,2.0
+846,37,Chicago,5.0
+4513,534,Jackson,5.0
+2399,196,Valencia,5.0
+7628,1107,Portland,3.0
+4952,619,Arlington,5.0
+3387,437,Lahaina,5.0
+3251,418,Gladstone,3.0
+2236,173,Las Vegas,4.0
+3768,449,Miami Beach,4.6
+2903,354,Corrales,5.0
+6009,701,Marshall,4.0
+4621,556,Virginia Beach,3.0
+871,37,Chicago,4.6
+772,33,Los Angeles,3.75
+4007,479,Santa Barbara,4.0
+2852,345,Pismo Beach,5.0
+9580,1722,Dayton,2.0
+8545,1380,Fargo,4.0
+2383,191,Pasadena,3.0
+7268,1012,Nashua,4.0
+337,17,Boston,5.0
+3668,446,Baltimore,4.0
+3542,439,Linthicum Heights,4.0
+4186,500,Kissimmee,5.0
+4406,518,Springfield,4.0
+5725,643,Alexandria,2.0
+2874,345,Pismo Beach,4.0
+8472,1355,Duncan,5.0
+612,27,Las Vegas,4.8
+2779,321,Fort Walton Beach,5.0
+6241,747,Camarillo,5.0
+3206,417,Glen Burnie,3.0
+8,1,Hanover,5.0
+4578,553,Norfolk,5.0
+8496,1362,Erie,5.0
+5521,642,Hyattsville,2.0
+3045,395,San Francisco,5.0
+2275,173,Las Vegas,5.0
+2862,345,Pismo Beach,5.0
+1279,60,Phoenix,5.0
+7701,1127,West Palm Beach,5.0
+1347,65,Atlanta,4.0
+2501,230,Dover,2.0
+4965,619,Arlington,2.0
+7153,986,Charleston,5.0
+8728,1434,Cedar Rapids,5.0
+4838,612,Norfolk,3.0
+8936,1501,San Antonio,3.0
+3813,453,Miami Beach,5.0
+995,39,Beverly Hills,4.15
+9695,1751,Mount Vernon,5.0
+2199,173,Las Vegas,5.0
+3502,438,Virginia Beach,4.0
+1379,71,Atlanta,4.0
+6957,935,Louisville,4.0
+8475,1356,Las Vegas,3.0
+8932,1499,Goldendale,5.0
+8141,1232,Moses Lake,5.0
+3275,421,Linthicum Heights,5.0
+8230,1265,Hollywood,1.0
+2880,346,Monterey Park,1.0
+2171,173,Las Vegas,4.0
+770,33,Los Angeles,4.8
+5845,647,Chincoteague Island,1.0
+437,26,Miami Beach,3.75
+7035,955,Myrtle Beach,4.0
+7828,1140,Gatlinburg,4.0
+4694,578,Pittsburgh,5.0
+9067,1549,Vienna,4.0
+8744,1436,Milton,3.0
+4026,484,Austin,5.0
+118,13,Boston,3.75
+6322,765,Camarillo,5.0
+1936,128,San Francisco,4.0
+4492,531,Lake Elsinore,5.0
+4569,551,Jupiter,4.0
+7982,1190,Bow,5.0
+6234,747,Camarillo,5.0
+1913,127,Chicago,5.0
+8814,1450,Chesapeake,4.0
+5794,646,Arlington,5.0
+5351,636,Hanover,4.0
+4597,554,Hampton,4.0
+2624,265,Morrisville,5.0
+724,32,New York,5.0
+9093,1553,Freehold,5.0
+9570,1720,Ormond Beach,3.0
+8327,1296,Oxford,5.0
+3830,455,Warner Robins,5.0
+6372,782,Mattoon,4.0
+7384,1031,Lexington,5.0
+7339,1018,Greenville,5.0
+7026,953,Ann Arbor,3.0
+6739,886,Carpinteria,2.0
+5616,642,Hyattsville,4.0
+470,27,Las Vegas,1.65
+2439,209,Hialeah,4.0
+7121,985,Norwalk,4.0
+8649,1424,Evansville,3.0
+4598,554,Hampton,4.0
+4573,552,El Paso,4.0
+2970,366,West Springfield,5.0
+5335,636,Hanover,5.0
+9244,1598,Columbus,5.0
+9019,1533,Bolton Landing,4.0
+4677,573,Edmond,4.0
+6209,741,Phoenixville,4.0
+6945,931,Duluth,1.0
+6988,941,Elk Grove Village,1.0
+1477,84,Anaheim,1.0
+9249,1600,Blythe,4.0
+1787,122,Philadelphia,5.0
+8985,1517,Topping,2.0
+8815,1450,Chesapeake,1.0
+6618,874,Miami Beach,4.0
+1108,49,Napa,4.0
+2888,350,Scottsdale,5.0
+3318,428,Hampton,2.0
+8681,1428,Kansas City,4.0
+1065,42,Philadelphia,5.0
+736,32,New York,1.0
+260,16,Las Vegas,4.8
+2063,144,Danville,5.0
+2527,231,Honolulu,5.0
+4080,491,Orange City,4.0
+8825,1455,Montvale,4.0
+1144,49,Napa,4.0
+794,35,Chicago,4.6
+7138,986,Charleston,5.0
+8494,1362,Erie,5.0
+2483,228,Charlotte,5.0
+211,16,Las Vegas,4.15
+6874,911,Tampa,3.0
+8994,1521,Lynchburg,3.0
+6402,797,Hawthorne,4.0
+5907,663,Jacksonville,5.0
+1109,49,Napa,5.0
+1798,123,Key West,4.0
+5818,646,Arlington,3.0
+8442,1342,Jackson,5.0
+6287,755,Boise,5.0
+6812,900,Guerneville,4.0
+3588,441,Baltimore,4.0
+2334,181,New Orleans,5.0
+3335,429,Chincoteague Island,4.0
+4236,507,Wilmington,5.0
+9177,1574,Westbury,5.0
+9573,857,Goodlettsville,4.0
+8343,1300,Kansas City,4.0
+5934,672,San Antonio,3.0
+4178,500,Kissimmee,4.4
+9596,1728,Ormond Beach,4.0
+7551,1081,Fort Wayne,3.0
+7019,951,West Palm Beach,5.0
+2630,267,Bethlehem,4.0
+2516,231,Honolulu,3.0
+6943,931,Duluth,1.0
+694,29,Boston,4.8
+1821,124,Las Vegas,3.0
+6979,936,Durham,3.0
+3279,421,Linthicum Heights,2.0
+2385,192,San Luis Obispo,5.0
+7910,1166,Oklahoma City,5.0
+3458,437,Lahaina,5.0
+2368,186,El Segundo,2.0
+9657,1744,Kissimmee,5.0
+2631,268,Erie,3.0
+8711,1430,Houston,4.0
+8993,1520,Roanoke,5.0
+1061,41,Coronado,5.0
+4344,518,Springfield,5.0
+5888,657,Newington,3.0
+7979,1189,Broomfield,4.0
+2725,303,Peoria,3.0
+8613,1407,Louisville,2.0
+8536,1374,Butte,5.0
+509,27,Las Vegas,4.6
+2523,231,Honolulu,4.0
+9601,1729,Flagstaff,1.0
+1617,108,San Diego,5.0
+7095,975,Kings Mountain,4.0
+7345,1020,Lake Placid,4.0
+5331,636,Hanover,4.0
+2303,178,Auburn,4.0
+1287,60,Phoenix,2.0
+1672,119,New Orleans,4.0
+6290,756,Ashland,5.0
+600,27,Las Vegas,4.4
+3528,439,Linthicum Heights,3.0
+7537,1075,Baton Rouge,3.0
+2074,147,Dodge City,5.0
+9272,1609,Danville,5.0
+8566,1388,Red River,5.0
+3169,414,Silver Spring,5.0
+1523,95,New Orleans,5.0
+6544,849,Peru,2.0
+8868,1468,Santa Monica,5.0
+7716,1129,Charleston,4.0
+6783,896,West Hollywood,4.0
+1100,44,Chicago,5.0
+3721,448,Virginia Beach,4.8
+687,29,Boston,2.1
+1427,82,Chicago,4.8
+9680,1746,Kissimmee,5.0
+9010,1530,Grants Pass,1.0
+4243,508,Panama City Beach,2.0
+7228,1003,Vail,5.0
+3708,447,Baltimore,3.15
+5196,624,Virginia Beach,1.0
+4088,492,Nashville,5.0
+6537,845,Hudson,4.0
+9864,1801,Independence,4.0
+3241,417,Glen Burnie,2.0
+3531,439,Linthicum Heights,5.0
+7785,1134,Carmel,4.0
+8682,1428,Kansas City,5.0
+6934,927,Augusta,5.0
+4489,529,Chapel Hill,5.0
+8608,1407,Louisville,4.0
+6592,870,Milwaukee,1.0
+8532,1373,Miles City,4.0
+3304,426,Los Angeles,3.0
+8026,1205,Hilton Head Island,4.0
+6413,799,Burnet,5.0
+1365,67,Atlanta,5.0
+5366,636,Hanover,3.0
+2615,262,Amarillo,4.0
+3075,397,Hanover,2.0
+6243,747,Camarillo,3.0
+2539,233,Anchorage,3.0
+7296,1015,Morgantown,3.0
+7708,1129,Charleston,5.0
+291,17,Boston,4.6
+1281,60,Phoenix,2.0
+2425,201,Ashburn,4.0
+7099,977,Tarzana,2.0
+1764,121,Seattle,4.0
+2736,308,Cary,5.0
+881,36,Chicago,4.15
+1417,77,Phoenix,3.0
+4873,613,Hampton,5.0
+2233,173,Las Vegas,5.0
+6424,806,Moultonborough,5.0
+3309,428,Hampton,1.0
+4363,518,Springfield,5.0
+1311,61,Phoenix,3.0
+2836,345,Pismo Beach,5.0
+6741,886,Carpinteria,4.0
+9874,1803,Medford,1.0
+403,26,Miami Beach,5.0
+3325,428,Hampton,3.0
+2869,345,Pismo Beach,5.0
+9715,1756,Atlanta,5.0
+3192,414,Silver Spring,4.0
+2712,300,Monticello,2.0
+3923,472,Orlando,5.0
+8334,1298,Ogallala,5.0
+4962,619,Arlington,5.0
+1795,123,Key West,4.0
+7141,986,Charleston,4.0
+3157,414,Silver Spring,3.0
+6475,830,Knoxville,5.0
+9815,1782,Horse Cave,4.0
+7423,1048,DuPont,5.0
+565,27,Las Vegas,4.4
+6345,773,Copper Harbor,4.0
+1618,108,San Diego,4.0
+4666,569,McAlester,5.0
+461,26,Miami Beach,5.0
+9321,1624,Newark,2.0
+7991,1191,Minneapolis,4.0
+3084,397,Hanover,4.0
+24,6,San Francisco,5.0
+2592,253,Chantilly,4.0
+2078,149,Flagstaff,3.0
+891,37,Chicago,2.9
+9193,1582,Pueblo,5.0
+3443,437,Lahaina,4.0
+1732,121,Seattle,3.0
+8597,1403,Defiance,3.0
+3095,397,Hanover,5.0
+4699,578,Pittsburgh,5.0
+2926,358,Elko,4.0
+579,27,Las Vegas,5.0
+5231,627,Columbia,4.0
+5109,622,Virginia Beach,4.0
+1866,124,Las Vegas,4.0
+4607,556,Virginia Beach,5.0
+363,17,Boston,4.8
+5719,643,Alexandria,4.0
+5396,636,Hanover,2.0
+6106,721,Mercer,4.0
+4423,518,Springfield,5.0
+7076,972,Saint Louis,5.0
+3238,417,Glen Burnie,4.0
+1724,121,Seattle,5.0
+9027,1537,Grand Haven,5.0
+6756,894,Niceville,5.0
+754,32,New York,5.0
+5453,638,Virginia Beach,4.0
+8153,1233,Lincoln City,3.0
+5970,683,Walterboro,2.0
+9921,1817,Elk Grove Village,1.0
+9415,1665,Canal Winchester,5.0
+9299,1621,Creedmoor,5.0
+4341,518,Springfield,3.0
+6432,811,Grand Forks,5.0
+3742,449,Miami Beach,5.0
+8913,1488,Flint,2.0
+9796,1777,Newark,2.0
+3189,414,Silver Spring,5.0
+7461,1057,Mesquite,4.0
+9421,1667,Perry,3.0
+5088,621,Lanham,3.0
+4985,619,Arlington,4.0
+9653,1744,Kissimmee,4.0
+868,37,Chicago,4.8
+6421,804,Lincoln,3.0
+4067,489,Newport News,5.0
+9532,1705,Sylva,1.0
+5110,622,Virginia Beach,4.0
+3563,441,Baltimore,4.0
+4628,556,Virginia Beach,5.0
+6215,741,Phoenixville,5.0
+8778,1440,Santa Monica,1.0
+5055,621,Lanham,4.0
+2806,334,El Centro,3.0
+7333,1018,Greenville,3.0
+2920,355,Long Beach,4.0
+6124,726,South Lake Tahoe,5.0
+660,29,Boston,4.8
+661,29,Boston,2.5
+7835,1140,Gatlinburg,5.0
+8072,1214,Kingsland,2.0
+9849,1794,Durham,3.0
+7572,1087,Horseheads,5.0
+994,39,Beverly Hills,4.4
+7849,1144,Pittsburgh,5.0
+6821,901,Napa,5.0
+823,37,Chicago,4.6
+7488,1059,Kankakee,5.0
+2755,315,Heyburn,4.0
+469,27,Las Vegas,3.35
+6605,874,Miami Beach,4.0
+5274,630,White Haven,3.0
+477,27,Las Vegas,4.4
+9593,1726,El Paso,4.0
+2786,325,Palm Beach,5.0
+7638,1107,Portland,5.0
+2029,133,Miami Beach,3.15
+8987,1518,Fishersville,4.0
+4549,546,Columbus,4.0
+1214,50,New Orleans,4.0
+9008,1528,Medford,5.0
+9382,1653,Davis,4.0
+7644,1110,Vancouver,4.0
+6822,901,Napa,5.0
+459,26,Miami Beach,5.0
+4804,610,Orlando,5.0
+9018,1532,Jacksonville,4.0
+1573,102,Anaheim,4.0
+7023,951,West Palm Beach,5.0
+6390,791,Urbana,5.0
+4625,556,Virginia Beach,5.0
+8466,1352,Richmond,2.0
+3223,417,Glen Burnie,2.0
+4280,517,Fresno,1.0
+2555,240,Gatlinburg,3.0
+982,37,Chicago,4.8
+9187,1580,Chandler,5.0
+4451,521,Suffolk,5.0
+9456,1674,Harrisburg,3.0
+9141,1563,Chama,5.0
+6664,880,Annapolis,5.0
+5684,642,Hyattsville,5.0
+2108,163,San Diego,5.0
+465,27,Las Vegas,5.0
+6617,874,Miami Beach,5.0
+7989,1191,Minneapolis,3.0
+5421,638,Virginia Beach,3.0
+193,16,Las Vegas,4.15
+8801,1446,Tallahassee,1.0
+3863,461,Atlanta,5.0
+7920,1170,King of Prussia,5.0
+521,27,Las Vegas,4.8
+9228,1594,Springfield,5.0
+4326,518,Springfield,4.0
+5230,626,Sanibel,5.0
+4473,526,Charlottesville,5.0
+4100,494,Sunnyvale,4.0
+6213,741,Phoenixville,4.0
+1304,60,Phoenix,3.0
+6598,871,Madison,3.0
+1082,44,Chicago,5.0
+4909,616,Myrtle Beach,4.0
+95,12,Chicago,5.0
+2825,340,Long Beach,2.0
+7436,1051,New Orleans,1.0
+9132,1562,Orlando,2.0
+9192,1582,Pueblo,3.0
+7762,1129,Charleston,4.0
+6928,923,Ann Arbor,3.0
+1005,40,San Francisco,2.5
+2867,345,Pismo Beach,5.0
+5126,622,Virginia Beach,4.0
+4875,613,Hampton,5.0
+9476,1681,Bettendorf,3.0
+8330,1297,Manhattan,2.0
+4548,546,Columbus,5.0
+7518,1068,Portage,1.0
+539,27,Las Vegas,5.0
+496,27,Las Vegas,3.75
+7494,1060,Santa Monica,5.0
+9431,1670,Tampa,4.0
+5249,627,Columbia,4.0
+3352,430,Portland,4.6
+9146,1565,Salem,3.0
+6804,897,Boston,4.0
+4367,518,Springfield,5.0
+1834,124,Las Vegas,5.0
+8284,1281,Port Royal,2.0
+7916,1168,Indianapolis,5.0
+6674,881,Denver,5.0
+4799,609,Palo Alto,5.0
+8754,1440,Santa Monica,5.0
+7765,1130,Milford,4.0
+9515,1697,El Paso,3.0
+5923,669,Sikeston,5.0
+7790,1134,Carmel,1.0
+2962,362,Brookline,4.0
+9870,1802,Reading,5.0
+3063,395,San Francisco,4.0
+6810,899,Lake Elsinore,5.0
+9173,399,Newport News,5.0
+7805,1140,Gatlinburg,5.0
+583,27,Las Vegas,4.15
+212,16,Las Vegas,4.6
+8672,1428,Kansas City,5.0
+8970,1511,Hampton,1.0
+9575,857,Goodlettsville,4.0
+9910,1813,Chicago,5.0
+2522,231,Honolulu,4.0
+3857,461,Atlanta,4.0
+1139,49,Napa,5.0
+9986,1837,Wichita,4.0
+6070,710,Omaha,5.0
+2883,347,Monrovia,1.0
+5618,642,Hyattsville,4.0
+5774,646,Arlington,5.0
+4648,563,Naples,5.0
+8322,1295,Juneau,5.0
+2217,173,Las Vegas,5.0
+1951,129,Atlanta,4.0
+3787,452,Virginia Beach,4.8
+7576,1087,Horseheads,5.0
+2564,244,Elkhorn,5.0
+974,36,Chicago,4.15
+1899,127,Chicago,1.0
+9704,1754,Captain Cook,2.0
+5667,642,Hyattsville,2.0
+5280,631,Woburn,4.0
+8333,1298,Ogallala,3.0
+6595,870,Milwaukee,5.0
+4128,497,Long Beach,4.0
+1042,40,San Francisco,4.8
+1763,121,Seattle,5.0
+1739,121,Seattle,4.0
+2697,292,Florence,4.0
+2060,143,San Antonio,5.0
+9610,1733,Cooksburg,5.0
+510,27,Las Vegas,3.75
+1118,49,Napa,5.0
+4457,524,Suffolk,5.0
+8949,1504,Lawrence,3.0
+1486,84,Anaheim,5.0
+5316,636,Hanover,1.0
+6559,856,Dickson,3.0
+6873,911,Tampa,4.0
+2676,285,Mattituck,5.0
+6374,782,Mattoon,3.0
+575,27,Las Vegas,5.0
+8638,1420,Saginaw,5.0
+2453,214,Cocoa Beach,4.0
+873,36,Chicago,5.0
+7931,1171,Redmond,4.0
+9757,1770,Escanaba,5.0
+2456,217,Pasadena,4.0
+3403,437,Lahaina,5.0
+7413,1043,Yellow Springs,5.0
+7453,1056,Albuquerque,5.0
+5450,638,Virginia Beach,3.0
+8696,1428,Kansas City,4.0
+2367,186,El Segundo,5.0
+7559,1083,Troy,5.0
+8851,1463,Oakland,5.0
+3128,406,Fayetteville,5.0
+3796,452,Virginia Beach,3.95
+4511,534,Jackson,5.0
+1070,42,Philadelphia,5.0
+688,29,Boston,5.0
+4658,564,San Francisco,5.0
+5235,627,Columbia,4.0
+4608,556,Virginia Beach,4.0
+9631,1740,Atlanta,3.0
+8203,1253,Columbus,5.0
+6916,919,Anaheim,3.0
+3710,447,Baltimore,3.95
+3170,414,Silver Spring,4.0
+1323,63,Phoenix,5.0
+2466,222,Saco,5.0
+3171,414,Silver Spring,3.0
+7857,1148,Pittsburg,5.0
+306,17,Boston,1.65
+6181,736,Myrtle Beach,5.0
+1428,82,Chicago,4.4
+8293,1282,Hardeeville,5.0
+5334,636,Hanover,3.0
+7420,1046,West Des Moines,5.0
+7543,1078,Littleton,5.0
+7737,1129,Charleston,2.0
+3726,448,Virginia Beach,3.55
+7943,1176,Lodi,4.0
+7712,1129,Charleston,5.0
+9513,1695,McMinnville,5.0
+7485,1059,Kankakee,5.0
+4900,614,Elizabeth,4.0
+3925,472,Orlando,5.0
+8937,1501,San Antonio,5.0
+5098,621,Lanham,3.0
+8611,1407,Louisville,5.0
+4046,488,Suffolk,5.0
+2290,175,Austin,4.0
+750,32,New York,5.0
+3423,437,Lahaina,5.0
+5176,624,Virginia Beach,2.0
+710,29,Boston,3.75
+7865,1153,Lebanon,5.0
+7087,973,Garden Grove,5.0
+317,17,Boston,5.0
+5565,642,Hyattsville,3.0
+6981,936,Durham,1.0
+518,27,Las Vegas,4.8
+1812,123,Key West,5.0
+341,17,Boston,4.6
+6749,891,Atlanta,4.0
+9119,1561,Henrietta,1.0
+2127,167,Orlando,5.0
+2168,173,Las Vegas,5.0
+8184,1243,Boise,5.0
+6200,739,Lithonia,4.0
+3131,407,Corbin,1.0
+6764,895,Punta Gorda,4.0
+434,26,Miami Beach,4.4
+8172,1238,Old Orchard Beach,4.0
+2015,133,Miami Beach,3.95
+5741,645,Prince Frederick,1.0
+4661,565,Laguna Beach,4.0
+9895,1808,Beckley,2.0
+3495,438,Virginia Beach,3.0
+1921,127,Chicago,4.0
+7483,1059,Kankakee,5.0
+8892,1480,Bedford,4.0
+9256,1604,Westmont,4.0
+7091,973,Garden Grove,5.0
+8110,1223,Columbia,5.0
+2219,173,Las Vegas,5.0
+9856,1798,Tybee Island,5.0
+5052,621,Lanham,2.0
+6890,914,Greenville,5.0
+7932,1172,Tupelo,5.0
+8134,1226,Augusta,5.0
+9347,1634,Orange City,5.0
+463,27,Las Vegas,3.75
+9881,1804,Las Vegas,5.0
+9004,1526,Lakeview,4.0
+5925,670,Emerald Isle,1.0
+5572,642,Hyattsville,3.0
+7992,1191,Minneapolis,4.0
+9229,1594,Springfield,5.0
+3215,417,Glen Burnie,5.0
+7042,958,Houston,4.0
+9167,1570,Federal Way,4.0
+9274,1609,Danville,4.0
+3855,461,Atlanta,5.0
+9207,1585,Culver,3.0
+2637,269,Carlisle,3.0
+795,34,Chicago,3.35
+3127,405,Brooklyn,1.0
+3343,429,Chincoteague Island,5.0
+7280,1013,New York,2.0
+5525,642,Hyattsville,4.0
+7382,1030,Prescott,5.0
+9648,1744,Kissimmee,2.0
+2936,359,Cambridge,4.0
+7697,1125,Gainesville,2.0
+4533,541,Westfield,1.0
+4858,612,Norfolk,4.0
+6837,907,Koloa,5.0
+5269,629,Denton,5.0
+1880,127,Chicago,5.0
+3020,387,Asheville,3.0
+4848,612,Norfolk,5.0
+1557,100,Atlantic City,2.0
+3337,429,Chincoteague Island,4.0
+3536,439,Linthicum Heights,4.0
+6881,912,Fairfax,5.0
+9138,1562,Orlando,5.0
+9639,1744,Kissimmee,5.0
+7967,1186,Ithaca,5.0
+5194,624,Virginia Beach,4.0
+7484,1059,Kankakee,2.0
+3829,455,Warner Robins,5.0
+8569,1391,Greenville Junction,5.0
+9882,1804,Las Vegas,4.0
+2179,173,Las Vegas,4.0
+3543,440,Lincoln,4.0
+7650,1113,Spearfish,3.0
+9699,1752,Walla Walla,5.0
+3105,397,Hanover,4.0
+3218,417,Glen Burnie,4.0
+9962,1831,Brewster,5.0
+8443,1342,Jackson,5.0
+7761,1129,Charleston,3.0
+898,37,Chicago,5.0
+3810,453,Miami Beach,4.5
+8556,1384,Greybull,4.0
+6523,841,Wisconsin Dells,5.0
+7661,1115,Hollywood,5.0
+88,12,Chicago,4.6
+5579,642,Hyattsville,2.0
+6073,712,Kimberling City,2.0
+9352,1638,Grand Rapids,5.0
+6408,799,Burnet,3.0
+1500,88,New Orleans,4.0
+3267,421,Linthicum Heights,5.0
+1418,77,Phoenix,3.0
+1568,102,Anaheim,5.0
+8975,1513,Tarpon Springs,4.0
+8270,1276,Scranton,5.0
+7533,1073,Columbia,5.0
+4200,500,Kissimmee,5.0
+6399,796,Pebble Beach,5.0
+5015,620,Arlington,5.0
+1990,56,Chicago,5.0
+4885,613,Hampton,4.0
+4669,571,Ardmore,5.0
+5463,638,Virginia Beach,4.0
+1691,119,New Orleans,5.0
+9971,1835,Blaine,5.0
+8731,1434,Cedar Rapids,4.0
+556,27,Las Vegas,3.95
+1389,76,Seattle,5.0
+3312,428,Hampton,1.0
+7101,978,Rockland,5.0
+821,36,Chicago,2.1
+1948,129,Atlanta,4.0
+7635,1107,Portland,5.0
+7656,1115,Hollywood,4.0
+3583,441,Baltimore,3.0
+4378,518,Springfield,5.0
+7242,1007,Hollywood,3.0
+793,34,Chicago,4.8
+5983,688,Orangeburg,5.0
+1577,103,Anaheim,4.0
+6898,916,Knoxville,1.0
+610,27,Las Vegas,5.0
+1998,56,Chicago,3.0
+5858,650,Naples,5.0
+1838,124,Las Vegas,5.0
+3800,453,Miami Beach,5.0
+6294,758,Mount Airy,5.0
+7721,1129,Charleston,5.0
+4104,496,Santa Rosa,3.0
+4613,556,Virginia Beach,5.0
+5185,624,Virginia Beach,2.0
+8917,1489,Ames,1.0
+6230,746,Portland,5.0
+4040,488,Suffolk,4.0
+1352,65,Atlanta,5.0
+6040,707,Harrisburg,5.0
+3305,427,New Philadelphia,5.0
+2088,153,Middletown,3.0
+3044,395,San Francisco,5.0
+6375,782,Mattoon,4.0
+9131,1562,Orlando,2.0
+7630,1107,Portland,5.0
+3873,461,Atlanta,4.0
+4972,619,Arlington,3.0
+9110,1559,Vista,5.0
+9483,1685,Crawfordsville,1.0
+7158,988,Seattle,5.0
+7955,1181,Erie,5.0
+6652,878,Tampa,5.0
+1768,121,Seattle,5.0
+2316,181,New Orleans,5.0
+2257,173,Las Vegas,4.0
+4950,619,Arlington,5.0
+1853,124,Las Vegas,4.0
+7281,1013,New York,4.0
+39,8,Oxon Hill,4.0
+7714,1129,Charleston,5.0
+561,27,Las Vegas,5.0
+2968,365,Beverly,5.0
+4575,552,El Paso,1.0
+7890,709,Oklahoma City,2.0
+3984,476,Longboat Key,5.0
+1622,108,San Diego,5.0
+7447,1054,Springfield,5.0
+5575,642,Hyattsville,1.0
+4272,517,Fresno,5.0
+2684,287,Springfield,5.0
+3311,428,Hampton,1.0
+5025,620,Arlington,5.0
+9652,1744,Kissimmee,2.0
+2116,167,Orlando,4.0
+7313,1018,Greenville,3.0
+6634,875,Irving,5.0
+2130,167,Orlando,5.0
+7829,1140,Gatlinburg,5.0
+7987,1190,Bow,4.0
+4553,547,San Jose,2.0
+472,27,Las Vegas,2.1
+7711,1129,Charleston,5.0
+6858,908,Charleston,5.0
+6130,726,South Lake Tahoe,5.0
+9467,1676,Brownsburg,2.0
+181,16,Las Vegas,5.0
+6133,726,South Lake Tahoe,5.0
+5541,642,Hyattsville,5.0
+9313,1623,Fort Lauderdale,4.0
+8243,1266,Latta,3.0
+908,36,Chicago,5.0
+6596,870,Milwaukee,1.0
+3995,477,Charleston,5.0
+8845,1462,Rockford,4.0
+5557,642,Hyattsville,4.0
+7057,958,Houston,4.0
+519,27,Las Vegas,4.8
+22,6,San Francisco,5.0
+1267,53,Key West,4.0
+6267,751,Lafayette,5.0
+3030,391,Marietta,5.0
+3190,414,Silver Spring,4.0
+7529,1072,Plano,3.0
+3008,381,Elk City,1.0
+9811,1779,Panama City,4.0
+50,8,Oxon Hill,5.0
+3553,441,Baltimore,5.0
+4221,504,Vallejo,1.0
+3778,451,Portland,3.15
+4214,503,Port Richey,3.0
+5517,642,Hyattsville,3.0
+6606,874,Miami Beach,3.0
+12,2,Vancouver,5.0
+5972,683,Walterboro,4.0
+1483,84,Anaheim,5.0
+2450,212,Bradenton,5.0
+3137,409,Medford,4.0
+3597,441,Baltimore,5.0
+4836,612,Norfolk,5.0
+1299,60,Phoenix,1.0
+4816,611,Olympia,5.0
+3741,449,Miami Beach,5.0
+1213,50,New Orleans,5.0
+3630,444,Baltimore,3.55
+3771,449,Miami Beach,4.8
+4185,500,Kissimmee,3.75
+7119,985,Norwalk,5.0
+936,37,Chicago,5.0
+5519,642,Hyattsville,3.0
+1810,123,Key West,4.0
+3610,444,Baltimore,5.0
+4983,619,Arlington,4.0
+1156,49,Napa,5.0
+8364,1314,Lahaina,5.0
+7832,1140,Gatlinburg,2.0
+5118,622,Virginia Beach,5.0
+9232,1595,Springfield,5.0
+7843,1143,Indianapolis,4.0
+3473,438,Virginia Beach,5.0
+2044,135,Shelbyville,4.0
+7957,1181,Erie,4.0
+1044,40,San Francisco,4.8
+1723,121,Seattle,2.0
+4644,561,Dunedin,1.0
+9710,1756,Atlanta,5.0
+8997,1522,Lynchburg,5.0
+1076,42,Philadelphia,5.0
+1263,53,Key West,4.0
+7468,1058,Laughlin,3.0
+5147,623,Baltimore,3.0
+2058,143,San Antonio,3.0
+2098,159,Ankeny,4.0
+5756,646,Arlington,4.0
+3973,476,Longboat Key,3.0
+8059,1211,Fort Myers,2.0
+1697,119,New Orleans,4.0
+7840,1142,Detroit,4.0
+4047,488,Suffolk,4.0
+9479,1682,Sioux City,1.0
+7713,1129,Charleston,5.0
+5999,694,Blackwell,5.0
+7845,1143,Indianapolis,5.0
+4049,488,Suffolk,5.0
+8206,1256,Chesapeake,4.0
+892,37,Chicago,5.0
+6412,799,Burnet,5.0
+7993,1191,Minneapolis,5.0
+4127,497,Long Beach,5.0
+4601,554,Hampton,3.0
+3027,391,Marietta,4.0
+9218,1591,Los Angeles,4.0
+1673,119,New Orleans,4.0
+9305,1623,Fort Lauderdale,4.0
+6796,896,West Hollywood,3.0
+8226,1263,Martinsburg,1.0
+6168,734,San Diego,5.0
+5569,642,Hyattsville,3.0
+8381,1315,Watertown,3.0
+1244,51,Napa,5.0
+7970,1186,Ithaca,5.0
+9077,1551,Richmond,1.0
+8621,1264,Nottingham,5.0
+9743,1765,Kiowa,5.0
+5066,621,Lanham,4.0
+4359,518,Springfield,3.0
+3104,397,Hanover,4.0
+6589,869,Tallahassee,4.0
+4847,612,Norfolk,5.0
+1512,93,Boston,3.0
+5226,626,Sanibel,4.0
+1915,127,Chicago,3.0
+8320,1295,Juneau,5.0
+6891,914,Greenville,5.0
+2260,173,Las Vegas,4.0
+1282,60,Phoenix,2.0
+163,16,Las Vegas,2.5
+1720,120,Seattle,5.0
+7722,1129,Charleston,4.0
+5605,642,Hyattsville,4.0
+1128,49,Napa,4.0
+3507,438,Virginia Beach,5.0
+8422,1327,Onalaska,5.0
+6861,908,Charleston,5.0
+5522,642,Hyattsville,4.0
+9521,1701,Traverse City,5.0
+6806,897,Boston,4.0
+8599,1404,Athens,5.0
+4075,490,Middletown,5.0
+8514,1368,Missoula,4.0
+1525,95,New Orleans,3.0
+4839,612,Norfolk,5.0
+8990,1520,Roanoke,5.0
+5087,621,Lanham,4.0
+8577,1396,San Antonio,4.0
+7618,1107,Portland,3.0
+1566,101,Anaheim,4.0
+2879,346,Monterey Park,3.0
+3438,437,Lahaina,5.0
+356,17,Boston,4.6
+5751,645,Prince Frederick,5.0
+1309,60,Phoenix,5.0
+1554,100,Atlantic City,3.0
+1276,58,Chicago,1.0
+8180,1240,Midland,5.0
+6512,838,Estes Park,5.0
+4792,608,Virginia Beach,5.0
+3173,414,Silver Spring,5.0
+5379,636,Hanover,4.0
+1335,65,Atlanta,5.0
+9261,1604,Westmont,4.0
+362,17,Boston,5.0
+1317,63,Phoenix,3.0
+1659,118,New Orleans,5.0
+1220,50,New Orleans,5.0
+2998,378,Medina,2.0
+8204,1254,Tilton,1.0
+2441,209,Hialeah,1.0
+7224,1003,Vail,5.0
+1605,107,Atlantic City,3.0
+780,33,Los Angeles,5.0
+7304,1017,Seattle,4.0
+2190,173,Las Vegas,4.0
+1747,121,Seattle,5.0
+8173,1238,Old Orchard Beach,5.0
+1992,56,Chicago,4.0
+2082,150,New Castle,5.0
+4463,524,Suffolk,5.0
+2959,361,Gloucester,5.0
+2780,322,Homosassa,5.0
+9936,1823,Trinidad,4.0
+3983,476,Longboat Key,4.0
+3999,479,Santa Barbara,5.0
+1646,115,Philadelphia,5.0
+728,32,New York,4.0
+2969,366,West Springfield,3.0
+1614,108,San Diego,4.0
+8165,1235,Cincinnati,3.0
+6233,747,Camarillo,4.0
+8296,1284,Virginia Beach,5.0
+2503,231,Honolulu,4.0
+3314,428,Hampton,4.0
+350,17,Boston,1.45
+792,34,Chicago,4.8
+7445,1053,Kittery,4.0
+3853,461,Atlanta,4.0
+4339,518,Springfield,4.0
+8752,1440,Santa Monica,3.0
+5514,641,Columbia,4.0
+5033,620,Arlington,5.0
+9470,1678,Wheelersburg,5.0
+6970,935,Louisville,5.0
+7001,946,Bethlehem,5.0
+2567,244,Elkhorn,1.0
+5461,638,Virginia Beach,4.0
+8575,1396,San Antonio,5.0
+2652,276,Washington,1.0
+30,8,Oxon Hill,2.0
+2558,241,Beckley,3.0
+4911,616,Myrtle Beach,5.0
+9048,1546,Buffalo,5.0
+4028,485,Montgomery,4.0
+9314,1623,Fort Lauderdale,3.0
+4775,605,Portland,5.0
+164,16,Las Vegas,2.9
+7449,1054,Springfield,5.0
+9945,1827,Escalante,5.0
+5767,646,Arlington,3.0
+14,2,Vancouver,5.0
+8601,1404,Athens,5.0
+5611,642,Hyattsville,2.0
+1923,127,Chicago,5.0
+2975,368,Aiken,1.0
+5823,646,Arlington,5.0
+3818,453,Miami Beach,4.6
+5011,619,Arlington,5.0
+2946,360,Madison,3.0
+474,27,Las Vegas,5.0
+7331,1018,Greenville,5.0
+8616,1408,Omaha,5.0
+1185,50,New Orleans,4.0
+9565,1719,Erie,5.0
+7181,991,Clearwater Beach,5.0
+5738,645,Prince Frederick,4.0
+2696,292,Florence,5.0
+4495,532,West Middlesex,1.0
+7934,1172,Tupelo,5.0
+9083,1552,Tokeland,3.0
+8433,1336,Hartwell,3.0
+4539,544,La Jolla,5.0
+669,29,Boston,4.6
+4646,561,Dunedin,5.0
+7844,1143,Indianapolis,4.0
+5933,671,Alton,4.0
+1600,107,Atlantic City,4.0
+5364,636,Hanover,5.0
+1753,121,Seattle,5.0
+6085,717,West Palm Beach,3.0
+5016,620,Arlington,4.0
+5506,641,Columbia,4.0
+2256,173,Las Vegas,5.0
+3727,448,Virginia Beach,5.0
+1811,123,Key West,4.0
+7517,1068,Portage,3.0
+9724,1758,Sheboygan,5.0
+4772,605,Portland,5.0
+7078,972,Saint Louis,5.0
+1604,107,Atlantic City,3.0
+5895,659,Bloomfield,5.0
+2152,173,Las Vegas,5.0
+1205,50,New Orleans,4.0
+7443,1052,Bossier City,5.0
+9954,1828,Buffalo,4.0
+8858,1465,Mason,1.0
+9182,1576,Waterville Valley,5.0
+514,27,Las Vegas,5.0
+2599,256,Tualatin,4.0
+9496,1688,Kingsland,1.0
+2486,228,Charlotte,5.0
+207,16,Las Vegas,3.95
+4866,612,Norfolk,5.0
+6855,907,Koloa,3.0
+1141,49,Napa,5.0
+450,26,Miami Beach,5.0
+6693,883,San Diego,3.0
+5696,642,Hyattsville,3.0
+5169,624,Virginia Beach,3.0
+959,37,Chicago,4.6
+3718,448,Virginia Beach,3.15
+9948,1827,Escalante,5.0
+3662,445,Williamsburg,4.6
+401,26,Miami Beach,3.55
+5819,646,Arlington,4.0
+835,37,Chicago,4.15
+2499,229,Calistoga,4.0
+4589,553,Norfolk,3.0
+396,24,New Orleans,5.0
+2939,359,Cambridge,5.0
+6007,700,Albuquerque,4.0
+2963,363,Peabody,1.0
+4633,557,Nashville,1.0
+4760,602,Tyler,4.0
+2422,200,Cleveland,4.0
+8786,1442,Grove City,1.0
+4284,518,Springfield,5.0
+954,36,Chicago,4.15
+4557,548,San Jose,4.0
+7317,1018,Greenville,5.0
+1597,107,Atlantic City,4.0
+7359,1021,Redding,4.0
+7624,1107,Portland,5.0
+8855,1465,Mason,4.0
+4500,533,Alexandria,3.0
+2681,286,Tomah,5.0
+6361,775,Bar Harbor,5.0
+5141,623,Baltimore,3.0
+6246,747,Camarillo,5.0
+6163,733,Santa Barbara,4.0
+648,29,Boston,5.0
+8958,1508,Oklahoma City,5.0
+523,27,Las Vegas,3.35
+9507,1693,Klamath Falls,5.0
+9957,1829,Ronks,5.0
+9875,1803,Medford,3.0
+8818,1452,Milesburg,3.0
+263,15,Las Vegas,4.6
+8167,1237,Greeley,1.0
+577,27,Las Vegas,4.6
+2577,248,Bend,5.0
+3051,395,San Francisco,4.0
+328,17,Boston,4.8
+8563,1386,Evansville,5.0
+6835,907,Koloa,3.0
+1396,77,Phoenix,5.0
+8143,1232,Moses Lake,5.0
+2154,173,Las Vegas,4.0
+4891,613,Hampton,5.0
+8075,1214,Kingsland,5.0
+909,37,Chicago,2.7
+700,29,Boston,3.75
+1809,123,Key West,1.0
+2857,345,Pismo Beach,5.0
+3933,473,Union City,5.0
+9542,1711,Dalhart,1.0
+2420,199,Morro Bay,5.0
+798,35,Chicago,4.8
+406,26,Miami Beach,5.0
+9907,1813,Chicago,5.0
+6819,901,Napa,5.0
+542,27,Las Vegas,5.0
+7458,1057,Mesquite,5.0
+131,13,Boston,3.55
+3802,453,Miami Beach,4.6
+5306,635,Gloucester,5.0
+2723,302,Albert Lea,5.0
+2149,173,Las Vegas,4.0
+106,13,Boston,5.0
+2818,339,Valencia,4.0
+3974,476,Longboat Key,5.0
+7500,1060,Santa Monica,4.0
+2452,214,Cocoa Beach,5.0
+5061,621,Lanham,5.0
+3578,441,Baltimore,3.0
+1,0,Rancho Santa Fe,5.0
+5433,638,Virginia Beach,3.0
+1179,49,Napa,5.0
+8583,1397,San Antonio,5.0
+3418,437,Lahaina,5.0
+6543,848,Minooka,5.0
+7958,1181,Erie,3.0
+748,32,New York,5.0
+9634,1742,Urbana,2.0
+7539,1076,Isle of Palms,2.0
+3680,446,Baltimore,5.0
+3070,395,San Francisco,5.0
+1989,56,Chicago,4.0
+8073,1214,Kingsland,5.0
+8370,1314,Lahaina,4.0
+270,17,Boston,5.0
+989,39,Beverly Hills,4.4
+9696,1751,Mount Vernon,3.0
+4371,518,Springfield,4.0
+8473,1355,Duncan,4.0
+2563,244,Elkhorn,5.0
+9073,1551,Richmond,5.0
+6813,901,Napa,5.0
+1976,130,Atlanta,1.0
+214,16,Las Vegas,3.35
+5894,659,Bloomfield,4.0
+4458,524,Suffolk,5.0
+7690,1122,Chattanooga,5.0
+9502,1689,Savannah,5.0
+6838,907,Koloa,4.0
+2526,231,Honolulu,5.0
+354,17,Boston,3.55
+4831,612,Norfolk,5.0
+5209,624,Virginia Beach,3.0
+8001,1197,North Dartmouth,5.0
+4738,595,Canyon,5.0
+6517,840,Denver,1.0
+500,27,Las Vegas,4.6
+738,32,New York,5.0
+9825,1786,Eureka Springs,1.0
+9964,1831,Brewster,5.0
+9263,1606,Cherokee,4.0
+8244,1266,Latta,3.0
+9555,1716,Pasco,5.0
+8122,1224,Lexington,5.0
+659,29,Boston,3.75
+2216,173,Las Vegas,5.0
+2354,182,Williamsburg,4.15
+6733,884,Charleston,5.0
+4960,619,Arlington,5.0
+4191,500,Kissimmee,4.8
+2833,344,Pismo Beach,5.0
+4038,486,Denver,5.0
+666,29,Boston,5.0
+3692,446,Baltimore,3.55
+5608,642,Hyattsville,4.0
+4878,613,Hampton,5.0
+7107,980,Lafayette,2.0
+876,37,Chicago,5.0
+9442,1670,Tampa,2.0
+5574,642,Hyattsville,5.0
+4551,547,San Jose,1.0
+7282,1014,Oklahoma City,5.0
+1325,65,Atlanta,5.0
+747,32,New York,5.0
+656,29,Boston,4.8
+4230,506,Edison,3.0
+4605,555,Norfolk,2.0
+7247,1008,Portland,4.0
+8263,1276,Scranton,5.0
+6513,838,Estes Park,4.0
+2022,133,Miami Beach,3.15
+4521,538,Temecula,5.0
+9537,1708,Killington,5.0
+9993,1842,East Sandwich,4.0
+2270,173,Las Vegas,4.0
+1010,40,San Francisco,2.7
+1011,40,San Francisco,4.8
+9668,1744,Kissimmee,4.0
+2327,181,New Orleans,5.0
+2490,228,Charlotte,5.0
+4052,488,Suffolk,4.0
+4503,533,Alexandria,4.0
+1177,49,Napa,2.0
+4958,619,Arlington,5.0
+8982,1515,Wisconsin Dells,5.0
+7072,968,Ripton,5.0
+6923,921,Katy,5.0
+9276,1609,Danville,4.0
+5223,626,Sanibel,4.0
+5037,620,Arlington,5.0
+9049,1547,Brentwood,3.0
+5150,623,Baltimore,2.0
+1246,52,Dallas,5.0
+7742,1129,Charleston,5.0
+4320,518,Springfield,2.0
+9136,1562,Orlando,1.0
+4727,587,Wilburton,1.0
+7112,983,Paso Robles,5.0
+8417,1325,Prosser,1.0
+3869,461,Atlanta,5.0
+3945,474,Linthicum Heights,5.0
+6364,775,Bar Harbor,5.0
+7283,1014,Oklahoma City,4.0
+4008,480,Santa Barbara,3.0
+8100,1221,Fort Wayne,5.0
+1387,74,Seattle,5.0
+8332,1298,Ogallala,3.0
+3574,441,Baltimore,4.0
+1123,49,Napa,3.0
+9857,1799,Oshkosh,4.0
+7917,1169,Jonesboro,5.0
+651,29,Boston,4.8
+9224,1592,Austinburg,4.0
+6066,710,Omaha,5.0
+1827,124,Las Vegas,4.0
+4441,518,Springfield,4.0
+4519,538,Temecula,5.0
+5844,647,Chincoteague Island,4.0
+3142,413,Houston,1.0
+3746,449,Miami Beach,4.8
+5004,619,Arlington,5.0
+9472,1679,Clear Lake,4.0
+1145,49,Napa,5.0
+31,8,Oxon Hill,5.0
+8604,1405,Newark,5.0
+3143,413,Houston,4.0
+3048,395,San Francisco,5.0
+6332,768,Bowling Green,5.0
+6720,884,Charleston,4.0
+968,37,Chicago,3.15
+4689,578,Pittsburgh,4.0
+6035,706,Savannah,4.0
+365,17,Boston,4.8
+869,37,Chicago,5.0
+9238,1598,Columbus,5.0
+2960,362,Brookline,4.0
+8071,1214,Kingsland,2.0
+8737,1435,Saint Louis,5.0
+23,6,San Francisco,4.0
+3453,437,Lahaina,5.0
+1122,49,Napa,5.0
+1157,49,Napa,5.0
+1314,62,Phoenix,3.0
+7963,1182,Buffalo,3.0
+1595,107,Atlantic City,5.0
+5745,645,Prince Frederick,5.0
+8678,1428,Kansas City,5.0
+9298,1620,Rochester,4.0
+358,17,Boston,5.0
+6382,785,Auburn,4.0
+2614,262,Amarillo,5.0
+1572,102,Anaheim,2.0
+3000,379,Somerset,2.0
+723,32,New York,5.0
+1804,123,Key West,5.0
+4881,613,Hampton,5.0
+6392,793,Lake Charles,5.0
+1575,102,Anaheim,4.0
+7536,1075,Baton Rouge,3.0
+5865,652,Eureka Springs,5.0
+4407,518,Springfield,2.0
+3150,413,Houston,5.0
+6846,907,Koloa,4.0
+1275,57,Chicago,4.0
+5985,688,Orangeburg,5.0
+5699,642,Hyattsville,3.0
+8037,1207,Highlands,5.0
+8683,1428,Kansas City,2.0
+2590,252,Grants Pass,5.0
+6729,884,Charleston,4.0
+7927,1171,Redmond,5.0
+2128,167,Orlando,5.0
+8653,1427,Coralville,5.0
+9086,1553,Freehold,5.0
+6716,884,Charleston,4.0
+2495,228,Charlotte,5.0
+381,21,Honolulu,5.0
+1949,129,Atlanta,4.0
+2525,231,Honolulu,4.0
+744,32,New York,5.0
+4176,500,Kissimmee,1.25
+3022,387,Asheville,4.0
+2675,284,Westbury,5.0
+5002,619,Arlington,3.0
+8773,1440,Santa Monica,4.0
+4682,576,Duncansville,4.0
+4384,518,Springfield,4.0
+3417,437,Lahaina,3.0
+5671,642,Hyattsville,5.0
+6477,830,Knoxville,5.0
+9109,1559,Vista,5.0
+9118,1561,Henrietta,3.0
+705,29,Boston,4.8
+6015,702,Fort Lauderdale,4.0
+3097,397,Hanover,4.0
+4679,574,Mill Hall,4.0
+5370,636,Hanover,5.0
+8257,1272,Grand Prairie,5.0
+6650,878,Tampa,5.0
+2158,173,Las Vegas,5.0
+3271,421,Linthicum Heights,2.0
+8269,1276,Scranton,5.0
+2143,172,Portland,5.0
+2686,289,Asheboro,5.0
+4063,488,Suffolk,4.0
+3001,379,Somerset,3.0
+5399,636,Hanover,5.0
+1619,108,San Diego,5.0
+8541,1376,Ellendale,5.0
+9889,1807,Kƒ´hei,4.0
+8951,1506,Evans,1.0
+4914,616,Myrtle Beach,5.0
+7504,1063,Henderson,3.0
+7600,1100,Silverton,5.0
+2005,56,Chicago,4.0
+9391,1659,Muskegon,1.0
+8875,1471,Chicago,5.0
+2715,301,Austin,5.0
+3015,385,Durham,4.0
+407,26,Miami Beach,4.8
+8989,1520,Roanoke,5.0
+3890,465,Flagstaff,5.0
+6581,866,Madison,4.0
+8008,1200,Haverhill,4.0
+9694,1750,Monroe,4.0
+5051,621,Lanham,3.0
+1015,40,San Francisco,4.6
+3776,450,Baltimore,3.75
+2151,173,Las Vegas,1.0
+4239,508,Panama City Beach,1.0
+40,8,Oxon Hill,4.0
+5705,642,Hyattsville,4.0
+1153,49,Napa,4.0
+7184,991,Clearwater Beach,5.0
+6656,878,Tampa,1.0
+4967,619,Arlington,5.0
+6751,893,Lansing,3.0
+5172,624,Virginia Beach,4.0
+1227,51,Napa,4.0
+1241,51,Napa,3.0
+8192,1247,Daytona Beach,2.0
+1781,122,Philadelphia,5.0
+1965,130,Atlanta,5.0
+5174,624,Virginia Beach,4.0
+7018,951,West Palm Beach,3.0
+7995,1191,Minneapolis,4.0
+5342,636,Hanover,5.0
+1708,120,Seattle,4.0
+9360,1641,Springdale,5.0
+9475,1680,Mount Pleasant,5.0
+1245,51,Napa,5.0
+3370,437,Lahaina,5.0
+6338,767,Bowling Green,3.0
+2062,143,San Antonio,3.0
+1626,108,San Diego,2.0
+4611,556,Virginia Beach,5.0
+1737,121,Seattle,4.0
+2429,203,Columbus,5.0
+5857,650,Naples,5.0
+9817,1782,Horse Cave,2.0
+3953,474,Linthicum Heights,4.0
+2546,236,Clarksville,5.0
+1129,49,Napa,4.0
+6122,726,South Lake Tahoe,4.0
+5091,621,Lanham,3.0
+5330,636,Hanover,2.0
+3,1,Hanover,2.0
+2648,274,West Chester,5.0
+1075,42,Philadelphia,4.0
+3435,437,Lahaina,4.0
+3093,397,Hanover,4.0
+2404,196,Valencia,3.0
+2010,133,Miami Beach,2.3
+7369,1025,Yuma,3.0
+2403,196,Valencia,1.0
+6465,827,Lewisburg,4.0
+9412,1663,Austin,5.0
+7089,973,Garden Grove,3.0
+3434,437,Lahaina,5.0
+924,37,Chicago,4.4
+64,9,San Diego,5.0
+2255,173,Las Vegas,5.0
+4812,610,Orlando,5.0
+7532,1073,Columbia,5.0
+3204,416,Coeur d'Alene,5.0
+3517,439,Linthicum Heights,3.0
+1180,49,Napa,4.0
+8267,1276,Scranton,5.0
+1047,40,San Francisco,4.8
+5411,637,Springfield,1.0
+4257,511,Harrisburg,3.0
+1746,121,Seattle,1.0
+4453,522,Welches,5.0
+1121,49,Napa,5.0
+6826,904,Brooklyn,5.0
+7164,988,Seattle,5.0
+7148,986,Charleston,5.0
+6109,722,Temecula,3.0
+2343,181,New Orleans,5.0
+6515,838,Estes Park,3.0
+11,2,Vancouver,5.0
+4271,516,Beaverton,5.0
+6814,901,Napa,5.0
+1839,124,Las Vegas,3.0
+1026,40,San Francisco,4.8
+9643,1744,Kissimmee,3.0
+9534,1706,Lanesboro,5.0
+5090,621,Lanham,3.0
+2647,274,West Chester,5.0
+8465,1352,Richmond,1.0
+9909,1813,Chicago,5.0
+2811,337,Sausalito,5.0
+1215,50,New Orleans,5.0
+5636,642,Hyattsville,5.0
+3306,427,New Philadelphia,5.0
+7637,1107,Portland,4.0
+893,37,Chicago,4.4
+546,27,Las Vegas,3.75
+5503,641,Columbia,4.0
+7617,1107,Portland,5.0
+189,16,Las Vegas,3.55
+2549,238,Brookings,5.0
+8419,1327,Onalaska,4.0
+1467,84,Anaheim,3.0
+4375,518,Springfield,5.0
+2572,246,Appleton,4.0
+4706,578,Pittsburgh,5.0
+3295,421,Linthicum Heights,4.0
+5622,642,Hyattsville,2.0
+5563,642,Hyattsville,5.0
+7990,1191,Minneapolis,5.0
+7781,1132,Marinette,3.0
+5467,638,Virginia Beach,2.0
+3043,395,San Francisco,5.0
+1592,107,Atlantic City,2.0
+2224,173,Las Vegas,5.0
+4387,518,Springfield,5.0
+352,17,Boston,4.8
+6010,701,Marshall,4.0
+9953,1828,Buffalo,5.0
+318,17,Boston,3.55
+9686,1748,Kissimmee,2.0
+5737,645,Prince Frederick,5.0
+2548,236,Clarksville,2.0
+9212,1588,Big Bear City,1.0
+8710,1430,Houston,5.0
+1035,40,San Francisco,4.4
+7535,1074,Basalt,4.0
+4771,605,Portland,5.0
+9754,1769,Redmond,4.0
+9916,1814,Wytheville,3.0
+8152,1233,Lincoln City,5.0
+2265,173,Las Vegas,5.0
+8523,1369,Billings,4.0
+5447,638,Virginia Beach,2.0
+3085,397,Hanover,3.0
+693,29,Boston,3.95
+4065,488,Suffolk,5.0
+939,37,Chicago,4.0
+400,26,Miami Beach,4.4
+4401,518,Springfield,5.0
+1426,82,Chicago,5.0
+6973,935,Louisville,3.0
+9834,1790,Billings,5.0
+5143,623,Baltimore,4.0
+3470,438,Virginia Beach,5.0
+1162,49,Napa,5.0
+8404,1322,Fort Collins,4.0
+4491,531,Lake Elsinore,3.0
+4954,619,Arlington,5.0
+45,8,Oxon Hill,3.0
+5592,642,Hyattsville,4.0
+5358,636,Hanover,2.0
+3735,448,Virginia Beach,5.0
+6651,878,Tampa,4.0
+9974,1836,El Cajon,3.0
+6558,855,Murray,4.0
+3345,429,Chincoteague Island,5.0
+4037,486,Denver,3.0
+1490,84,Anaheim,3.0
+9079,1551,Richmond,5.0
+774,33,Los Angeles,4.8
+9808,1777,Newark,1.0
+1842,124,Las Vegas,3.0
+5639,642,Hyattsville,4.0
+3804,453,Miami Beach,5.0
+1178,49,Napa,5.0
+3038,392,Saint Louis,4.0
+6384,786,Macomb,2.0
+9033,1540,Southaven,5.0
+9558,1718,West Springfield,5.0
+6047,707,Harrisburg,4.0
+1050,40,San Francisco,3.75
+1918,127,Chicago,5.0
+3674,446,Baltimore,4.0
+5300,635,Gloucester,5.0
+791,34,Chicago,4.15
+5554,642,Hyattsville,3.0
+4824,612,Norfolk,4.0
+492,27,Las Vegas,3.15
+5445,638,Virginia Beach,4.0
+9727,1758,Sheboygan,5.0
+7415,1045,Falmouth,5.0
+4989,619,Arlington,5.0
+511,27,Las Vegas,4.4
+6030,704,Wisconsin Dells,5.0
+6456,824,Cosby,4.0
+8109,1223,Columbia,4.0
+4209,501,Williamsburg,4.15
+55,8,Oxon Hill,4.0
+7110,982,New Hope,4.0
+9581,1722,Dayton,1.0
+9840,1792,Pineville,5.0
+4562,549,Tampa,3.0
+4662,566,Kalamazoo,5.0
+9153,1565,Salem,3.0
+6547,852,Pigeon Forge,4.0
+6685,882,Hollywood,4.0
+9690,1749,Houma,5.0
+3040,394,Norcross,1.0
+7045,958,Houston,4.0
+2200,173,Las Vegas,5.0
+9655,1744,Kissimmee,5.0
+8217,1261,Saint Louis,3.0
+5084,621,Lanham,5.0
+9453,1673,Bradenton Beach,5.0
+432,26,Miami Beach,3.15
+274,17,Boston,3.35
+4587,553,Norfolk,4.0
+1688,119,New Orleans,5.0
+9145,1565,Salem,5.0
+9669,1744,Kissimmee,4.0
+4872,613,Hampton,5.0
+4560,549,Tampa,2.0
+420,26,Miami Beach,4.6
+7900,709,Oklahoma City,1.0
+3758,449,Miami Beach,4.4
+9544,1712,Balmorhea,4.0
+3895,466,Desert Hot Springs,4.0
+9951,1827,Escalante,5.0
+2922,355,Long Beach,5.0
+5246,627,Columbia,5.0
+4437,518,Springfield,4.0
+1833,124,Las Vegas,4.0
+221,16,Las Vegas,5.0
+5252,627,Columbia,2.0
+8401,1320,Buffalo,5.0
+4464,524,Suffolk,4.0
+5292,634,Kelleys Island,4.0
+6486,831,Columbia,1.0
+8186,1244,Tilton,3.0
+7750,1129,Charleston,4.0
+8262,1276,Scranton,5.0
+1184,50,New Orleans,5.0
+72,9,San Diego,5.0
+1567,101,Anaheim,5.0
+7230,1003,Vail,5.0
+6457,824,Cosby,5.0
+8382,1315,Watertown,3.0
+2663,280,Milwaukee,3.0
+1922,127,Chicago,5.0
+200,15,Las Vegas,4.6
+608,27,Las Vegas,5.0
+7673,1117,Arlington,4.0
+5593,642,Hyattsville,3.0
+4901,614,Elizabeth,3.0
+2215,173,Las Vegas,5.0
+955,37,Chicago,3.15
+2242,173,Las Vegas,5.0
+8338,1299,Kansas City,5.0
+7787,1134,Carmel,1.0
+5644,642,Hyattsville,3.0
+6088,718,Fort Myers,5.0
+3404,437,Lahaina,3.0
+8112,1223,Columbia,5.0
+5241,627,Columbia,5.0
+1680,119,New Orleans,5.0
+9616,1736,Albany,3.0
+3585,441,Baltimore,4.0
+237,16,Las Vegas,3.75
+1431,82,Chicago,4.6
+2582,250,Janesville,5.0
+9323,1624,Newark,4.0
+8403,1321,Petoskey,1.0
+194,16,Las Vegas,2.9
+5159,624,Virginia Beach,2.0
+6140,726,South Lake Tahoe,3.0
+9203,1584,Anchorage,3.0
+4213,502,South Haven,1.0
+6005,698,Red River,5.0
+3601,443,Byron Center,3.0
+4725,586,Portsmouth,3.0
+1743,121,Seattle,5.0
+7448,1054,Springfield,5.0
+9880,1804,Las Vegas,5.0
+8294,1283,Jamaica,4.0
+7154,987,Hollywood,4.0
+4545,546,Columbus,3.0
+9006,1528,Medford,1.0
+6019,703,Harrison,4.0
+3786,451,Portland,4.4
+3716,447,Baltimore,2.7
+8709,1429,Spokane,5.0
+2148,173,Las Vegas,5.0
+3699,446,Baltimore,4.0
+573,27,Las Vegas,5.0
+7693,1123,Tallahassee,4.0
+9576,1722,Dayton,3.0
+769,33,Los Angeles,4.4
+5340,636,Hanover,2.0
+6052,707,Harrisburg,4.0
+8659,1428,Kansas City,5.0
+2603,258,Corvallis,5.0
+5071,621,Lanham,4.0
+8160,1235,Cincinnati,2.0
+2041,133,Miami Beach,3.75
+5867,653,Tulsa,5.0
+6912,918,Bowling Green,4.0
+7273,1013,New York,5.0
+8776,1440,Santa Monica,5.0
+47,8,Oxon Hill,5.0
+6889,913,Blacksburg,4.0
+2623,265,Morrisville,2.0
+4907,615,Fairfield,2.0
+2731,306,Woodstock,5.0
+91,12,Chicago,5.0
+8021,1203,Post Falls,5.0
+9854,1796,Bridgeport,3.0
+3333,428,Hampton,2.0
+3986,476,Longboat Key,5.0
+2605,259,Corsicana,5.0
+557,27,Las Vegas,4.8
+2573,246,Appleton,5.0
+3185,414,Silver Spring,5.0
+1640,114,San Diego,5.0
+9194,1583,South Bend,4.0
+4288,518,Springfield,2.0
+1643,115,Philadelphia,4.0
+304,17,Boston,3.5
+8357,1312,Danville,5.0
+3265,421,Linthicum Heights,4.0
+5786,646,Arlington,4.0
+3230,417,Glen Burnie,3.0
+4113,496,Santa Rosa,3.0
+3993,477,Charleston,5.0
+4946,619,Arlington,4.0
+3469,438,Virginia Beach,5.0
+6063,709,Oklahoma City,5.0
+5289,633,Kennesaw,4.0
+2644,273,Montgomeryville,5.0
+3363,434,Southfield,2.0
+3462,437,Lahaina,5.0
+5877,654,Tampa,5.0
+6785,896,West Hollywood,5.0
+1744,121,Seattle,2.0
+9384,1654,Puyallup,5.0
+9056,547,San Jose,3.0
+8067,1212,Norfolk,4.0
+8626,1412,Troy,5.0
+9638,1744,Kissimmee,2.0
+6284,755,Boise,5.0
+7347,1020,Lake Placid,4.0
+1613,108,San Diego,3.0
+8941,1501,San Antonio,3.0
+9786,1777,Newark,3.0
+8018,1203,Post Falls,3.0
+1959,130,Atlanta,5.0
+9051,1548,Sioux Falls,5.0
+3997,478,Frisco,1.0
+5731,644,Exmore,5.0
+6026,704,Wisconsin Dells,5.0
+9378,1649,North Platte,3.0
+6076,714,Wauchula,1.0
+4499,533,Alexandria,3.0
+7565,1085,Eugene,5.0
+2412,199,Morro Bay,3.0
+647,29,Boston,5.0
+5221,625,Secaucus,5.0
+1648,117,Napa,4.0
+7123,985,Norwalk,2.0
+1154,49,Napa,4.0
+4318,518,Springfield,3.0
+4626,556,Virginia Beach,4.0
+5314,636,Hanover,1.0
+3947,474,Linthicum Heights,4.0
+2758,316,Bear,1.0
+985,37,Chicago,4.6
+5547,642,Hyattsville,4.0
+7707,1129,Charleston,4.0
+7640,1108,Nephi,5.0
+1191,50,New Orleans,5.0
+1045,40,San Francisco,3.15
+6289,755,Boise,5.0
+5357,636,Hanover,2.0
+213,16,Las Vegas,1.45
+7063,961,Ruidoso,5.0
+5703,642,Hyattsville,4.0
+4980,619,Arlington,5.0
+3180,414,Silver Spring,4.0
+9531,1704,Cherokee,5.0
+1651,118,New Orleans,5.0
+6546,851,Freeport,4.0
+9094,1553,Freehold,2.0
+6765,895,Punta Gorda,5.0
+8359,1313,Pinetop,5.0
+9270,1608,Salem,1.0
+4138,497,Long Beach,5.0
+4151,500,Kissimmee,4.15
+417,26,Miami Beach,3.15
+7385,1031,Lexington,5.0
+3124,404,Dayton,5.0
+9404,1660,Oldsmar,4.0
+7646,1110,Vancouver,5.0
+7464,1057,Mesquite,5.0
+9364,1645,Sedona,3.0
+5527,642,Hyattsville,4.0
+1057,40,San Francisco,4.8
+3851,461,Atlanta,4.0
+4335,518,Springfield,3.0
+6659,878,Tampa,3.0
+8777,1440,Santa Monica,5.0
+65,9,San Diego,4.0
+7810,1140,Gatlinburg,4.0
+5086,621,Lanham,4.0
+4317,518,Springfield,5.0
+7908,1166,Oklahoma City,1.0
+2388,193,San Luis Obispo,3.0
+1861,124,Las Vegas,4.0
+6118,724,Secaucus,4.0
+6150,727,Denton,4.0
+5190,624,Virginia Beach,3.0
+4182,500,Kissimmee,4.4
+7542,1078,Littleton,5.0
+6196,739,Lithonia,2.0
+1195,50,New Orleans,4.0
+7274,1013,New York,5.0
+4129,497,Long Beach,5.0
+2714,300,Monticello,5.0
+9672,1745,Columbus,4.0
+6381,785,Auburn,1.0
+8490,1361,Grand Prairie,5.0
+3825,454,Grand Rapids,3.0
+6905,918,Bowling Green,5.0
+976,36,Chicago,5.0
+9398,1659,Muskegon,1.0
+4369,518,Springfield,3.0
+367,18,Boston,5.0
+9871,1803,Medford,4.0
+5674,642,Hyattsville,5.0
+8909,1487,Boone,4.0
+2933,359,Cambridge,5.0
+3414,437,Lahaina,5.0
+2609,261,Grand Prairie,5.0
+4242,508,Panama City Beach,1.0
+920,37,Chicago,2.3
+1201,50,New Orleans,4.0
+8729,1434,Cedar Rapids,5.0
+2844,345,Pismo Beach,5.0
+1247,52,Dallas,4.0
+4023,484,Austin,5.0
+2212,173,Las Vegas,3.0
+8237,1265,Hollywood,5.0
+5544,642,Hyattsville,2.0
+6893,914,Greenville,5.0
+2167,173,Las Vegas,5.0
+6516,839,Avon,5.0
+435,26,Miami Beach,4.4
+4632,557,Nashville,5.0
+5315,636,Hanover,5.0
+872,37,Chicago,4.4
+4291,518,Springfield,4.0
+6541,846,Montello,3.0
+6218,743,Springfield,4.0
+1218,50,New Orleans,5.0
+9432,1670,Tampa,2.0
+9047,1545,Mountain Home,5.0
+2766,317,Pensacola,5.0
+3410,437,Lahaina,5.0
+5968,683,Walterboro,5.0
+6403,797,Hawthorne,5.0
+8823,1455,Montvale,5.0
+9147,1565,Salem,4.0
+8827,1455,Montvale,5.0
+6639,876,Tulsa,5.0
+7491,1060,Santa Monica,5.0
+4467,524,Suffolk,4.0
+6029,704,Wisconsin Dells,4.0
+6662,880,Annapolis,4.0
+2500,230,Dover,4.0
+5154,623,Baltimore,3.0
+5971,683,Walterboro,4.0
+8229,1265,Hollywood,5.0
+6660,878,Tampa,2.0
+8757,1440,Santa Monica,5.0
+6248,747,Camarillo,5.0
+9468,1676,Brownsburg,5.0
+6323,765,Camarillo,5.0
+4506,534,Jackson,5.0
+8136,1228,York,2.0
+9125,1561,Henrietta,2.0
+9949,1827,Escalante,5.0
+8264,1276,Scranton,5.0
+486,27,Las Vegas,4.8
+8745,1436,Milton,1.0
+9127,1562,Orlando,3.0
+681,29,Boston,5.0
+8000,1196,Helen,5.0
+9328,1625,Eau Claire,3.0
+6321,765,Camarillo,2.0
+5271,629,Denton,5.0
+8090,1218,Santa Fe,1.0
+4382,518,Springfield,1.0
+257,16,Las Vegas,4.4
+1679,119,New Orleans,5.0
+4377,518,Springfield,4.0
+3401,437,Lahaina,5.0
+7560,1084,San Diego,4.0
+6320,765,Camarillo,5.0
+8168,1237,Greeley,5.0
+5841,647,Chincoteague Island,3.0
+5030,620,Arlington,4.0
+2326,181,New Orleans,5.0
+8955,1507,Sioux Falls,4.0
+3607,444,Baltimore,3.75
+3788,452,Virginia Beach,3.75
+1522,95,New Orleans,5.0
+8225,1262,Wilbraham,1.0
+2067,145,Sedona,5.0
+4273,517,Fresno,3.0
+4350,518,Springfield,4.0
+8439,1340,LaGrange,5.0
+3595,441,Baltimore,4.0
+2249,173,Las Vegas,5.0
+6949,932,Minneapolis,4.0
+4750,599,New Braunfels,4.0
+4218,503,Port Richey,4.0
+4217,503,Port Richey,5.0
+4417,518,Springfield,3.0
+9443,1671,Albuquerque,3.0
+6420,804,Lincoln,5.0
+7552,1081,Fort Wayne,3.0
+4315,518,Springfield,4.0
+763,32,New York,5.0
+3824,453,Miami Beach,4.6
+8715,1431,McMinnville,4.0
+161,15,Las Vegas,5.0
+9797,1777,Newark,1.0
+4850,612,Norfolk,4.0
+3679,446,Baltimore,3.0
+6844,907,Koloa,5.0
+5582,642,Hyattsville,5.0
+4414,518,Springfield,4.0
+3428,437,Lahaina,5.0
+1052,40,San Francisco,5.0
+2061,143,San Antonio,5.0
+1242,51,Napa,4.0
+4114,496,Santa Rosa,4.0
+9935,1823,Trinidad,5.0
+2745,311,Franklin,5.0
+9206,1584,Anchorage,4.0
+3064,395,San Francisco,4.0
+462,26,Miami Beach,5.0
+2956,361,Gloucester,4.0
+440,26,Miami Beach,3.75
+1037,40,San Francisco,4.8
+7726,1129,Charleston,4.0
+6031,704,Wisconsin Dells,5.0
+4012,481,South Lake Tahoe,3.0
+8331,1297,Manhattan,4.0
+9574,857,Goodlettsville,4.0
+7473,1058,Laughlin,4.0
+4171,500,Kissimmee,4.6
+5138,623,Baltimore,3.0
+9805,1777,Newark,3.0
+2658,279,North Wales,5.0
+2301,177,Chicago,5.0
+1012,40,San Francisco,4.8
+9885,1805,Gloucester,4.0
+3354,430,Portland,5.0
+115,13,Boston,5.0
+5291,633,Kennesaw,5.0
+4702,578,Pittsburgh,5.0
+3632,444,Baltimore,3.55
+2983,372,Arlington,2.0
+9189,1582,Pueblo,4.0
+8304,1288,Fort Worth,4.0
+8876,1471,Chicago,4.0
+4045,488,Suffolk,3.0
+7715,1129,Charleston,5.0
+7971,1186,Ithaca,5.0
+7519,1068,Portage,4.0
+8564,1386,Evansville,3.0
+8929,1497,Lansing,4.0
+7558,1082,Canton,4.0
+3584,441,Baltimore,4.0
+9248,1599,Norfolk,2.0
+3654,445,Williamsburg,4.4
+2340,181,New Orleans,5.0
+7223,1003,Vail,5.0
+5782,646,Arlington,5.0
+2329,181,New Orleans,4.0
+3320,428,Hampton,3.0
+2820,339,Valencia,3.0
+6754,894,Niceville,4.0
+2940,360,Madison,5.0
+1199,50,New Orleans,1.0
+3838,457,Carmel Valley,2.0
+1412,77,Phoenix,5.0
+3263,421,Linthicum Heights,5.0
+2767,317,Pensacola,4.0
+534,27,Las Vegas,3.75
+1165,49,Napa,4.0
+1583,104,Anaheim,4.0
+603,27,Las Vegas,5.0
+2551,239,Athens,4.0
+9200,1584,Anchorage,5.0
+7264,1012,Nashua,1.0
+7208,999,Allentown,4.0
+7000,946,Bethlehem,5.0
+1517,95,New Orleans,4.0
+8189,1246,Sandston,3.0
+3298,422,Farmington,4.0
+7235,1005,Columbus,5.0
+9617,1736,Albany,5.0
+2479,228,Charlotte,4.0
+3889,465,Flagstaff,3.0
+5027,620,Arlington,5.0
+2701,295,Butte,3.0
+4617,556,Virginia Beach,5.0
+6180,736,Myrtle Beach,5.0
+2510,231,Honolulu,4.0
+5048,621,Lanham,5.0
+9792,1777,Newark,4.0
+3822,453,Miami Beach,5.0
+1576,102,Anaheim,5.0
+2751,313,Bainbridge Island,2.0
+3405,437,Lahaina,5.0
+1250,53,Key West,3.0
+2748,311,Franklin,5.0
+5851,647,Chincoteague Island,1.0
+6468,829,Dayton,4.0
+7503,1063,Henderson,4.0
+8227,1264,Nottingham,5.0
+4708,579,Pittsburgh,4.0
+4502,533,Alexandria,4.0
+5905,663,Jacksonville,5.0
+1662,119,New Orleans,5.0
+2336,181,New Orleans,5.0
+2950,360,Madison,5.0
+3071,396,Independence,4.0
+2683,286,Tomah,5.0
+1345,65,Atlanta,4.0
+7365,1025,Yuma,5.0
+9914,1814,Wytheville,4.0
+5293,635,Gloucester,5.0
+3291,421,Linthicum Heights,5.0
+94,12,Chicago,4.8
+3639,444,Baltimore,3.95
+7705,1127,West Palm Beach,5.0
+6045,707,Harrisburg,5.0
+1656,118,New Orleans,2.0
+7455,1056,Albuquerque,1.0
+9859,1800,McAllen,4.0
+8748,1438,Rocky Mount,5.0
+1106,48,San Francisco,2.0
+4820,611,Olympia,5.0
+6879,912,Fairfax,5.0
+7460,1057,Mesquite,4.0
+9554,1716,Pasco,3.0
+3711,447,Baltimore,5.0
+4244,508,Panama City Beach,3.0
+6808,898,Westport,5.0
+3211,417,Glen Burnie,2.0
+9781,1777,Newark,5.0
+3310,428,Hampton,5.0
+6610,874,Miami Beach,3.0
+4413,518,Springfield,1.0
+475,27,Las Vegas,5.0
+2395,194,Palm Springs,4.0
+5553,642,Hyattsville,3.0
+8671,1428,Kansas City,2.0
+8761,1440,Santa Monica,5.0
+5038,620,Arlington,5.0
+8097,1220,Oklahoma City,5.0
+2019,133,Miami Beach,5.0
+1409,77,Phoenix,3.0
+4606,556,Virginia Beach,5.0
+4364,518,Springfield,4.0
+9707,1756,Atlanta,4.0
+7569,1086,Cheyenne,5.0
+3704,447,Baltimore,5.0
+2504,231,Honolulu,4.0
+9908,1813,Chicago,5.0
+9855,1797,Sister Bay,4.0
+2992,375,Hackettstown,1.0
+9154,1565,Salem,4.0
+1689,119,New Orleans,4.0
+410,26,Miami Beach,4.4
+2037,133,Miami Beach,3.35
+4645,561,Dunedin,5.0
+9151,1565,Salem,4.0
+2586,251,Grants Pass,4.0
+2790,326,Mulberry,3.0
+2107,163,San Diego,5.0
+7568,1086,Cheyenne,1.0
+340,17,Boston,5.0
+8840,1461,Radford,1.0
+2557,241,Beckley,3.0
+6001,696,Shawnee,4.0
+1140,49,Napa,4.0
+4685,577,Saint Marys,5.0
+8016,1203,Post Falls,4.0
+2542,235,Kingman,3.0
+5302,635,Gloucester,5.0
+2407,198,Barstow,2.0
+2293,176,Rancho Cucamonga,4.0
+1984,131,San Francisco,1.0
+5537,642,Hyattsville,4.0
+5953,678,Cheyenne,5.0
+7815,1140,Gatlinburg,5.0
+8789,1442,Grove City,5.0
+5830,646,Arlington,3.0
+7879,1159,Forsyth,5.0
+5265,628,Chimney Rock,5.0
+5797,646,Arlington,3.0
+289,17,Boston,2.7
+921,36,Chicago,4.8
+8983,1515,Wisconsin Dells,5.0
+1437,83,Phoenix,5.0
+6953,933,Youngstown,5.0
+8108,1222,Ocean Shores,1.0
+7234,1005,Columbus,5.0
+9307,1623,Fort Lauderdale,3.0
+6985,940,Tulsa,5.0
+9477,1681,Bettendorf,4.0
+3463,437,Lahaina,3.0
+1071,42,Philadelphia,5.0
+5373,636,Hanover,2.0
+6992,943,Boise,5.0
+8416,1325,Prosser,4.0
+6331,768,Bowling Green,2.0
+7666,1116,Doswell,4.0
+3201,415,Glenview,5.0
+7189,995,Brooklyn,2.0
+3672,446,Baltimore,5.0
+149,14,New Orleans,5.0
+815,36,Chicago,4.15
+7482,1059,Kankakee,5.0
+4,1,Hanover,5.0
+5213,624,Virginia Beach,3.0
+7344,1019,Ukiah,4.0
+587,27,Las Vegas,4.4
+6,1,Hanover,5.0
+6715,884,Charleston,3.0
+1160,49,Napa,4.0
+3259,421,Linthicum Heights,5.0
+5415,637,Springfield,3.0
+1342,65,Atlanta,5.0
+3249,418,Gladstone,1.0
+316,17,Boston,5.0
+8716,1431,McMinnville,5.0
+1460,84,Anaheim,4.0
+3605,444,Baltimore,4.8
+4675,573,Edmond,5.0
+9144,1565,Salem,5.0
+3016,385,Durham,5.0
+4395,518,Springfield,4.0
+4278,517,Fresno,1.0
+3216,417,Glen Burnie,5.0
+8476,1357,Carlisle,4.0
+7067,964,Easton,5.0
+2020,133,Miami Beach,4.8
+9633,1741,Bozeman,4.0
+2924,356,Beverly Hills,1.0
+3402,437,Lahaina,3.0
+8798,1444,Mukilteo,5.0
+1653,118,New Orleans,5.0
+4313,518,Springfield,4.0
+4773,605,Portland,3.0
+7627,1107,Portland,4.0
+9292,1619,Victor,4.0
+2971,366,West Springfield,5.0
+2484,228,Charlotte,5.0
+4392,518,Springfield,5.0
+2214,173,Las Vegas,5.0
+6788,896,West Hollywood,1.0
+3437,437,Lahaina,5.0
+7086,973,Garden Grove,4.0
+9308,1623,Fort Lauderdale,4.0
+3100,397,Hanover,5.0
+8440,1341,Milledgeville,3.0
+5014,620,Arlington,5.0
+5915,666,Middletown,4.0
+7741,1129,Charleston,4.0
+1878,127,Chicago,5.0
+5261,628,Chimney Rock,5.0
+7983,1190,Bow,5.0
+2711,299,Lancaster,5.0
+1472,84,Anaheim,4.0
+9040,1543,Charleston,4.0
+300,17,Boston,5.0
+79,11,Kissimmee,5.0
+2018,133,Miami Beach,4.15
+7729,1129,Charleston,4.0
+4116,496,Santa Rosa,4.0
+4501,533,Alexandria,5.0
+7887,1163,Williams,5.0
+5802,646,Arlington,5.0
+159,15,Las Vegas,3.95
+7808,1140,Gatlinburg,4.0
+6727,884,Charleston,4.0
+1633,111,San Diego,5.0
+2485,228,Charlotte,4.0
+9041,1543,Charleston,5.0
+8976,1513,Tarpon Springs,4.0
+2604,259,Corsicana,5.0
+5746,645,Prince Frederick,4.0
+7218,1000,Little Rock,5.0
+9433,1670,Tampa,2.0
+3859,461,Atlanta,4.0
+8693,1428,Kansas City,4.0
+4192,500,Kissimmee,2.9
+8946,1504,Lawrence,1.0
+7367,1025,Yuma,4.0
+8158,1235,Cincinnati,2.0
+3511,439,Linthicum Heights,5.0
+1159,49,Napa,5.0
+2069,146,Acworth,1.0
+6437,812,Ithaca,4.0
+6441,815,Santee,1.0
+6256,748,Tracy,4.0
+6828,905,Oklahoma City,4.0
+8568,1390,Raton,4.0
+5791,646,Arlington,2.0
+8531,1373,Miles City,5.0
+464,27,Las Vegas,4.6
+4121,497,Long Beach,3.0
+2671,284,Westbury,5.0
+5158,623,Baltimore,4.0
+5734,645,Prince Frederick,3.0
+665,29,Boston,5.0
+6046,707,Harrisburg,2.0
+66,9,San Diego,5.0
+804,37,Chicago,4.8
+392,21,Honolulu,5.0
+3467,437,Lahaina,5.0
+7291,1015,Morgantown,3.0
+1607,107,Atlantic City,5.0
+9362,1643,Jonesboro,1.0
+5917,666,Middletown,5.0
+2579,248,Bend,4.0
+6757,894,Niceville,5.0
+6471,829,Dayton,4.0
+5559,642,Hyattsville,4.0
+4564,551,Jupiter,5.0
+5183,624,Virginia Beach,4.0
+3616,444,Baltimore,4.4
+5251,627,Columbia,2.0
+8140,1232,Moses Lake,4.0
+6509,838,Estes Park,4.0
+2875,346,Monterey Park,3.0
+2841,345,Pismo Beach,3.0
+6591,869,Tallahassee,3.0
+8914,1488,Flint,1.0
+2886,349,Huntington Beach,5.0
+7437,1051,New Orleans,5.0
+2204,173,Las Vegas,5.0
+6531,841,Wisconsin Dells,5.0
+2475,228,Charlotte,5.0
+8702,1429,Spokane,4.0
+3897,468,Sedona,4.0
+3012,384,Saint Louis,5.0
+663,29,Boston,4.15
+7988,1191,Minneapolis,5.0
+8500,1362,Erie,3.0
+6947,932,Minneapolis,5.0
+8361,1314,Lahaina,4.0
+4879,613,Hampton,3.0
+9317,1623,Fort Lauderdale,4.0
+5890,658,Wytheville,5.0
+7022,951,West Palm Beach,5.0
+8836,1459,Tampa,3.0
+3903,468,Sedona,5.0
+8488,1361,Grand Prairie,5.0
+5197,624,Virginia Beach,3.0
+2478,228,Charlotte,5.0
+850,37,Chicago,3.95
+5236,627,Columbia,4.0
+841,36,Chicago,5.0
+9644,1744,Kissimmee,4.0
+2371,186,El Segundo,5.0
+4095,493,Tracy,5.0
+361,17,Boston,4.15
+2161,173,Las Vegas,5.0
+3693,446,Baltimore,3.0
+5588,642,Hyattsville,3.0
+1138,49,Napa,4.0
+7561,1084,San Diego,4.0
+9678,1745,Columbus,5.0
+7633,1107,Portland,4.0
+8774,1440,Santa Monica,5.0
+966,36,Chicago,4.4
+7841,1142,Detroit,4.0
+2393,194,Palm Springs,1.0
+5058,621,Lanham,1.0
+4786,606,Atlanta,5.0
+5177,624,Virginia Beach,4.0
+4780,605,Portland,4.0
+7859,1149,Wapakoneta,5.0
+5386,636,Hanover,2.0
+7002,947,Houston,5.0
+7763,1129,Charleston,4.0
+3254,419,Miami Beach,3.0
+5206,624,Virginia Beach,4.0
+3789,452,Virginia Beach,4.6
+7487,1059,Kankakee,5.0
+4477,527,Conroe,1.0
+3556,441,Baltimore,5.0
+6852,907,Koloa,5.0
+4345,518,Springfield,4.0
+7933,1172,Tupelo,5.0
+178,16,Las Vegas,3.55
+6146,726,South Lake Tahoe,5.0
+2737,308,Cary,5.0
+2674,284,Westbury,5.0
+3979,476,Longboat Key,5.0
+6089,718,Fort Myers,5.0
+5810,646,Arlington,5.0
+6428,809,Las Vegas,1.0
+8730,1434,Cedar Rapids,5.0
+5337,636,Hanover,3.0
+5443,638,Virginia Beach,3.0
+1678,119,New Orleans,5.0
+2530,231,Honolulu,5.0
+5698,642,Hyattsville,5.0
+3114,401,Deming,4.0
+1712,120,Seattle,2.0
+8687,1428,Kansas City,2.0
+7826,1140,Gatlinburg,4.0
+1676,119,New Orleans,4.0
+9965,1831,Brewster,5.0
+8615,1408,Omaha,5.0
+9838,1792,Pineville,5.0
+2699,293,Greenville,5.0
+5683,642,Hyattsville,5.0
+2665,280,Milwaukee,4.0
+5854,648,Lincolnton,5.0
+4978,619,Arlington,3.0
+1581,103,Anaheim,5.0
+4111,496,Santa Rosa,3.0
+4224,504,Vallejo,5.0
+3532,439,Linthicum Heights,4.0
+5916,666,Middletown,5.0
+8199,1250,Estes Park,4.0
+2319,181,New Orleans,5.0
+6094,718,Fort Myers,5.0
+3797,452,Virginia Beach,3.15
+490,27,Las Vegas,4.6
+303,17,Boston,4.15
+1359,65,Atlanta,5.0
+2494,228,Charlotte,5.0
+5469,638,Virginia Beach,4.0
+4957,619,Arlington,3.0
+980,37,Chicago,4.6
+2718,302,Albert Lea,1.0
+5686,642,Hyattsville,5.0
+852,37,Chicago,4.6
+326,17,Boston,3.95
+7898,709,Oklahoma City,1.0
+1985,132,Concord,4.0
+7823,1140,Gatlinburg,4.0
+4275,517,Fresno,3.0
+2611,261,Grand Prairie,5.0
+2287,174,Rockford,4.0
+9541,1710,Center Rutland,1.0
+9553,1716,Pasco,4.0
+5700,642,Hyattsville,4.0
+6998,945,San Francisco,3.0
+910,37,Chicago,5.0
+8933,1499,Goldendale,3.0
+9331,1628,Billings,5.0
+2569,245,Fond du Lac,5.0
+7520,1069,Niantic,3.0
+8266,1276,Scranton,5.0
+6621,874,Miami Beach,4.0
+5222,625,Secaucus,4.0
+6033,705,Rohnert Park,1.0
+3422,437,Lahaina,5.0
+9046,1544,Salina,1.0
+1835,124,Las Vegas,4.0
+8656,1428,Kansas City,4.0
+7510,1064,San Antonio,4.0
+2100,160,Brighton,5.0
+3457,437,Lahaina,5.0
+2513,231,Honolulu,4.0
+5736,645,Prince Frederick,2.0
+5783,646,Arlington,5.0
+9286,1616,Lavonia,5.0
+515,27,Las Vegas,4.15
+485,27,Las Vegas,5.0
+8991,1520,Roanoke,3.0
+2702,296,Butte,4.0
+2054,140,Hawthorne,4.0
+9161,1567,La Conner,4.0
+7016,951,West Palm Beach,5.0
+6000,695,Boise City,1.0
+9007,1529,Medford,4.0
+8718,1431,McMinnville,2.0
+4908,616,Myrtle Beach,5.0
+6706,884,Charleston,4.0
+5199,624,Virginia Beach,4.0
+6222,743,Springfield,5.0
+7398,1036,Colchester,3.0
+9226,1593,Westport,5.0
+6738,886,Carpinteria,5.0
+288,17,Boston,2.3
+2752,313,Bainbridge Island,1.0
+3921,472,Orlando,5.0
+5604,642,Hyattsville,4.0
+2288,175,Austin,5.0
+9184,1578,Titusville,4.0
+6439,813,Andover,5.0
+6249,747,Camarillo,5.0
+1017,40,San Francisco,2.9
+3606,444,Baltimore,4.8
+10,2,Vancouver,5.0
+8258,1273,Raleigh,3.0
+2447,210,Jacksonville,5.0
+2307,180,Granbury,4.0
+6028,704,Wisconsin Dells,4.0
+333,17,Boston,5.0
+8792,1442,Grove City,5.0
+7174,988,Seattle,4.0
+5623,642,Hyattsville,5.0
+9017,1532,Jacksonville,4.0
+1995,56,Chicago,3.0
+3702,446,Baltimore,4.0
+1167,49,Napa,2.0
+9612,1734,Altoona,2.0
+8871,1468,Santa Monica,5.0
+3144,413,Houston,4.0
+7688,1122,Chattanooga,4.0
+6311,762,Tallahassee,5.0
+6686,882,Hollywood,3.0
+8326,1296,Oxford,5.0
+7573,1087,Horseheads,5.0
+4724,586,Portsmouth,3.0
+6068,710,Omaha,5.0
+5175,624,Virginia Beach,5.0
+6240,747,Camarillo,4.0
+3487,438,Virginia Beach,5.0
+685,29,Boston,3.15
+3445,437,Lahaina,5.0
+9050,1547,Brentwood,4.0
+9135,1562,Orlando,3.0
+8543,1378,Minot,5.0
+6878,911,Tampa,4.0
+1441,83,Phoenix,5.0
+6442,816,Nacogdoches,5.0
+5602,642,Hyattsville,5.0
+842,36,Chicago,4.6
+3775,450,Baltimore,2.9
+457,26,Miami Beach,4.8
+6357,777,Bar Harbor,3.0
+3555,441,Baltimore,4.0
+3492,438,Virginia Beach,4.0
+1704,120,Seattle,5.0
+6450,821,Lafayette,5.0
+592,27,Las Vegas,3.95
+3396,437,Lahaina,4.0
+4177,500,Kissimmee,5.0
+4555,548,San Jose,5.0
+1755,121,Seattle,5.0
+4485,529,Chapel Hill,4.0
+8984,1516,Bremen,2.0
+6619,874,Miami Beach,1.0
+7094,974,Charlotte,5.0
+4226,504,Vallejo,2.0
+1585,104,Anaheim,5.0
+7756,1129,Charleston,4.0
+4388,518,Springfield,4.0
+7100,978,Rockland,5.0
+7250,1008,Portland,5.0
+1578,103,Anaheim,5.0
+7271,1012,Nashua,5.0
+6722,884,Charleston,5.0
+9599,1729,Flagstaff,4.0
+5384,636,Hanover,5.0
+4117,497,Long Beach,4.0
+3677,446,Baltimore,3.35
+5219,625,Secaucus,5.0
+6626,874,Miami Beach,3.0
+6169,734,San Diego,4.0
+2324,181,New Orleans,5.0
+7921,1170,King of Prussia,5.0
+8537,1374,Butte,5.0
+9350,1636,Sioux City,5.0
+9714,1756,Atlanta,5.0
+2643,272,Markleysburg,4.0
+172,15,Las Vegas,5.0
+6585,868,Ames,4.0
+6317,763,Tallahassee,5.0
+1172,49,Napa,5.0
+1046,40,San Francisco,4.8
+9088,1553,Freehold,5.0
+1930,127,Chicago,4.0
+1532,96,New Orleans,3.0
+635,28,New York,5.0
+5368,636,Hanover,3.0
+8137,1229,Harrisville,4.0
+2508,231,Honolulu,4.0
+8185,1243,Boise,5.0
+3842,457,Carmel Valley,3.0
+2464,222,Saco,4.0
+1741,121,Seattle,5.0
+1132,49,Napa,5.0
+6190,737,Columbus,3.0
+574,27,Las Vegas,4.6
+8289,1282,Hardeeville,4.0
+7251,1008,Portland,5.0
+9751,1768,Shell,5.0
+4641,561,Dunedin,4.0
+9220,1591,Los Angeles,4.0
+6084,716,Lake Mary,2.0
+5951,676,Los Angeles,5.0
+5346,636,Hanover,5.0
+4402,518,Springfield,2.0
+5173,624,Virginia Beach,4.0
+4510,534,Jackson,5.0
+9759,1772,Ironwood,5.0
+906,37,Chicago,4.15
+5234,627,Columbia,5.0
+2783,323,Clearwater Beach,4.0
+6665,880,Annapolis,4.0
+3667,446,Baltimore,4.6
+9065,1549,Vienna,5.0
+2271,173,Las Vegas,4.0
+4360,518,Springfield,4.0
+3929,472,Orlando,5.0
+2291,176,Rancho Cucamonga,4.0
+1455,83,Phoenix,5.0
+1670,119,New Orleans,5.0
+5400,637,Springfield,1.0
+643,29,Boston,4.4
+2115,167,Orlando,4.0
+630,27,Las Vegas,5.0
+9072,1551,Richmond,5.0
+2328,181,New Orleans,5.0
+1745,121,Seattle,4.0
+7059,960,Pleasanton,4.0
+4652,564,San Francisco,5.0
+3004,379,Somerset,2.0
+6967,935,Louisville,2.0
+4058,488,Suffolk,2.0
+7735,1129,Charleston,5.0
+1939,128,San Francisco,4.0
+1536,97,New Orleans,5.0
+3369,437,Lahaina,3.0
+9764,1771,Ironwood,3.0
+3745,449,Miami Beach,3.75
+6931,925,Saint Louis,5.0
+7918,1170,King of Prussia,5.0
+1501,88,New Orleans,3.0
+7243,1007,Hollywood,3.0
+6654,878,Tampa,3.0
+1943,128,San Francisco,3.0
+4139,497,Long Beach,5.0
+4170,500,Kissimmee,3.75
+8828,1455,Montvale,4.0
+3181,414,Silver Spring,5.0
+1203,50,New Orleans,4.0
+8981,1514,Birchwood,2.0
+8432,1335,Rush City,5.0
+6081,716,Lake Mary,5.0
+8521,1369,Billings,4.0
+5424,638,Virginia Beach,3.0
+933,37,Chicago,5.0
+9984,1837,Wichita,4.0
+1456,83,Phoenix,4.0
+9252,1602,Red Feather Lakes,4.0
+4130,497,Long Beach,5.0
+8196,1248,DeLand,5.0
+3732,448,Virginia Beach,4.15
+6669,881,Denver,5.0
+6490,833,Danbury,5.0
+2708,297,Chalmette,5.0
+1341,65,Atlanta,4.0
+3285,421,Linthicum Heights,5.0
+1469,84,Anaheim,4.0
+4036,486,Denver,5.0
+4554,548,San Jose,4.0
+7025,952,Greenville,4.0
+3684,446,Baltimore,5.0
+8870,1468,Santa Monica,4.0
+8999,1523,Cedar City,3.0
+5629,642,Hyattsville,3.0
+3928,472,Orlando,5.0
+6258,748,Tracy,4.0
+187,16,Las Vegas,4.15
+9900,1810,Seattle,4.0
+4474,526,Charlottesville,4.0
+6220,743,Springfield,5.0
+3490,438,Virginia Beach,3.0
+913,37,Chicago,4.8
+2281,173,Las Vegas,4.0
+3138,410,Solvang,3.0
+5466,638,Virginia Beach,3.0
+5214,624,Virginia Beach,3.0
+8253,1270,Horn Lake,5.0
+502,27,Las Vegas,3.95
+7196,997,Dayton,2.0
+7925,1170,King of Prussia,4.0
+8992,1520,Roanoke,5.0
+9654,1744,Kissimmee,5.0
+5631,642,Hyattsville,5.0
+1721,120,Seattle,4.0
+9113,1560,Milwaukee,2.0
+7523,1071,Marysville,1.0
+752,32,New York,5.0
+7776,1131,Baton Rouge,3.0
+4945,619,Arlington,4.0
+6775,896,West Hollywood,5.0
+7419,1045,Falmouth,5.0
+6245,747,Camarillo,2.0
+3656,445,Williamsburg,3.35
+9839,1792,Pineville,5.0
+2927,359,Cambridge,5.0
+7093,973,Garden Grove,2.0
+4713,579,Pittsburgh,4.0
+4302,518,Springfield,3.0
+4822,611,Olympia,5.0
+5171,624,Virginia Beach,4.0
+8527,1371,Dillon,5.0
+9168,1570,Federal Way,5.0
+2692,290,Bowling Green,3.0
+9216,1591,Los Angeles,1.0
+6369,782,Mattoon,4.0
+1982,130,Atlanta,5.0
+5105,621,Lanham,3.0
+1414,77,Phoenix,5.0
+3496,438,Virginia Beach,3.0
+7941,1174,Leesburg,3.0
+3713,447,Baltimore,3.75
+3140,411,Newburyport,3.0
+7508,1064,San Antonio,3.0
+4338,518,Springfield,4.0
+854,37,Chicago,3.75
+3526,439,Linthicum Heights,4.0
+8966,1510,Olathe,1.0
+4196,500,Kissimmee,4.6
+928,37,Chicago,5.0
+526,27,Las Vegas,4.6
+3935,473,Union City,4.0
+1910,127,Chicago,5.0
+7213,999,Allentown,1.0
+1048,40,San Francisco,3.95
+4096,493,Tracy,4.0
+4969,619,Arlington,5.0
+777,33,Los Angeles,5.0
+145,13,Boston,4.4
+532,27,Las Vegas,4.4
+3839,457,Carmel Valley,4.0
+2045,136,Woodbridge,5.0
+8899,1481,Platte City,2.0
+8453,1347,Louisville,4.0
+9893,1808,Beckley,3.0
+5233,627,Columbia,5.0
+3637,444,Baltimore,4.8
+9334,1629,Great Falls,4.0
+2612,262,Amarillo,5.0
+958,36,Chicago,4.15
+3191,414,Silver Spring,4.0
+4964,619,Arlington,3.0
+4223,504,Vallejo,5.0
+7190,996,Indiana,5.0
+5139,623,Baltimore,3.0
+3065,395,San Francisco,5.0
+5492,640,Hampton,2.0
+1346,65,Atlanta,2.0
+4893,613,Hampton,5.0
+6646,877,Clearwater,5.0
+6960,935,Louisville,4.0
+6769,895,Punta Gorda,5.0
+7197,997,Dayton,3.0
+4373,518,Springfield,3.0
+3436,437,Lahaina,4.0
+6343,772,Charlotte,4.0
+5005,619,Arlington,5.0
+1978,130,Atlanta,2.0
+3047,395,San Francisco,5.0
+4688,578,Pittsburgh,5.0
+8558,1386,Evansville,5.0
+9257,1604,Westmont,3.0
+2125,167,Orlando,5.0
+1077,42,Philadelphia,5.0
+4433,518,Springfield,3.0
+7906,1165,Corvallis,4.0
+1133,49,Napa,5.0
+5759,646,Arlington,5.0
+8015,1203,Post Falls,4.0
+7376,1030,Prescott,5.0
+428,26,Miami Beach,4.15
+3565,441,Baltimore,5.0
+3860,461,Atlanta,2.0
+5781,646,Arlington,2.0
+1698,119,New Orleans,5.0
+1283,60,Phoenix,5.0
+3535,439,Linthicum Heights,4.0
+2051,138,Orange,4.0
+3123,404,Dayton,5.0
+4670,571,Ardmore,4.0
+8645,1422,Morristown,1.0
+4077,490,Middletown,5.0
+9250,1600,Blythe,5.0
+9084,1553,Freehold,5.0
+7375,1030,Prescott,5.0
+8347,1304,Gaffney,4.0
+7379,1030,Prescott,4.0
+2598,255,Springfield,3.0
+5583,642,Hyattsville,3.0
+9744,1766,Salina,2.0
+6799,896,West Hollywood,2.0
+2056,141,Henderson,4.0
+5821,646,Arlington,5.0
+8129,1225,Augusta,1.0
+3110,400,Saint Louis,5.0
+8286,1282,Hardeeville,4.0
+2848,345,Pismo Beach,5.0
+3705,447,Baltimore,3.55
+6689,882,Hollywood,3.0
+9440,1670,Tampa,1.0
+3827,455,Warner Robins,5.0
+6344,772,Charlotte,3.0
+7366,1025,Yuma,4.0
+2689,290,Bowling Green,1.0
+6411,799,Burnet,5.0
+3898,468,Sedona,3.0
+6522,841,Wisconsin Dells,5.0
+9429,1669,Boise,4.0
+5062,621,Lanham,4.0
+4206,501,Williamsburg,4.8
+3444,437,Lahaina,5.0
+9068,1549,Vienna,4.0
+6396,795,Ruston,4.0
+4381,518,Springfield,4.0
+2114,166,Orlando,5.0
+5322,636,Hanover,5.0
+3936,474,Linthicum Heights,5.0
+2884,348,Glendale,2.0
+8765,1440,Santa Monica,5.0
+8679,1428,Kansas City,5.0
+735,32,New York,5.0
+1846,124,Las Vegas,4.0
+6021,703,Harrison,4.0
+5092,621,Lanham,4.0
+6672,881,Denver,5.0
+4190,500,Kissimmee,2.9
+6273,755,Boise,5.0
+5749,645,Prince Frederick,2.0
+4600,554,Hampton,5.0
+708,29,Boston,3.75
+6588,869,Tallahassee,4.0
+6555,855,Murray,5.0
+3579,441,Baltimore,5.0
+646,29,Boston,3.95
+5929,671,Alton,3.0
+1367,67,Atlanta,5.0
+2094,156,Winfield,5.0
+1280,60,Phoenix,1.0
+2427,201,Ashburn,5.0
+1447,83,Phoenix,5.0
+3564,441,Baltimore,4.0
+7457,1057,Mesquite,4.0
+148,13,Boston,4.15
+942,37,Chicago,3.55
+9595,1728,Ormond Beach,5.0
+7609,1103,Pullman,4.0
+6511,838,Estes Park,4.0
+4604,555,Norfolk,4.0
+7407,1042,Louisville,3.0
+1055,40,San Francisco,5.0
+153,14,New Orleans,5.0
+5960,682,Gillette,4.0
+9539,1709,Lyndon,5.0
+9462,1674,Harrisburg,2.0
+9873,1803,Medford,2.0
+799,35,Chicago,4.8
+5598,642,Hyattsville,5.0
+5470,638,Virginia Beach,2.0
+8519,1369,Billings,4.0
+8856,1465,Mason,5.0
+8714,1431,McMinnville,2.0
+8772,1440,Santa Monica,3.0
+5182,624,Virginia Beach,5.0
+8793,1442,Grove City,5.0
+1249,52,Dallas,5.0
+1110,49,Napa,4.0
+6114,723,Fremont,4.0
+6681,882,Hollywood,3.0
+6564,859,Knoxville,4.0
+5,1,Hanover,5.0
+3817,453,Miami Beach,4.6
+7150,986,Charleston,5.0
+3905,468,Sedona,4.0
+8022,1203,Post Falls,5.0
+8931,1498,Atlanta,5.0
+3336,429,Chincoteague Island,4.0
+3125,404,Dayton,4.0
+8945,1503,Summersville,4.0
+6504,837,Raton,5.0
+4825,612,Norfolk,5.0
+6204,740,Fresno,5.0
+5993,692,Dunkirk,5.0
+2157,173,Las Vegas,5.0
+8079,1216,Old Forge,5.0
+8411,1324,Twentynine Palms,4.0
+8091,1219,Pryor,4.0
+7893,709,Oklahoma City,1.0
+1444,83,Phoenix,5.0
+4090,492,Nashville,4.0
+727,32,New York,1.0
+4716,580,Pittsburgh,4.0
+4676,573,Edmond,5.0
+5186,624,Virginia Beach,4.0
+1080,43,New York,3.0
+2492,228,Charlotte,5.0
+3481,438,Virginia Beach,3.0
+7422,1048,DuPont,5.0
+6199,739,Lithonia,1.0
+6550,853,Pigeon Forge,5.0
+1468,84,Anaheim,5.0
+8283,1281,Port Royal,3.0
+7527,1072,Plano,4.0
+1223,51,Napa,4.0
+3393,437,Lahaina,5.0
+5637,642,Hyattsville,4.0
+8336,1298,Ogallala,2.0
+4815,611,Olympia,5.0
+2979,368,Aiken,2.0
+5149,623,Baltimore,5.0
+5996,692,Dunkirk,4.0
+5170,624,Virginia Beach,4.0
+3696,446,Baltimore,3.0
+7071,967,Richford,5.0
+8719,1431,McMinnville,4.0
+664,29,Boston,5.0
+3079,397,Hanover,5.0
+6302,762,Tallahassee,5.0
+2311,181,New Orleans,5.0
+7506,1064,San Antonio,4.0
+682,29,Boston,4.8
+3524,439,Linthicum Heights,5.0
+7278,1013,New York,5.0
+7033,955,Myrtle Beach,5.0
+9013,1532,Jacksonville,4.0
+9176,1573,Beachwood,5.0
+5439,638,Virginia Beach,2.0
+3975,476,Longboat Key,4.0
+998,40,San Francisco,5.0
+5078,621,Lanham,3.0
+1770,121,Seattle,5.0
+3179,414,Silver Spring,4.0
+201,16,Las Vegas,2.7
+3763,449,Miami Beach,4.8
+2124,167,Orlando,4.0
+3643,445,Williamsburg,4.6
+9892,1807,Kƒ´hei,5.0
+9318,1623,Fort Lauderdale,5.0
+5919,668,Pineville,4.0
+4834,612,Norfolk,5.0
+3431,437,Lahaina,5.0
+2380,189,Indianapolis,5.0
+6843,907,Koloa,5.0
+719,32,New York,5.0
+8405,1322,Fort Collins,5.0
+7348,1021,Redding,5.0
+2277,173,Las Vegas,5.0
+2591,252,Grants Pass,3.0
+162,16,Las Vegas,5.0
+4248,509,Harrisburg,4.0
+4174,500,Kissimmee,3.75
+9959,1830,Franconia,5.0
+7645,1110,Vancouver,5.0
+3723,448,Virginia Beach,2.7
+1238,51,Napa,5.0
+2894,352,Palestine,5.0
+244,16,Las Vegas,3.75
+1434,82,Chicago,3.35
+6391,792,Lafayette,1.0
+883,37,Chicago,5.0
+9540,1709,Lyndon,4.0
+766,32,New York,3.0
+5356,636,Hanover,3.0
+391,21,Honolulu,5.0
+8319,1294,Pinetop,4.0
+4277,517,Fresno,5.0
+9619,1736,Albany,5.0
+1339,65,Atlanta,4.0
+9693,1750,Monroe,4.0
+9785,1777,Newark,4.0
+3219,417,Glen Burnie,2.0
+9979,1836,El Cajon,4.0
+1349,65,Atlanta,4.0
+3162,414,Silver Spring,4.0
+2768,317,Pensacola,2.0
+1570,102,Anaheim,5.0
+9172,399,Newport News,5.0
+18,3,Kansas City,5.0
+3900,468,Sedona,5.0
+9963,1831,Brewster,5.0
+5816,646,Arlington,4.0
+5962,682,Gillette,3.0
+1038,40,San Francisco,5.0
+3837,457,Carmel Valley,3.0
+9547,1712,Balmorhea,3.0
+7041,958,Houston,2.0
+1210,50,New Orleans,4.0
+8787,1442,Grove City,5.0
+8051,1210,Carmel,4.0
+6147,726,South Lake Tahoe,4.0
+9304,1623,Fort Lauderdale,4.0
+290,17,Boston,3.35
+7733,1129,Charleston,4.0
+4203,500,Kissimmee,4.8
+7395,1035,Elkins,5.0
+3117,402,Albert Lea,5.0
+712,29,Boston,2.9
+4295,518,Springfield,5.0
+7985,1190,Bow,5.0
+7745,1129,Charleston,5.0
+2131,167,Orlando,5.0
+8629,1415,Ogunquit,5.0
+1320,63,Phoenix,3.0
+4311,518,Springfield,5.0
+5728,644,Exmore,1.0
+1204,50,New Orleans,4.0
+9958,1829,Ronks,5.0
+3433,437,Lahaina,4.0
+9794,1777,Newark,2.0
+5937,673,Plano,5.0
+9622,1738,Grand Forks,1.0
+1537,98,New Orleans,1.0
+6608,874,Miami Beach,4.0
+6930,924,Suitland,4.0
+9504,1691,Rufus,5.0
+1926,127,Chicago,5.0
+4984,619,Arlington,5.0
+9858,1799,Oshkosh,4.0
+1639,113,San Diego,5.0
+9769,1773,Bar Harbor,5.0
+8692,1428,Kansas City,4.0
+7160,988,Seattle,5.0
+209,16,Las Vegas,3.55
+5089,621,Lanham,4.0
+7277,1013,New York,5.0
+1206,50,New Orleans,5.0
+4742,595,Canyon,4.0
+4053,488,Suffolk,4.0
+3604,444,Baltimore,1.9
+4726,586,Portsmouth,4.0
+5560,642,Hyattsville,4.0
+6250,747,Camarillo,3.0
+7540,1076,Isle of Palms,2.0
+3707,447,Baltimore,4.8
+7497,1060,Santa Monica,5.0
+2760,316,Bear,4.0
+119,13,Boston,5.0
+9705,1755,Black River Falls,5.0
+3208,417,Glen Burnie,3.0
+3989,476,Longboat Key,5.0
+9237,1598,Columbus,5.0
+331,17,Boston,4.8
+4904,615,Fairfield,3.0
+5248,627,Columbia,5.0
+1816,124,Las Vegas,5.0
+6965,935,Louisville,3.0
+2071,147,Dodge City,5.0
+5866,653,Tulsa,5.0
+5922,669,Sikeston,5.0
+4991,619,Arlington,5.0
+2134,167,Orlando,5.0
+3998,479,Santa Barbara,5.0
+7764,1129,Charleston,5.0
+7896,709,Oklahoma City,4.0
+5641,642,Hyattsville,4.0
+1454,83,Phoenix,4.0
+2835,345,Pismo Beach,5.0
+8707,1429,Spokane,2.0
+2119,167,Orlando,4.0
+3970,476,Longboat Key,5.0
+9245,1598,Columbus,4.0
+2580,249,Bend,4.0
+8959,1508,Oklahoma City,4.0
+5120,622,Virginia Beach,5.0
+9730,1759,Vandalia,1.0
+3887,465,Flagstaff,2.0
+5704,642,Hyattsville,4.0
+4657,564,San Francisco,5.0
+8011,1200,Haverhill,2.0
+6817,901,Napa,5.0
+8808,1446,Tallahassee,3.0
+2571,245,Fond du Lac,3.0
+6254,747,Camarillo,5.0
+4563,550,Jacksonville,3.0
+9851,1796,Bridgeport,2.0
+785,33,Los Angeles,4.6
+8135,1227,Myrtle Beach,5.0
+9611,1733,Cooksburg,4.0
+7381,1030,Prescott,5.0
+342,17,Boston,4.6
+7194,997,Dayton,4.0
+4219,503,Port Richey,1.0
+5083,621,Lanham,4.0
+6958,935,Louisville,5.0
+7895,709,Oklahoma City,2.0
+7602,1100,Silverton,4.0
+8285,1282,Hardeeville,1.0
+2263,173,Las Vegas,5.0
+5938,673,Plano,1.0
+9976,1836,El Cajon,1.0
+3003,379,Somerset,2.0
+8387,1317,Mesa,1.0
+7229,1003,Vail,5.0
+2465,222,Saco,5.0
+3724,448,Virginia Beach,3.15
+617,27,Las Vegas,4.6
+2314,181,New Orleans,4.0
+2178,173,Las Vegas,5.0
+3653,445,Williamsburg,5.0
+4031,486,Denver,5.0
+190,16,Las Vegas,2.7
+7077,972,Saint Louis,4.0
+2496,228,Charlotte,5.0
+1725,121,Seattle,3.0
+8201,1251,Killington,2.0
+7583,1090,Annapolis,5.0
+8879,1472,Galena,4.0
+3529,439,Linthicum Heights,5.0
+833,37,Chicago,4.8
+2252,173,Las Vegas,5.0
+9394,1659,Muskegon,1.0
+3147,413,Houston,4.0
+4252,510,Sevierville,4.0
+5365,636,Hanover,3.0
+1443,83,Phoenix,5.0
+4102,496,Santa Rosa,5.0
+768,33,Los Angeles,4.6
+7886,1163,Williams,3.0
+8631,1416,Sister Bay,5.0
+4483,529,Chapel Hill,4.0
+2426,201,Ashburn,3.0
+8919,1491,San Luis Obispo,5.0
+252,16,Las Vegas,2.7
+3675,446,Baltimore,5.0
+2928,359,Cambridge,5.0
+5505,641,Columbia,4.0
+973,37,Chicago,4.6
+5638,642,Hyattsville,4.0
+5279,631,Woburn,5.0
+4082,491,Orange City,2.0
+258,16,Las Vegas,5.0
+4386,518,Springfield,4.0
+6201,740,Fresno,5.0
+8003,1197,North Dartmouth,5.0
+6959,935,Louisville,5.0
+2177,173,Las Vegas,5.0
+7267,1012,Nashua,3.0
+3485,438,Virginia Beach,3.0
+2147,173,Las Vegas,4.0
+6503,837,Raton,5.0
+6603,874,Miami Beach,4.0
+7227,1003,Vail,5.0
+4347,518,Springfield,5.0
+8183,1243,Boise,5.0
+9684,1747,Pittsfield,5.0
+7349,1021,Redding,4.0
+1081,43,New York,5.0
+7143,986,Charleston,4.0
+7975,1188,Salem,1.0
+5939,673,Plano,3.0
+5128,623,Baltimore,5.0
+2713,300,Monticello,1.0
+882,37,Chicago,4.6
+9887,1806,Frankenmuth,5.0
+3752,449,Miami Beach,5.0
+4627,556,Virginia Beach,4.0
+2057,142,Fort Worth,5.0
+9099,1553,Freehold,3.0
+9438,1670,Tampa,4.0
+4327,518,Springfield,4.0
+4481,529,Chapel Hill,5.0
+1627,108,San Diego,5.0
+5837,646,Arlington,5.0
+8249,1269,Pittston,5.0
+7060,960,Pleasanton,5.0
+2325,181,New Orleans,5.0
+6579,864,Rensselaer,5.0
+4710,579,Pittsburgh,1.0
+4143,498,Long Beach,5.0
+9821,1783,Somerset,1.0
+7191,996,Indiana,3.0
+4684,576,Duncansville,4.0
+4309,518,Springfield,1.0
+2511,231,Honolulu,4.0
+837,37,Chicago,4.6
+5995,692,Dunkirk,4.0
+6731,884,Charleston,5.0
+9701,1753,Koloa,1.0
+4692,578,Pittsburgh,3.0
+5535,642,Hyattsville,4.0
+5947,675,Yountville,5.0
+6954,934,Oklahoma City,5.0
+7009,949,Elkridge,5.0
+900,37,Chicago,4.6
+9406,1660,Oldsmar,4.0
+1616,108,San Diego,5.0
+7360,1021,Redding,2.0
+6363,775,Bar Harbor,5.0
+3355,430,Portland,5.0
+8485,1360,Coal Center,4.0
+5043,620,Arlington,5.0
+1645,115,Philadelphia,4.0
+6911,918,Bowling Green,5.0
+6921,919,Anaheim,4.0
+9235,1597,Grand Coulee,3.0
+2814,337,Sausalito,4.0
+4140,497,Long Beach,5.0
+7029,954,Kearney,5.0
+9392,1659,Muskegon,2.0
+2556,240,Gatlinburg,3.0
+1928,127,Chicago,4.0
+2092,154,Frisco,3.0
+6853,907,Koloa,4.0
+9862,1800,McAllen,4.0
+9903,1811,Mamaroneck,4.0
+4543,546,Columbus,4.0
+7205,999,Allentown,4.0
+6473,830,Knoxville,1.0
+6144,726,South Lake Tahoe,5.0
+3383,437,Lahaina,5.0
+3828,455,Warner Robins,3.0
+2011,133,Miami Beach,4.6
+8393,1318,Wichita,5.0
+3427,437,Lahaina,5.0
+3297,421,Linthicum Heights,5.0
+7417,1045,Falmouth,5.0
+3948,474,Linthicum Heights,4.0
+4155,500,Kissimmee,5.0
+2165,173,Las Vegas,3.0
+6638,875,Irving,5.0
+8351,1306,Claremont,1.0
+1336,65,Atlanta,5.0
+5809,646,Arlington,1.0
+4066,489,Newport News,4.0
+2113,166,Orlando,3.0
+8628,1414,Jacksonville,1.0
+7986,1190,Bow,5.0
+9465,1676,Brownsburg,5.0
+8303,1288,Fort Worth,1.0
+2210,173,Las Vegas,5.0
+7545,1078,Littleton,4.0
+5239,627,Columbia,5.0
+6429,810,Bethlehem,5.0
+713,29,Boston,4.8
+9254,1603,Osawatomie,5.0
+3501,438,Virginia Beach,3.0
+1092,44,Chicago,5.0
+9676,1745,Columbus,3.0
+1864,124,Las Vegas,4.0
+8802,1446,Tallahassee,5.0
+9650,1744,Kissimmee,1.0
+7493,1060,Santa Monica,1.0
+6454,822,Brownsville,2.0
+262,16,Las Vegas,4.4
+5626,642,Hyattsville,2.0
+8684,1428,Kansas City,3.0
+1103,45,Las Vegas,4.0
+5635,642,Hyattsville,2.0
+8651,1426,Coralville,1.0
+633,27,Las Vegas,3.75
+9227,1594,Springfield,5.0
+1301,60,Phoenix,1.0
+4805,610,Orlando,5.0
+3380,437,Lahaina,5.0
+7017,951,West Palm Beach,5.0
+8464,1352,Richmond,5.0
+6349,774,Marquette,4.0
+1981,130,Atlanta,4.0
+3476,438,Virginia Beach,3.0
+7512,1065,Myrtle Beach,4.0
+3429,437,Lahaina,5.0
+7827,1140,Gatlinburg,4.0
+1024,40,San Francisco,3.5
+7340,1019,Ukiah,5.0
+4565,551,Jupiter,5.0
+3078,397,Hanover,5.0
+5766,646,Arlington,5.0
+9025,1536,Red Bluff,1.0
+3883,463,Raynham,3.0
+8849,1462,Rockford,3.0
+6121,726,South Lake Tahoe,5.0
+7471,1058,Laughlin,5.0
+256,16,Las Vegas,4.6
+7874,1156,Limon,4.0
+3876,461,Atlanta,5.0
+7749,1129,Charleston,5.0
+8962,1509,Princeton,2.0
+2866,345,Pismo Beach,2.0
+4450,521,Suffolk,4.0
+7391,1033,Vicksburg,5.0
+5609,642,Hyattsville,4.0
+8060,1211,Fort Myers,5.0
+5662,642,Hyattsville,3.0
+7270,1012,Nashua,1.0
+495,27,Las Vegas,4.8
+8438,1339,Saint Cloud,5.0
+7062,961,Ruidoso,4.0
+6614,874,Miami Beach,2.0
+9043,1543,Charleston,5.0
+1884,127,Chicago,5.0
+3385,437,Lahaina,5.0
+2543,236,Clarksville,1.0
+6602,873,Sioux Falls,4.0
+6871,909,Chantilly,2.0
+3224,417,Glen Burnie,2.0
+77,10,Des Plaines,3.0
+4859,612,Norfolk,5.0
+2588,251,Grants Pass,5.0
+6635,875,Irving,3.0
+9016,1532,Jacksonville,4.0
+621,27,Las Vegas,4.4
+480,27,Las Vegas,4.8
+7937,1173,Hampton,5.0
+6096,718,Fort Myers,5.0
+7972,1187,Mount Tremper,5.0
+4993,619,Arlington,3.0
+6137,726,South Lake Tahoe,3.0
+1356,65,Atlanta,4.0
+1112,49,Napa,5.0
+431,26,Miami Beach,4.8
+8592,1401,Grove City,5.0
+8069,1213,Saint Louis,4.0
+9830,1789,Durham,4.0
+1284,60,Phoenix,1.0
+1606,107,Atlantic City,3.0
+4751,599,New Braunfels,3.0
+9538,1708,Killington,4.0
+5708,642,Hyattsville,4.0
+4189,500,Kissimmee,5.0
+6171,734,San Diego,4.0
+8031,1205,Hilton Head Island,2.0
+1254,53,Key West,4.0
+2491,228,Charlotte,5.0
+5383,636,Hanover,1.0
+210,16,Las Vegas,3.95
+7132,986,Charleston,5.0
+8606,1406,Canton,5.0
+8200,1251,Killington,4.0
+6020,703,Harrison,5.0
+1889,127,Chicago,3.0
+4810,610,Orlando,5.0
+6568,859,Knoxville,5.0
+3282,421,Linthicum Heights,5.0
+4333,518,Springfield,4.0
+1291,60,Phoenix,4.0
+3843,457,Carmel Valley,5.0
+9439,1670,Tampa,4.0
+4931,619,Arlington,5.0
+1999,56,Chicago,2.0
+2459,219,Old Orchard Beach,5.0
+3942,474,Linthicum Heights,4.0
+7960,1181,Erie,4.0
+38,8,Oxon Hill,4.0
+5022,620,Arlington,5.0
+986,37,Chicago,4.8
+3207,417,Glen Burnie,3.0
+9491,1686,Coralville,2.0
+1856,124,Las Vegas,4.0
+8880,1473,Corydon,4.0
+6901,917,Bowling Green,5.0
+7817,1140,Gatlinburg,4.0
+1719,120,Seattle,4.0
+8810,1448,Lodi,5.0
+3281,421,Linthicum Heights,5.0
+9390,1658,Renton,5.0
+3544,440,Lincoln,5.0
+2560,242,Jane Lew,4.0
+315,17,Boston,2.9
+2587,251,Grants Pass,5.0
+2973,367,Everett,5.0
+759,32,New York,5.0
+3056,395,San Francisco,5.0
+6776,896,West Hollywood,4.0
+7915,1168,Indianapolis,3.0
+3629,444,Baltimore,2.1
+7723,1129,Charleston,5.0
+817,37,Chicago,3.55
+4868,612,Norfolk,5.0
+4444,520,Newark,5.0
+4009,480,Santa Barbara,3.0
+1927,127,Chicago,4.0
+8727,1434,Cedar Rapids,2.0
+1598,107,Atlantic City,4.0
+9667,1744,Kissimmee,3.0
+2384,191,Pasadena,3.0
+5836,646,Arlington,3.0
+3759,449,Miami Beach,4.15
+3432,437,Lahaina,5.0
+8883,1476,Gardena,3.0
+243,16,Las Vegas,3.55
+2267,173,Las Vegas,1.0
+1228,51,Napa,5.0
+3447,437,Lahaina,5.0
+9552,1716,Pasco,4.0
+2568,244,Elkhorn,4.0
+9807,1777,Newark,5.0
+3209,417,Glen Burnie,4.0
+1368,67,Atlanta,5.0
+597,27,Las Vegas,3.55
+9659,1744,Kissimmee,5.0
+3646,445,Williamsburg,2.9
+6078,715,Okeechobee,2.0
+8010,1200,Haverhill,5.0
+5151,623,Baltimore,5.0
+4237,507,Wilmington,2.0
+5716,642,Hyattsville,4.0
+1492,84,Anaheim,5.0
+8043,1209,Hollywood,4.0
+6342,772,Charlotte,4.0
+6675,881,Denver,2.0
+3054,395,San Francisco,5.0
+8697,1428,Kansas City,5.0
+9473,1680,Mount Pleasant,5.0
+7054,958,Houston,3.0
+3009,382,Broken Bow,5.0
+979,37,Chicago,5.0
+9343,1632,Destin,4.0
+2122,167,Orlando,5.0
+167,15,Las Vegas,4.15
+9783,1777,Newark,1.0
+3661,445,Williamsburg,4.6
+3971,476,Longboat Key,5.0
+4308,518,Springfield,5.0
+7811,1140,Gatlinburg,5.0
+7013,949,Elkridge,4.0
+5548,642,Hyattsville,3.0
+6704,884,Charleston,5.0
+586,27,Las Vegas,3.35
+7854,1147,Herndon,4.0
+7199,998,Simpsonville,5.0
+3868,461,Atlanta,5.0
+4720,582,Sulphur,5.0
+6525,841,Wisconsin Dells,4.0
+6569,859,Knoxville,1.0
+6773,896,West Hollywood,5.0
+1089,44,Chicago,4.0
+9503,1690,Pendleton,5.0
+9087,1553,Freehold,5.0

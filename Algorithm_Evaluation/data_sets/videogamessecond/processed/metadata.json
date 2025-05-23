@@ -1,0 +1,15 @@
+{
+    "num_users": 47664,
+    "num_items": 40,
+    "num_interactions": 47771,
+    "density": 2.505612202081235,
+    "feedback_type": "explicit",
+    "user_item_ratio": 1191.6,
+    "item_user_ratio": 0.0008392077878482712,
+    "highest_num_rating_by_single_user": 2,
+    "lowest_num_rating_by_single_user": 1,
+    "highest_num_rating_on_single_item": 1274,
+    "lowest_num_rating_on_single_item": 1118,
+    "mean_num_ratings_by_user": 1.0022448808324942,
+    "mean_num_ratings_on_item": 1194.275
+}

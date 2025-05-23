@@ -1,0 +1,377 @@
+user_id:token,item_id:token,feature Str:token,feature_second Str:token,feature_third Str:token,rating:float
+0,0,Wii,Sports,Nintendo,76.28
+2,2,Wii,Racing,Nintendo,82.07
+3,3,Wii,Sports,Nintendo,82.65
+5,5,DS,Platform,Nintendo,90.0
+6,6,Wii,Misc,Nintendo,61.64
+7,7,NES,Shooter,Nintendo,84.0
+12,12,DS,Racing,Nintendo,91.34
+24,24,PS2,Racing,Sony Computer Entertainment,94.47
+25,25,X360,Shooter,Activision,88.49
+27,27,DS,Role-Playing,Nintendo,85.88
+33,28,PS3,Shooter,Activision,88.36
+39,37,PS2,Racing,Sony Computer Entertainment,89.41
+41,39,GB,Platform,Nintendo,85.0
+42,40,PS,Racing,Sony Computer Entertainment,88.0
+47,30,PS3,Shooter,Activision,93.42
+52,48,PS,Role-Playing,Sony Computer Entertainment,92.1
+55,50,Wii,Misc,Ubisoft,78.0
+60,55,SNES,Racing,Nintendo,90.0
+66,61,PS2,Role-Playing,Sony Computer Entertainment,91.73
+68,63,X360,Shooter,Microsoft Game Studios,87.48
+74,69,DS,Role-Playing,Nintendo,89.0
+77,72,PS2,Racing,Electronic Arts,85.0
+80,75,GC,Fighting,Nintendo,93.0
+82,77,Wii,Misc,Ubisoft,68.0
+85,80,PS2,Racing,Electronic Arts,85.0
+88,83,X360,Shooter,Electronic Arts,84.9
+92,87,XB,Shooter,Microsoft Game Studios,95.54
+94,89,GB,Role-Playing,Nintendo,88.0
+96,91,PS3,Sports,Electronic Arts,84.0
+97,92,GC,Platform,Nintendo,85.0
+102,95,PS,Action,GT Interactive,87.52
+104,97,PS3,Action,Electronic Arts,80.0
+106,99,PS3,Action,Sony Computer Entertainment,95.0
+110,103,X360,Shooter,Microsoft Game Studios,91.49
+117,110,PS3,Action,Konami Digital Entertainment,93.53
+120,113,3DS,Platform,Nintendo,78.4
+125,117,GBA,Racing,Nintendo,83.0
+131,118,PS3,Action,Take-Two Interactive,93.0
+132,123,PS3,Action,Ubisoft,90.71
+136,127,Wii,Misc,Ubisoft,57.0
+137,128,GB,Misc,Nintendo,80.0
+138,129,PS,Role-Playing,Square,83.0
+139,130,PS2,Role-Playing,Electronic Arts,86.25
+142,133,PS,Adventure,Eidos Interactive,82.71
+144,135,GBA,Platform,Nintendo,90.0
+156,146,PS,Action,Virgin Interactive,88.0
+158,65,DS,Sports,Nintendo,73.0
+164,152,DS,Adventure,Nintendo,90.0
+165,153,PS3,Role-Playing,Square Enix,84.15
+167,155,PS3,Sports,Electronic Arts,86.0
+171,126,NES,Puzzle,Nintendo,82.0
+178,165,PS,Sports,Activision,92.0
+183,170,PS3,Action,Sony Computer Entertainment,89.0
+193,176,PS,Role-Playing,Enix Corporation,80.54
+195,177,PS2,Action,Sony Computer Entertainment,93.69
+204,184,GEN,Platform,Sega,87.0
+211,191,PS2,Misc,Sony Computer Entertainment,77.0
+213,192,NES,Racing,Nintendo,81.0
+215,194,PS2,Sports,Electronic Arts,87.0
+222,201,SNES,Fighting,Capcom,86.0
+224,203,PSP,Platform,Sony Computer Entertainment,86.45
+227,205,PS2,Sports,Konami Digital Entertainment,88.49
+228,206,PS,Misc,Sony Computer Entertainment,70.0
+232,210,NES,Sports,Nintendo,71.0
+235,213,PC,Role-Playing,Activision,85.0
+238,216,DS,Adventure,Nintendo,88.0
+242,220,X360,Action,Ubisoft,79.20999999999998
+248,226,PS,Misc,Sony Computer Entertainment,75.0
+249,227,Wii,Sports,Electronic Arts,83.25
+256,233,PS,Action,Electronic Arts,62.0
+258,235,Wii,Misc,Nintendo,70.26
+260,237,PS,Action,Eidos Interactive,88.21
+267,244,N64,Platform,Nintendo,92.38
+272,248,Wii,Adventure,Nintendo,93.25
+273,249,N64,Simulation,Nintendo,78.0
+280,256,PS2,Racing,Electronic Arts,69.04
+281,257,GC,Action,Nintendo,79.43
+290,265,Wii,Platform,Nintendo,86.0
+294,269,PS,Action,THQ,66.0
+299,274,PC,Misc,Disney Interactive Studios,62.78
+302,276,PC,Role-Playing,Activision,89.0
+311,285,PS,Misc,Sony Computer Entertainment,71.27
+314,288,PS,Fighting,Acclaim Entertainment,80.45999999999998
+318,182,DS,Sports,Nintendo,76.0
+319,292,PS2,Shooter,Electronic Arts,82.29
+321,294,PS2,Action,LucasArts,79.0
+325,297,PC,Role-Playing,Activision,91.45
+328,300,X360,Shooter,Electronic Arts,89.44
+333,305,PS,Fighting,THQ,85.0
+336,308,PS2,Action,Atari,71.0
+348,319,PSP,Action,Sony Computer Entertainment,91.06
+349,320,PS2,Fighting,Atari,76.0
+359,330,PS,Platform,Ubisoft,79.0
+362,333,DS,Misc,Nintendo,83.0
+364,334,NES,Fighting,Nintendo,89.0
+368,338,PS2,Fighting,Atari,73.56999999999998
+375,344,X360,Misc,MTV Games,86.55
+376,345,PS2,Platform,Sega,70.6
+388,356,PS3,Shooter,Sony Computer Entertainment,90.56
+390,358,PS,Shooter,Sony Computer Entertainment,87.0
+393,361,DS,Platform,Nintendo,79.5
+404,372,PS2,Fighting,THQ,86.0
+409,376,PS2,Fighting,THQ,90.0
+410,74,PC,Role-Playing,Bethesda Softworks,91.0
+419,384,PS2,Platform,Sony Computer Entertainment,90.0
+421,38,PS2,Simulation,Electronic Arts,81.06999999999998
+424,387,SNES,Misc,Nintendo,80.0
+434,396,PS2,Action,LucasArts,86.0
+436,398,PS2,Racing,Electronic Arts,93.32
+440,402,XB,Role-Playing,Microsoft Game Studios,85.36
+442,403,NES,Platform,Nintendo,79.0
+445,406,X360,Sports,Electronic Arts,71.0
+446,407,PS2,Racing,Take-Two Interactive,76.98999999999998
+447,408,PS2,Sports,Sega,88.03
+448,409,X360,Sports,Electronic Arts,72.0
+458,418,PS2,Fighting,THQ,87.0
+467,426,Wii,Platform,Nintendo,81.0
+477,435,PSP,Role-Playing,Capcom,88.0
+503,459,PS2,Simulation,Electronic Arts,83.44
+505,461,PC,Adventure,Red Orb,84.0
+507,462,DC,Platform,Sega,90.0
+516,471,PS,Puzzle,JVC,78.0
+523,478,PS2,Action,THQ,65.0
+525,480,PC,Shooter,Valve Software,95.48
+531,486,Wii,Misc,THQ,66.5
+533,83,PC,Shooter,Electronic Arts,86.82
+536,489,PS2,Fighting,THQ,78.0
+541,493,PS2,Shooter,Electronic Arts,84.64
+542,494,X360,Shooter,Take-Two Interactive,89.29
+545,406,PS3,Sports,Electronic Arts,75.0
+547,498,PS3,Adventure,Sony Computer Entertainment,89.23
+549,133,PC,Adventure,Eidos Interactive,86.2
+553,436,PS2,Sports,Electronic Arts,85.0
+558,506,PS2,Adventure,Capcom,84.0
+571,519,GB,Misc,Nintendo,80.0
+572,52,GB,Platform,Nintendo,86.0
+573,520,GB,Role-Playing,Konami Digital Entertainment,70.0
+578,524,N64,Simulation,Nintendo,84.0
+579,525,NES,Sports,Nintendo,69.0
+581,527,PSP,Fighting,Square Enix,88.0
+594,538,PS2,Simulation,Konami Digital Entertainment,77.34999999999998
+597,540,X360,Adventure,Take-Two Interactive,91.41
+603,399,PS3,Fighting,Warner Bros. Interactive Entertainment,90.0
+605,545,DS,Role-Playing,Nintendo,79.0
+615,552,PS2,Action,Capcom,84.09
+622,557,PS,Shooter,Gotham Games,57.0
+624,559,GBA,Strategy,Konami Digital Entertainment,78.0
+630,563,PS2,Fighting,Namco Bandai Games,88.0
+634,567,PS3,Fighting,Capcom,86.0
+636,569,DS,Simulation,Electronic Arts,46.83
+638,571,PS2,Action,Ubisoft,83.0
+644,575,Wii,Sports,Nintendo,65.56
+649,578,X360,Action,Ubisoft,86.5
+661,585,DS,Role-Playing,Nintendo,64.01
+664,94,X360,Sports,505 Games,59.0
+665,588,X360,Racing,Microsoft Game Studios,84.0
+666,589,PS2,Action,Capcom,73.61
+668,591,DS,Puzzle,Midway Games,77.0
+672,595,NES,Sports,Nintendo,51.0
+673,596,DS,Puzzle,Warner Bros. Interactive Entertainment,78.91
+676,14,XB,Action,Take-Two Interactive,92.29
+688,607,PS2,Role-Playing,Activision,85.0
+691,145,X360,Action,LucasArts,83.0
+695,613,GB,Adventure,Nintendo,91.0
+714,630,PS,Role-Playing,Konami Digital Entertainment,68.0
+716,632,PS,Sports,Sony Computer Entertainment,82.0
+718,530,PS3,Shooter,Ubisoft,89.18
+723,79,Wii,Shooter,Activision,85.57
+724,638,GB,Adventure,Nintendo,91.0
+737,649,PS2,Sports,Electronic Arts,87.69
+762,667,Wii,Misc,Ubisoft,77.0
+770,674,XB,Fighting,Microsoft Game Studios,86.18
+778,682,PS2,Action,Electronic Arts,84.55
+786,688,PS2,Sports,Konami Digital Entertainment,85.0
+793,694,DS,Role-Playing,Square Enix,76.52
+796,697,PS,Action,989 Studios,48.97
+799,441,PS2,Action,Take-Two Interactive,87.0
+803,701,PS2,Role-Playing,Square Enix,87.0
+811,705,PC,Simulation,Electronic Arts,81.11
+816,707,PC,Role-Playing,NCSoft,90.02
+829,718,PS3,Role-Playing,Namco Bandai Games,89.72
+838,727,PS,Sports,Electronic Arts,82.0
+839,728,Wii,Misc,Disney Interactive Studios,55.36
+842,179,PS,Sports,Activision,87.0
+844,731,XB,Racing,Microsoft Game Studios,88.0
+846,733,PS2,Sports,Electronic Arts,89.45
+847,734,PS2,Platform,THQ,79.0
+858,744,Wii,Shooter,Nintendo,90.23
+861,747,NES,Platform,Capcom,76.0
+869,754,GC,Strategy,Nintendo,85.0
+873,758,PS,Platform,Sony Computer Entertainment,90.44
+874,759,PS2,Sports,Electronic Arts,89.45
+886,771,N64,Racing,Video System,75.39
+888,345,GC,Platform,Sega,74.68
+892,82,GC,Adventure,Nintendo,95.0
+898,253,Wii,Simulation,Electronic Arts,85.0
+899,779,X360,Racing,Electronic Arts,81.0
+901,781,PS,Misc,Sony Computer Entertainment,66.0
+907,785,DS,Sports,Nintendo,80.0
+915,791,NES,Platform,Nintendo,81.0
+918,794,GBA,Misc,Nintendo,79.0
+931,806,X360,Shooter,Ubisoft,84.42
+937,811,SNES,Fighting,Acclaim Entertainment,83.0
+941,815,DS,Misc,Disney Interactive Studios,35.0
+943,817,PS,Sports,Electronic Arts,73.02
+948,627,X360,Racing,Electronic Arts,75.0
+952,825,NES,Racing,Nintendo,74.0
+964,836,PS2,Racing,Sony Computer Entertainment,74.0
+973,843,NES,Platform,Hudson Soft,53.0
+982,849,PS2,Misc,Sony Computer Entertainment,71.0
+983,850,PS3,Action,Square Enix,84.83
+984,851,PS2,Shooter,Square Enix,60.2
+987,853,GB,Platform,Nintendo,83.0
+989,855,X360,Shooter,Ubisoft,90.47
+990,856,PS2,Sports,Take-Two Interactive,82.0
+994,860,Wii,Misc,Activision,84.0
+997,862,GBA,Platform,THQ,56.0
+998,863,DS,Simulation,Ubisoft,57.0
+999,864,Wii,Shooter,Activision,78.5
+1005,869,GC,Puzzle,Atari,83.0
+1018,882,PS2,Misc,Sony Computer Entertainment,77.0
+1029,753,X360,Fighting,Electronic Arts,85.35
+1030,891,PS2,Sports,Electronic Arts,76.78
+1046,627,PS2,Racing,Electronic Arts,75.0
+1050,904,3DS,Action,Nintendo,76.12
+1053,906,Wii,Sports,Electronic Arts,81.20999999999998
+1055,322,PS,Sports,Electronic Arts,77.0
+1063,911,X360,Simulation,Microsoft Game Studios,67.0
+1068,915,Wii,Action,Disney Interactive Studios,58.0
+1074,919,XB,Role-Playing,Activision,91.0
+1075,920,N64,Strategy,Nintendo,73.0
+1078,923,XB,Shooter,Ubisoft,82.69
+1079,494,PS3,Shooter,Take-Two Interactive,83.98
+1084,928,DS,Role-Playing,Square Enix,79.95
+1089,932,PSP,Misc,Sega,81.13
+1100,811,GEN,Fighting,Acclaim Entertainment,84.0
+1101,940,XB,Shooter,Activision,87.63
+1102,941,X360,Shooter,Electronic Arts,89.1
+1107,944,PS2,Sports,Electronic Arts,88.89
+1108,313,X360,Sports,Electronic Arts,82.0
+1112,459,GBA,Simulation,Electronic Arts,77.34999999999998
+1116,948,PS3,Fighting,THQ,82.0
+1120,952,PS2,Sports,Atari,88.05
+1133,964,X360,Action,Microsoft Game Studios,53.53
+1137,967,PS2,Sports,Electronic Arts,60.69
+1138,968,Wii,Adventure,Activision,80.0
+1161,985,DS,Simulation,Ubisoft,53.0
+1163,987,PS3,Shooter,Sony Computer Entertainment,85.0
+1169,992,PS2,Action,Take-Two Interactive,76.84999999999998
+1177,997,NES,Shooter,Nintendo,76.0
+1178,998,NES,Shooter,Namco Bandai Games,68.0
+1185,1004,PS,Fighting,Sony Computer Entertainment,85.0
+1189,1007,X360,Sports,Take-Two Interactive,86.0
+1201,427,PS2,Action,LucasArts,81.0
+1208,1020,Wii,Action,Disney Interactive Studios,74.95999999999998
+1214,1025,PS2,Action,Eidos Interactive,66.0
+1222,1032,PS2,Racing,Namco Bandai Games,76.0
+1223,1033,Wii,Sports,Deep Silver,31.0
+1234,1041,XB,Action,Microsoft Game Studios,93.0
+1235,122,XB,Platform,Universal Interactive,70.48
+1240,1045,GB,Puzzle,Nintendo,80.0
+1247,1049,DS,Role-Playing,Nintendo,88.0
+1252,1054,PS3,Fighting,Capcom,85.5
+1253,1055,PS,Puzzle,Sony Computer Entertainment,83.0
+1271,1067,PS,Action,Virgin Interactive,80.7
+1274,1069,PC,Strategy,Atari,82.0
+1287,308,XB,Action,Atari,70.0
+1288,1081,PS3,Shooter,Sony Computer Entertainment,67.38
+1290,1083,PS2,Sports,Electronic Arts,84.0
+1292,1084,PS,Simulation,Electronic Arts,74.0
+1305,1092,SNES,Platform,Capcom,90.0
+1316,1100,PS2,Shooter,Activision,79.15
+1319,1012,PS3,Action,Activision,79.65
+1322,1104,PS,Racing,Sony Computer Entertainment,82.0
+1331,1111,PS3,Adventure,Eidos Interactive,78.0
+1336,1116,SAT,Racing,Sega,81.77
+1339,1119,PS,Racing,Eidos Interactive,55.0
+1340,331,Wii,Simulation,Electronic Arts,56.0
+1341,267,XB,Action,Eidos Interactive,84.0
+1343,331,X360,Simulation,Electronic Arts,77.36
+1348,1125,NES,Action,Hudson Soft,57.0
+1357,1134,PS2,Action,Activision,79.62
+1364,1140,SNES,Simulation,Nintendo,82.0
+1375,80,GC,Racing,Electronic Arts,85.0
+1378,515,X360,Adventure,Warner Bros. Interactive Entertainment,82.0
+1380,324,NES,Platform,Nintendo,77.0
+1383,1150,GBA,Role-Playing,Nintendo,80.0
+1384,1151,PSP,Action,Konami Digital Entertainment,86.95
+1387,1154,N64,Simulation,Nintendo,83.0
+1399,1161,PS2,Action,Activision,57.44
+1406,1166,XB,Adventure,Ubisoft,93.92
+1414,1172,PS,Sports,Electronic Arts,83.0
+1417,1175,NES,Puzzle,Hudson Soft,77.7
+1418,1176,GB,Role-Playing,Square,74.0
+1419,1177,NES,Platform,Nintendo,68.0
+1421,1179,PS3,Sports,Konami Digital Entertainment,77.0
+1425,1013,PS2,Sports,Electronic Arts,74.73
+1427,1184,PS2,Misc,Sony Computer Entertainment,77.0
+1428,1185,GC,Role-Playing,Nintendo,93.0
+1432,1188,PSP,Shooter,Sony Computer Entertainment,81.54
+1440,1195,XB,Sports,Electronic Arts,83.0
+1446,1201,PS3,Sports,Sony Computer Entertainment,85.0
+1450,1204,PS2,Sports,Agetec,55.0
+1456,1206,Wii,Platform,Ubisoft,70.0
+1457,1207,PS,Sports,Midway Games,73.0
+1472,1219,PS,Racing,Sony Computer Entertainment,72.0
+1475,1220,PS3,Action,Sega,85.62
+1477,1222,PS,Sports,Electronic Arts,76.0
+1481,1226,DS,Simulation,Ubisoft,68.0
+1489,1231,PS2,Racing,Play It,86.0
+1497,1236,NES,Fighting,Namco Bandai Games,53.0
+1502,1239,PS,Sports,Acclaim Entertainment,80.94
+1512,1248,GC,Fighting,Nintendo,83.0
+1514,1250,PS2,Simulation,Konami Digital Entertainment,75.36
+1517,1253,N64,Puzzle,Hudson Soft,68.88
+1518,331,PS3,Simulation,Electronic Arts,80.67
+1519,1254,Wii,Sports,THQ,63.0
+1524,1258,3DS,Adventure,Nintendo,84.0
+1526,1260,PS3,Fighting,Sega,86.57
+1530,735,PS3,Misc,MTV Games,85.0
+1548,174,XB,Sports,Electronic Arts,84.0
+1549,313,Wii,Sports,Electronic Arts,71.0
+1554,1279,PS3,Racing,Codemasters,83.17
+1572,1291,PS3,Sports,Sega,80.38
+1574,1293,X360,Action,Take-Two Interactive,83.03
+1575,1054,X360,Fighting,Capcom,85.9
+1602,642,PS3,Misc,Sony Computer Entertainment,78.0
+1608,1319,Wii,Shooter,Capcom,80.0
+1612,1268,Wii,Adventure,Electronic Arts,74.0
+1615,1302,X360,Shooter,Ubisoft,86.46
+1618,1323,X360,Action,Tecmo Koei,85.0
+1623,704,PS3,Shooter,Electronic Arts,88.97
+1625,1325,PS2,Sports,Electronic Arts,83.0
+1630,1327,PS3,Platform,Sega,79.29
+1632,1307,X360,Adventure,Ubisoft,80.0
+1644,1335,DS,Simulation,Namco Bandai Games,65.0
+1650,1339,PS2,Platform,Sega,71.74
+1654,1341,PS2,Misc,Play It,60.22
+1658,734,GC,Platform,THQ,76.0
+1669,1352,PS2,Racing,Codemasters,85.33
+1675,1357,X360,Shooter,Electronic Arts,84.55
+1680,1361,PSP,Racing,Take-Two Interactive,78.95999999999998
+1690,243,XB,Sports,Activision,87.0
+1694,1372,DS,Role-Playing,Level 5,56.0
+1695,1373,PS,Racing,Crave Entertainment,70.0
+1697,1375,PS2,Platform,Konami Digital Entertainment,71.0
+1706,897,N64,Fighting,Electronic Arts,79.0
+1715,279,3DS,Sports,Sega,74.0
+1723,1393,PS2,Racing,Crave Entertainment,64.64
+1726,1396,PS,Racing,Codemasters,88.82
+1741,1408,PS2,Racing,Electronic Arts,93.32
+1742,1409,PS,Racing,Psygnosis,72.75
+1743,1410,PS,Action,989 Studios,40.38
+1745,345,XB,Platform,Sega,75.36
+1753,1415,PSP,Racing,Sony Computer Entertainment,81.28
+1756,1417,X360,Sports,Electronic Arts,82.0
+1757,960,GBA,Platform,Activision,57.0
+1770,375,GC,Action,THQ,52.0
+1779,1035,X360,Fighting,THQ,82.0
+1780,611,X360,Action,Activision,64.0
+1785,32,PC,Shooter,Activision,69.0
+1803,1453,PS,Role-Playing,Crave Entertainment,90.0
+1809,1458,PS3,Sports,Sony Computer Entertainment,85.0
+1813,127,X360,Misc,Ubisoft,75.4
+1834,1255,X360,Action,Electronic Arts,73.53
+1837,1398,PS3,Action,Electronic Arts,81.08
+1841,1480,PS2,Fighting,Virgin Interactive,77.0
+1847,981,X360,Fighting,Capcom,87.0
+1850,1485,3DS,Simulation,Nintendo,75.0
+1851,1486,PS2,Racing,Acclaim Entertainment,71.46
+1852,1487,Wii,Racing,Codemasters,73.0
+1857,1491,PS2,Role-Playing,Sony Computer Entertainment,81.92
+1859,1493,X360,Sports,Take-Two Interactive,85.0
+1870,1500,PS2,Action,THQ,71.88
+1872,1401,X360,Shooter,Electronic Arts,68.0
+1873,1502,GBA,Action,Disney Interactive Studios,55.0
