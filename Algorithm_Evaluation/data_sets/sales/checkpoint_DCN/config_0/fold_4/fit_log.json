@@ -1,0 +1,10 @@
+{
+    "model_file": "./data_sets/sales/checkpoint_DCN/config_0/fold_4/DCN-May-24-2025_01-08-53.pth",
+    "data_set_name": "sales",
+    "algorithm_name": "DCN",
+    "algorithm_config_index": 0,
+    "algorithm_configuration": {},
+    "fold": 4,
+    "setup_time": 1.4555089473724365,
+    "training_time": 4.062293529510498
+}
