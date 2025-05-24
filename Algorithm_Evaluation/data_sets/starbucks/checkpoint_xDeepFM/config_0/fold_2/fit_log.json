@@ -1,0 +1,10 @@
+{
+    "model_file": "./data_sets/starbucks/checkpoint_xDeepFM/config_0/fold_2/xDeepFM-May-24-2025_01-34-30.pth",
+    "data_set_name": "starbucks",
+    "algorithm_name": "xDeepFM",
+    "algorithm_config_index": 0,
+    "algorithm_configuration": {},
+    "fold": 2,
+    "setup_time": 1.4421117305755615,
+    "training_time": 1.2904267311096191
+}

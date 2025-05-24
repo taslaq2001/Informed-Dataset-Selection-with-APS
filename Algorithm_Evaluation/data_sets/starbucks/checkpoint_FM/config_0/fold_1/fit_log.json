@@ -1,0 +1,14 @@
+{
+    "model_file": "./data_sets/starbucks/checkpoint_FM/config_0/fold_1/FM-May-24-2025_01-32-16.pth",
+    "data_set_name": "starbucks",
+    "algorithm_name": "FM",
+    "algorithm_config_index": 0,
+    "algorithm_configuration": {
+        "task": "rating",
+        "epoch": 10,
+        "lr": 0.05
+    },
+    "fold": 1,
+    "setup_time": 1.4313991069793701,
+    "training_time": 0.31975388526916504
+}

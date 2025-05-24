@@ -1,0 +1,10 @@
+{
+    "model_file": "./data_sets/starbucks/checkpoint_WideDeep/config_0/fold_3/WideDeep-May-24-2025_01-34-08.pth",
+    "data_set_name": "starbucks",
+    "algorithm_name": "WideDeep",
+    "algorithm_config_index": 0,
+    "algorithm_configuration": {},
+    "fold": 3,
+    "setup_time": 1.4017162322998047,
+    "training_time": 0.46988725662231445
+}

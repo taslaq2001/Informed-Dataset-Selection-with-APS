@@ -1,0 +1,10 @@
+{
+    "model_file": "./data_sets/starbucks/checkpoint_FwFM/config_0/fold_4/FwFM-May-24-2025_01-33-22.pth",
+    "data_set_name": "starbucks",
+    "algorithm_name": "FwFM",
+    "algorithm_config_index": 0,
+    "algorithm_configuration": {},
+    "fold": 4,
+    "setup_time": 1.4442329406738281,
+    "training_time": 0.3326714038848877
+}

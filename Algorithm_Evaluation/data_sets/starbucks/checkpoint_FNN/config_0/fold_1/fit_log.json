@@ -1,0 +1,10 @@
+{
+    "model_file": "./data_sets/starbucks/checkpoint_FNN/config_0/fold_1/FNN-May-24-2025_01-32-41.pth",
+    "data_set_name": "starbucks",
+    "algorithm_name": "FNN",
+    "algorithm_config_index": 0,
+    "algorithm_configuration": {},
+    "fold": 1,
+    "setup_time": 1.4615826606750488,
+    "training_time": 0.7284965515136719
+}

@@ -1,0 +1,10 @@
+{
+    "model_file": "./data_sets/starbucks/checkpoint_DCN/config_0/fold_1/DCN-May-24-2025_01-29-06.pth",
+    "data_set_name": "starbucks",
+    "algorithm_name": "DCN",
+    "algorithm_config_index": 0,
+    "algorithm_configuration": {},
+    "fold": 1,
+    "setup_time": 1.4322915077209473,
+    "training_time": 1.2267439365386963
+}

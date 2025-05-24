@@ -1,0 +1,10 @@
+{
+    "model_file": "./data_sets/starbucks/checkpoint_DSSM/config_0/fold_2/DSSM-May-24-2025_01-30-06.pth",
+    "data_set_name": "starbucks",
+    "algorithm_name": "DSSM",
+    "algorithm_config_index": 0,
+    "algorithm_configuration": {},
+    "fold": 2,
+    "setup_time": 1.43375825881958,
+    "training_time": 1.3362030982971191
+}
