@@ -1,0 +1,13 @@
+{
+    "model_file": "./data_sets/products/checkpoint_NFM/config_0/fold_3/NFM-May-23-2025_17-18-07.pth",
+    "data_set_name": "products",
+    "algorithm_name": "NFM",
+    "algorithm_config_index": 0,
+    "algorithm_configuration": {
+        "n_factors": 15,
+        "n_epochs": 10
+    },
+    "fold": 3,
+    "setup_time": 2.578106164932251,
+    "training_time": 9.902420997619629
+}

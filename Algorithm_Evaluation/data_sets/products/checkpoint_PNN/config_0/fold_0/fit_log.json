@@ -1,0 +1,10 @@
+{
+    "model_file": "./data_sets/products/checkpoint_PNN/config_0/fold_0/PNN-May-23-2025_17-43-40.pth",
+    "data_set_name": "products",
+    "algorithm_name": "PNN",
+    "algorithm_config_index": 0,
+    "algorithm_configuration": {},
+    "fold": 0,
+    "setup_time": 2.644178867340088,
+    "training_time": 12.527595520019531
+}

@@ -1,0 +1,10 @@
+{
+    "model_file": "./data_sets/products/checkpoint_DSSM/config_0/fold_4/DSSM-May-23-2025_17-28-47.pth",
+    "data_set_name": "products",
+    "algorithm_name": "DSSM",
+    "algorithm_config_index": 0,
+    "algorithm_configuration": {},
+    "fold": 4,
+    "setup_time": 2.6409616470336914,
+    "training_time": 52.80075168609619
+}

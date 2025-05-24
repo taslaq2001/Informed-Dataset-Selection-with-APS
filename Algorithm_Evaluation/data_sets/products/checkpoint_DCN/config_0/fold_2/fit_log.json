@@ -1,0 +1,10 @@
+{
+    "model_file": "./data_sets/products/checkpoint_DCN/config_0/fold_2/DCN-May-23-2025_17-21-02.pth",
+    "data_set_name": "products",
+    "algorithm_name": "DCN",
+    "algorithm_config_index": 0,
+    "algorithm_configuration": {},
+    "fold": 2,
+    "setup_time": 2.6191561222076416,
+    "training_time": 30.831568956375122
+}
