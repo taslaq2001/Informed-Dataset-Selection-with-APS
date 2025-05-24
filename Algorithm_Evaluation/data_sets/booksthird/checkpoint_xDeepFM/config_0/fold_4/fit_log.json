@@ -1,0 +1,10 @@
+{
+    "model_file": "./data_sets/booksthird/checkpoint_xDeepFM/config_0/fold_4/xDeepFM-May-23-2025_15-31-39.pth",
+    "data_set_name": "booksthird",
+    "algorithm_name": "xDeepFM",
+    "algorithm_config_index": 0,
+    "algorithm_configuration": {},
+    "fold": 4,
+    "setup_time": 1.4053471088409424,
+    "training_time": 1.5024774074554443
+}

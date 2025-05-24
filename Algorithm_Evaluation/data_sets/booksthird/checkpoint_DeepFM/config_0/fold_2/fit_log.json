@@ -1,0 +1,10 @@
+{
+    "model_file": "./data_sets/booksthird/checkpoint_DeepFM/config_0/fold_2/DeepFM-May-23-2025_15-26-36.pth",
+    "data_set_name": "booksthird",
+    "algorithm_name": "DeepFM",
+    "algorithm_config_index": 0,
+    "algorithm_configuration": {},
+    "fold": 2,
+    "setup_time": 1.3878042697906494,
+    "training_time": 0.6396100521087646
+}

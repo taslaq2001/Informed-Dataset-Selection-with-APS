@@ -1,0 +1,10 @@
+{
+    "model_file": "./data_sets/booksthird/checkpoint_FFM/config_0/fold_2/FFM-May-23-2025_15-27-32.pth",
+    "data_set_name": "booksthird",
+    "algorithm_name": "FFM",
+    "algorithm_config_index": 0,
+    "algorithm_configuration": {},
+    "fold": 2,
+    "setup_time": 1.416844129562378,
+    "training_time": 0.37649059295654297
+}
