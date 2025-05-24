@@ -1,0 +1,10 @@
+{
+    "model_file": "./data_sets/animes/checkpoint_PNN/config_0/fold_1/PNN-May-23-2025_14-14-35.pth",
+    "data_set_name": "animes",
+    "algorithm_name": "PNN",
+    "algorithm_config_index": 0,
+    "algorithm_configuration": {},
+    "fold": 1,
+    "setup_time": 4.574292182922363,
+    "training_time": 41.02364683151245
+}

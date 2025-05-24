@@ -1,0 +1,10 @@
+{
+    "model_file": "./data_sets/animes/checkpoint_AutoInt/config_0/fold_0/AutoInt-May-23-2025_13-40-51.pth",
+    "data_set_name": "animes",
+    "algorithm_name": "AutoInt",
+    "algorithm_config_index": 0,
+    "algorithm_configuration": {},
+    "fold": 0,
+    "setup_time": 4.569770574569702,
+    "training_time": 64.70606565475464
+}

@@ -1,0 +1,10 @@
+{
+    "model_file": "./data_sets/animes/checkpoint_AFM/config_0/fold_0/AFM-May-23-2025_13-00-08.pth",
+    "data_set_name": "animes",
+    "algorithm_name": "AFM",
+    "algorithm_config_index": 0,
+    "algorithm_configuration": {},
+    "fold": 0,
+    "setup_time": 4.645067930221558,
+    "training_time": 33.05900025367737
+}

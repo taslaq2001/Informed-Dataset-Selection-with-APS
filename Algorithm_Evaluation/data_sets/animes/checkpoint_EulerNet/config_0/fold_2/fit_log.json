@@ -1,0 +1,10 @@
+{
+    "model_file": "./data_sets/animes/checkpoint_EulerNet/config_0/fold_2/EulerNet-May-23-2025_13-52-14.pth",
+    "data_set_name": "animes",
+    "algorithm_name": "EulerNet",
+    "algorithm_config_index": 0,
+    "algorithm_configuration": {},
+    "fold": 2,
+    "setup_time": 4.947661638259888,
+    "training_time": 148.0838224887848
+}

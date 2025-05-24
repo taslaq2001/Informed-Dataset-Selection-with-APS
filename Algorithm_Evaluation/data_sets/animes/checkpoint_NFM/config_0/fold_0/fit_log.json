@@ -1,0 +1,13 @@
+{
+    "model_file": "./data_sets/animes/checkpoint_NFM/config_0/fold_0/NFM-May-23-2025_12-56-19.pth",
+    "data_set_name": "animes",
+    "algorithm_name": "NFM",
+    "algorithm_config_index": 0,
+    "algorithm_configuration": {
+        "n_factors": 15,
+        "n_epochs": 10
+    },
+    "fold": 0,
+    "setup_time": 4.512564420700073,
+    "training_time": 37.419655084609985
+}

@@ -1,0 +1,10 @@
+{
+    "model_file": "./data_sets/animes/checkpoint_FFM/config_0/fold_4/FFM-May-23-2025_13-34-33.pth",
+    "data_set_name": "animes",
+    "algorithm_name": "FFM",
+    "algorithm_config_index": 0,
+    "algorithm_configuration": {},
+    "fold": 4,
+    "setup_time": 4.657197713851929,
+    "training_time": 48.55349135398865
+}

@@ -1,0 +1,10 @@
+{
+    "model_file": "./data_sets/animes/checkpoint_DeepFM/config_0/fold_0/DeepFM-May-23-2025_13-12-07.pth",
+    "data_set_name": "animes",
+    "algorithm_name": "DeepFM",
+    "algorithm_config_index": 0,
+    "algorithm_configuration": {},
+    "fold": 0,
+    "setup_time": 4.562813997268677,
+    "training_time": 55.84685516357422
+}

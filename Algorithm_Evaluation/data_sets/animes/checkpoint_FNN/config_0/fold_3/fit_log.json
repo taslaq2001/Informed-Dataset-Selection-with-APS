@@ -1,0 +1,10 @@
+{
+    "model_file": "./data_sets/animes/checkpoint_FNN/config_0/fold_3/FNN-May-23-2025_14-07-36.pth",
+    "data_set_name": "animes",
+    "algorithm_name": "FNN",
+    "algorithm_config_index": 0,
+    "algorithm_configuration": {},
+    "fold": 3,
+    "setup_time": 4.545645713806152,
+    "training_time": 79.92743492126465
+}
