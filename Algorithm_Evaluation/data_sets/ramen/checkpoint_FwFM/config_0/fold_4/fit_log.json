@@ -1,0 +1,10 @@
+{
+    "model_file": "./data_sets/ramen/checkpoint_FwFM/config_0/fold_4/FwFM-May-24-2025_01-05-16.pth",
+    "data_set_name": "ramen",
+    "algorithm_name": "FwFM",
+    "algorithm_config_index": 0,
+    "algorithm_configuration": {},
+    "fold": 4,
+    "setup_time": 1.4335453510284424,
+    "training_time": 0.4074976444244385
+}

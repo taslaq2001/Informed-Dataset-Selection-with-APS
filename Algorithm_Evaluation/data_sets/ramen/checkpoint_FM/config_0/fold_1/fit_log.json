@@ -1,0 +1,14 @@
+{
+    "model_file": "./data_sets/ramen/checkpoint_FM/config_0/fold_1/FM-May-24-2025_01-04-06.pth",
+    "data_set_name": "ramen",
+    "algorithm_name": "FM",
+    "algorithm_config_index": 0,
+    "algorithm_configuration": {
+        "task": "rating",
+        "epoch": 10,
+        "lr": 0.05
+    },
+    "fold": 1,
+    "setup_time": 1.4183170795440674,
+    "training_time": 0.4290635585784912
+}

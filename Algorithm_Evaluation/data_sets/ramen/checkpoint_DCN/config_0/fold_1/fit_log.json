@@ -1,0 +1,10 @@
+{
+    "model_file": "./data_sets/ramen/checkpoint_DCN/config_0/fold_1/DCN-May-24-2025_01-00-32.pth",
+    "data_set_name": "ramen",
+    "algorithm_name": "DCN",
+    "algorithm_config_index": 0,
+    "algorithm_configuration": {},
+    "fold": 1,
+    "setup_time": 1.6063203811645508,
+    "training_time": 2.021186590194702
+}

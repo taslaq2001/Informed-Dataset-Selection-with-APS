@@ -1,0 +1,10 @@
+{
+    "model_file": "./data_sets/ramen/checkpoint_DSSM/config_0/fold_4/DSSM-May-24-2025_01-01-59.pth",
+    "data_set_name": "ramen",
+    "algorithm_name": "DSSM",
+    "algorithm_config_index": 0,
+    "algorithm_configuration": {},
+    "fold": 4,
+    "setup_time": 1.437516689300537,
+    "training_time": 2.8875198364257812
+}

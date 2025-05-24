@@ -1,0 +1,10 @@
+{
+    "model_file": "./data_sets/ramen/checkpoint_LR/config_0/fold_4/LR-May-24-2025_00-59-25.pth",
+    "data_set_name": "ramen",
+    "algorithm_name": "LR",
+    "algorithm_config_index": 0,
+    "algorithm_configuration": {},
+    "fold": 4,
+    "setup_time": 1.4424810409545898,
+    "training_time": 0.3316330909729004
+}
