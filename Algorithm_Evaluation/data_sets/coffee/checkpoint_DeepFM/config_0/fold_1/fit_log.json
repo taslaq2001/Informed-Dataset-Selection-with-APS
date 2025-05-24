@@ -1,0 +1,10 @@
+{
+    "model_file": "./data_sets/coffee/checkpoint_DeepFM/config_0/fold_1/DeepFM-May-23-2025_15-49-20.pth",
+    "data_set_name": "coffee",
+    "algorithm_name": "DeepFM",
+    "algorithm_config_index": 0,
+    "algorithm_configuration": {},
+    "fold": 1,
+    "setup_time": 1.403221607208252,
+    "training_time": 0.69541335105896
+}

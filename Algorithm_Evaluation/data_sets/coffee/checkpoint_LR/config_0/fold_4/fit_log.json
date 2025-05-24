@@ -1,0 +1,10 @@
+{
+    "model_file": "./data_sets/coffee/checkpoint_LR/config_0/fold_4/LR-May-23-2025_15-47-46.pth",
+    "data_set_name": "coffee",
+    "algorithm_name": "LR",
+    "algorithm_config_index": 0,
+    "algorithm_configuration": {},
+    "fold": 4,
+    "setup_time": 1.4562222957611084,
+    "training_time": 0.2823171615600586
+}
