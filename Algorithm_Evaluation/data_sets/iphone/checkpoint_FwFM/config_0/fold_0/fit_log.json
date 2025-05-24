@@ -1,0 +1,10 @@
+{
+    "model_file": "./data_sets/iphone/checkpoint_FwFM/config_0/fold_0/FwFM-May-23-2025_16-38-40.pth",
+    "data_set_name": "iphone",
+    "algorithm_name": "FwFM",
+    "algorithm_config_index": 0,
+    "algorithm_configuration": {},
+    "fold": 0,
+    "setup_time": 1.4047460556030273,
+    "training_time": 0.43192529678344727
+}

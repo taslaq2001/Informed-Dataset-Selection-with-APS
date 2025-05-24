@@ -1,0 +1,10 @@
+{
+    "model_file": "./data_sets/iphone/checkpoint_FiGNN/config_0/fold_1/FiGNN-May-23-2025_16-36-19.pth",
+    "data_set_name": "iphone",
+    "algorithm_name": "FiGNN",
+    "algorithm_config_index": 0,
+    "algorithm_configuration": {},
+    "fold": 1,
+    "setup_time": 1.4287922382354736,
+    "training_time": 1.118309497833252
+}

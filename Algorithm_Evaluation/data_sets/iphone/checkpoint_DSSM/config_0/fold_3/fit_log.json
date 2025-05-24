@@ -1,0 +1,10 @@
+{
+    "model_file": "./data_sets/iphone/checkpoint_DSSM/config_0/fold_3/DSSM-May-23-2025_16-35-33.pth",
+    "data_set_name": "iphone",
+    "algorithm_name": "DSSM",
+    "algorithm_config_index": 0,
+    "algorithm_configuration": {},
+    "fold": 3,
+    "setup_time": 1.423647403717041,
+    "training_time": 3.0665438175201416
+}

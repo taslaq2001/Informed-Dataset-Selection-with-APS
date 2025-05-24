@@ -1,0 +1,10 @@
+{
+    "model_file": "./data_sets/iphone/checkpoint_PNN/config_0/fold_3/PNN-May-23-2025_16-39-21.pth",
+    "data_set_name": "iphone",
+    "algorithm_name": "PNN",
+    "algorithm_config_index": 0,
+    "algorithm_configuration": {},
+    "fold": 3,
+    "setup_time": 1.4955346584320068,
+    "training_time": 0.8312101364135742
+}

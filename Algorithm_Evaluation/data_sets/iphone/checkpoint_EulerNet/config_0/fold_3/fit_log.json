@@ -1,0 +1,10 @@
+{
+    "model_file": "./data_sets/iphone/checkpoint_EulerNet/config_0/fold_3/EulerNet-May-23-2025_16-37-31.pth",
+    "data_set_name": "iphone",
+    "algorithm_name": "EulerNet",
+    "algorithm_config_index": 0,
+    "algorithm_configuration": {},
+    "fold": 3,
+    "setup_time": 1.428391695022583,
+    "training_time": 1.990957498550415
+}

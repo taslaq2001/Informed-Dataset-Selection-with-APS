@@ -1,0 +1,10 @@
+{
+    "model_file": "./data_sets/iphone/checkpoint_AutoInt/config_0/fold_2/AutoInt-May-23-2025_16-36-54.pth",
+    "data_set_name": "iphone",
+    "algorithm_name": "AutoInt",
+    "algorithm_config_index": 0,
+    "algorithm_configuration": {},
+    "fold": 2,
+    "setup_time": 1.4050359725952148,
+    "training_time": 1.361602783203125
+}

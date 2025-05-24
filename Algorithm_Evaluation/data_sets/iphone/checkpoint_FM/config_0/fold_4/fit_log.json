@@ -1,0 +1,14 @@
+{
+    "model_file": "./data_sets/iphone/checkpoint_FM/config_0/fold_4/FM-May-23-2025_16-38-04.pth",
+    "data_set_name": "iphone",
+    "algorithm_name": "FM",
+    "algorithm_config_index": 0,
+    "algorithm_configuration": {
+        "task": "rating",
+        "epoch": 10,
+        "lr": 0.05
+    },
+    "fold": 4,
+    "setup_time": 1.3975117206573486,
+    "training_time": 0.4453999996185303
+}

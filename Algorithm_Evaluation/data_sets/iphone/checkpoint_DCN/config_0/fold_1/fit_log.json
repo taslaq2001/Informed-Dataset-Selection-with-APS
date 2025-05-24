@@ -1,0 +1,10 @@
+{
+    "model_file": "./data_sets/iphone/checkpoint_DCN/config_0/fold_1/DCN-May-23-2025_16-34-16.pth",
+    "data_set_name": "iphone",
+    "algorithm_name": "DCN",
+    "algorithm_config_index": 0,
+    "algorithm_configuration": {},
+    "fold": 1,
+    "setup_time": 1.4108076095581055,
+    "training_time": 1.9962985515594482
+}
