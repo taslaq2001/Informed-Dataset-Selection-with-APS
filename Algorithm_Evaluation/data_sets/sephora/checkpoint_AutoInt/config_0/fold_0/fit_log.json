@@ -1,0 +1,10 @@
+{
+    "model_file": "./data_sets/sephora/checkpoint_AutoInt/config_0/fold_0/AutoInt-May-24-2025_01-21-58.pth",
+    "data_set_name": "sephora",
+    "algorithm_name": "AutoInt",
+    "algorithm_config_index": 0,
+    "algorithm_configuration": {},
+    "fold": 0,
+    "setup_time": 1.5823383331298828,
+    "training_time": 3.7938358783721924
+}

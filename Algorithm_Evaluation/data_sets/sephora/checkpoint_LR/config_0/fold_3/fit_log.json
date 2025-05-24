@@ -1,0 +1,10 @@
+{
+    "model_file": "./data_sets/sephora/checkpoint_LR/config_0/fold_3/LR-May-24-2025_01-16-53.pth",
+    "data_set_name": "sephora",
+    "algorithm_name": "LR",
+    "algorithm_config_index": 0,
+    "algorithm_configuration": {},
+    "fold": 3,
+    "setup_time": 1.758995771408081,
+    "training_time": 0.8352048397064209
+}

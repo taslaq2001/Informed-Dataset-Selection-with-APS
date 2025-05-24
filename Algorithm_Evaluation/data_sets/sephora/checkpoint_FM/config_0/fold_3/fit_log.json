@@ -1,0 +1,14 @@
+{
+    "model_file": "./data_sets/sephora/checkpoint_FM/config_0/fold_3/FM-May-24-2025_01-23-52.pth",
+    "data_set_name": "sephora",
+    "algorithm_name": "FM",
+    "algorithm_config_index": 0,
+    "algorithm_configuration": {
+        "task": "rating",
+        "epoch": 10,
+        "lr": 0.05
+    },
+    "fold": 3,
+    "setup_time": 1.586165189743042,
+    "training_time": 0.9909543991088867
+}

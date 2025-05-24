@@ -1,0 +1,10 @@
+{
+    "model_file": "./data_sets/sephora/checkpoint_FNN/config_0/fold_4/FNN-May-24-2025_01-24-41.pth",
+    "data_set_name": "sephora",
+    "algorithm_name": "FNN",
+    "algorithm_config_index": 0,
+    "algorithm_configuration": {},
+    "fold": 4,
+    "setup_time": 1.65501070022583,
+    "training_time": 4.533394813537598
+}

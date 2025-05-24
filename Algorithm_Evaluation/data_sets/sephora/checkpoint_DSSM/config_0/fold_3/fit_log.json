@@ -1,0 +1,10 @@
+{
+    "model_file": "./data_sets/sephora/checkpoint_DSSM/config_0/fold_3/DSSM-May-24-2025_01-20-20.pth",
+    "data_set_name": "sephora",
+    "algorithm_name": "DSSM",
+    "algorithm_config_index": 0,
+    "algorithm_configuration": {},
+    "fold": 3,
+    "setup_time": 1.5817861557006836,
+    "training_time": 8.814264059066772
+}

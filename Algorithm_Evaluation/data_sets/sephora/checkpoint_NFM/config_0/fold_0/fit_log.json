@@ -1,0 +1,13 @@
+{
+    "model_file": "./data_sets/sephora/checkpoint_NFM/config_0/fold_0/NFM-May-24-2025_01-17-04.pth",
+    "data_set_name": "sephora",
+    "algorithm_name": "NFM",
+    "algorithm_config_index": 0,
+    "algorithm_configuration": {
+        "n_factors": 15,
+        "n_epochs": 10
+    },
+    "fold": 0,
+    "setup_time": 1.5932440757751465,
+    "training_time": 1.9271669387817383
+}

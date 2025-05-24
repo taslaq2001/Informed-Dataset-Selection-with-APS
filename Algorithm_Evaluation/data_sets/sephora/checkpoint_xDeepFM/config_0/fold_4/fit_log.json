@@ -1,0 +1,10 @@
+{
+    "model_file": "./data_sets/sephora/checkpoint_xDeepFM/config_0/fold_4/xDeepFM-May-24-2025_01-27-29.pth",
+    "data_set_name": "sephora",
+    "algorithm_name": "xDeepFM",
+    "algorithm_config_index": 0,
+    "algorithm_configuration": {},
+    "fold": 4,
+    "setup_time": 1.6061382293701172,
+    "training_time": 10.709521055221558
+}

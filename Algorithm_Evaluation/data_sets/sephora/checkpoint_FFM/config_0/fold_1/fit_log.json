@@ -1,0 +1,10 @@
+{
+    "model_file": "./data_sets/sephora/checkpoint_FFM/config_0/fold_1/FFM-May-24-2025_01-20-53.pth",
+    "data_set_name": "sephora",
+    "algorithm_name": "FFM",
+    "algorithm_config_index": 0,
+    "algorithm_configuration": {},
+    "fold": 1,
+    "setup_time": 1.6532182693481445,
+    "training_time": 1.302769660949707
+}
