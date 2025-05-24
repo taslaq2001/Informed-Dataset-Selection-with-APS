@@ -1,0 +1,10 @@
+{
+    "model_file": "./data_sets/laptops/checkpoint_FNN/config_0/fold_1/FNN-May-23-2025_16-51-30.pth",
+    "data_set_name": "laptops",
+    "algorithm_name": "FNN",
+    "algorithm_config_index": 0,
+    "algorithm_configuration": {},
+    "fold": 1,
+    "setup_time": 1.7955851554870605,
+    "training_time": 8.858818054199219
+}

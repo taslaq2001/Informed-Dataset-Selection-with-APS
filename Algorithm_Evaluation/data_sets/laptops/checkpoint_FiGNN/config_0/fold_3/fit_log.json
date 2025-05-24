@@ -1,0 +1,10 @@
+{
+    "model_file": "./data_sets/laptops/checkpoint_FiGNN/config_0/fold_3/FiGNN-May-23-2025_16-47-52.pth",
+    "data_set_name": "laptops",
+    "algorithm_name": "FiGNN",
+    "algorithm_config_index": 0,
+    "algorithm_configuration": {},
+    "fold": 3,
+    "setup_time": 1.8711400032043457,
+    "training_time": 6.101520538330078
+}

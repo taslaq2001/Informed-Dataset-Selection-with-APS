@@ -1,0 +1,13 @@
+{
+    "model_file": "./data_sets/laptops/checkpoint_NFM/config_0/fold_1/NFM-May-23-2025_16-41-19.pth",
+    "data_set_name": "laptops",
+    "algorithm_name": "NFM",
+    "algorithm_config_index": 0,
+    "algorithm_configuration": {
+        "n_factors": 15,
+        "n_epochs": 10
+    },
+    "fold": 1,
+    "setup_time": 1.7717657089233398,
+    "training_time": 3.324608087539673
+}

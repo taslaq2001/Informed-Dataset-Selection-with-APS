@@ -1,0 +1,10 @@
+{
+    "model_file": "./data_sets/laptops/checkpoint_AutoInt/config_0/fold_1/AutoInt-May-23-2025_16-48-26.pth",
+    "data_set_name": "laptops",
+    "algorithm_name": "AutoInt",
+    "algorithm_config_index": 0,
+    "algorithm_configuration": {},
+    "fold": 1,
+    "setup_time": 1.7958459854125977,
+    "training_time": 7.197753429412842
+}

@@ -1,0 +1,10 @@
+{
+    "model_file": "./data_sets/laptops/checkpoint_xDeepFM/config_0/fold_3/xDeepFM-May-23-2025_16-55-50.pth",
+    "data_set_name": "laptops",
+    "algorithm_name": "xDeepFM",
+    "algorithm_config_index": 0,
+    "algorithm_configuration": {},
+    "fold": 3,
+    "setup_time": 1.8055334091186523,
+    "training_time": 22.485092878341675
+}

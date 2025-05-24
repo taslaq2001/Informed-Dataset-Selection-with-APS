@@ -1,0 +1,10 @@
+{
+    "model_file": "./data_sets/laptops/checkpoint_LR/config_0/fold_2/LR-May-23-2025_16-40-52.pth",
+    "data_set_name": "laptops",
+    "algorithm_name": "LR",
+    "algorithm_config_index": 0,
+    "algorithm_configuration": {},
+    "fold": 2,
+    "setup_time": 1.812586784362793,
+    "training_time": 1.265812873840332
+}

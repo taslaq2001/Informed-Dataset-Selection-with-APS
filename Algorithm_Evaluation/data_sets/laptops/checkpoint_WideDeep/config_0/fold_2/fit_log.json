@@ -1,0 +1,10 @@
+{
+    "model_file": "./data_sets/laptops/checkpoint_WideDeep/config_0/fold_2/WideDeep-May-23-2025_16-54-05.pth",
+    "data_set_name": "laptops",
+    "algorithm_name": "WideDeep",
+    "algorithm_config_index": 0,
+    "algorithm_configuration": {},
+    "fold": 2,
+    "setup_time": 1.7639029026031494,
+    "training_time": 3.0364902019500732
+}

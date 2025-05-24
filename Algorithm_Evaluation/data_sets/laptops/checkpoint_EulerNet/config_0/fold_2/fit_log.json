@@ -1,0 +1,10 @@
+{
+    "model_file": "./data_sets/laptops/checkpoint_EulerNet/config_0/fold_2/EulerNet-May-23-2025_16-49-50.pth",
+    "data_set_name": "laptops",
+    "algorithm_name": "EulerNet",
+    "algorithm_config_index": 0,
+    "algorithm_configuration": {},
+    "fold": 2,
+    "setup_time": 1.7882475852966309,
+    "training_time": 11.975234270095825
+}

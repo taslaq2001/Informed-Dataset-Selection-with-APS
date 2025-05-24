@@ -1,0 +1,10 @@
+{
+    "model_file": "./data_sets/laptops/checkpoint_FwFM/config_0/fold_1/FwFM-May-23-2025_16-52-33.pth",
+    "data_set_name": "laptops",
+    "algorithm_name": "FwFM",
+    "algorithm_config_index": 0,
+    "algorithm_configuration": {},
+    "fold": 1,
+    "setup_time": 1.9435927867889404,
+    "training_time": 2.2444028854370117
+}
