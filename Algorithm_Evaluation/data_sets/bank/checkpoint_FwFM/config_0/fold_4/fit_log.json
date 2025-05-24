@@ -1,0 +1,10 @@
+{
+    "model_file": "./data_sets/bank/checkpoint_FwFM/config_0/fold_4/FwFM-May-23-2025_14-44-10.pth",
+    "data_set_name": "bank",
+    "algorithm_name": "FwFM",
+    "algorithm_config_index": 0,
+    "algorithm_configuration": {},
+    "fold": 4,
+    "setup_time": 1.389521598815918,
+    "training_time": 0.3521101474761963
+}

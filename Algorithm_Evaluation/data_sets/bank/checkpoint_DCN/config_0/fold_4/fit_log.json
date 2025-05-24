@@ -1,0 +1,10 @@
+{
+    "model_file": "./data_sets/bank/checkpoint_DCN/config_0/fold_4/DCN-May-23-2025_14-40-07.pth",
+    "data_set_name": "bank",
+    "algorithm_name": "DCN",
+    "algorithm_config_index": 0,
+    "algorithm_configuration": {},
+    "fold": 4,
+    "setup_time": 1.408862590789795,
+    "training_time": 1.2042896747589111
+}

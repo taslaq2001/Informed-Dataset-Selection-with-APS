@@ -1,0 +1,10 @@
+{
+    "model_file": "./data_sets/bank/checkpoint_xDeepFM/config_0/fold_0/xDeepFM-May-23-2025_14-45-07.pth",
+    "data_set_name": "bank",
+    "algorithm_name": "xDeepFM",
+    "algorithm_config_index": 0,
+    "algorithm_configuration": {},
+    "fold": 0,
+    "setup_time": 1.4334933757781982,
+    "training_time": 1.5934059619903564
+}

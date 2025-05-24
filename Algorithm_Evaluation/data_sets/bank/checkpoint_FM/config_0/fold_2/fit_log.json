@@ -1,0 +1,14 @@
+{
+    "model_file": "./data_sets/bank/checkpoint_FM/config_0/fold_2/FM-May-23-2025_14-43-09.pth",
+    "data_set_name": "bank",
+    "algorithm_name": "FM",
+    "algorithm_config_index": 0,
+    "algorithm_configuration": {
+        "task": "rating",
+        "epoch": 10,
+        "lr": 0.05
+    },
+    "fold": 2,
+    "setup_time": 1.4132463932037354,
+    "training_time": 0.32980799674987793
+}

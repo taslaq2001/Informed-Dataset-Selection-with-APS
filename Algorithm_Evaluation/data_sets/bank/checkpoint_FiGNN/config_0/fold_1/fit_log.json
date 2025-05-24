@@ -1,0 +1,10 @@
+{
+    "model_file": "./data_sets/bank/checkpoint_FiGNN/config_0/fold_1/FiGNN-May-23-2025_14-41-40.pth",
+    "data_set_name": "bank",
+    "algorithm_name": "FiGNN",
+    "algorithm_config_index": 0,
+    "algorithm_configuration": {},
+    "fold": 1,
+    "setup_time": 1.5118556022644043,
+    "training_time": 0.8351535797119141
+}

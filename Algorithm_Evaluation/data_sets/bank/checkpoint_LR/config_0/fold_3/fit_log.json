@@ -1,0 +1,10 @@
+{
+    "model_file": "./data_sets/bank/checkpoint_LR/config_0/fold_3/LR-May-23-2025_14-38-25.pth",
+    "data_set_name": "bank",
+    "algorithm_name": "LR",
+    "algorithm_config_index": 0,
+    "algorithm_configuration": {},
+    "fold": 3,
+    "setup_time": 1.4167463779449463,
+    "training_time": 0.2630438804626465
+}

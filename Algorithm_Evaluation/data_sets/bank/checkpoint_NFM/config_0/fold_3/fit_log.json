@@ -1,0 +1,13 @@
+{
+    "model_file": "./data_sets/bank/checkpoint_NFM/config_0/fold_3/NFM-May-23-2025_14-38-59.pth",
+    "data_set_name": "bank",
+    "algorithm_name": "NFM",
+    "algorithm_config_index": 0,
+    "algorithm_configuration": {
+        "n_factors": 15,
+        "n_epochs": 10
+    },
+    "fold": 3,
+    "setup_time": 6.158358573913574,
+    "training_time": 0.615077018737793
+}

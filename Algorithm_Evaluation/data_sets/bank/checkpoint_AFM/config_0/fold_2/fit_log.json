@@ -1,0 +1,10 @@
+{
+    "model_file": "./data_sets/bank/checkpoint_AFM/config_0/fold_2/AFM-May-23-2025_14-39-29.pth",
+    "data_set_name": "bank",
+    "algorithm_name": "AFM",
+    "algorithm_config_index": 0,
+    "algorithm_configuration": {},
+    "fold": 2,
+    "setup_time": 1.4003057479858398,
+    "training_time": 0.4106786251068115
+}
