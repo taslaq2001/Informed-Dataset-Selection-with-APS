@@ -1,0 +1,14 @@
+{
+    "model_file": "./data_sets/productssecond/checkpoint_FM/config_0/fold_3/FM-May-24-2025_00-54-44.pth",
+    "data_set_name": "productssecond",
+    "algorithm_name": "FM",
+    "algorithm_config_index": 0,
+    "algorithm_configuration": {
+        "task": "rating",
+        "epoch": 10,
+        "lr": 0.05
+    },
+    "fold": 3,
+    "setup_time": 1.639507532119751,
+    "training_time": 1.2445623874664307
+}

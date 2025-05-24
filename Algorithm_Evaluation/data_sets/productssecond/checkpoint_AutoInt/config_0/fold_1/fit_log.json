@@ -1,0 +1,10 @@
+{
+    "model_file": "./data_sets/productssecond/checkpoint_AutoInt/config_0/fold_1/AutoInt-May-24-2025_00-52-46.pth",
+    "data_set_name": "productssecond",
+    "algorithm_name": "AutoInt",
+    "algorithm_config_index": 0,
+    "algorithm_configuration": {},
+    "fold": 1,
+    "setup_time": 1.6226527690887451,
+    "training_time": 4.706553220748901
+}

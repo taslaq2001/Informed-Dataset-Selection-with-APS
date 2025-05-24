@@ -1,0 +1,10 @@
+{
+    "model_file": "./data_sets/productssecond/checkpoint_FiGNN/config_0/fold_3/FiGNN-May-24-2025_00-52-19.pth",
+    "data_set_name": "productssecond",
+    "algorithm_name": "FiGNN",
+    "algorithm_config_index": 0,
+    "algorithm_configuration": {},
+    "fold": 3,
+    "setup_time": 1.6073250770568848,
+    "training_time": 4.084157466888428
+}

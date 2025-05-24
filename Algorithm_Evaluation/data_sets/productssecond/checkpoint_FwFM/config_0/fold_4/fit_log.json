@@ -1,0 +1,10 @@
+{
+    "model_file": "./data_sets/productssecond/checkpoint_FwFM/config_0/fold_4/FwFM-May-24-2025_00-56-13.pth",
+    "data_set_name": "productssecond",
+    "algorithm_name": "FwFM",
+    "algorithm_config_index": 0,
+    "algorithm_configuration": {},
+    "fold": 4,
+    "setup_time": 1.6602952480316162,
+    "training_time": 1.3285980224609375
+}

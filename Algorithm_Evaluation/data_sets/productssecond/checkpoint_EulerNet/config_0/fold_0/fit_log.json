@@ -1,0 +1,10 @@
+{
+    "model_file": "./data_sets/productssecond/checkpoint_EulerNet/config_0/fold_0/EulerNet-May-24-2025_00-53-24.pth",
+    "data_set_name": "productssecond",
+    "algorithm_name": "EulerNet",
+    "algorithm_config_index": 0,
+    "algorithm_configuration": {},
+    "fold": 0,
+    "setup_time": 1.6573784351348877,
+    "training_time": 7.530141830444336
+}
