@@ -1,0 +1,10 @@
+{
+    "model_file": "./data_sets/hotelssecond/checkpoint_LR/config_0/fold_3/LR-May-23-2025_16-22-37.pth",
+    "data_set_name": "hotelssecond",
+    "algorithm_name": "LR",
+    "algorithm_config_index": 0,
+    "algorithm_configuration": {},
+    "fold": 3,
+    "setup_time": 1.6073722839355469,
+    "training_time": 0.6336250305175781
+}

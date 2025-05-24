@@ -1,0 +1,10 @@
+{
+    "model_file": "./data_sets/hotelssecond/checkpoint_DCN/config_0/fold_1/DCN-May-23-2025_16-23-58.pth",
+    "data_set_name": "hotelssecond",
+    "algorithm_name": "DCN",
+    "algorithm_config_index": 0,
+    "algorithm_configuration": {},
+    "fold": 1,
+    "setup_time": 1.5689830780029297,
+    "training_time": 5.017685890197754
+}

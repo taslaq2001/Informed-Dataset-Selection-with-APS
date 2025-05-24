@@ -1,0 +1,14 @@
+{
+    "model_file": "./data_sets/hotelssecond/checkpoint_FM/config_0/fold_2/FM-May-23-2025_16-29-09.pth",
+    "data_set_name": "hotelssecond",
+    "algorithm_name": "FM",
+    "algorithm_config_index": 0,
+    "algorithm_configuration": {
+        "task": "rating",
+        "epoch": 10,
+        "lr": 0.05
+    },
+    "fold": 2,
+    "setup_time": 1.5604910850524902,
+    "training_time": 0.8835036754608154
+}

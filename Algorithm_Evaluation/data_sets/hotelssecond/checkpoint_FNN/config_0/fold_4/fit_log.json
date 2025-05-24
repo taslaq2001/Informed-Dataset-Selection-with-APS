@@ -1,0 +1,10 @@
+{
+    "model_file": "./data_sets/hotelssecond/checkpoint_FNN/config_0/fold_4/FNN-May-23-2025_16-30-01.pth",
+    "data_set_name": "hotelssecond",
+    "algorithm_name": "FNN",
+    "algorithm_config_index": 0,
+    "algorithm_configuration": {},
+    "fold": 4,
+    "setup_time": 1.5753273963928223,
+    "training_time": 4.070119142532349
+}

@@ -1,0 +1,10 @@
+{
+    "model_file": "./data_sets/hotelssecond/checkpoint_FwFM/config_0/fold_1/FwFM-May-23-2025_16-30-16.pth",
+    "data_set_name": "hotelssecond",
+    "algorithm_name": "FwFM",
+    "algorithm_config_index": 0,
+    "algorithm_configuration": {},
+    "fold": 1,
+    "setup_time": 1.6160526275634766,
+    "training_time": 0.900629997253418
+}

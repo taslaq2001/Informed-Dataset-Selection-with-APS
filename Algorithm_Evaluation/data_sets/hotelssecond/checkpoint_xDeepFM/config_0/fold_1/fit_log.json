@@ -1,0 +1,10 @@
+{
+    "model_file": "./data_sets/hotelssecond/checkpoint_xDeepFM/config_0/fold_1/xDeepFM-May-23-2025_16-31-56.pth",
+    "data_set_name": "hotelssecond",
+    "algorithm_name": "xDeepFM",
+    "algorithm_config_index": 0,
+    "algorithm_configuration": {},
+    "fold": 1,
+    "setup_time": 1.5581355094909668,
+    "training_time": 9.544173240661621
+}

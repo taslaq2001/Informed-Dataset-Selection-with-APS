@@ -1,0 +1,10 @@
+{
+    "model_file": "./data_sets/hotelssecond/checkpoint_AutoInt/config_0/fold_4/AutoInt-May-23-2025_16-27-59.pth",
+    "data_set_name": "hotelssecond",
+    "algorithm_name": "AutoInt",
+    "algorithm_config_index": 0,
+    "algorithm_configuration": {},
+    "fold": 4,
+    "setup_time": 1.5940487384796143,
+    "training_time": 3.2721927165985107
+}

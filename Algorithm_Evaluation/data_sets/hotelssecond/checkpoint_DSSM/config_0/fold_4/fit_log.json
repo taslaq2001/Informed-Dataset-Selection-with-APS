@@ -1,0 +1,10 @@
+{
+    "model_file": "./data_sets/hotelssecond/checkpoint_DSSM/config_0/fold_4/DSSM-May-23-2025_16-26-05.pth",
+    "data_set_name": "hotelssecond",
+    "algorithm_name": "DSSM",
+    "algorithm_config_index": 0,
+    "algorithm_configuration": {},
+    "fold": 4,
+    "setup_time": 1.5809268951416016,
+    "training_time": 8.11253809928894
+}

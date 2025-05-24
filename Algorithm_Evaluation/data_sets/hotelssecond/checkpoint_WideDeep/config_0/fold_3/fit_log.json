@@ -1,0 +1,10 @@
+{
+    "model_file": "./data_sets/hotelssecond/checkpoint_WideDeep/config_0/fold_3/WideDeep-May-23-2025_16-31-30.pth",
+    "data_set_name": "hotelssecond",
+    "algorithm_name": "WideDeep",
+    "algorithm_config_index": 0,
+    "algorithm_configuration": {},
+    "fold": 3,
+    "setup_time": 1.5791027545928955,
+    "training_time": 1.3560547828674316
+}
