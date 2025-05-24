@@ -1,0 +1,28 @@
+{
+    "model_file": "./data_sets/animes/checkpoint_FM/config_0/fold_3/FM-May-23-2025_14-01-54.pth",
+    "data_set_name": "animes",
+    "algorithm_name": "FM",
+    "algorithm_config_index": 0,
+    "algorithm_configuration": {
+        "task": "rating",
+        "epoch": 10,
+        "lr": 0.05
+    },
+    "fold": 3,
+    "evaluation_time": 0.20575237274169922,
+    "NDCG@1": 0.0,
+    "HR@1": 0.0,
+    "Recall@1": 0.0,
+    "NDCG@3": 0.0005482228107742482,
+    "HR@3": 0.002336448598130841,
+    "Recall@3": 0.002336448598130841,
+    "NDCG@5": 0.0007374963842979311,
+    "HR@5": 0.004672897196261682,
+    "Recall@5": 0.004672897196261682,
+    "NDCG@10": 0.0013198366925396216,
+    "HR@10": 0.016355140186915886,
+    "Recall@10": 0.016355140186915886,
+    "NDCG@20": 0.0011830621769143154,
+    "HR@20": 0.02570093457943925,
+    "Recall@20": 0.02570093457943925
+}

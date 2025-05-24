@@ -1,0 +1,27 @@
+{
+    "model_file": "./data_sets/clothes/checkpoint_NFM/config_0/fold_1/NFM-May-23-2025_15-32-24.pth",
+    "data_set_name": "clothes",
+    "algorithm_name": "NFM",
+    "algorithm_config_index": 0,
+    "algorithm_configuration": {
+        "n_factors": 15,
+        "n_epochs": 10
+    },
+    "fold": 1,
+    "evaluation_time": 0.003004789352416992,
+    "NDCG@1": 0.0,
+    "HR@1": 0.0,
+    "Recall@1": 0.0,
+    "NDCG@3": 0.029329920376422278,
+    "HR@3": 0.125,
+    "Recall@3": 0.125,
+    "NDCG@5": 0.021197512829601008,
+    "HR@5": 0.125,
+    "Recall@5": 0.125,
+    "NDCG@10": 0.022037513325428644,
+    "HR@10": 0.25,
+    "Recall@10": 0.25,
+    "NDCG@20": 0.014222291541482527,
+    "HR@20": 0.25,
+    "Recall@20": 0.25
+}

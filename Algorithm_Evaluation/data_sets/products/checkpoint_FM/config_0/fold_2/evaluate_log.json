@@ -1,0 +1,28 @@
+{
+    "model_file": "./data_sets/products/checkpoint_FM/config_0/fold_2/FM-May-23-2025_17-39-07.pth",
+    "data_set_name": "products",
+    "algorithm_name": "FM",
+    "algorithm_config_index": 0,
+    "algorithm_configuration": {
+        "task": "rating",
+        "epoch": 10,
+        "lr": 0.05
+    },
+    "fold": 2,
+    "evaluation_time": 0.03551626205444336,
+    "NDCG@1": 0.0,
+    "HR@1": 0.0,
+    "Recall@1": 0.0,
+    "NDCG@3": 0.017164168751644362,
+    "HR@3": 0.057971014492753624,
+    "Recall@3": 0.057971014492753624,
+    "NDCG@5": 0.020226502048084672,
+    "HR@5": 0.11594202898550725,
+    "Recall@5": 0.11594202898550725,
+    "NDCG@10": 0.02545513123164372,
+    "HR@10": 0.2898550724637681,
+    "Recall@10": 0.2898550724637681,
+    "NDCG@20": 0.022614343699702787,
+    "HR@20": 0.463768115942029,
+    "Recall@20": 0.463768115942029
+}
