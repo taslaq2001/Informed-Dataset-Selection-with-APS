@@ -1,0 +1,10 @@
+{
+    "model_file": "./data_sets/uber/checkpoint_FiGNN/config_0/fold_2/FiGNN-May-24-2025_01-39-54.pth",
+    "data_set_name": "uber",
+    "algorithm_name": "FiGNN",
+    "algorithm_config_index": 0,
+    "algorithm_configuration": {},
+    "fold": 2,
+    "setup_time": 1.5902771949768066,
+    "training_time": 3.4819564819335938
+}

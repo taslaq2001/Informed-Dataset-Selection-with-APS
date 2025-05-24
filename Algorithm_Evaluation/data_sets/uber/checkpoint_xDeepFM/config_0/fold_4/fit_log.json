@@ -1,0 +1,10 @@
+{
+    "model_file": "./data_sets/uber/checkpoint_xDeepFM/config_0/fold_4/xDeepFM-May-24-2025_01-46-02.pth",
+    "data_set_name": "uber",
+    "algorithm_name": "xDeepFM",
+    "algorithm_config_index": 0,
+    "algorithm_configuration": {},
+    "fold": 4,
+    "setup_time": 1.6684072017669678,
+    "training_time": 11.518320322036743
+}

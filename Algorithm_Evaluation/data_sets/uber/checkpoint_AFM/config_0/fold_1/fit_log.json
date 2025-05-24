@@ -1,0 +1,10 @@
+{
+    "model_file": "./data_sets/uber/checkpoint_AFM/config_0/fold_1/AFM-May-24-2025_01-35-55.pth",
+    "data_set_name": "uber",
+    "algorithm_name": "AFM",
+    "algorithm_config_index": 0,
+    "algorithm_configuration": {},
+    "fold": 1,
+    "setup_time": 1.6195025444030762,
+    "training_time": 1.3697099685668945
+}

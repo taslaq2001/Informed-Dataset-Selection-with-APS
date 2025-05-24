@@ -1,0 +1,10 @@
+{
+    "model_file": "./data_sets/uber/checkpoint_EulerNet/config_0/fold_4/EulerNet-May-24-2025_01-41-49.pth",
+    "data_set_name": "uber",
+    "algorithm_name": "EulerNet",
+    "algorithm_config_index": 0,
+    "algorithm_configuration": {},
+    "fold": 4,
+    "setup_time": 1.6369109153747559,
+    "training_time": 6.384098052978516
+}
