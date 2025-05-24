@@ -1,0 +1,10 @@
+{
+    "model_file": "./data_sets/clothes/checkpoint_PNN/config_0/fold_0/PNN-May-23-2025_15-43-51.pth",
+    "data_set_name": "clothes",
+    "algorithm_name": "PNN",
+    "algorithm_config_index": 0,
+    "algorithm_configuration": {},
+    "fold": 0,
+    "setup_time": 1.7748758792877197,
+    "training_time": 3.9154436588287354
+}

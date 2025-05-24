@@ -1,0 +1,10 @@
+{
+    "model_file": "./data_sets/clothes/checkpoint_FFM/config_0/fold_1/FFM-May-23-2025_15-37-45.pth",
+    "data_set_name": "clothes",
+    "algorithm_name": "FFM",
+    "algorithm_config_index": 0,
+    "algorithm_configuration": {},
+    "fold": 1,
+    "setup_time": 1.7980756759643555,
+    "training_time": 2.4324707984924316
+}

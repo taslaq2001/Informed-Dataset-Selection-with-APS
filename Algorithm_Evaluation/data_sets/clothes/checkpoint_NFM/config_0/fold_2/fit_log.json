@@ -1,0 +1,13 @@
+{
+    "model_file": "./data_sets/clothes/checkpoint_NFM/config_0/fold_2/NFM-May-23-2025_15-32-33.pth",
+    "data_set_name": "clothes",
+    "algorithm_name": "NFM",
+    "algorithm_config_index": 0,
+    "algorithm_configuration": {
+        "n_factors": 15,
+        "n_epochs": 10
+    },
+    "fold": 2,
+    "setup_time": 1.789829969406128,
+    "training_time": 3.1751415729522705
+}

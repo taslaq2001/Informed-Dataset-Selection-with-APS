@@ -1,0 +1,10 @@
+{
+    "model_file": "./data_sets/clothes/checkpoint_FNN/config_0/fold_2/FNN-May-23-2025_15-42-35.pth",
+    "data_set_name": "clothes",
+    "algorithm_name": "FNN",
+    "algorithm_config_index": 0,
+    "algorithm_configuration": {},
+    "fold": 2,
+    "setup_time": 1.8000986576080322,
+    "training_time": 8.621320724487305
+}
