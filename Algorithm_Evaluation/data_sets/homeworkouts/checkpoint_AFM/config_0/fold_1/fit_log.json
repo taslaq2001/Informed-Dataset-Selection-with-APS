@@ -1,0 +1,10 @@
+{
+    "model_file": "./data_sets/homeworkouts/checkpoint_AFM/config_0/fold_1/AFM-May-23-2025_18-09-02.pth",
+    "data_set_name": "homeworkouts",
+    "algorithm_name": "AFM",
+    "algorithm_config_index": 0,
+    "algorithm_configuration": {},
+    "fold": 1,
+    "setup_time": 6.9512739181518555,
+    "training_time": 99.00683808326721
+}
