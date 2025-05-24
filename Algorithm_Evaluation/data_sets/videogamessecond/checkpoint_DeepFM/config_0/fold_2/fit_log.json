@@ -1,0 +1,10 @@
+{
+    "model_file": "./data_sets/videogamessecond/checkpoint_DeepFM/config_0/fold_2/DeepFM-May-24-2025_01-59-08.pth",
+    "data_set_name": "videogamessecond",
+    "algorithm_name": "DeepFM",
+    "algorithm_config_index": 0,
+    "algorithm_configuration": {},
+    "fold": 2,
+    "setup_time": 2.2742974758148193,
+    "training_time": 11.74540638923645
+}

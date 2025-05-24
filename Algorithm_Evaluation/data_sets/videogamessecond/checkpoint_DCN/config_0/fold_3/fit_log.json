@@ -1,0 +1,10 @@
+{
+    "model_file": "./data_sets/videogamessecond/checkpoint_DCN/config_0/fold_3/DCN-May-24-2025_01-57-42.pth",
+    "data_set_name": "videogamessecond",
+    "algorithm_name": "DCN",
+    "algorithm_config_index": 0,
+    "algorithm_configuration": {},
+    "fold": 3,
+    "setup_time": 2.2304723262786865,
+    "training_time": 20.55168128013611
+}

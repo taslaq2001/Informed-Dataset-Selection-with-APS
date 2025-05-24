@@ -1,0 +1,10 @@
+{
+    "model_file": "./data_sets/videogamessecond/checkpoint_AFM/config_0/fold_0/AFM-May-24-2025_01-55-29.pth",
+    "data_set_name": "videogamessecond",
+    "algorithm_name": "AFM",
+    "algorithm_config_index": 0,
+    "algorithm_configuration": {},
+    "fold": 0,
+    "setup_time": 2.198904275894165,
+    "training_time": 5.150816440582275
+}

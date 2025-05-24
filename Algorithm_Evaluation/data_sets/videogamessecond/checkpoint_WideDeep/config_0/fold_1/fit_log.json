@@ -1,0 +1,10 @@
+{
+    "model_file": "./data_sets/videogamessecond/checkpoint_WideDeep/config_0/fold_1/WideDeep-May-24-2025_02-14-37.pth",
+    "data_set_name": "videogamessecond",
+    "algorithm_name": "WideDeep",
+    "algorithm_config_index": 0,
+    "algorithm_configuration": {},
+    "fold": 1,
+    "setup_time": 2.262547492980957,
+    "training_time": 5.780522108078003
+}

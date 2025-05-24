@@ -1,0 +1,10 @@
+{
+    "model_file": "./data_sets/videogamessecond/checkpoint_EulerNet/config_0/fold_2/EulerNet-May-24-2025_02-08-18.pth",
+    "data_set_name": "videogamessecond",
+    "algorithm_name": "EulerNet",
+    "algorithm_config_index": 0,
+    "algorithm_configuration": {},
+    "fold": 2,
+    "setup_time": 2.2607221603393555,
+    "training_time": 24.18611741065979
+}

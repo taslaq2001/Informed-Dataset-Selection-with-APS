@@ -1,0 +1,10 @@
+{
+    "model_file": "./data_sets/videogamessecond/checkpoint_DSSM/config_0/fold_2/DSSM-May-24-2025_02-01-19.pth",
+    "data_set_name": "videogamessecond",
+    "algorithm_name": "DSSM",
+    "algorithm_config_index": 0,
+    "algorithm_configuration": {},
+    "fold": 2,
+    "setup_time": 2.33986234664917,
+    "training_time": 34.43283939361572
+}

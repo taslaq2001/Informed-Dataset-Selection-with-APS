@@ -1,0 +1,13 @@
+{
+    "model_file": "./data_sets/videogamessecond/checkpoint_NFM/config_0/fold_2/NFM-May-24-2025_01-54-53.pth",
+    "data_set_name": "videogamessecond",
+    "algorithm_name": "NFM",
+    "algorithm_config_index": 0,
+    "algorithm_configuration": {
+        "n_factors": 15,
+        "n_epochs": 10
+    },
+    "fold": 2,
+    "setup_time": 2.2700564861297607,
+    "training_time": 6.326160192489624
+}

@@ -1,0 +1,10 @@
+{
+    "model_file": "./data_sets/videogamessecond/checkpoint_FNN/config_0/fold_4/FNN-May-24-2025_02-12-07.pth",
+    "data_set_name": "videogamessecond",
+    "algorithm_name": "FNN",
+    "algorithm_config_index": 0,
+    "algorithm_configuration": {},
+    "fold": 4,
+    "setup_time": 2.236001968383789,
+    "training_time": 17.63986849784851
+}

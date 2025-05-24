@@ -1,0 +1,10 @@
+{
+    "model_file": "./data_sets/videogamessecond/checkpoint_PNN/config_0/fold_2/PNN-May-24-2025_02-13-46.pth",
+    "data_set_name": "videogamessecond",
+    "algorithm_name": "PNN",
+    "algorithm_config_index": 0,
+    "algorithm_configuration": {},
+    "fold": 2,
+    "setup_time": 2.2577426433563232,
+    "training_time": 7.729868173599243
+}

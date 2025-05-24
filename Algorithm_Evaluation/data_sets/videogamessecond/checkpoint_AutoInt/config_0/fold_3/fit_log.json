@@ -1,0 +1,10 @@
+{
+    "model_file": "./data_sets/videogamessecond/checkpoint_AutoInt/config_0/fold_3/AutoInt-May-24-2025_02-06-39.pth",
+    "data_set_name": "videogamessecond",
+    "algorithm_name": "AutoInt",
+    "algorithm_config_index": 0,
+    "algorithm_configuration": {},
+    "fold": 3,
+    "setup_time": 2.2827632427215576,
+    "training_time": 13.844067811965942
+}
