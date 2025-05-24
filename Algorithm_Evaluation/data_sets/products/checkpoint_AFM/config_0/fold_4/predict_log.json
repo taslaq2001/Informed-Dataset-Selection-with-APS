@@ -1,0 +1,12 @@
+{
+    "model_file": "./data_sets/products/checkpoint_AFM/config_0/fold_4/AFM-May-23-2025_17-19-35.pth",
+    "data_set_name": "products",
+    "algorithm_name": "AFM",
+    "algorithm_config_index": 0,
+    "algorithm_configuration": {},
+    "fold": 4,
+    "train_users": 42477,
+    "test_users": 14186,
+    "users_to_predict": 59,
+    "prediction_time": 0.042868614196777344
+}

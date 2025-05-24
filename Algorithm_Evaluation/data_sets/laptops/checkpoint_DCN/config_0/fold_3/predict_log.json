@@ -1,0 +1,12 @@
+{
+    "model_file": "./data_sets/laptops/checkpoint_DCN/config_0/fold_3/DCN-May-23-2025_16-43-17.pth",
+    "data_set_name": "laptops",
+    "algorithm_name": "DCN",
+    "algorithm_config_index": 0,
+    "algorithm_configuration": {},
+    "fold": 3,
+    "train_users": 14452,
+    "test_users": 4821,
+    "users_to_predict": 4,
+    "prediction_time": 0.017242431640625
+}

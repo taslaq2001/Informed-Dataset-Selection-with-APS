@@ -1,0 +1,12 @@
+{
+    "model_file": "./data_sets/airlines/checkpoint_xDeepFM/config_0/fold_1/xDeepFM-May-23-2025_12-53-12.pth",
+    "data_set_name": "airlines",
+    "algorithm_name": "xDeepFM",
+    "algorithm_config_index": 0,
+    "algorithm_configuration": {},
+    "fold": 1,
+    "train_users": 13390,
+    "test_users": 4466,
+    "users_to_predict": 8,
+    "prediction_time": 0.04407024383544922
+}

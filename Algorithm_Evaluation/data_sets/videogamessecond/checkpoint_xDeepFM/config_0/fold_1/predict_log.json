@@ -1,0 +1,12 @@
+{
+    "model_file": "./data_sets/videogamessecond/checkpoint_xDeepFM/config_0/fold_1/xDeepFM-May-24-2025_02-16-12.pth",
+    "data_set_name": "videogamessecond",
+    "algorithm_name": "xDeepFM",
+    "algorithm_config_index": 0,
+    "algorithm_configuration": {},
+    "fold": 1,
+    "train_users": 28627,
+    "test_users": 9549,
+    "users_to_predict": 28,
+    "prediction_time": 0.04414725303649902
+}

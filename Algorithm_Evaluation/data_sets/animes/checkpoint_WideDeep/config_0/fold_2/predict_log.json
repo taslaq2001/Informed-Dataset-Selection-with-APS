@@ -1,0 +1,12 @@
+{
+    "model_file": "./data_sets/animes/checkpoint_WideDeep/config_0/fold_2/WideDeep-May-23-2025_14-19-19.pth",
+    "data_set_name": "animes",
+    "algorithm_name": "WideDeep",
+    "algorithm_config_index": 0,
+    "algorithm_configuration": {},
+    "fold": 2,
+    "train_users": 114623,
+    "test_users": 38361,
+    "users_to_predict": 411,
+    "prediction_time": 0.6081504821777344
+}

@@ -1,2 +1,0 @@
-data_set_name,algorithm_name,fold_name,model_file,algorithm_config_index,algorithm_configuration,fold,setup_time,training_time
-AdidasVsNike,ADMMSLIM,0,./data_sets/AdidasVsNike/checkpoint_ADMMSLIM/config_0/fold_0/ADMMSLIM-May-13-2025_18-43-02.pth,0,{},0,46.495206117630005,0.357663631439209

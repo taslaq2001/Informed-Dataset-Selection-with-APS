@@ -1,0 +1,16 @@
+{
+    "model_file": "./data_sets/products/checkpoint_FM/config_0/fold_3/FM-May-23-2025_17-39-20.pth",
+    "data_set_name": "products",
+    "algorithm_name": "FM",
+    "algorithm_config_index": 0,
+    "algorithm_configuration": {
+        "task": "rating",
+        "epoch": 10,
+        "lr": 0.05
+    },
+    "fold": 3,
+    "train_users": 42499,
+    "test_users": 14179,
+    "users_to_predict": 74,
+    "prediction_time": 0.04716300964355469
+}

@@ -1,0 +1,12 @@
+{
+    "model_file": "./data_sets/coffee/checkpoint_DSSM/config_0/fold_4/DSSM-May-23-2025_15-50-06.pth",
+    "data_set_name": "coffee",
+    "algorithm_name": "DSSM",
+    "algorithm_config_index": 0,
+    "algorithm_configuration": {},
+    "fold": 4,
+    "train_users": 747,
+    "test_users": 249,
+    "users_to_predict": 0,
+    "prediction_time": 0.0
+}

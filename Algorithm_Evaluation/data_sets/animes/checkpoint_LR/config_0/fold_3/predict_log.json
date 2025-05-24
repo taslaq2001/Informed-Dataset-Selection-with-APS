@@ -1,0 +1,12 @@
+{
+    "model_file": "./data_sets/animes/checkpoint_LR/config_0/fold_3/LR-May-23-2025_12-55-46.pth",
+    "data_set_name": "animes",
+    "algorithm_name": "LR",
+    "algorithm_config_index": 0,
+    "algorithm_configuration": {},
+    "fold": 3,
+    "train_users": 114600,
+    "test_users": 38354,
+    "users_to_predict": 428,
+    "prediction_time": 0.3293919563293457
+}

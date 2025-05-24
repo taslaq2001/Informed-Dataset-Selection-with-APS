@@ -1,0 +1,12 @@
+{
+    "model_file": "./data_sets/clothes/checkpoint_FiGNN/config_0/fold_4/FiGNN-May-23-2025_15-38-58.pth",
+    "data_set_name": "clothes",
+    "algorithm_name": "FiGNN",
+    "algorithm_config_index": 0,
+    "algorithm_configuration": {},
+    "fold": 4,
+    "train_users": 14083,
+    "test_users": 4694,
+    "users_to_predict": 7,
+    "prediction_time": 0.021786212921142578
+}

@@ -1,0 +1,12 @@
+{
+    "model_file": "./data_sets/starbucks/checkpoint_AFM/config_0/fold_1/AFM-May-24-2025_01-28-40.pth",
+    "data_set_name": "starbucks",
+    "algorithm_name": "AFM",
+    "algorithm_config_index": 0,
+    "algorithm_configuration": {},
+    "fold": 1,
+    "train_users": 339,
+    "test_users": 133,
+    "users_to_predict": 46,
+    "prediction_time": 0.028898954391479492
+}

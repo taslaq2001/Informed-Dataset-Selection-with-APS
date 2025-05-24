@@ -1,0 +1,12 @@
+{
+    "model_file": "./data_sets/sales/checkpoint_WideDeep/config_0/fold_4/WideDeep-May-24-2025_01-15-27.pth",
+    "data_set_name": "sales",
+    "algorithm_name": "WideDeep",
+    "algorithm_config_index": 0,
+    "algorithm_configuration": {},
+    "fold": 4,
+    "train_users": 4437,
+    "test_users": 1478,
+    "users_to_predict": 0,
+    "prediction_time": 0.0
+}

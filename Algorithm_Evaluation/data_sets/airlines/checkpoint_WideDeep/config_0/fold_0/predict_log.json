@@ -1,0 +1,12 @@
+{
+    "model_file": "./data_sets/airlines/checkpoint_WideDeep/config_0/fold_0/WideDeep-May-23-2025_12-52-08.pth",
+    "data_set_name": "airlines",
+    "algorithm_name": "WideDeep",
+    "algorithm_config_index": 0,
+    "algorithm_configuration": {},
+    "fold": 0,
+    "train_users": 13390,
+    "test_users": 4465,
+    "users_to_predict": 6,
+    "prediction_time": 0.007000446319580078
+}

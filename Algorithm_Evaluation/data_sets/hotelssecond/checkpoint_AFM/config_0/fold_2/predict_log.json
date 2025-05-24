@@ -1,0 +1,12 @@
+{
+    "model_file": "./data_sets/hotelssecond/checkpoint_AFM/config_0/fold_2/AFM-May-23-2025_16-23-31.pth",
+    "data_set_name": "hotelssecond",
+    "algorithm_name": "AFM",
+    "algorithm_config_index": 0,
+    "algorithm_configuration": {},
+    "fold": 2,
+    "train_users": 6000,
+    "test_users": 2000,
+    "users_to_predict": 1,
+    "prediction_time": 0.0
+}

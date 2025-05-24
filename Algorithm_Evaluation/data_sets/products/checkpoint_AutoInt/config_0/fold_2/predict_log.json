@@ -1,0 +1,12 @@
+{
+    "model_file": "./data_sets/products/checkpoint_AutoInt/config_0/fold_2/AutoInt-May-23-2025_17-33-50.pth",
+    "data_set_name": "products",
+    "algorithm_name": "AutoInt",
+    "algorithm_config_index": 0,
+    "algorithm_configuration": {},
+    "fold": 2,
+    "train_users": 42483,
+    "test_users": 14185,
+    "users_to_predict": 69,
+    "prediction_time": 0.13411307334899902
+}

@@ -1,0 +1,12 @@
+{
+    "model_file": "./data_sets/animes/checkpoint_FiGNN/config_0/fold_0/FiGNN-May-23-2025_13-35-30.pth",
+    "data_set_name": "animes",
+    "algorithm_name": "FiGNN",
+    "algorithm_config_index": 0,
+    "algorithm_configuration": {},
+    "fold": 0,
+    "train_users": 114621,
+    "test_users": 38351,
+    "users_to_predict": 456,
+    "prediction_time": 4.3292577266693115
+}

@@ -1,0 +1,12 @@
+{
+    "model_file": "./data_sets/videogamessecond/checkpoint_EulerNet/config_0/fold_1/EulerNet-May-24-2025_02-07-48.pth",
+    "data_set_name": "videogamessecond",
+    "algorithm_name": "EulerNet",
+    "algorithm_config_index": 0,
+    "algorithm_configuration": {},
+    "fold": 1,
+    "train_users": 28627,
+    "test_users": 9549,
+    "users_to_predict": 28,
+    "prediction_time": 0.027554750442504883
+}

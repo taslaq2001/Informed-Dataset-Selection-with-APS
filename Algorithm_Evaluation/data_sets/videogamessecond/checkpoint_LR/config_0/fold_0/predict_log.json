@@ -1,0 +1,12 @@
+{
+    "model_file": "./data_sets/videogamessecond/checkpoint_LR/config_0/fold_0/LR-May-24-2025_01-53-50.pth",
+    "data_set_name": "videogamessecond",
+    "algorithm_name": "LR",
+    "algorithm_config_index": 0,
+    "algorithm_configuration": {},
+    "fold": 0,
+    "train_users": 28624,
+    "test_users": 9551,
+    "users_to_predict": 20,
+    "prediction_time": 0.00843358039855957
+}

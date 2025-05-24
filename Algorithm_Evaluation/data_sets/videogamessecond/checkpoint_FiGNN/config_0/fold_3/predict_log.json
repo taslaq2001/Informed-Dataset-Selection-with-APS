@@ -1,0 +1,12 @@
+{
+    "model_file": "./data_sets/videogamessecond/checkpoint_FiGNN/config_0/fold_3/FiGNN-May-24-2025_02-05-07.pth",
+    "data_set_name": "videogamessecond",
+    "algorithm_name": "FiGNN",
+    "algorithm_config_index": 0,
+    "algorithm_configuration": {},
+    "fold": 3,
+    "train_users": 28619,
+    "test_users": 9551,
+    "users_to_predict": 27,
+    "prediction_time": 0.031519412994384766
+}

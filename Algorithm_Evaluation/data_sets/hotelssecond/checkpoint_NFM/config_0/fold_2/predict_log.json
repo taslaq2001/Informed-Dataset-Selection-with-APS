@@ -1,0 +1,15 @@
+{
+    "model_file": "./data_sets/hotelssecond/checkpoint_NFM/config_0/fold_2/NFM-May-23-2025_16-23-01.pth",
+    "data_set_name": "hotelssecond",
+    "algorithm_name": "NFM",
+    "algorithm_config_index": 0,
+    "algorithm_configuration": {
+        "n_factors": 15,
+        "n_epochs": 10
+    },
+    "fold": 2,
+    "train_users": 6000,
+    "test_users": 2000,
+    "users_to_predict": 1,
+    "prediction_time": 0.003013134002685547
+}

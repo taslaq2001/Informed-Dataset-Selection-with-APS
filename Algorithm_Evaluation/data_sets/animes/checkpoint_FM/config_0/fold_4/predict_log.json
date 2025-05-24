@@ -1,0 +1,16 @@
+{
+    "model_file": "./data_sets/animes/checkpoint_FM/config_0/fold_4/FM-May-23-2025_14-02-32.pth",
+    "data_set_name": "animes",
+    "algorithm_name": "FM",
+    "algorithm_config_index": 0,
+    "algorithm_configuration": {
+        "task": "rating",
+        "epoch": 10,
+        "lr": 0.05
+    },
+    "fold": 4,
+    "train_users": 114650,
+    "test_users": 38335,
+    "users_to_predict": 460,
+    "prediction_time": 0.678041934967041
+}

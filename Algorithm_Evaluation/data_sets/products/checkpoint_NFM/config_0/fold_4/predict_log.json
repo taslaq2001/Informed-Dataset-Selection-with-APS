@@ -1,0 +1,15 @@
+{
+    "model_file": "./data_sets/products/checkpoint_NFM/config_0/fold_4/NFM-May-23-2025_17-18-22.pth",
+    "data_set_name": "products",
+    "algorithm_name": "NFM",
+    "algorithm_config_index": 0,
+    "algorithm_configuration": {
+        "n_factors": 15,
+        "n_epochs": 10
+    },
+    "fold": 4,
+    "train_users": 42477,
+    "test_users": 14186,
+    "users_to_predict": 59,
+    "prediction_time": 0.05909013748168945
+}

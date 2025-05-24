@@ -1,0 +1,12 @@
+{
+    "model_file": "./data_sets/ramen/checkpoint_FNN/config_0/fold_1/FNN-May-24-2025_01-04-32.pth",
+    "data_set_name": "ramen",
+    "algorithm_name": "FNN",
+    "algorithm_config_index": 0,
+    "algorithm_configuration": {},
+    "fold": 1,
+    "train_users": 1545,
+    "test_users": 516,
+    "users_to_predict": 0,
+    "prediction_time": 0.0
+}

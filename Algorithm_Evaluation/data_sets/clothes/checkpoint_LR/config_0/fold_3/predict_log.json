@@ -1,0 +1,12 @@
+{
+    "model_file": "./data_sets/clothes/checkpoint_LR/config_0/fold_3/LR-May-23-2025_15-32-04.pth",
+    "data_set_name": "clothes",
+    "algorithm_name": "LR",
+    "algorithm_config_index": 0,
+    "algorithm_configuration": {},
+    "fold": 3,
+    "train_users": 14081,
+    "test_users": 4695,
+    "users_to_predict": 8,
+    "prediction_time": 0.005166530609130859
+}

@@ -1,0 +1,12 @@
+{
+    "model_file": "./data_sets/homeworkouts/checkpoint_PNN/config_0/fold_3/PNN-May-23-2025_21-43-59.pth",
+    "data_set_name": "homeworkouts",
+    "algorithm_name": "PNN",
+    "algorithm_config_index": 0,
+    "algorithm_configuration": {},
+    "fold": 3,
+    "train_users": 213570,
+    "test_users": 71190,
+    "users_to_predict": 0,
+    "prediction_time": 0.0
+}

@@ -1,0 +1,15 @@
+{
+    "model_file": "./data_sets/videogamessecond/checkpoint_NFM/config_0/fold_0/NFM-May-24-2025_01-54-29.pth",
+    "data_set_name": "videogamessecond",
+    "algorithm_name": "NFM",
+    "algorithm_config_index": 0,
+    "algorithm_configuration": {
+        "n_factors": 15,
+        "n_epochs": 10
+    },
+    "fold": 0,
+    "train_users": 28624,
+    "test_users": 9551,
+    "users_to_predict": 20,
+    "prediction_time": 0.010009765625
+}

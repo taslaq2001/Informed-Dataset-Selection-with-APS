@@ -1,0 +1,12 @@
+{
+    "model_file": "./data_sets/animes/checkpoint_EulerNet/config_0/fold_0/EulerNet-May-23-2025_13-46-58.pth",
+    "data_set_name": "animes",
+    "algorithm_name": "EulerNet",
+    "algorithm_config_index": 0,
+    "algorithm_configuration": {},
+    "fold": 0,
+    "train_users": 114621,
+    "test_users": 38351,
+    "users_to_predict": 456,
+    "prediction_time": 14.510383129119873
+}

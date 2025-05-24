@@ -1,2 +1,0 @@
-data_set_name,algorithm_name,fold_name,model_file,algorithm_config_index,algorithm_configuration,fold,evaluation_time,NDCG@1,HR@1,Recall@1,NDCG@3,HR@3,Recall@3,NDCG@5,HR@5,Recall@5,NDCG@10,HR@10,Recall@10,NDCG@20,HR@20,Recall@20
-AdidasVsNike,ADMMSLIM,0,./data_sets/AdidasVsNike/checkpoint_ADMMSLIM/config_0/fold_0/ADMMSLIM-May-13-2025_18-43-02.pth,0,{},0,0.11717939376831055,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0002400784460337801,0.0037735849056603774,0.0037735849056603774,0.0002769700774913542,0.007547169811320755,0.007547169811320755

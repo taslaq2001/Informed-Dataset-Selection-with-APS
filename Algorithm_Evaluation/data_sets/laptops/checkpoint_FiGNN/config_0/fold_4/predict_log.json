@@ -1,0 +1,12 @@
+{
+    "model_file": "./data_sets/laptops/checkpoint_FiGNN/config_0/fold_4/FiGNN-May-23-2025_16-48-03.pth",
+    "data_set_name": "laptops",
+    "algorithm_name": "FiGNN",
+    "algorithm_config_index": 0,
+    "algorithm_configuration": {},
+    "fold": 4,
+    "train_users": 14452,
+    "test_users": 4820,
+    "users_to_predict": 5,
+    "prediction_time": 0.0089569091796875
+}

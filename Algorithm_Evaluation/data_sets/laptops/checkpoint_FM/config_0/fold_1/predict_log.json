@@ -1,0 +1,16 @@
+{
+    "model_file": "./data_sets/laptops/checkpoint_FM/config_0/fold_1/FM-May-23-2025_16-50-48.pth",
+    "data_set_name": "laptops",
+    "algorithm_name": "FM",
+    "algorithm_config_index": 0,
+    "algorithm_configuration": {
+        "task": "rating",
+        "epoch": 10,
+        "lr": 0.05
+    },
+    "fold": 1,
+    "train_users": 14457,
+    "test_users": 4820,
+    "users_to_predict": 11,
+    "prediction_time": 0.007999897003173828
+}

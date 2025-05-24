@@ -1,0 +1,12 @@
+{
+    "model_file": "./data_sets/booksthird/checkpoint_WideDeep/config_0/fold_2/WideDeep-May-23-2025_15-31-00.pth",
+    "data_set_name": "booksthird",
+    "algorithm_name": "WideDeep",
+    "algorithm_config_index": 0,
+    "algorithm_configuration": {},
+    "fold": 2,
+    "train_users": 552,
+    "test_users": 184,
+    "users_to_predict": 0,
+    "prediction_time": 0.0
+}

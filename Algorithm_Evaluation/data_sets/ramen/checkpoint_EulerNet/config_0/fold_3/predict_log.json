@@ -1,0 +1,12 @@
+{
+    "model_file": "./data_sets/ramen/checkpoint_EulerNet/config_0/fold_3/EulerNet-May-24-2025_01-03-48.pth",
+    "data_set_name": "ramen",
+    "algorithm_name": "EulerNet",
+    "algorithm_config_index": 0,
+    "algorithm_configuration": {},
+    "fold": 3,
+    "train_users": 1546,
+    "test_users": 515,
+    "users_to_predict": 0,
+    "prediction_time": 0.0
+}

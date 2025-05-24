@@ -1,0 +1,12 @@
+{
+    "model_file": "./data_sets/airlines/checkpoint_EulerNet/config_0/fold_2/EulerNet-May-23-2025_12-48-20.pth",
+    "data_set_name": "airlines",
+    "algorithm_name": "EulerNet",
+    "algorithm_config_index": 0,
+    "algorithm_configuration": {},
+    "fold": 2,
+    "train_users": 13385,
+    "test_users": 4465,
+    "users_to_predict": 5,
+    "prediction_time": 0.011519908905029297
+}

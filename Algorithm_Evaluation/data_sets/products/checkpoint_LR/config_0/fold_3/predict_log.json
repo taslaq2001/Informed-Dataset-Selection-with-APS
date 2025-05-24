@@ -1,0 +1,12 @@
+{
+    "model_file": "./data_sets/products/checkpoint_LR/config_0/fold_3/LR-May-23-2025_17-17-01.pth",
+    "data_set_name": "products",
+    "algorithm_name": "LR",
+    "algorithm_config_index": 0,
+    "algorithm_configuration": {},
+    "fold": 3,
+    "train_users": 42499,
+    "test_users": 14179,
+    "users_to_predict": 74,
+    "prediction_time": 0.03139996528625488
+}

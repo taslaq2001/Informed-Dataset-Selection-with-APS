@@ -1,0 +1,12 @@
+{
+    "model_file": "./data_sets/bank/checkpoint_LR/config_0/fold_0/LR-May-23-2025_14-38-11.pth",
+    "data_set_name": "bank",
+    "algorithm_name": "LR",
+    "algorithm_config_index": 0,
+    "algorithm_configuration": {},
+    "fold": 0,
+    "train_users": 600,
+    "test_users": 200,
+    "users_to_predict": 0,
+    "prediction_time": 0.0
+}

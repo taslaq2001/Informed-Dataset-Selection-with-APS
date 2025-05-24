@@ -1,0 +1,12 @@
+{
+    "model_file": "./data_sets/clothes/checkpoint_DeepFM/config_0/fold_1/DeepFM-May-23-2025_15-35-01.pth",
+    "data_set_name": "clothes",
+    "algorithm_name": "DeepFM",
+    "algorithm_config_index": 0,
+    "algorithm_configuration": {},
+    "fold": 1,
+    "train_users": 14081,
+    "test_users": 4697,
+    "users_to_predict": 8,
+    "prediction_time": 0.01649022102355957
+}

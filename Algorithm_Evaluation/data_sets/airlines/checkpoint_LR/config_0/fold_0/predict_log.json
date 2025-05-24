@@ -1,0 +1,12 @@
+{
+    "model_file": "./data_sets/airlines/checkpoint_LR/config_0/fold_0/LR-May-23-2025_12-39-19.pth",
+    "data_set_name": "airlines",
+    "algorithm_name": "LR",
+    "algorithm_config_index": 0,
+    "algorithm_configuration": {},
+    "fold": 0,
+    "train_users": 13390,
+    "test_users": 4465,
+    "users_to_predict": 6,
+    "prediction_time": 0.03133964538574219
+}

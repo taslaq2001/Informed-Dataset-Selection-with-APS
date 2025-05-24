@@ -1,7 +1,7 @@
 import os
 #from hpc_data_set_names import data_set_names
 from hpc_algorithm_names import algorithm_names
-data_set_names = ["hashedwabreviews","rottentomatoesmovies","ryanairreviews","winesspa"]
+data_set_names =['airlines','animes','bank','booksthird','clothes','coffee','homeworkouts','hotelssecond','iphone','laptops','mcdonalds','products','productssecond','ramen','sales','sephora','starbucks','uber','videogames','videogamessecond']
 folds = [0, 1, 2, 3, 4]
 
 for data_set_name in data_set_names:

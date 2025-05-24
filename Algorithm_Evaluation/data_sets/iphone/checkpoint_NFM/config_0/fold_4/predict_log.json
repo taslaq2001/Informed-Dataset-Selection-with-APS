@@ -1,0 +1,15 @@
+{
+    "model_file": "./data_sets/iphone/checkpoint_NFM/config_0/fold_4/NFM-May-23-2025_16-33-39.pth",
+    "data_set_name": "iphone",
+    "algorithm_name": "NFM",
+    "algorithm_config_index": 0,
+    "algorithm_configuration": {
+        "n_factors": 15,
+        "n_epochs": 10
+    },
+    "fold": 4,
+    "train_users": 1837,
+    "test_users": 612,
+    "users_to_predict": 0,
+    "prediction_time": 0.0
+}

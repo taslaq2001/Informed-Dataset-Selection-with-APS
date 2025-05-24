@@ -1,0 +1,12 @@
+{
+    "model_file": "./data_sets/airlines/checkpoint_PNN/config_0/fold_4/PNN-May-23-2025_12-51-59.pth",
+    "data_set_name": "airlines",
+    "algorithm_name": "PNN",
+    "algorithm_config_index": 0,
+    "algorithm_configuration": {},
+    "fold": 4,
+    "train_users": 13392,
+    "test_users": 4465,
+    "users_to_predict": 9,
+    "prediction_time": 0.011059284210205078
+}

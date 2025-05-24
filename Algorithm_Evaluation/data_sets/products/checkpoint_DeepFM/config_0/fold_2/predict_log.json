@@ -1,0 +1,12 @@
+{
+    "model_file": "./data_sets/products/checkpoint_DeepFM/config_0/fold_2/DeepFM-May-23-2025_17-23-42.pth",
+    "data_set_name": "products",
+    "algorithm_name": "DeepFM",
+    "algorithm_config_index": 0,
+    "algorithm_configuration": {},
+    "fold": 2,
+    "train_users": 42483,
+    "test_users": 14185,
+    "users_to_predict": 69,
+    "prediction_time": 0.09864616394042969
+}

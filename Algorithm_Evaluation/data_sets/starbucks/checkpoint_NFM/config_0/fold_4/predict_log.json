@@ -1,0 +1,15 @@
+{
+    "model_file": "./data_sets/starbucks/checkpoint_NFM/config_0/fold_4/NFM-May-24-2025_01-28-30.pth",
+    "data_set_name": "starbucks",
+    "algorithm_name": "NFM",
+    "algorithm_config_index": 0,
+    "algorithm_configuration": {
+        "n_factors": 15,
+        "n_epochs": 10
+    },
+    "fold": 4,
+    "train_users": 347,
+    "test_users": 128,
+    "users_to_predict": 39,
+    "prediction_time": 0.04738306999206543
+}
