@@ -1,0 +1,10 @@
+{
+    "model_file": "./data_sets/airlines/checkpoint_WideDeep/config_0/fold_2/WideDeep-May-23-2025_12-52-23.pth",
+    "data_set_name": "airlines",
+    "algorithm_name": "WideDeep",
+    "algorithm_config_index": 0,
+    "algorithm_configuration": {},
+    "fold": 2,
+    "setup_time": 1.7858662605285645,
+    "training_time": 2.828282594680786
+}

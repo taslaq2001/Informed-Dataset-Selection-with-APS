@@ -1,0 +1,10 @@
+{
+    "model_file": "./data_sets/airlines/checkpoint_FNN/config_0/fold_0/FNN-May-23-2025_12-49-43.pth",
+    "data_set_name": "airlines",
+    "algorithm_name": "FNN",
+    "algorithm_config_index": 0,
+    "algorithm_configuration": {},
+    "fold": 0,
+    "setup_time": 1.7852118015289307,
+    "training_time": 8.09868574142456
+}

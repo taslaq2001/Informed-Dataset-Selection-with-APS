@@ -1,0 +1,10 @@
+{
+    "model_file": "./data_sets/airlines/checkpoint_AutoInt/config_0/fold_4/AutoInt-May-23-2025_12-47-34.pth",
+    "data_set_name": "airlines",
+    "algorithm_name": "AutoInt",
+    "algorithm_config_index": 0,
+    "algorithm_configuration": {},
+    "fold": 4,
+    "setup_time": 1.7798826694488525,
+    "training_time": 6.975381135940552
+}

@@ -1,0 +1,10 @@
+{
+    "model_file": "./data_sets/airlines/checkpoint_FwFM/config_0/fold_2/FwFM-May-23-2025_12-51-03.pth",
+    "data_set_name": "airlines",
+    "algorithm_name": "FwFM",
+    "algorithm_config_index": 0,
+    "algorithm_configuration": {},
+    "fold": 2,
+    "setup_time": 1.7810769081115723,
+    "training_time": 1.9403879642486572
+}

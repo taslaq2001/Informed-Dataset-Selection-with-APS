@@ -1,0 +1,10 @@
+{
+    "model_file": "./data_sets/airlines/checkpoint_FiGNN/config_0/fold_4/FiGNN-May-23-2025_12-46-37.pth",
+    "data_set_name": "airlines",
+    "algorithm_name": "FiGNN",
+    "algorithm_config_index": 0,
+    "algorithm_configuration": {},
+    "fold": 4,
+    "setup_time": 1.8250224590301514,
+    "training_time": 5.539315223693848
+}
