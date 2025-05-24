@@ -1,0 +1,10 @@
+{
+    "model_file": "./data_sets/mcdonalds/checkpoint_PNN/config_0/fold_4/PNN-May-23-2025_17-12-36.pth",
+    "data_set_name": "mcdonalds",
+    "algorithm_name": "PNN",
+    "algorithm_config_index": 0,
+    "algorithm_configuration": {},
+    "fold": 4,
+    "setup_time": 1.9586141109466553,
+    "training_time": 5.555339097976685
+}

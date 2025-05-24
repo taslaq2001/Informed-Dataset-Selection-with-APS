@@ -1,0 +1,10 @@
+{
+    "model_file": "./data_sets/mcdonalds/checkpoint_DCN/config_0/fold_1/DCN-May-23-2025_16-59-12.pth",
+    "data_set_name": "mcdonalds",
+    "algorithm_name": "DCN",
+    "algorithm_config_index": 0,
+    "algorithm_configuration": {},
+    "fold": 1,
+    "setup_time": 1.9799296855926514,
+    "training_time": 14.813797950744629
+}

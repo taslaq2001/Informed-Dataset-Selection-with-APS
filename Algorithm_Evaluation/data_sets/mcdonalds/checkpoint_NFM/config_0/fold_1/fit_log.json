@@ -1,0 +1,13 @@
+{
+    "model_file": "./data_sets/mcdonalds/checkpoint_NFM/config_0/fold_1/NFM-May-23-2025_16-57-30.pth",
+    "data_set_name": "mcdonalds",
+    "algorithm_name": "NFM",
+    "algorithm_config_index": 0,
+    "algorithm_configuration": {
+        "n_factors": 15,
+        "n_epochs": 10
+    },
+    "fold": 1,
+    "setup_time": 1.9997732639312744,
+    "training_time": 4.54757285118103
+}

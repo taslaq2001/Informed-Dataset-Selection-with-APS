@@ -1,0 +1,10 @@
+{
+    "model_file": "./data_sets/mcdonalds/checkpoint_LR/config_0/fold_4/LR-May-23-2025_16-57-13.pth",
+    "data_set_name": "mcdonalds",
+    "algorithm_name": "LR",
+    "algorithm_config_index": 0,
+    "algorithm_configuration": {},
+    "fold": 4,
+    "setup_time": 2.0241174697875977,
+    "training_time": 1.7317554950714111
+}

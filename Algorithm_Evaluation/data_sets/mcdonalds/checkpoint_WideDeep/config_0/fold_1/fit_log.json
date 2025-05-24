@@ -1,0 +1,10 @@
+{
+    "model_file": "./data_sets/mcdonalds/checkpoint_WideDeep/config_0/fold_1/WideDeep-May-23-2025_17-12-56.pth",
+    "data_set_name": "mcdonalds",
+    "algorithm_name": "WideDeep",
+    "algorithm_config_index": 0,
+    "algorithm_configuration": {},
+    "fold": 1,
+    "setup_time": 1.993649959564209,
+    "training_time": 3.914499521255493
+}

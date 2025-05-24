@@ -1,0 +1,10 @@
+{
+    "model_file": "./data_sets/mcdonalds/checkpoint_FFM/config_0/fold_2/FFM-May-23-2025_17-04-24.pth",
+    "data_set_name": "mcdonalds",
+    "algorithm_name": "FFM",
+    "algorithm_config_index": 0,
+    "algorithm_configuration": {},
+    "fold": 2,
+    "setup_time": 2.048407793045044,
+    "training_time": 3.8224880695343018
+}

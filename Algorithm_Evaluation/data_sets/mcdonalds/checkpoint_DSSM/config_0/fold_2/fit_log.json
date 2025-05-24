@@ -1,0 +1,10 @@
+{
+    "model_file": "./data_sets/mcdonalds/checkpoint_DSSM/config_0/fold_2/DSSM-May-23-2025_17-02-37.pth",
+    "data_set_name": "mcdonalds",
+    "algorithm_name": "DSSM",
+    "algorithm_config_index": 0,
+    "algorithm_configuration": {},
+    "fold": 2,
+    "setup_time": 1.9604778289794922,
+    "training_time": 24.728729486465454
+}

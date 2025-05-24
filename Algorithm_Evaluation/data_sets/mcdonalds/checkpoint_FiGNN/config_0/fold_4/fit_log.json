@@ -1,0 +1,10 @@
+{
+    "model_file": "./data_sets/mcdonalds/checkpoint_FiGNN/config_0/fold_4/FiGNN-May-23-2025_17-05-45.pth",
+    "data_set_name": "mcdonalds",
+    "algorithm_name": "FiGNN",
+    "algorithm_config_index": 0,
+    "algorithm_configuration": {},
+    "fold": 4,
+    "setup_time": 2.02980637550354,
+    "training_time": 7.931774854660034
+}
