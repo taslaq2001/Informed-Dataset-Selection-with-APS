@@ -1,0 +1,10 @@
+{
+    "model_file": "./data_sets/homeworkouts/checkpoint_FiGNN/config_0/fold_4/FiGNN-May-23-2025_20-02-45.pth",
+    "data_set_name": "homeworkouts",
+    "algorithm_name": "FiGNN",
+    "algorithm_config_index": 0,
+    "algorithm_configuration": {},
+    "fold": 4,
+    "setup_time": 7.515079021453857,
+    "training_time": 176.71290946006775
+}

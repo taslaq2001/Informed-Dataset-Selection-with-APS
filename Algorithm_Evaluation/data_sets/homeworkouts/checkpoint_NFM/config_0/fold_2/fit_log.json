@@ -1,0 +1,13 @@
+{
+    "model_file": "./data_sets/homeworkouts/checkpoint_NFM/config_0/fold_2/NFM-May-23-2025_18-01-21.pth",
+    "data_set_name": "homeworkouts",
+    "algorithm_name": "NFM",
+    "algorithm_config_index": 0,
+    "algorithm_configuration": {
+        "n_factors": 15,
+        "n_epochs": 10
+    },
+    "fold": 2,
+    "setup_time": 6.951111793518066,
+    "training_time": 105.67887473106384
+}

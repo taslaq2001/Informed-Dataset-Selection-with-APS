@@ -1,0 +1,10 @@
+{
+    "model_file": "./data_sets/homeworkouts/checkpoint_FwFM/config_0/fold_1/FwFM-May-23-2025_21-26-57.pth",
+    "data_set_name": "homeworkouts",
+    "algorithm_name": "FwFM",
+    "algorithm_config_index": 0,
+    "algorithm_configuration": {},
+    "fold": 1,
+    "setup_time": 7.440918207168579,
+    "training_time": 131.59066462516785
+}
