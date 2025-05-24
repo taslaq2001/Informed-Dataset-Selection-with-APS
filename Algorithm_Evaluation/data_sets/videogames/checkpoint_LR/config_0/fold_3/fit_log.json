@@ -1,0 +1,10 @@
+{
+    "model_file": "./data_sets/videogames/checkpoint_LR/config_0/fold_3/LR-May-24-2025_01-46-34.pth",
+    "data_set_name": "videogames",
+    "algorithm_name": "LR",
+    "algorithm_config_index": 0,
+    "algorithm_configuration": {},
+    "fold": 3,
+    "setup_time": 1.4483263492584229,
+    "training_time": 0.3029665946960449
+}

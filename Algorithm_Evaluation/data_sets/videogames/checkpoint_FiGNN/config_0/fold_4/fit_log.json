@@ -1,0 +1,10 @@
+{
+    "model_file": "./data_sets/videogames/checkpoint_FiGNN/config_0/fold_4/FiGNN-May-24-2025_01-49-57.pth",
+    "data_set_name": "videogames",
+    "algorithm_name": "FiGNN",
+    "algorithm_config_index": 0,
+    "algorithm_configuration": {},
+    "fold": 4,
+    "setup_time": 1.4144160747528076,
+    "training_time": 0.9418935775756836
+}

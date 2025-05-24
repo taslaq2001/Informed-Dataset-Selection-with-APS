@@ -1,0 +1,14 @@
+{
+    "model_file": "./data_sets/videogames/checkpoint_FM/config_0/fold_2/FM-May-24-2025_01-51-11.pth",
+    "data_set_name": "videogames",
+    "algorithm_name": "FM",
+    "algorithm_config_index": 0,
+    "algorithm_configuration": {
+        "task": "rating",
+        "epoch": 10,
+        "lr": 0.05
+    },
+    "fold": 2,
+    "setup_time": 1.448493242263794,
+    "training_time": 0.42113304138183594
+}
