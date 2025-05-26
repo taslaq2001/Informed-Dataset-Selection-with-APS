@@ -1,0 +1,1231 @@
+data_set_name,algorithm_name,fold_name,model_file,algorithm_config_index,algorithm_configuration,fold,train_users,test_users,users_to_predict,prediction_time
+adidasvsnike,AFM,0,./data_sets/adidasvsnike/checkpoint_AFM/config_0/fold_0/AFM-May-18-2025_20-10-49.pth,0,{},0,1115,506,265,0.37268614768981934
+adidasvsnike,AFM,1,./data_sets/adidasvsnike/checkpoint_AFM/config_0/fold_1/AFM-May-18-2025_20-10-54.pth,0,{},1,1116,505,275,0.3359508514404297
+adidasvsnike,AFM,2,./data_sets/adidasvsnike/checkpoint_AFM/config_0/fold_2/AFM-May-18-2025_20-11-00.pth,0,{},2,1134,493,289,0.3507575988769531
+adidasvsnike,AFM,3,./data_sets/adidasvsnike/checkpoint_AFM/config_0/fold_3/AFM-May-18-2025_20-11-06.pth,0,{},3,1123,501,274,0.32385921478271484
+adidasvsnike,AFM,4,./data_sets/adidasvsnike/checkpoint_AFM/config_0/fold_4/AFM-May-18-2025_20-11-12.pth,0,{},4,1119,503,271,0.313098669052124
+adidasvsnike,AutoInt,0,./data_sets/adidasvsnike/checkpoint_AutoInt/config_0/fold_0/AutoInt-May-18-2025_20-14-14.pth,0,{},0,1115,506,265,1.0805845260620117
+adidasvsnike,AutoInt,1,./data_sets/adidasvsnike/checkpoint_AutoInt/config_0/fold_1/AutoInt-May-18-2025_20-14-21.pth,0,{},1,1116,505,275,1.0712602138519287
+adidasvsnike,AutoInt,2,./data_sets/adidasvsnike/checkpoint_AutoInt/config_0/fold_2/AutoInt-May-18-2025_20-14-28.pth,0,{},2,1134,493,289,1.1117987632751465
+adidasvsnike,AutoInt,3,./data_sets/adidasvsnike/checkpoint_AutoInt/config_0/fold_3/AutoInt-May-18-2025_20-14-35.pth,0,{},3,1123,501,274,1.0171945095062256
+adidasvsnike,AutoInt,4,./data_sets/adidasvsnike/checkpoint_AutoInt/config_0/fold_4/AutoInt-May-18-2025_20-14-41.pth,0,{},4,1119,503,271,1.082947015762329
+adidasvsnike,DCN,0,./data_sets/adidasvsnike/checkpoint_DCN/config_0/fold_0/DCN-May-18-2025_20-11-18.pth,0,{},0,1115,506,265,1.0016343593597412
+adidasvsnike,DCN,1,./data_sets/adidasvsnike/checkpoint_DCN/config_0/fold_1/DCN-May-18-2025_20-11-25.pth,0,{},1,1116,505,275,1.0828020572662354
+adidasvsnike,DCN,2,./data_sets/adidasvsnike/checkpoint_DCN/config_0/fold_2/DCN-May-18-2025_20-11-33.pth,0,{},2,1134,493,289,1.1449460983276367
+adidasvsnike,DCN,3,./data_sets/adidasvsnike/checkpoint_DCN/config_0/fold_3/DCN-May-18-2025_20-11-40.pth,0,{},3,1123,501,274,1.107372760772705
+adidasvsnike,DCN,4,./data_sets/adidasvsnike/checkpoint_DCN/config_0/fold_4/DCN-May-18-2025_20-11-48.pth,0,{},4,1119,503,271,1.0685608386993408
+adidasvsnike,DeepFM,0,./data_sets/adidasvsnike/checkpoint_DeepFM/config_0/fold_0/DeepFM-May-18-2025_20-11-55.pth,0,{},0,1115,506,265,0.5290176868438721
+adidasvsnike,DeepFM,1,./data_sets/adidasvsnike/checkpoint_DeepFM/config_0/fold_1/DeepFM-May-18-2025_20-12-02.pth,0,{},1,1116,505,275,0.580204963684082
+adidasvsnike,DeepFM,2,./data_sets/adidasvsnike/checkpoint_DeepFM/config_0/fold_2/DeepFM-May-18-2025_20-12-09.pth,0,{},2,1134,493,289,0.5525496006011963
+adidasvsnike,DeepFM,3,./data_sets/adidasvsnike/checkpoint_DeepFM/config_0/fold_3/DeepFM-May-18-2025_20-12-15.pth,0,{},3,1123,501,274,0.5011310577392578
+adidasvsnike,DeepFM,4,./data_sets/adidasvsnike/checkpoint_DeepFM/config_0/fold_4/DeepFM-May-18-2025_20-12-22.pth,0,{},4,1119,503,271,0.5224387645721436
+adidasvsnike,DSSM,0,./data_sets/adidasvsnike/checkpoint_DSSM/config_0/fold_0/DSSM-May-18-2025_20-12-28.pth,0,{},0,1115,506,265,2.1188595294952393
+adidasvsnike,DSSM,1,./data_sets/adidasvsnike/checkpoint_DSSM/config_0/fold_1/DSSM-May-18-2025_20-12-37.pth,0,{},1,1116,505,275,2.257984161376953
+adidasvsnike,DSSM,2,./data_sets/adidasvsnike/checkpoint_DSSM/config_0/fold_2/DSSM-May-18-2025_20-12-46.pth,0,{},2,1134,493,289,2.3280274868011475
+adidasvsnike,DSSM,3,./data_sets/adidasvsnike/checkpoint_DSSM/config_0/fold_3/DSSM-May-18-2025_20-12-55.pth,0,{},3,1123,501,274,2.1691715717315674
+adidasvsnike,DSSM,4,./data_sets/adidasvsnike/checkpoint_DSSM/config_0/fold_4/DSSM-May-18-2025_20-13-04.pth,0,{},4,1119,503,271,2.2976529598236084
+adidasvsnike,EulerNet,0,./data_sets/adidasvsnike/checkpoint_EulerNet/config_0/fold_0/EulerNet-May-18-2025_20-14-48.pth,0,{},0,1115,506,265,2.7116596698760986
+adidasvsnike,EulerNet,1,./data_sets/adidasvsnike/checkpoint_EulerNet/config_0/fold_1/EulerNet-May-18-2025_20-14-55.pth,0,{},1,1116,505,275,2.76959228515625
+adidasvsnike,EulerNet,2,./data_sets/adidasvsnike/checkpoint_EulerNet/config_0/fold_2/EulerNet-May-18-2025_20-15-03.pth,0,{},2,1134,493,289,2.987785577774048
+adidasvsnike,EulerNet,3,./data_sets/adidasvsnike/checkpoint_EulerNet/config_0/fold_3/EulerNet-May-18-2025_20-15-11.pth,0,{},3,1123,501,274,2.657311201095581
+adidasvsnike,EulerNet,4,./data_sets/adidasvsnike/checkpoint_EulerNet/config_0/fold_4/EulerNet-May-18-2025_20-15-18.pth,0,{},4,1119,503,271,2.824514865875244
+adidasvsnike,FiGNN,0,./data_sets/adidasvsnike/checkpoint_FiGNN/config_0/fold_0/FiGNN-May-18-2025_20-13-42.pth,0,{},0,1115,506,265,1.0194871425628662
+adidasvsnike,FiGNN,1,./data_sets/adidasvsnike/checkpoint_FiGNN/config_0/fold_1/FiGNN-May-18-2025_20-13-49.pth,0,{},1,1116,505,275,1.0430026054382324
+adidasvsnike,FiGNN,2,./data_sets/adidasvsnike/checkpoint_FiGNN/config_0/fold_2/FiGNN-May-18-2025_20-13-55.pth,0,{},2,1134,493,289,1.1725091934204102
+adidasvsnike,FiGNN,3,./data_sets/adidasvsnike/checkpoint_FiGNN/config_0/fold_3/FiGNN-May-18-2025_20-14-02.pth,0,{},3,1123,501,274,1.3880023956298828
+adidasvsnike,FiGNN,4,./data_sets/adidasvsnike/checkpoint_FiGNN/config_0/fold_4/FiGNN-May-18-2025_20-14-08.pth,0,{},4,1119,503,271,1.2014389038085938
+adidasvsnike,FM,0,./data_sets/adidasvsnike/checkpoint_FM/config_0/fold_0/FM-May-18-2025_20-15-26.pth,0,"{'task': 'rating', 'epoch': 10, 'lr': 0.05}",0,1115,506,265,0.2564055919647217
+adidasvsnike,FM,1,./data_sets/adidasvsnike/checkpoint_FM/config_0/fold_1/FM-May-18-2025_20-15-32.pth,0,"{'task': 'rating', 'epoch': 10, 'lr': 0.05}",1,1116,505,275,0.2655141353607178
+adidasvsnike,FM,2,./data_sets/adidasvsnike/checkpoint_FM/config_0/fold_2/FM-May-18-2025_20-15-37.pth,0,"{'task': 'rating', 'epoch': 10, 'lr': 0.05}",2,1134,493,289,0.2797210216522217
+adidasvsnike,FM,3,./data_sets/adidasvsnike/checkpoint_FM/config_0/fold_3/FM-May-18-2025_20-15-43.pth,0,"{'task': 'rating', 'epoch': 10, 'lr': 0.05}",3,1123,501,274,0.26718902587890625
+adidasvsnike,FM,4,./data_sets/adidasvsnike/checkpoint_FM/config_0/fold_4/FM-May-18-2025_20-15-49.pth,0,"{'task': 'rating', 'epoch': 10, 'lr': 0.05}",4,1119,503,271,0.2629275321960449
+adidasvsnike,FNN,0,./data_sets/adidasvsnike/checkpoint_FNN/config_0/fold_0/FNN-May-18-2025_20-15-54.pth,0,{},0,1115,506,265,0.9619300365447998
+adidasvsnike,FNN,1,./data_sets/adidasvsnike/checkpoint_FNN/config_0/fold_1/FNN-May-18-2025_20-16-01.pth,0,{},1,1116,505,275,0.9425380229949951
+adidasvsnike,FNN,2,./data_sets/adidasvsnike/checkpoint_FNN/config_0/fold_2/FNN-May-18-2025_20-16-09.pth,0,{},2,1134,493,289,0.994661808013916
+adidasvsnike,FNN,3,./data_sets/adidasvsnike/checkpoint_FNN/config_0/fold_3/FNN-May-18-2025_20-16-16.pth,0,{},3,1123,501,274,0.9386096000671387
+adidasvsnike,FNN,4,./data_sets/adidasvsnike/checkpoint_FNN/config_0/fold_4/FNN-May-18-2025_20-16-23.pth,0,{},4,1119,503,271,0.9611027240753174
+adidasvsnike,FwFM,0,./data_sets/adidasvsnike/checkpoint_FwFM/config_0/fold_0/FwFM-May-18-2025_20-16-30.pth,0,{},0,1115,506,265,0.3081521987915039
+adidasvsnike,FwFM,1,./data_sets/adidasvsnike/checkpoint_FwFM/config_0/fold_1/FwFM-May-18-2025_20-16-35.pth,0,{},1,1116,505,275,0.27053380012512207
+adidasvsnike,FwFM,2,./data_sets/adidasvsnike/checkpoint_FwFM/config_0/fold_2/FwFM-May-18-2025_20-16-41.pth,0,{},2,1134,493,289,0.2752647399902344
+adidasvsnike,FwFM,3,./data_sets/adidasvsnike/checkpoint_FwFM/config_0/fold_3/FwFM-May-18-2025_20-16-47.pth,0,{},3,1123,501,274,0.26331591606140137
+adidasvsnike,FwFM,4,./data_sets/adidasvsnike/checkpoint_FwFM/config_0/fold_4/FwFM-May-18-2025_20-16-53.pth,0,{},4,1119,503,271,0.26262402534484863
+adidasvsnike,LR,0,./data_sets/adidasvsnike/checkpoint_LR/config_0/fold_0/LR-May-18-2025_20-09-40.pth,0,{},0,1115,506,265,0.1368865966796875
+adidasvsnike,LR,1,./data_sets/adidasvsnike/checkpoint_LR/config_0/fold_1/LR-May-18-2025_20-09-55.pth,0,{},1,1116,505,275,0.12773728370666504
+adidasvsnike,LR,2,./data_sets/adidasvsnike/checkpoint_LR/config_0/fold_2/LR-May-18-2025_20-10-01.pth,0,{},2,1134,493,289,0.13807344436645508
+adidasvsnike,LR,3,./data_sets/adidasvsnike/checkpoint_LR/config_0/fold_3/LR-May-18-2025_20-10-07.pth,0,{},3,1123,501,274,0.13425350189208984
+adidasvsnike,LR,4,./data_sets/adidasvsnike/checkpoint_LR/config_0/fold_4/LR-May-18-2025_20-10-13.pth,0,{},4,1119,503,271,0.12581181526184082
+adidasvsnike,NFM,0,./data_sets/adidasvsnike/checkpoint_NFM/config_0/fold_0/NFM-May-18-2025_20-10-19.pth,0,"{'n_factors': 15, 'n_epochs': 10}",0,1115,506,265,0.40062975883483887
+adidasvsnike,NFM,1,./data_sets/adidasvsnike/checkpoint_NFM/config_0/fold_1/NFM-May-18-2025_20-10-25.pth,0,"{'n_factors': 15, 'n_epochs': 10}",1,1116,505,275,0.4076716899871826
+adidasvsnike,NFM,2,./data_sets/adidasvsnike/checkpoint_NFM/config_0/fold_2/NFM-May-18-2025_20-10-31.pth,0,"{'n_factors': 15, 'n_epochs': 10}",2,1134,493,289,0.4450650215148926
+adidasvsnike,NFM,3,./data_sets/adidasvsnike/checkpoint_NFM/config_0/fold_3/NFM-May-18-2025_20-10-37.pth,0,"{'n_factors': 15, 'n_epochs': 10}",3,1123,501,274,0.4134562015533447
+adidasvsnike,NFM,4,./data_sets/adidasvsnike/checkpoint_NFM/config_0/fold_4/NFM-May-18-2025_20-10-43.pth,0,"{'n_factors': 15, 'n_epochs': 10}",4,1119,503,271,0.4117128849029541
+adidasvsnike,PNN,0,./data_sets/adidasvsnike/checkpoint_PNN/config_0/fold_0/PNN-May-18-2025_20-16-58.pth,0,{},0,1115,506,265,0.6344220638275146
+adidasvsnike,PNN,1,./data_sets/adidasvsnike/checkpoint_PNN/config_0/fold_1/PNN-May-18-2025_20-17-05.pth,0,{},1,1116,505,275,0.6917588710784912
+adidasvsnike,PNN,2,./data_sets/adidasvsnike/checkpoint_PNN/config_0/fold_2/PNN-May-18-2025_20-17-11.pth,0,{},2,1134,493,289,0.799454927444458
+adidasvsnike,PNN,3,./data_sets/adidasvsnike/checkpoint_PNN/config_0/fold_3/PNN-May-18-2025_20-17-17.pth,0,{},3,1123,501,274,0.6283094882965088
+adidasvsnike,PNN,4,./data_sets/adidasvsnike/checkpoint_PNN/config_0/fold_4/PNN-May-18-2025_20-17-23.pth,0,{},4,1119,503,271,0.6649060249328613
+adidasvsnike,WideDeep,0,./data_sets/adidasvsnike/checkpoint_WideDeep/config_0/fold_0/WideDeep-May-18-2025_20-17-29.pth,0,{},0,1115,506,265,0.2666044235229492
+adidasvsnike,WideDeep,1,./data_sets/adidasvsnike/checkpoint_WideDeep/config_0/fold_1/WideDeep-May-18-2025_20-17-35.pth,0,{},1,1116,505,275,0.2641279697418213
+adidasvsnike,WideDeep,2,./data_sets/adidasvsnike/checkpoint_WideDeep/config_0/fold_2/WideDeep-May-18-2025_20-17-41.pth,0,{},2,1134,493,289,0.27166223526000977
+adidasvsnike,WideDeep,3,./data_sets/adidasvsnike/checkpoint_WideDeep/config_0/fold_3/WideDeep-May-18-2025_20-17-47.pth,0,{},3,1123,501,274,0.2662684917449951
+adidasvsnike,WideDeep,4,./data_sets/adidasvsnike/checkpoint_WideDeep/config_0/fold_4/WideDeep-May-18-2025_20-17-53.pth,0,{},4,1119,503,271,0.2650458812713623
+adidasvsnike,xDeepFM,0,./data_sets/adidasvsnike/checkpoint_xDeepFM/config_0/fold_0/xDeepFM-May-18-2025_20-17-59.pth,0,{},0,1115,506,265,6.9490954875946045
+adidasvsnike,xDeepFM,1,./data_sets/adidasvsnike/checkpoint_xDeepFM/config_0/fold_1/xDeepFM-May-18-2025_20-18-08.pth,0,{},1,1116,505,275,7.277903318405151
+adidasvsnike,xDeepFM,2,./data_sets/adidasvsnike/checkpoint_xDeepFM/config_0/fold_2/xDeepFM-May-18-2025_20-18-18.pth,0,{},2,1134,493,289,7.583737850189209
+adidasvsnike,xDeepFM,3,./data_sets/adidasvsnike/checkpoint_xDeepFM/config_0/fold_3/xDeepFM-May-18-2025_20-18-28.pth,0,{},3,1123,501,274,7.212653398513794
+adidasvsnike,xDeepFM,4,./data_sets/adidasvsnike/checkpoint_xDeepFM/config_0/fold_4/xDeepFM-May-18-2025_20-18-37.pth,0,{},4,1119,503,271,7.2617292404174805
+airlines,AFM,0,./data_sets/airlines/checkpoint_AFM/config_0/fold_0/AFM-May-23-2025_12-40-36.pth,0,{},0,13390,4465,6,0.01660919189453125
+airlines,AFM,1,./data_sets/airlines/checkpoint_AFM/config_0/fold_1/AFM-May-23-2025_12-40-44.pth,0,{},1,13390,4466,8,0.007222890853881836
+airlines,AFM,2,./data_sets/airlines/checkpoint_AFM/config_0/fold_2/AFM-May-23-2025_12-40-51.pth,0,{},2,13385,4465,5,0.00601959228515625
+airlines,AFM,3,./data_sets/airlines/checkpoint_AFM/config_0/fold_3/AFM-May-23-2025_12-40-58.pth,0,{},3,13390,4465,5,0.0010480880737304688
+airlines,AFM,4,./data_sets/airlines/checkpoint_AFM/config_0/fold_4/AFM-May-23-2025_12-41-06.pth,0,{},4,13392,4465,9,0.008000373840332031
+airlines,AutoInt,0,./data_sets/airlines/checkpoint_AutoInt/config_0/fold_0/AutoInt-May-23-2025_12-46-47.pth,0,{},0,13390,4465,6,0.021551132202148438
+airlines,AutoInt,1,./data_sets/airlines/checkpoint_AutoInt/config_0/fold_1/AutoInt-May-23-2025_12-46-59.pth,0,{},1,13390,4466,8,0.02057027816772461
+airlines,AutoInt,2,./data_sets/airlines/checkpoint_AutoInt/config_0/fold_2/AutoInt-May-23-2025_12-47-11.pth,0,{},2,13385,4465,5,0.010825872421264648
+airlines,AutoInt,3,./data_sets/airlines/checkpoint_AutoInt/config_0/fold_3/AutoInt-May-23-2025_12-47-22.pth,0,{},3,13390,4465,5,0.016535520553588867
+airlines,AutoInt,4,./data_sets/airlines/checkpoint_AutoInt/config_0/fold_4/AutoInt-May-23-2025_12-47-34.pth,0,{},4,13392,4465,9,0.018770456314086914
+airlines,DCN,0,./data_sets/airlines/checkpoint_DCN/config_0/fold_0/DCN-May-23-2025_12-41-13.pth,0,{},0,13390,4465,6,0.018046140670776367
+airlines,DCN,1,./data_sets/airlines/checkpoint_DCN/config_0/fold_1/DCN-May-23-2025_12-41-28.pth,0,{},1,13390,4466,8,0.018042802810668945
+airlines,DCN,2,./data_sets/airlines/checkpoint_DCN/config_0/fold_2/DCN-May-23-2025_12-41-43.pth,0,{},2,13385,4465,5,0.010094165802001953
+airlines,DCN,3,./data_sets/airlines/checkpoint_DCN/config_0/fold_3/DCN-May-23-2025_12-41-57.pth,0,{},3,13390,4465,5,0.011092662811279297
+airlines,DCN,4,./data_sets/airlines/checkpoint_DCN/config_0/fold_4/DCN-May-23-2025_12-42-12.pth,0,{},4,13392,4465,9,0.013906240463256836
+airlines,DeepFM,0,./data_sets/airlines/checkpoint_DeepFM/config_0/fold_0/DeepFM-May-23-2025_12-42-27.pth,0,{},0,13390,4465,6,0.02859330177307129
+airlines,DeepFM,1,./data_sets/airlines/checkpoint_DeepFM/config_0/fold_1/DeepFM-May-23-2025_12-42-37.pth,0,{},1,13390,4466,8,0.010386466979980469
+airlines,DeepFM,2,./data_sets/airlines/checkpoint_DeepFM/config_0/fold_2/DeepFM-May-23-2025_12-42-47.pth,0,{},2,13385,4465,5,0.004000663757324219
+airlines,DeepFM,3,./data_sets/airlines/checkpoint_DeepFM/config_0/fold_3/DeepFM-May-23-2025_12-42-58.pth,0,{},3,13390,4465,5,0.014494895935058594
+airlines,DeepFM,4,./data_sets/airlines/checkpoint_DeepFM/config_0/fold_4/DeepFM-May-23-2025_12-43-09.pth,0,{},4,13392,4465,9,0.007870674133300781
+airlines,DSSM,0,./data_sets/airlines/checkpoint_DSSM/config_0/fold_0/DSSM-May-23-2025_12-43-20.pth,0,{},0,13390,4465,6,0.021154165267944336
+airlines,DSSM,1,./data_sets/airlines/checkpoint_DSSM/config_0/fold_1/DSSM-May-23-2025_12-43-45.pth,0,{},1,13390,4466,8,0.015680313110351562
+airlines,DSSM,2,./data_sets/airlines/checkpoint_DSSM/config_0/fold_2/DSSM-May-23-2025_12-44-10.pth,0,{},2,13385,4465,5,0.021140098571777344
+airlines,DSSM,3,./data_sets/airlines/checkpoint_DSSM/config_0/fold_3/DSSM-May-23-2025_12-44-34.pth,0,{},3,13390,4465,5,0.012772798538208008
+airlines,DSSM,4,./data_sets/airlines/checkpoint_DSSM/config_0/fold_4/DSSM-May-23-2025_12-44-57.pth,0,{},4,13392,4465,9,0.020060300827026367
+airlines,EulerNet,0,./data_sets/airlines/checkpoint_EulerNet/config_0/fold_0/EulerNet-May-23-2025_12-47-46.pth,0,{},0,13390,4465,6,0.024486303329467773
+airlines,EulerNet,1,./data_sets/airlines/checkpoint_EulerNet/config_0/fold_1/EulerNet-May-23-2025_12-48-04.pth,0,{},1,13390,4466,8,0.017017126083374023
+airlines,EulerNet,2,./data_sets/airlines/checkpoint_EulerNet/config_0/fold_2/EulerNet-May-23-2025_12-48-20.pth,0,{},2,13385,4465,5,0.011519908905029297
+airlines,EulerNet,3,./data_sets/airlines/checkpoint_EulerNet/config_0/fold_3/EulerNet-May-23-2025_12-48-36.pth,0,{},3,13390,4465,5,0.013836383819580078
+airlines,EulerNet,4,./data_sets/airlines/checkpoint_EulerNet/config_0/fold_4/EulerNet-May-23-2025_12-48-53.pth,0,{},4,13392,4465,9,0.04548311233520508
+airlines,FiGNN,0,./data_sets/airlines/checkpoint_FiGNN/config_0/fold_0/FiGNN-May-23-2025_12-45-55.pth,0,{},0,13390,4465,6,0.02805924415588379
+airlines,FiGNN,1,./data_sets/airlines/checkpoint_FiGNN/config_0/fold_1/FiGNN-May-23-2025_12-46-05.pth,0,{},1,13390,4466,8,0.006052970886230469
+airlines,FiGNN,2,./data_sets/airlines/checkpoint_FiGNN/config_0/fold_2/FiGNN-May-23-2025_12-46-16.pth,0,{},2,13385,4465,5,0.0112457275390625
+airlines,FiGNN,3,./data_sets/airlines/checkpoint_FiGNN/config_0/fold_3/FiGNN-May-23-2025_12-46-26.pth,0,{},3,13390,4465,5,0.011056184768676758
+airlines,FiGNN,4,./data_sets/airlines/checkpoint_FiGNN/config_0/fold_4/FiGNN-May-23-2025_12-46-37.pth,0,{},4,13392,4465,9,0.006049156188964844
+airlines,FM,0,./data_sets/airlines/checkpoint_FM/config_0/fold_0/FM-May-23-2025_12-49-10.pth,0,"{'task': 'rating', 'epoch': 10, 'lr': 0.05}",0,13390,4465,6,0.010384559631347656
+airlines,FM,1,./data_sets/airlines/checkpoint_FM/config_0/fold_1/FM-May-23-2025_12-49-16.pth,0,"{'task': 'rating', 'epoch': 10, 'lr': 0.05}",1,13390,4466,8,0.0
+airlines,FM,2,./data_sets/airlines/checkpoint_FM/config_0/fold_2/FM-May-23-2025_12-49-23.pth,0,"{'task': 'rating', 'epoch': 10, 'lr': 0.05}",2,13385,4465,5,0.0030002593994140625
+airlines,FM,3,./data_sets/airlines/checkpoint_FM/config_0/fold_3/FM-May-23-2025_12-49-30.pth,0,"{'task': 'rating', 'epoch': 10, 'lr': 0.05}",3,13390,4465,5,0.004999637603759766
+airlines,FM,4,./data_sets/airlines/checkpoint_FM/config_0/fold_4/FM-May-23-2025_12-49-37.pth,0,"{'task': 'rating', 'epoch': 10, 'lr': 0.05}",4,13392,4465,9,0.0020580291748046875
+airlines,FNN,0,./data_sets/airlines/checkpoint_FNN/config_0/fold_0/FNN-May-23-2025_12-49-43.pth,0,{},0,13390,4465,6,0.00482177734375
+airlines,FNN,1,./data_sets/airlines/checkpoint_FNN/config_0/fold_1/FNN-May-23-2025_12-49-56.pth,0,{},1,13390,4466,8,0.011523723602294922
+airlines,FNN,2,./data_sets/airlines/checkpoint_FNN/config_0/fold_2/FNN-May-23-2025_12-50-09.pth,0,{},2,13385,4465,5,0.011337757110595703
+airlines,FNN,3,./data_sets/airlines/checkpoint_FNN/config_0/fold_3/FNN-May-23-2025_12-50-23.pth,0,{},3,13390,4465,5,0.007999658584594727
+airlines,FNN,4,./data_sets/airlines/checkpoint_FNN/config_0/fold_4/FNN-May-23-2025_12-50-36.pth,0,{},4,13392,4465,9,0.007658243179321289
+airlines,FwFM,0,./data_sets/airlines/checkpoint_FwFM/config_0/fold_0/FwFM-May-23-2025_12-50-49.pth,0,{},0,13390,4465,6,0.005999565124511719
+airlines,FwFM,1,./data_sets/airlines/checkpoint_FwFM/config_0/fold_1/FwFM-May-23-2025_12-50-56.pth,0,{},1,13390,4466,8,0.0029993057250976562
+airlines,FwFM,2,./data_sets/airlines/checkpoint_FwFM/config_0/fold_2/FwFM-May-23-2025_12-51-03.pth,0,{},2,13385,4465,5,0.0052394866943359375
+airlines,FwFM,3,./data_sets/airlines/checkpoint_FwFM/config_0/fold_3/FwFM-May-23-2025_12-51-10.pth,0,{},3,13390,4465,5,0.0039997100830078125
+airlines,FwFM,4,./data_sets/airlines/checkpoint_FwFM/config_0/fold_4/FwFM-May-23-2025_12-51-17.pth,0,{},4,13392,4465,9,0.006590843200683594
+airlines,LR,0,./data_sets/airlines/checkpoint_LR/config_0/fold_0/LR-May-23-2025_12-39-19.pth,0,{},0,13390,4465,6,0.03133964538574219
+airlines,LR,1,./data_sets/airlines/checkpoint_LR/config_0/fold_1/LR-May-23-2025_12-39-32.pth,0,{},1,13390,4466,8,0.00441431999206543
+airlines,LR,2,./data_sets/airlines/checkpoint_LR/config_0/fold_2/LR-May-23-2025_12-39-38.pth,0,{},2,13385,4465,5,0.0
+airlines,LR,3,./data_sets/airlines/checkpoint_LR/config_0/fold_3/LR-May-23-2025_12-39-44.pth,0,{},3,13390,4465,5,0.0029997825622558594
+airlines,LR,4,./data_sets/airlines/checkpoint_LR/config_0/fold_4/LR-May-23-2025_12-39-50.pth,0,{},4,13392,4465,9,0.004000186920166016
+airlines,NFM,0,./data_sets/airlines/checkpoint_NFM/config_0/fold_0/NFM-May-23-2025_12-39-56.pth,0,"{'n_factors': 15, 'n_epochs': 10}",0,13390,4465,6,0.02664804458618164
+airlines,NFM,1,./data_sets/airlines/checkpoint_NFM/config_0/fold_1/NFM-May-23-2025_12-40-04.pth,0,"{'n_factors': 15, 'n_epochs': 10}",1,13390,4466,8,0.009508371353149414
+airlines,NFM,2,./data_sets/airlines/checkpoint_NFM/config_0/fold_2/NFM-May-23-2025_12-40-12.pth,0,"{'n_factors': 15, 'n_epochs': 10}",2,13385,4465,5,0.0011277198791503906
+airlines,NFM,3,./data_sets/airlines/checkpoint_NFM/config_0/fold_3/NFM-May-23-2025_12-40-20.pth,0,"{'n_factors': 15, 'n_epochs': 10}",3,13390,4465,5,0.0
+airlines,NFM,4,./data_sets/airlines/checkpoint_NFM/config_0/fold_4/NFM-May-23-2025_12-40-28.pth,0,"{'n_factors': 15, 'n_epochs': 10}",4,13392,4465,9,0.015673160552978516
+airlines,PNN,0,./data_sets/airlines/checkpoint_PNN/config_0/fold_0/PNN-May-23-2025_12-51-24.pth,0,{},0,13390,4465,6,0.009496688842773438
+airlines,PNN,1,./data_sets/airlines/checkpoint_PNN/config_0/fold_1/PNN-May-23-2025_12-51-32.pth,0,{},1,13390,4466,8,0.004229307174682617
+airlines,PNN,2,./data_sets/airlines/checkpoint_PNN/config_0/fold_2/PNN-May-23-2025_12-51-41.pth,0,{},2,13385,4465,5,0.007194042205810547
+airlines,PNN,3,./data_sets/airlines/checkpoint_PNN/config_0/fold_3/PNN-May-23-2025_12-51-50.pth,0,{},3,13390,4465,5,0.006878376007080078
+airlines,PNN,4,./data_sets/airlines/checkpoint_PNN/config_0/fold_4/PNN-May-23-2025_12-51-59.pth,0,{},4,13392,4465,9,0.011059284210205078
+airlines,WideDeep,0,./data_sets/airlines/checkpoint_WideDeep/config_0/fold_0/WideDeep-May-23-2025_12-52-08.pth,0,{},0,13390,4465,6,0.007000446319580078
+airlines,WideDeep,1,./data_sets/airlines/checkpoint_WideDeep/config_0/fold_1/WideDeep-May-23-2025_12-52-15.pth,0,{},1,13390,4466,8,0.0
+airlines,WideDeep,2,./data_sets/airlines/checkpoint_WideDeep/config_0/fold_2/WideDeep-May-23-2025_12-52-23.pth,0,{},2,13385,4465,5,0.004999876022338867
+airlines,WideDeep,3,./data_sets/airlines/checkpoint_WideDeep/config_0/fold_3/WideDeep-May-23-2025_12-52-31.pth,0,{},3,13390,4465,5,0.004216432571411133
+airlines,WideDeep,4,./data_sets/airlines/checkpoint_WideDeep/config_0/fold_4/WideDeep-May-23-2025_12-52-38.pth,0,{},4,13392,4465,9,0.008198738098144531
+airlines,xDeepFM,0,./data_sets/airlines/checkpoint_xDeepFM/config_0/fold_0/xDeepFM-May-23-2025_12-52-46.pth,0,{},0,13390,4465,6,0.08262014389038086
+airlines,xDeepFM,1,./data_sets/airlines/checkpoint_xDeepFM/config_0/fold_1/xDeepFM-May-23-2025_12-53-12.pth,0,{},1,13390,4466,8,0.04407024383544922
+airlines,xDeepFM,2,./data_sets/airlines/checkpoint_xDeepFM/config_0/fold_2/xDeepFM-May-23-2025_12-53-38.pth,0,{},2,13385,4465,5,0.032855987548828125
+airlines,xDeepFM,3,./data_sets/airlines/checkpoint_xDeepFM/config_0/fold_3/xDeepFM-May-23-2025_12-54-03.pth,0,{},3,13390,4465,5,0.030356645584106445
+airlines,xDeepFM,4,./data_sets/airlines/checkpoint_xDeepFM/config_0/fold_4/xDeepFM-May-23-2025_12-54-29.pth,0,{},4,13392,4465,9,0.04786229133605957
+airlinesreviews,AFM,0,./data_sets/airlinesreviews/checkpoint_AFM/config_0/fold_0/AFM-May-18-2025_21-17-18.pth,0,{},0,4041,1396,111,0.06360220909118652
+airlinesreviews,AFM,1,./data_sets/airlinesreviews/checkpoint_AFM/config_0/fold_1/AFM-May-18-2025_21-17-25.pth,0,{},1,4024,1406,114,0.06599307060241699
+airlinesreviews,AFM,2,./data_sets/airlinesreviews/checkpoint_AFM/config_0/fold_2/AFM-May-18-2025_21-17-31.pth,0,{},2,4057,1393,119,0.05894064903259277
+airlinesreviews,AFM,3,./data_sets/airlinesreviews/checkpoint_AFM/config_0/fold_3/AFM-May-18-2025_21-17-37.pth,0,{},3,4057,1405,134,0.08023905754089355
+airlinesreviews,AFM,4,./data_sets/airlinesreviews/checkpoint_AFM/config_0/fold_4/AFM-May-18-2025_21-17-44.pth,0,{},4,4067,1394,134,0.07308673858642578
+airlinesreviews,AutoInt,0,./data_sets/airlinesreviews/checkpoint_AutoInt/config_0/fold_0/AutoInt-May-18-2025_21-21-31.pth,0,{},0,4041,1396,111,0.12055706977844238
+airlinesreviews,AutoInt,1,./data_sets/airlinesreviews/checkpoint_AutoInt/config_0/fold_1/AutoInt-May-18-2025_21-21-40.pth,0,{},1,4024,1406,114,0.13115668296813965
+airlinesreviews,AutoInt,2,./data_sets/airlinesreviews/checkpoint_AutoInt/config_0/fold_2/AutoInt-May-18-2025_21-21-48.pth,0,{},2,4057,1393,119,0.1371448040008545
+airlinesreviews,AutoInt,3,./data_sets/airlinesreviews/checkpoint_AutoInt/config_0/fold_3/AutoInt-May-18-2025_21-21-56.pth,0,{},3,4057,1405,134,0.17072844505310059
+airlinesreviews,AutoInt,4,./data_sets/airlinesreviews/checkpoint_AutoInt/config_0/fold_4/AutoInt-May-18-2025_21-22-05.pth,0,{},4,4067,1394,134,0.15071845054626465
+airlinesreviews,DCN,0,./data_sets/airlinesreviews/checkpoint_DCN/config_0/fold_0/DCN-May-18-2025_21-17-50.pth,0,{},0,4041,1396,111,0.09032511711120605
+airlinesreviews,DCN,1,./data_sets/airlinesreviews/checkpoint_DCN/config_0/fold_1/DCN-May-18-2025_21-18-00.pth,0,{},1,4024,1406,114,0.08178257942199707
+airlinesreviews,DCN,2,./data_sets/airlinesreviews/checkpoint_DCN/config_0/fold_2/DCN-May-18-2025_21-18-10.pth,0,{},2,4057,1393,119,0.1173865795135498
+airlinesreviews,DCN,3,./data_sets/airlinesreviews/checkpoint_DCN/config_0/fold_3/DCN-May-18-2025_21-18-20.pth,0,{},3,4057,1405,134,0.10714602470397949
+airlinesreviews,DCN,4,./data_sets/airlinesreviews/checkpoint_DCN/config_0/fold_4/DCN-May-18-2025_21-18-29.pth,0,{},4,4067,1394,134,0.10498452186584473
+airlinesreviews,DeepFM,0,./data_sets/airlinesreviews/checkpoint_DeepFM/config_0/fold_0/DeepFM-May-18-2025_21-18-39.pth,0,{},0,4041,1396,111,0.11275911331176758
+airlinesreviews,DeepFM,1,./data_sets/airlinesreviews/checkpoint_DeepFM/config_0/fold_1/DeepFM-May-18-2025_21-18-46.pth,0,{},1,4024,1406,114,0.08812928199768066
+airlinesreviews,DeepFM,2,./data_sets/airlinesreviews/checkpoint_DeepFM/config_0/fold_2/DeepFM-May-18-2025_21-18-54.pth,0,{},2,4057,1393,119,0.1039586067199707
+airlinesreviews,DeepFM,3,./data_sets/airlinesreviews/checkpoint_DeepFM/config_0/fold_3/DeepFM-May-18-2025_21-19-02.pth,0,{},3,4057,1405,134,0.10344338417053223
+airlinesreviews,DeepFM,4,./data_sets/airlinesreviews/checkpoint_DeepFM/config_0/fold_4/DeepFM-May-18-2025_21-19-09.pth,0,{},4,4067,1394,134,0.08366584777832031
+airlinesreviews,DSSM,0,./data_sets/airlinesreviews/checkpoint_DSSM/config_0/fold_0/DSSM-May-18-2025_21-19-17.pth,0,{},0,4041,1396,111,0.1433413028717041
+airlinesreviews,DSSM,1,./data_sets/airlinesreviews/checkpoint_DSSM/config_0/fold_1/DSSM-May-18-2025_21-19-29.pth,0,{},1,4024,1406,114,0.08789896965026855
+airlinesreviews,DSSM,2,./data_sets/airlinesreviews/checkpoint_DSSM/config_0/fold_2/DSSM-May-18-2025_21-19-42.pth,0,{},2,4057,1393,119,0.10044598579406738
+airlinesreviews,DSSM,3,./data_sets/airlinesreviews/checkpoint_DSSM/config_0/fold_3/DSSM-May-18-2025_21-19-54.pth,0,{},3,4057,1405,134,0.13808536529541016
+airlinesreviews,DSSM,4,./data_sets/airlinesreviews/checkpoint_DSSM/config_0/fold_4/DSSM-May-18-2025_21-20-07.pth,0,{},4,4067,1394,134,0.10885095596313477
+airlinesreviews,EulerNet,0,./data_sets/airlinesreviews/checkpoint_EulerNet/config_0/fold_0/EulerNet-May-18-2025_21-22-13.pth,0,{},0,4041,1396,111,0.08658003807067871
+airlinesreviews,EulerNet,1,./data_sets/airlinesreviews/checkpoint_EulerNet/config_0/fold_1/EulerNet-May-18-2025_21-22-23.pth,0,{},1,4024,1406,114,0.07642149925231934
+airlinesreviews,EulerNet,2,./data_sets/airlinesreviews/checkpoint_EulerNet/config_0/fold_2/EulerNet-May-18-2025_21-22-33.pth,0,{},2,4057,1393,119,0.07786178588867188
+airlinesreviews,EulerNet,3,./data_sets/airlinesreviews/checkpoint_EulerNet/config_0/fold_3/EulerNet-May-18-2025_21-22-43.pth,0,{},3,4057,1405,134,0.09445881843566895
+airlinesreviews,EulerNet,4,./data_sets/airlinesreviews/checkpoint_EulerNet/config_0/fold_4/EulerNet-May-18-2025_21-22-53.pth,0,{},4,4067,1394,134,0.1074981689453125
+airlinesreviews,FiGNN,0,./data_sets/airlinesreviews/checkpoint_FiGNN/config_0/fold_0/FiGNN-May-18-2025_21-20-51.pth,0,{},0,4041,1396,111,0.09480571746826172
+airlinesreviews,FiGNN,1,./data_sets/airlinesreviews/checkpoint_FiGNN/config_0/fold_1/FiGNN-May-18-2025_21-21-00.pth,0,{},1,4024,1406,114,0.09082674980163574
+airlinesreviews,FiGNN,2,./data_sets/airlinesreviews/checkpoint_FiGNN/config_0/fold_2/FiGNN-May-18-2025_21-21-07.pth,0,{},2,4057,1393,119,0.11953568458557129
+airlinesreviews,FiGNN,3,./data_sets/airlinesreviews/checkpoint_FiGNN/config_0/fold_3/FiGNN-May-18-2025_21-21-15.pth,0,{},3,4057,1405,134,0.15058040618896484
+airlinesreviews,FiGNN,4,./data_sets/airlinesreviews/checkpoint_FiGNN/config_0/fold_4/FiGNN-May-18-2025_21-21-23.pth,0,{},4,4067,1394,134,0.11252784729003906
+airlinesreviews,FM,0,./data_sets/airlinesreviews/checkpoint_FM/config_0/fold_0/FM-May-18-2025_21-23-03.pth,0,"{'task': 'rating', 'epoch': 10, 'lr': 0.05}",0,4041,1396,111,0.049178123474121094
+airlinesreviews,FM,1,./data_sets/airlinesreviews/checkpoint_FM/config_0/fold_1/FM-May-18-2025_21-23-09.pth,0,"{'task': 'rating', 'epoch': 10, 'lr': 0.05}",1,4024,1406,114,0.04826545715332031
+airlinesreviews,FM,2,./data_sets/airlinesreviews/checkpoint_FM/config_0/fold_2/FM-May-18-2025_21-23-15.pth,0,"{'task': 'rating', 'epoch': 10, 'lr': 0.05}",2,4057,1393,119,0.072357177734375
+airlinesreviews,FM,3,./data_sets/airlinesreviews/checkpoint_FM/config_0/fold_3/FM-May-18-2025_21-23-22.pth,0,"{'task': 'rating', 'epoch': 10, 'lr': 0.05}",3,4057,1405,134,0.0719606876373291
+airlinesreviews,FM,4,./data_sets/airlinesreviews/checkpoint_FM/config_0/fold_4/FM-May-18-2025_21-23-27.pth,0,"{'task': 'rating', 'epoch': 10, 'lr': 0.05}",4,4067,1394,134,0.06620907783508301
+airlinesreviews,FNN,0,./data_sets/airlinesreviews/checkpoint_FNN/config_0/fold_0/FNN-May-18-2025_21-23-34.pth,0,{},0,4041,1396,111,0.05925273895263672
+airlinesreviews,FNN,1,./data_sets/airlinesreviews/checkpoint_FNN/config_0/fold_1/FNN-May-18-2025_21-23-42.pth,0,{},1,4024,1406,114,0.08067202568054199
+airlinesreviews,FNN,2,./data_sets/airlinesreviews/checkpoint_FNN/config_0/fold_2/FNN-May-18-2025_21-23-51.pth,0,{},2,4057,1393,119,0.06279587745666504
+airlinesreviews,FNN,3,./data_sets/airlinesreviews/checkpoint_FNN/config_0/fold_3/FNN-May-18-2025_21-24-00.pth,0,{},3,4057,1405,134,0.06616616249084473
+airlinesreviews,FNN,4,./data_sets/airlinesreviews/checkpoint_FNN/config_0/fold_4/FNN-May-18-2025_21-24-09.pth,0,{},4,4067,1394,134,0.06029319763183594
+airlinesreviews,FwFM,0,./data_sets/airlinesreviews/checkpoint_FwFM/config_0/fold_0/FwFM-May-18-2025_21-24-18.pth,0,{},0,4041,1396,111,0.048079729080200195
+airlinesreviews,FwFM,1,./data_sets/airlinesreviews/checkpoint_FwFM/config_0/fold_1/FwFM-May-18-2025_21-24-24.pth,0,{},1,4024,1406,114,0.05707669258117676
+airlinesreviews,FwFM,2,./data_sets/airlinesreviews/checkpoint_FwFM/config_0/fold_2/FwFM-May-18-2025_21-24-30.pth,0,{},2,4057,1393,119,0.06404471397399902
+airlinesreviews,FwFM,3,./data_sets/airlinesreviews/checkpoint_FwFM/config_0/fold_3/FwFM-May-18-2025_21-24-36.pth,0,{},3,4057,1405,134,0.05860114097595215
+airlinesreviews,FwFM,4,./data_sets/airlinesreviews/checkpoint_FwFM/config_0/fold_4/FwFM-May-18-2025_21-24-42.pth,0,{},4,4067,1394,134,0.06556391716003418
+airlinesreviews,LR,0,./data_sets/airlinesreviews/checkpoint_LR/config_0/fold_0/LR-May-18-2025_21-16-16.pth,0,{},0,4041,1396,111,0.038924455642700195
+airlinesreviews,LR,1,./data_sets/airlinesreviews/checkpoint_LR/config_0/fold_1/LR-May-18-2025_21-16-21.pth,0,{},1,4024,1406,114,0.03619956970214844
+airlinesreviews,LR,2,./data_sets/airlinesreviews/checkpoint_LR/config_0/fold_2/LR-May-18-2025_21-16-27.pth,0,{},2,4057,1393,119,0.04172635078430176
+airlinesreviews,LR,3,./data_sets/airlinesreviews/checkpoint_LR/config_0/fold_3/LR-May-18-2025_21-16-33.pth,0,{},3,4057,1405,134,0.06413149833679199
+airlinesreviews,LR,4,./data_sets/airlinesreviews/checkpoint_LR/config_0/fold_4/LR-May-18-2025_21-16-39.pth,0,{},4,4067,1394,134,0.046459197998046875
+airlinesreviews,NFM,0,./data_sets/airlinesreviews/checkpoint_NFM/config_0/fold_0/NFM-May-18-2025_21-16-45.pth,0,"{'n_factors': 15, 'n_epochs': 10}",0,4041,1396,111,0.09557723999023438
+airlinesreviews,NFM,1,./data_sets/airlinesreviews/checkpoint_NFM/config_0/fold_1/NFM-May-18-2025_21-16-51.pth,0,"{'n_factors': 15, 'n_epochs': 10}",1,4024,1406,114,0.08377671241760254
+airlinesreviews,NFM,2,./data_sets/airlinesreviews/checkpoint_NFM/config_0/fold_2/NFM-May-18-2025_21-16-58.pth,0,"{'n_factors': 15, 'n_epochs': 10}",2,4057,1393,119,0.08536410331726074
+airlinesreviews,NFM,3,./data_sets/airlinesreviews/checkpoint_NFM/config_0/fold_3/NFM-May-18-2025_21-17-05.pth,0,"{'n_factors': 15, 'n_epochs': 10}",3,4057,1405,134,0.09217214584350586
+airlinesreviews,NFM,4,./data_sets/airlinesreviews/checkpoint_NFM/config_0/fold_4/NFM-May-18-2025_21-17-12.pth,0,"{'n_factors': 15, 'n_epochs': 10}",4,4067,1394,134,0.08407044410705566
+airlinesreviews,PNN,0,./data_sets/airlinesreviews/checkpoint_PNN/config_0/fold_0/PNN-May-18-2025_21-24-48.pth,0,{},0,4041,1396,111,0.06011819839477539
+airlinesreviews,PNN,1,./data_sets/airlinesreviews/checkpoint_PNN/config_0/fold_1/PNN-May-18-2025_21-24-56.pth,0,{},1,4024,1406,114,0.052362918853759766
+airlinesreviews,PNN,2,./data_sets/airlinesreviews/checkpoint_PNN/config_0/fold_2/PNN-May-18-2025_21-25-03.pth,0,{},2,4057,1393,119,0.07223677635192871
+airlinesreviews,PNN,3,./data_sets/airlinesreviews/checkpoint_PNN/config_0/fold_3/PNN-May-18-2025_21-25-10.pth,0,{},3,4057,1405,134,0.07596206665039062
+airlinesreviews,PNN,4,./data_sets/airlinesreviews/checkpoint_PNN/config_0/fold_4/PNN-May-18-2025_21-25-17.pth,0,{},4,4067,1394,134,0.06972169876098633
+airlinesreviews,WideDeep,0,./data_sets/airlinesreviews/checkpoint_WideDeep/config_0/fold_0/WideDeep-May-18-2025_21-25-24.pth,0,{},0,4041,1396,111,0.06838607788085938
+airlinesreviews,WideDeep,1,./data_sets/airlinesreviews/checkpoint_WideDeep/config_0/fold_1/WideDeep-May-18-2025_21-25-31.pth,0,{},1,4024,1406,114,0.06857156753540039
+airlinesreviews,WideDeep,2,./data_sets/airlinesreviews/checkpoint_WideDeep/config_0/fold_2/WideDeep-May-18-2025_21-25-37.pth,0,{},2,4057,1393,119,0.06673121452331543
+airlinesreviews,WideDeep,3,./data_sets/airlinesreviews/checkpoint_WideDeep/config_0/fold_3/WideDeep-May-18-2025_21-25-44.pth,0,{},3,4057,1405,134,0.07663917541503906
+airlinesreviews,WideDeep,4,./data_sets/airlinesreviews/checkpoint_WideDeep/config_0/fold_4/WideDeep-May-18-2025_21-25-50.pth,0,{},4,4067,1394,134,0.059944868087768555
+airlinesreviews,xDeepFM,0,./data_sets/airlinesreviews/checkpoint_xDeepFM/config_0/fold_0/xDeepFM-May-18-2025_21-25-57.pth,0,{},0,4041,1396,111,0.1596393585205078
+airlinesreviews,xDeepFM,1,./data_sets/airlinesreviews/checkpoint_xDeepFM/config_0/fold_1/xDeepFM-May-18-2025_21-26-11.pth,0,{},1,4024,1406,114,0.1611464023590088
+airlinesreviews,xDeepFM,2,./data_sets/airlinesreviews/checkpoint_xDeepFM/config_0/fold_2/xDeepFM-May-18-2025_21-26-25.pth,0,{},2,4057,1393,119,0.15174055099487305
+airlinesreviews,xDeepFM,3,./data_sets/airlinesreviews/checkpoint_xDeepFM/config_0/fold_3/xDeepFM-May-18-2025_21-26-40.pth,0,{},3,4057,1405,134,0.18576788902282715
+airlinesreviews,xDeepFM,4,./data_sets/airlinesreviews/checkpoint_xDeepFM/config_0/fold_4/xDeepFM-May-18-2025_21-26-54.pth,0,{},4,4067,1394,134,0.2319190502166748
+animes,AFM,0,./data_sets/animes/checkpoint_AFM/config_0/fold_0/AFM-May-23-2025_13-00-08.pth,0,{},0,114621,38351,456,0.8268475532531738
+animes,AFM,1,./data_sets/animes/checkpoint_AFM/config_0/fold_1/AFM-May-23-2025_13-00-49.pth,0,{},1,114655,38354,458,0.7852010726928711
+animes,AFM,2,./data_sets/animes/checkpoint_AFM/config_0/fold_2/AFM-May-23-2025_13-01-31.pth,0,{},2,114623,38361,411,0.7006001472473145
+animes,AFM,3,./data_sets/animes/checkpoint_AFM/config_0/fold_3/AFM-May-23-2025_13-02-13.pth,0,{},3,114600,38354,428,0.7479872703552246
+animes,AFM,4,./data_sets/animes/checkpoint_AFM/config_0/fold_4/AFM-May-23-2025_13-02-55.pth,0,{},4,114650,38335,460,0.7879745960235596
+animes,AutoInt,0,./data_sets/animes/checkpoint_AutoInt/config_0/fold_0/AutoInt-May-23-2025_13-40-51.pth,0,{},0,114621,38351,456,3.265697479248047
+animes,AutoInt,1,./data_sets/animes/checkpoint_AutoInt/config_0/fold_1/AutoInt-May-23-2025_13-42-03.pth,0,{},1,114655,38354,458,3.2701196670532227
+animes,AutoInt,2,./data_sets/animes/checkpoint_AutoInt/config_0/fold_2/AutoInt-May-23-2025_13-43-17.pth,0,{},2,114623,38361,411,3.0017099380493164
+animes,AutoInt,3,./data_sets/animes/checkpoint_AutoInt/config_0/fold_3/AutoInt-May-23-2025_13-44-30.pth,0,{},3,114600,38354,428,3.125230073928833
+animes,AutoInt,4,./data_sets/animes/checkpoint_AutoInt/config_0/fold_4/AutoInt-May-23-2025_13-45-42.pth,0,{},4,114650,38335,460,3.2473106384277344
+animes,DCN,0,./data_sets/animes/checkpoint_DCN/config_0/fold_0/DCN-May-23-2025_13-03-37.pth,0,{},0,114621,38351,456,5.325350284576416
+animes,DCN,1,./data_sets/animes/checkpoint_DCN/config_0/fold_1/DCN-May-23-2025_13-05-20.pth,0,{},1,114655,38354,458,5.427207708358765
+animes,DCN,2,./data_sets/animes/checkpoint_DCN/config_0/fold_2/DCN-May-23-2025_13-07-03.pth,0,{},2,114623,38361,411,4.720944881439209
+animes,DCN,3,./data_sets/animes/checkpoint_DCN/config_0/fold_3/DCN-May-23-2025_13-08-43.pth,0,{},3,114600,38354,428,4.864652395248413
+animes,DCN,4,./data_sets/animes/checkpoint_DCN/config_0/fold_4/DCN-May-23-2025_13-10-25.pth,0,{},4,114650,38335,460,5.269133806228638
+animes,DeepFM,0,./data_sets/animes/checkpoint_DeepFM/config_0/fold_0/DeepFM-May-23-2025_13-12-07.pth,0,{},0,114621,38351,456,1.5842540264129639
+animes,DeepFM,1,./data_sets/animes/checkpoint_DeepFM/config_0/fold_1/DeepFM-May-23-2025_13-13-11.pth,0,{},1,114655,38354,458,1.622879981994629
+animes,DeepFM,2,./data_sets/animes/checkpoint_DeepFM/config_0/fold_2/DeepFM-May-23-2025_13-14-15.pth,0,{},2,114623,38361,411,1.5337204933166504
+animes,DeepFM,3,./data_sets/animes/checkpoint_DeepFM/config_0/fold_3/DeepFM-May-23-2025_13-15-19.pth,0,{},3,114600,38354,428,1.4861383438110352
+animes,DeepFM,4,./data_sets/animes/checkpoint_DeepFM/config_0/fold_4/DeepFM-May-23-2025_13-16-22.pth,0,{},4,114650,38335,460,1.5837557315826416
+animes,DSSM,0,./data_sets/animes/checkpoint_DSSM/config_0/fold_0/DSSM-May-23-2025_13-17-28.pth,0,{},0,114621,38351,456,10.875114917755127
+animes,DSSM,1,./data_sets/animes/checkpoint_DSSM/config_0/fold_1/DSSM-May-23-2025_13-20-08.pth,0,{},1,114655,38354,458,11.14687442779541
+animes,DSSM,2,./data_sets/animes/checkpoint_DSSM/config_0/fold_2/DSSM-May-23-2025_13-22-47.pth,0,{},2,114623,38361,411,10.072927236557007
+animes,DSSM,3,./data_sets/animes/checkpoint_DSSM/config_0/fold_3/DSSM-May-23-2025_13-25-25.pth,0,{},3,114600,38354,428,10.152214288711548
+animes,DSSM,4,./data_sets/animes/checkpoint_DSSM/config_0/fold_4/DSSM-May-23-2025_13-28-04.pth,0,{},4,114650,38335,460,11.465116262435913
+animes,EulerNet,0,./data_sets/animes/checkpoint_EulerNet/config_0/fold_0/EulerNet-May-23-2025_13-46-58.pth,0,{},0,114621,38351,456,14.510383129119873
+animes,EulerNet,1,./data_sets/animes/checkpoint_EulerNet/config_0/fold_1/EulerNet-May-23-2025_13-49-37.pth,0,{},1,114655,38354,458,14.465789556503296
+animes,EulerNet,2,./data_sets/animes/checkpoint_EulerNet/config_0/fold_2/EulerNet-May-23-2025_13-52-14.pth,0,{},2,114623,38361,411,12.946683168411255
+animes,EulerNet,3,./data_sets/animes/checkpoint_EulerNet/config_0/fold_3/EulerNet-May-23-2025_13-54-51.pth,0,{},3,114600,38354,428,13.516014099121094
+animes,EulerNet,4,./data_sets/animes/checkpoint_EulerNet/config_0/fold_4/EulerNet-May-23-2025_13-57-28.pth,0,{},4,114650,38335,460,14.482389450073242
+animes,FiGNN,0,./data_sets/animes/checkpoint_FiGNN/config_0/fold_0/FiGNN-May-23-2025_13-35-30.pth,0,{},0,114621,38351,456,4.3292577266693115
+animes,FiGNN,1,./data_sets/animes/checkpoint_FiGNN/config_0/fold_1/FiGNN-May-23-2025_13-36-34.pth,0,{},1,114655,38354,458,4.316596746444702
+animes,FiGNN,2,./data_sets/animes/checkpoint_FiGNN/config_0/fold_2/FiGNN-May-23-2025_13-37-38.pth,0,{},2,114623,38361,411,3.818178415298462
+animes,FiGNN,3,./data_sets/animes/checkpoint_FiGNN/config_0/fold_3/FiGNN-May-23-2025_13-38-42.pth,0,{},3,114600,38354,428,4.041110038757324
+animes,FiGNN,4,./data_sets/animes/checkpoint_FiGNN/config_0/fold_4/FiGNN-May-23-2025_13-39-47.pth,0,{},4,114650,38335,460,4.160943984985352
+animes,FM,0,./data_sets/animes/checkpoint_FM/config_0/fold_0/FM-May-23-2025_13-59-59.pth,0,"{'task': 'rating', 'epoch': 10, 'lr': 0.05}",0,114621,38351,456,0.6964702606201172
+animes,FM,1,./data_sets/animes/checkpoint_FM/config_0/fold_1/FM-May-23-2025_14-00-38.pth,0,"{'task': 'rating', 'epoch': 10, 'lr': 0.05}",1,114655,38354,458,0.6401715278625488
+animes,FM,2,./data_sets/animes/checkpoint_FM/config_0/fold_2/FM-May-23-2025_14-01-15.pth,0,"{'task': 'rating', 'epoch': 10, 'lr': 0.05}",2,114623,38361,411,0.5839197635650635
+animes,FM,3,./data_sets/animes/checkpoint_FM/config_0/fold_3/FM-May-23-2025_14-01-54.pth,0,"{'task': 'rating', 'epoch': 10, 'lr': 0.05}",3,114600,38354,428,0.6768388748168945
+animes,FM,4,./data_sets/animes/checkpoint_FM/config_0/fold_4/FM-May-23-2025_14-02-32.pth,0,"{'task': 'rating', 'epoch': 10, 'lr': 0.05}",4,114650,38335,460,0.678041934967041
+animes,FNN,0,./data_sets/animes/checkpoint_FNN/config_0/fold_0/FNN-May-23-2025_14-03-10.pth,0,{},0,114621,38351,456,4.371752738952637
+animes,FNN,1,./data_sets/animes/checkpoint_FNN/config_0/fold_1/FNN-May-23-2025_14-04-39.pth,0,{},1,114655,38354,458,4.375576496124268
+animes,FNN,2,./data_sets/animes/checkpoint_FNN/config_0/fold_2/FNN-May-23-2025_14-06-07.pth,0,{},2,114623,38361,411,3.9463512897491455
+animes,FNN,3,./data_sets/animes/checkpoint_FNN/config_0/fold_3/FNN-May-23-2025_14-07-36.pth,0,{},3,114600,38354,428,4.1373302936553955
+animes,FNN,4,./data_sets/animes/checkpoint_FNN/config_0/fold_4/FNN-May-23-2025_14-09-04.pth,0,{},4,114650,38335,460,4.629383563995361
+animes,FwFM,0,./data_sets/animes/checkpoint_FwFM/config_0/fold_0/FwFM-May-23-2025_14-10-33.pth,0,{},0,114621,38351,456,0.5390639305114746
+animes,FwFM,1,./data_sets/animes/checkpoint_FwFM/config_0/fold_1/FwFM-May-23-2025_14-11-11.pth,0,{},1,114655,38354,458,0.5482010841369629
+animes,FwFM,2,./data_sets/animes/checkpoint_FwFM/config_0/fold_2/FwFM-May-23-2025_14-11-50.pth,0,{},2,114623,38361,411,0.49991607666015625
+animes,FwFM,3,./data_sets/animes/checkpoint_FwFM/config_0/fold_3/FwFM-May-23-2025_14-12-29.pth,0,{},3,114600,38354,428,0.5207805633544922
+animes,FwFM,4,./data_sets/animes/checkpoint_FwFM/config_0/fold_4/FwFM-May-23-2025_14-13-07.pth,0,{},4,114650,38335,460,0.5481874942779541
+animes,LR,0,./data_sets/animes/checkpoint_LR/config_0/fold_0/LR-May-23-2025_12-54-57.pth,0,{},0,114621,38351,456,0.3449680805206299
+animes,LR,1,./data_sets/animes/checkpoint_LR/config_0/fold_1/LR-May-23-2025_12-55-13.pth,0,{},1,114655,38354,458,0.3555877208709717
+animes,LR,2,./data_sets/animes/checkpoint_LR/config_0/fold_2/LR-May-23-2025_12-55-30.pth,0,{},2,114623,38361,411,0.3311324119567871
+animes,LR,3,./data_sets/animes/checkpoint_LR/config_0/fold_3/LR-May-23-2025_12-55-46.pth,0,{},3,114600,38354,428,0.3293919563293457
+animes,LR,4,./data_sets/animes/checkpoint_LR/config_0/fold_4/LR-May-23-2025_12-56-03.pth,0,{},4,114650,38335,460,0.35033655166625977
+animes,NFM,0,./data_sets/animes/checkpoint_NFM/config_0/fold_0/NFM-May-23-2025_12-56-19.pth,0,"{'n_factors': 15, 'n_epochs': 10}",0,114621,38351,456,1.193143606185913
+animes,NFM,1,./data_sets/animes/checkpoint_NFM/config_0/fold_1/NFM-May-23-2025_12-57-04.pth,0,"{'n_factors': 15, 'n_epochs': 10}",1,114655,38354,458,1.2794289588928223
+animes,NFM,2,./data_sets/animes/checkpoint_NFM/config_0/fold_2/NFM-May-23-2025_12-57-49.pth,0,"{'n_factors': 15, 'n_epochs': 10}",2,114623,38361,411,1.2111163139343262
+animes,NFM,3,./data_sets/animes/checkpoint_NFM/config_0/fold_3/NFM-May-23-2025_12-58-35.pth,0,"{'n_factors': 15, 'n_epochs': 10}",3,114600,38354,428,1.1732909679412842
+animes,NFM,4,./data_sets/animes/checkpoint_NFM/config_0/fold_4/NFM-May-23-2025_12-59-21.pth,0,"{'n_factors': 15, 'n_epochs': 10}",4,114650,38335,460,1.2266793251037598
+animes,PNN,0,./data_sets/animes/checkpoint_PNN/config_0/fold_0/PNN-May-23-2025_14-13-45.pth,0,{},0,114621,38351,456,2.86606764793396
+animes,PNN,1,./data_sets/animes/checkpoint_PNN/config_0/fold_1/PNN-May-23-2025_14-14-35.pth,0,{},1,114655,38354,458,3.2081310749053955
+animes,PNN,2,./data_sets/animes/checkpoint_PNN/config_0/fold_2/PNN-May-23-2025_14-15-24.pth,0,{},2,114623,38361,411,2.6725337505340576
+animes,PNN,3,./data_sets/animes/checkpoint_PNN/config_0/fold_3/PNN-May-23-2025_14-16-13.pth,0,{},3,114600,38354,428,2.6757750511169434
+animes,PNN,4,./data_sets/animes/checkpoint_PNN/config_0/fold_4/PNN-May-23-2025_14-17-02.pth,0,{},4,114650,38335,460,2.8879435062408447
+animes,WideDeep,0,./data_sets/animes/checkpoint_WideDeep/config_0/fold_0/WideDeep-May-23-2025_14-17-52.pth,0,{},0,114621,38351,456,0.6714794635772705
+animes,WideDeep,1,./data_sets/animes/checkpoint_WideDeep/config_0/fold_1/WideDeep-May-23-2025_14-18-35.pth,0,{},1,114655,38354,458,0.7028427124023438
+animes,WideDeep,2,./data_sets/animes/checkpoint_WideDeep/config_0/fold_2/WideDeep-May-23-2025_14-19-19.pth,0,{},2,114623,38361,411,0.6081504821777344
+animes,WideDeep,3,./data_sets/animes/checkpoint_WideDeep/config_0/fold_3/WideDeep-May-23-2025_14-20-02.pth,0,{},3,114600,38354,428,0.6379063129425049
+animes,WideDeep,4,./data_sets/animes/checkpoint_WideDeep/config_0/fold_4/WideDeep-May-23-2025_14-20-47.pth,0,{},4,114650,38335,460,0.7507748603820801
+animes,xDeepFM,0,./data_sets/animes/checkpoint_xDeepFM/config_0/fold_0/xDeepFM-May-23-2025_14-21-30.pth,0,{},0,114621,38351,456,32.06470036506653
+animes,xDeepFM,1,./data_sets/animes/checkpoint_xDeepFM/config_0/fold_1/xDeepFM-May-23-2025_14-24-43.pth,0,{},1,114655,38354,458,31.78690505027771
+animes,xDeepFM,2,./data_sets/animes/checkpoint_xDeepFM/config_0/fold_2/xDeepFM-May-23-2025_14-27-56.pth,0,{},2,114623,38361,411,29.0026593208313
+animes,xDeepFM,3,./data_sets/animes/checkpoint_xDeepFM/config_0/fold_3/xDeepFM-May-23-2025_14-31-47.pth,0,{},3,114600,38354,428,30.056133270263672
+animes,xDeepFM,4,./data_sets/animes/checkpoint_xDeepFM/config_0/fold_4/xDeepFM-May-23-2025_14-35-00.pth,0,{},4,114650,38335,460,31.882200479507446
+books,AFM,3,./data_sets/books/checkpoint_AFM/config_0/fold_3/AFM-May-18-2025_21-28-08.pth,0,{},3,100,100,100,0.21045970916748047
+books,AFM,4,./data_sets/books/checkpoint_AFM/config_0/fold_4/AFM-May-18-2025_21-28-16.pth,0,{},4,100,100,100,0.19878578186035156
+books,AutoInt,3,./data_sets/books/checkpoint_AutoInt/config_0/fold_3/AutoInt-May-18-2025_21-31-15.pth,0,{},3,100,100,100,0.9873666763305664
+books,AutoInt,4,./data_sets/books/checkpoint_AutoInt/config_0/fold_4/AutoInt-May-18-2025_21-31-24.pth,0,{},4,100,100,100,0.9702150821685791
+books,DCN,3,./data_sets/books/checkpoint_DCN/config_0/fold_3/DCN-May-18-2025_21-28-34.pth,0,{},3,100,100,100,1.977447748184204
+books,DCN,4,./data_sets/books/checkpoint_DCN/config_0/fold_4/DCN-May-18-2025_21-28-48.pth,0,{},4,100,100,100,2.1062145233154297
+books,DeepFM,3,./data_sets/books/checkpoint_DeepFM/config_0/fold_3/DeepFM-May-18-2025_21-29-10.pth,0,{},3,100,100,100,0.5260627269744873
+books,DeepFM,4,./data_sets/books/checkpoint_DeepFM/config_0/fold_4/DeepFM-May-18-2025_21-29-19.pth,0,{},4,100,100,100,0.5117595195770264
+books,DSSM,3,./data_sets/books/checkpoint_DSSM/config_0/fold_3/DSSM-May-18-2025_21-29-38.pth,0,{},3,100,100,100,3.6491315364837646
+books,DSSM,4,./data_sets/books/checkpoint_DSSM/config_0/fold_4/DSSM-May-18-2025_21-29-54.pth,0,{},4,100,100,100,3.555255651473999
+books,EulerNet,3,./data_sets/books/checkpoint_EulerNet/config_0/fold_3/EulerNet-May-18-2025_21-31-44.pth,0,{},3,100,100,100,4.536803245544434
+books,EulerNet,4,./data_sets/books/checkpoint_EulerNet/config_0/fold_4/EulerNet-May-18-2025_21-31-57.pth,0,{},4,100,100,100,4.559342622756958
+books,FiGNN,3,./data_sets/books/checkpoint_FiGNN/config_0/fold_3/FiGNN-May-18-2025_21-30-46.pth,0,{},3,100,100,100,1.279611587524414
+books,FiGNN,4,./data_sets/books/checkpoint_FiGNN/config_0/fold_4/FiGNN-May-18-2025_21-30-55.pth,0,{},4,100,100,100,1.2826764583587646
+books,FM,3,./data_sets/books/checkpoint_FM/config_0/fold_3/FM-May-18-2025_21-32-20.pth,0,"{'task': 'rating', 'epoch': 10, 'lr': 0.05}",3,100,100,100,0.17577719688415527
+books,FM,4,./data_sets/books/checkpoint_FM/config_0/fold_4/FM-May-18-2025_21-32-27.pth,0,"{'task': 'rating', 'epoch': 10, 'lr': 0.05}",4,100,100,100,0.18435907363891602
+books,FNN,3,./data_sets/books/checkpoint_FNN/config_0/fold_3/FNN-May-18-2025_21-32-44.pth,0,{},3,100,100,100,1.5136089324951172
+books,FNN,4,./data_sets/books/checkpoint_FNN/config_0/fold_4/FNN-May-18-2025_21-32-54.pth,0,{},4,100,100,100,1.519324541091919
+books,FwFM,3,./data_sets/books/checkpoint_FwFM/config_0/fold_3/FwFM-May-18-2025_21-33-15.pth,0,{},3,100,100,100,0.14853525161743164
+books,FwFM,4,./data_sets/books/checkpoint_FwFM/config_0/fold_4/FwFM-May-18-2025_21-33-21.pth,0,{},4,100,100,100,0.13256621360778809
+books,LR,3,./data_sets/books/checkpoint_LR/config_0/fold_3/LR-May-18-2025_21-27-19.pth,0,{},3,100,100,100,0.08878278732299805
+books,LR,4,./data_sets/books/checkpoint_LR/config_0/fold_4/LR-May-18-2025_21-27-25.pth,0,{},4,100,100,100,0.08971595764160156
+books,NFM,3,./data_sets/books/checkpoint_NFM/config_0/fold_3/NFM-May-18-2025_21-27-41.pth,0,"{'n_factors': 15, 'n_epochs': 10}",3,100,100,100,0.3685636520385742
+books,NFM,4,./data_sets/books/checkpoint_NFM/config_0/fold_4/NFM-May-18-2025_21-27-49.pth,0,"{'n_factors': 15, 'n_epochs': 10}",4,100,100,100,0.32994985580444336
+books,PNN,3,./data_sets/books/checkpoint_PNN/config_0/fold_3/PNN-May-18-2025_21-33-38.pth,0,{},3,100,100,100,0.9899702072143555
+books,PNN,4,./data_sets/books/checkpoint_PNN/config_0/fold_4/PNN-May-18-2025_21-33-46.pth,0,{},4,100,100,100,0.9517810344696045
+books,WideDeep,3,./data_sets/books/checkpoint_WideDeep/config_0/fold_3/WideDeep-May-18-2025_21-34-04.pth,0,{},3,100,100,100,0.17944025993347168
+books,WideDeep,4,./data_sets/books/checkpoint_WideDeep/config_0/fold_4/WideDeep-May-18-2025_21-34-11.pth,0,{},4,100,100,100,0.1743004322052002
+books,xDeepFM,3,./data_sets/books/checkpoint_xDeepFM/config_0/fold_3/xDeepFM-May-18-2025_21-34-28.pth,0,{},3,100,100,100,9.566926002502441
+books,xDeepFM,4,./data_sets/books/checkpoint_xDeepFM/config_0/fold_4/xDeepFM-May-18-2025_21-34-47.pth,0,{},4,100,100,100,9.677125930786133
+clothes,AFM,0,./data_sets/clothes/checkpoint_AFM/config_0/fold_0/AFM-May-23-2025_15-32-57.pth,0,{},0,14080,4695,7,0.008001327514648438
+clothes,AFM,1,./data_sets/clothes/checkpoint_AFM/config_0/fold_1/AFM-May-23-2025_15-33-04.pth,0,{},1,14081,4697,8,0.009802579879760742
+clothes,AFM,2,./data_sets/clothes/checkpoint_AFM/config_0/fold_2/AFM-May-23-2025_15-33-12.pth,0,{},2,14080,4695,3,0.005000114440917969
+clothes,AFM,3,./data_sets/clothes/checkpoint_AFM/config_0/fold_3/AFM-May-23-2025_15-33-19.pth,0,{},3,14081,4695,8,0.007002830505371094
+clothes,AFM,4,./data_sets/clothes/checkpoint_AFM/config_0/fold_4/AFM-May-23-2025_15-33-26.pth,0,{},4,14083,4694,7,0.00500035285949707
+clothes,AutoInt,0,./data_sets/clothes/checkpoint_AutoInt/config_0/fold_0/AutoInt-May-23-2025_15-39-09.pth,0,{},0,14080,4695,7,0.016806364059448242
+clothes,AutoInt,1,./data_sets/clothes/checkpoint_AutoInt/config_0/fold_1/AutoInt-May-23-2025_15-39-21.pth,0,{},1,14081,4697,8,0.02879500389099121
+clothes,AutoInt,2,./data_sets/clothes/checkpoint_AutoInt/config_0/fold_2/AutoInt-May-23-2025_15-39-32.pth,0,{},2,14080,4695,3,0.012763261795043945
+clothes,AutoInt,3,./data_sets/clothes/checkpoint_AutoInt/config_0/fold_3/AutoInt-May-23-2025_15-39-44.pth,0,{},3,14081,4695,8,0.031131267547607422
+clothes,AutoInt,4,./data_sets/clothes/checkpoint_AutoInt/config_0/fold_4/AutoInt-May-23-2025_15-39-56.pth,0,{},4,14083,4694,7,0.011061429977416992
+clothes,DCN,0,./data_sets/clothes/checkpoint_DCN/config_0/fold_0/DCN-May-23-2025_15-33-33.pth,0,{},0,14080,4695,7,0.01638174057006836
+clothes,DCN,1,./data_sets/clothes/checkpoint_DCN/config_0/fold_1/DCN-May-23-2025_15-33-49.pth,0,{},1,14081,4697,8,0.022130489349365234
+clothes,DCN,2,./data_sets/clothes/checkpoint_DCN/config_0/fold_2/DCN-May-23-2025_15-34-04.pth,0,{},2,14080,4695,3,0.01116943359375
+clothes,DCN,3,./data_sets/clothes/checkpoint_DCN/config_0/fold_3/DCN-May-23-2025_15-34-19.pth,0,{},3,14081,4695,8,0.01698446273803711
+clothes,DCN,4,./data_sets/clothes/checkpoint_DCN/config_0/fold_4/DCN-May-23-2025_15-34-35.pth,0,{},4,14083,4694,7,0.027053356170654297
+clothes,DeepFM,0,./data_sets/clothes/checkpoint_DeepFM/config_0/fold_0/DeepFM-May-23-2025_15-34-50.pth,0,{},0,14080,4695,7,0.011964082717895508
+clothes,DeepFM,1,./data_sets/clothes/checkpoint_DeepFM/config_0/fold_1/DeepFM-May-23-2025_15-35-01.pth,0,{},1,14081,4697,8,0.01649022102355957
+clothes,DeepFM,2,./data_sets/clothes/checkpoint_DeepFM/config_0/fold_2/DeepFM-May-23-2025_15-35-12.pth,0,{},2,14080,4695,3,0.006062030792236328
+clothes,DeepFM,3,./data_sets/clothes/checkpoint_DeepFM/config_0/fold_3/DeepFM-May-23-2025_15-35-22.pth,0,{},3,14081,4695,8,0.014796018600463867
+clothes,DeepFM,4,./data_sets/clothes/checkpoint_DeepFM/config_0/fold_4/DeepFM-May-23-2025_15-35-33.pth,0,{},4,14083,4694,7,0.015044212341308594
+clothes,DSSM,0,./data_sets/clothes/checkpoint_DSSM/config_0/fold_0/DSSM-May-23-2025_15-35-43.pth,0,{},0,14080,4695,7,0.03678250312805176
+clothes,DSSM,1,./data_sets/clothes/checkpoint_DSSM/config_0/fold_1/DSSM-May-23-2025_15-36-06.pth,0,{},1,14081,4697,8,0.03243684768676758
+clothes,DSSM,2,./data_sets/clothes/checkpoint_DSSM/config_0/fold_2/DSSM-May-23-2025_15-36-29.pth,0,{},2,14080,4695,3,0.009000062942504883
+clothes,DSSM,3,./data_sets/clothes/checkpoint_DSSM/config_0/fold_3/DSSM-May-23-2025_15-36-53.pth,0,{},3,14081,4695,8,0.03346681594848633
+clothes,DSSM,4,./data_sets/clothes/checkpoint_DSSM/config_0/fold_4/DSSM-May-23-2025_15-37-15.pth,0,{},4,14083,4694,7,0.02593541145324707
+clothes,EulerNet,0,./data_sets/clothes/checkpoint_EulerNet/config_0/fold_0/EulerNet-May-23-2025_15-40-08.pth,0,{},0,14080,4695,7,0.016435623168945312
+clothes,EulerNet,1,./data_sets/clothes/checkpoint_EulerNet/config_0/fold_1/EulerNet-May-23-2025_15-40-24.pth,0,{},1,14081,4697,8,0.03877067565917969
+clothes,EulerNet,2,./data_sets/clothes/checkpoint_EulerNet/config_0/fold_2/EulerNet-May-23-2025_15-40-41.pth,0,{},2,14080,4695,3,0.019011735916137695
+clothes,EulerNet,3,./data_sets/clothes/checkpoint_EulerNet/config_0/fold_3/EulerNet-May-23-2025_15-40-57.pth,0,{},3,14081,4695,8,0.03727841377258301
+clothes,EulerNet,4,./data_sets/clothes/checkpoint_EulerNet/config_0/fold_4/EulerNet-May-23-2025_15-41-14.pth,0,{},4,14083,4694,7,0.031230688095092773
+clothes,FiGNN,0,./data_sets/clothes/checkpoint_FiGNN/config_0/fold_0/FiGNN-May-23-2025_15-38-15.pth,0,{},0,14080,4695,7,0.011260271072387695
+clothes,FiGNN,1,./data_sets/clothes/checkpoint_FiGNN/config_0/fold_1/FiGNN-May-23-2025_15-38-26.pth,0,{},1,14081,4697,8,0.033159494400024414
+clothes,FiGNN,2,./data_sets/clothes/checkpoint_FiGNN/config_0/fold_2/FiGNN-May-23-2025_15-38-37.pth,0,{},2,14080,4695,3,0.0010461807250976562
+clothes,FiGNN,3,./data_sets/clothes/checkpoint_FiGNN/config_0/fold_3/FiGNN-May-23-2025_15-38-47.pth,0,{},3,14081,4695,8,0.030925512313842773
+clothes,FiGNN,4,./data_sets/clothes/checkpoint_FiGNN/config_0/fold_4/FiGNN-May-23-2025_15-38-58.pth,0,{},4,14083,4694,7,0.021786212921142578
+clothes,FM,0,./data_sets/clothes/checkpoint_FM/config_0/fold_0/FM-May-23-2025_15-41-30.pth,0,"{'task': 'rating', 'epoch': 10, 'lr': 0.05}",0,14080,4695,7,0.002659320831298828
+clothes,FM,1,./data_sets/clothes/checkpoint_FM/config_0/fold_1/FM-May-23-2025_15-41-37.pth,0,"{'task': 'rating', 'epoch': 10, 'lr': 0.05}",1,14081,4697,8,0.00803065299987793
+clothes,FM,2,./data_sets/clothes/checkpoint_FM/config_0/fold_2/FM-May-23-2025_15-41-44.pth,0,"{'task': 'rating', 'epoch': 10, 'lr': 0.05}",2,14080,4695,3,0.004001617431640625
+clothes,FM,3,./data_sets/clothes/checkpoint_FM/config_0/fold_3/FM-May-23-2025_15-41-51.pth,0,"{'task': 'rating', 'epoch': 10, 'lr': 0.05}",3,14081,4695,8,0.0030374526977539062
+clothes,FM,4,./data_sets/clothes/checkpoint_FM/config_0/fold_4/FM-May-23-2025_15-41-58.pth,0,"{'task': 'rating', 'epoch': 10, 'lr': 0.05}",4,14083,4694,7,0.006998538970947266
+clothes,FNN,0,./data_sets/clothes/checkpoint_FNN/config_0/fold_0/FNN-May-23-2025_15-42-05.pth,0,{},0,14080,4695,7,0.015038013458251953
+clothes,FNN,1,./data_sets/clothes/checkpoint_FNN/config_0/fold_1/FNN-May-23-2025_15-42-20.pth,0,{},1,14081,4697,8,0.024403810501098633
+clothes,FNN,2,./data_sets/clothes/checkpoint_FNN/config_0/fold_2/FNN-May-23-2025_15-42-35.pth,0,{},2,14080,4695,3,0.008213043212890625
+clothes,FNN,3,./data_sets/clothes/checkpoint_FNN/config_0/fold_3/FNN-May-23-2025_15-42-48.pth,0,{},3,14081,4695,8,0.025197744369506836
+clothes,FNN,4,./data_sets/clothes/checkpoint_FNN/config_0/fold_4/FNN-May-23-2025_15-43-02.pth,0,{},4,14083,4694,7,0.011477947235107422
+clothes,FwFM,0,./data_sets/clothes/checkpoint_FwFM/config_0/fold_0/FwFM-May-23-2025_15-43-15.pth,0,{},0,14080,4695,7,0.008231163024902344
+clothes,FwFM,1,./data_sets/clothes/checkpoint_FwFM/config_0/fold_1/FwFM-May-23-2025_15-43-22.pth,0,{},1,14081,4697,8,0.011128425598144531
+clothes,FwFM,2,./data_sets/clothes/checkpoint_FwFM/config_0/fold_2/FwFM-May-23-2025_15-43-29.pth,0,{},2,14080,4695,3,0.003236055374145508
+clothes,FwFM,3,./data_sets/clothes/checkpoint_FwFM/config_0/fold_3/FwFM-May-23-2025_15-43-37.pth,0,{},3,14081,4695,8,0.010680437088012695
+clothes,FwFM,4,./data_sets/clothes/checkpoint_FwFM/config_0/fold_4/FwFM-May-23-2025_15-43-44.pth,0,{},4,14083,4694,7,0.008091211318969727
+clothes,LR,0,./data_sets/clothes/checkpoint_LR/config_0/fold_0/LR-May-23-2025_15-31-46.pth,0,{},0,14080,4695,7,0.0
+clothes,LR,1,./data_sets/clothes/checkpoint_LR/config_0/fold_1/LR-May-23-2025_15-31-52.pth,0,{},1,14081,4697,8,0.004456281661987305
+clothes,LR,2,./data_sets/clothes/checkpoint_LR/config_0/fold_2/LR-May-23-2025_15-31-58.pth,0,{},2,14080,4695,3,0.002004861831665039
+clothes,LR,3,./data_sets/clothes/checkpoint_LR/config_0/fold_3/LR-May-23-2025_15-32-04.pth,0,{},3,14081,4695,8,0.005166530609130859
+clothes,LR,4,./data_sets/clothes/checkpoint_LR/config_0/fold_4/LR-May-23-2025_15-32-10.pth,0,{},4,14083,4694,7,0.004008293151855469
+clothes,NFM,0,./data_sets/clothes/checkpoint_NFM/config_0/fold_0/NFM-May-23-2025_15-32-16.pth,0,"{'n_factors': 15, 'n_epochs': 10}",0,14080,4695,7,0.010864019393920898
+clothes,NFM,1,./data_sets/clothes/checkpoint_NFM/config_0/fold_1/NFM-May-23-2025_15-32-24.pth,0,"{'n_factors': 15, 'n_epochs': 10}",1,14081,4697,8,0.012365579605102539
+clothes,NFM,2,./data_sets/clothes/checkpoint_NFM/config_0/fold_2/NFM-May-23-2025_15-32-33.pth,0,"{'n_factors': 15, 'n_epochs': 10}",2,14080,4695,3,0.00674748420715332
+clothes,NFM,3,./data_sets/clothes/checkpoint_NFM/config_0/fold_3/NFM-May-23-2025_15-32-41.pth,0,"{'n_factors': 15, 'n_epochs': 10}",3,14081,4695,8,0.014202117919921875
+clothes,NFM,4,./data_sets/clothes/checkpoint_NFM/config_0/fold_4/NFM-May-23-2025_15-32-49.pth,0,"{'n_factors': 15, 'n_epochs': 10}",4,14083,4694,7,0.012903213500976562
+clothes,PNN,0,./data_sets/clothes/checkpoint_PNN/config_0/fold_0/PNN-May-23-2025_15-43-51.pth,0,{},0,14080,4695,7,0.0
+clothes,PNN,1,./data_sets/clothes/checkpoint_PNN/config_0/fold_1/PNN-May-23-2025_15-44-00.pth,0,{},1,14081,4697,8,0.008919954299926758
+clothes,PNN,2,./data_sets/clothes/checkpoint_PNN/config_0/fold_2/PNN-May-23-2025_15-44-08.pth,0,{},2,14080,4695,3,0.0
+clothes,PNN,3,./data_sets/clothes/checkpoint_PNN/config_0/fold_3/PNN-May-23-2025_15-44-17.pth,0,{},3,14081,4695,8,0.015857458114624023
+clothes,PNN,4,./data_sets/clothes/checkpoint_PNN/config_0/fold_4/PNN-May-23-2025_15-44-26.pth,0,{},4,14083,4694,7,0.013034343719482422
+clothes,WideDeep,0,./data_sets/clothes/checkpoint_WideDeep/config_0/fold_0/WideDeep-May-23-2025_15-44-35.pth,0,{},0,14080,4695,7,0.007590770721435547
+clothes,WideDeep,1,./data_sets/clothes/checkpoint_WideDeep/config_0/fold_1/WideDeep-May-23-2025_15-44-43.pth,0,{},1,14081,4697,8,0.006999969482421875
+clothes,WideDeep,2,./data_sets/clothes/checkpoint_WideDeep/config_0/fold_2/WideDeep-May-23-2025_15-44-51.pth,0,{},2,14080,4695,3,0.005736827850341797
+clothes,WideDeep,3,./data_sets/clothes/checkpoint_WideDeep/config_0/fold_3/WideDeep-May-23-2025_15-44-59.pth,0,{},3,14081,4695,8,0.008248090744018555
+clothes,WideDeep,4,./data_sets/clothes/checkpoint_WideDeep/config_0/fold_4/WideDeep-May-23-2025_15-45-06.pth,0,{},4,14083,4694,7,0.0
+clothes,xDeepFM,0,./data_sets/clothes/checkpoint_xDeepFM/config_0/fold_0/xDeepFM-May-23-2025_15-45-14.pth,0,{},0,14080,4695,7,0.07758712768554688
+clothes,xDeepFM,1,./data_sets/clothes/checkpoint_xDeepFM/config_0/fold_1/xDeepFM-May-23-2025_15-45-41.pth,0,{},1,14081,4697,8,0.08638238906860352
+clothes,xDeepFM,2,./data_sets/clothes/checkpoint_xDeepFM/config_0/fold_2/xDeepFM-May-23-2025_15-46-07.pth,0,{},2,14080,4695,3,0.027948617935180664
+clothes,xDeepFM,3,./data_sets/clothes/checkpoint_xDeepFM/config_0/fold_3/xDeepFM-May-23-2025_15-46-33.pth,0,{},3,14081,4695,8,0.09559917449951172
+clothes,xDeepFM,4,./data_sets/clothes/checkpoint_xDeepFM/config_0/fold_4/xDeepFM-May-23-2025_15-47-00.pth,0,{},4,14083,4694,7,0.0624699592590332
+disneylandreviews,AFM,0,./data_sets/disneylandreviews/checkpoint_AFM/config_0/fold_0/AFM-May-18-2025_20-33-45.pth,0,{},0,93,47,41,0.03412580490112305
+disneylandreviews,AFM,1,./data_sets/disneylandreviews/checkpoint_AFM/config_0/fold_1/AFM-May-18-2025_20-33-51.pth,0,{},1,96,47,43,0.028139352798461914
+disneylandreviews,AFM,2,./data_sets/disneylandreviews/checkpoint_AFM/config_0/fold_2/AFM-May-18-2025_20-33-56.pth,0,{},2,90,47,38,0.02421712875366211
+disneylandreviews,AFM,3,./data_sets/disneylandreviews/checkpoint_AFM/config_0/fold_3/AFM-May-18-2025_20-34-02.pth,0,{},3,97,52,49,0.02520895004272461
+disneylandreviews,AFM,4,./data_sets/disneylandreviews/checkpoint_AFM/config_0/fold_4/AFM-May-18-2025_20-34-08.pth,0,{},4,96,52,49,0.03660321235656738
+disneylandreviews,AutoInt,0,./data_sets/disneylandreviews/checkpoint_AutoInt/config_0/fold_0/AutoInt-May-18-2025_20-36-46.pth,0,{},0,93,47,41,0.03616786003112793
+disneylandreviews,AutoInt,1,./data_sets/disneylandreviews/checkpoint_AutoInt/config_0/fold_1/AutoInt-May-18-2025_20-36-52.pth,0,{},1,96,47,43,0.04903435707092285
+disneylandreviews,AutoInt,2,./data_sets/disneylandreviews/checkpoint_AutoInt/config_0/fold_2/AutoInt-May-18-2025_20-36-58.pth,0,{},2,90,47,38,0.05215334892272949
+disneylandreviews,AutoInt,3,./data_sets/disneylandreviews/checkpoint_AutoInt/config_0/fold_3/AutoInt-May-18-2025_20-37-04.pth,0,{},3,97,52,49,0.04700779914855957
+disneylandreviews,AutoInt,4,./data_sets/disneylandreviews/checkpoint_AutoInt/config_0/fold_4/AutoInt-May-18-2025_20-37-10.pth,0,{},4,96,52,49,0.056166648864746094
+disneylandreviews,DCN,0,./data_sets/disneylandreviews/checkpoint_DCN/config_0/fold_0/DCN-May-18-2025_20-34-13.pth,0,{},0,93,47,41,0.029644250869750977
+disneylandreviews,DCN,1,./data_sets/disneylandreviews/checkpoint_DCN/config_0/fold_1/DCN-May-18-2025_20-34-20.pth,0,{},1,96,47,43,0.03634238243103027
+disneylandreviews,DCN,2,./data_sets/disneylandreviews/checkpoint_DCN/config_0/fold_2/DCN-May-18-2025_20-34-26.pth,0,{},2,90,47,38,0.04665827751159668
+disneylandreviews,DCN,3,./data_sets/disneylandreviews/checkpoint_DCN/config_0/fold_3/DCN-May-18-2025_20-34-33.pth,0,{},3,97,52,49,0.03940606117248535
+disneylandreviews,DCN,4,./data_sets/disneylandreviews/checkpoint_DCN/config_0/fold_4/DCN-May-18-2025_20-34-39.pth,0,{},4,96,52,49,0.025683164596557617
+disneylandreviews,DeepFM,0,./data_sets/disneylandreviews/checkpoint_DeepFM/config_0/fold_0/DeepFM-May-18-2025_20-34-45.pth,0,{},0,93,47,41,0.023254871368408203
+disneylandreviews,DeepFM,1,./data_sets/disneylandreviews/checkpoint_DeepFM/config_0/fold_1/DeepFM-May-18-2025_20-34-51.pth,0,{},1,96,47,43,0.03280210494995117
+disneylandreviews,DeepFM,2,./data_sets/disneylandreviews/checkpoint_DeepFM/config_0/fold_2/DeepFM-May-18-2025_20-34-57.pth,0,{},2,90,47,38,0.024687528610229492
+disneylandreviews,DeepFM,3,./data_sets/disneylandreviews/checkpoint_DeepFM/config_0/fold_3/DeepFM-May-18-2025_20-35-03.pth,0,{},3,97,52,49,0.03503918647766113
+disneylandreviews,DeepFM,4,./data_sets/disneylandreviews/checkpoint_DeepFM/config_0/fold_4/DeepFM-May-18-2025_20-35-09.pth,0,{},4,96,52,49,0.03142881393432617
+disneylandreviews,DSSM,0,./data_sets/disneylandreviews/checkpoint_DSSM/config_0/fold_0/DSSM-May-18-2025_20-35-15.pth,0,{},0,93,47,41,0.0382685661315918
+disneylandreviews,DSSM,1,./data_sets/disneylandreviews/checkpoint_DSSM/config_0/fold_1/DSSM-May-18-2025_20-35-21.pth,0,{},1,96,47,43,0.03786206245422363
+disneylandreviews,DSSM,2,./data_sets/disneylandreviews/checkpoint_DSSM/config_0/fold_2/DSSM-May-18-2025_20-35-28.pth,0,{},2,90,47,38,0.03316307067871094
+disneylandreviews,DSSM,3,./data_sets/disneylandreviews/checkpoint_DSSM/config_0/fold_3/DSSM-May-18-2025_20-35-34.pth,0,{},3,97,52,49,0.04008221626281738
+disneylandreviews,DSSM,4,./data_sets/disneylandreviews/checkpoint_DSSM/config_0/fold_4/DSSM-May-18-2025_20-35-41.pth,0,{},4,96,52,49,0.03528785705566406
+disneylandreviews,EulerNet,0,./data_sets/disneylandreviews/checkpoint_EulerNet/config_0/fold_0/EulerNet-May-18-2025_20-37-16.pth,0,{},0,93,47,41,0.028836965560913086
+disneylandreviews,EulerNet,1,./data_sets/disneylandreviews/checkpoint_EulerNet/config_0/fold_1/EulerNet-May-18-2025_20-37-23.pth,0,{},1,96,47,43,0.02623152732849121
+disneylandreviews,EulerNet,2,./data_sets/disneylandreviews/checkpoint_EulerNet/config_0/fold_2/EulerNet-May-18-2025_20-37-29.pth,0,{},2,90,47,38,0.027131080627441406
+disneylandreviews,EulerNet,3,./data_sets/disneylandreviews/checkpoint_EulerNet/config_0/fold_3/EulerNet-May-18-2025_20-37-35.pth,0,{},3,97,52,49,0.03585672378540039
+disneylandreviews,EulerNet,4,./data_sets/disneylandreviews/checkpoint_EulerNet/config_0/fold_4/EulerNet-May-18-2025_20-37-42.pth,0,{},4,96,52,49,0.02461695671081543
+disneylandreviews,FiGNN,0,./data_sets/disneylandreviews/checkpoint_FiGNN/config_0/fold_0/FiGNN-May-18-2025_20-36-15.pth,0,{},0,93,47,41,0.04047393798828125
+disneylandreviews,FiGNN,1,./data_sets/disneylandreviews/checkpoint_FiGNN/config_0/fold_1/FiGNN-May-18-2025_20-36-21.pth,0,{},1,96,47,43,0.027034521102905273
+disneylandreviews,FiGNN,2,./data_sets/disneylandreviews/checkpoint_FiGNN/config_0/fold_2/FiGNN-May-18-2025_20-36-28.pth,0,{},2,90,47,38,0.043737173080444336
+disneylandreviews,FiGNN,3,./data_sets/disneylandreviews/checkpoint_FiGNN/config_0/fold_3/FiGNN-May-18-2025_20-36-33.pth,0,{},3,97,52,49,0.06580066680908203
+disneylandreviews,FiGNN,4,./data_sets/disneylandreviews/checkpoint_FiGNN/config_0/fold_4/FiGNN-May-18-2025_20-36-40.pth,0,{},4,96,52,49,0.04591774940490723
+disneylandreviews,FM,0,./data_sets/disneylandreviews/checkpoint_FM/config_0/fold_0/FM-May-18-2025_20-37-48.pth,0,"{'task': 'rating', 'epoch': 10, 'lr': 0.05}",0,93,47,41,0.012720823287963867
+disneylandreviews,FM,1,./data_sets/disneylandreviews/checkpoint_FM/config_0/fold_1/FM-May-18-2025_20-37-53.pth,0,"{'task': 'rating', 'epoch': 10, 'lr': 0.05}",1,96,47,43,0.020544052124023438
+disneylandreviews,FM,2,./data_sets/disneylandreviews/checkpoint_FM/config_0/fold_2/FM-May-18-2025_20-37-59.pth,0,"{'task': 'rating', 'epoch': 10, 'lr': 0.05}",2,90,47,38,0.01780390739440918
+disneylandreviews,FM,3,./data_sets/disneylandreviews/checkpoint_FM/config_0/fold_3/FM-May-18-2025_20-38-04.pth,0,"{'task': 'rating', 'epoch': 10, 'lr': 0.05}",3,97,52,49,0.030417680740356445
+disneylandreviews,FM,4,./data_sets/disneylandreviews/checkpoint_FM/config_0/fold_4/FM-May-18-2025_20-38-10.pth,0,"{'task': 'rating', 'epoch': 10, 'lr': 0.05}",4,96,52,49,0.03101491928100586
+disneylandreviews,FNN,0,./data_sets/disneylandreviews/checkpoint_FNN/config_0/fold_0/FNN-May-18-2025_20-38-15.pth,0,{},0,93,47,41,0.030956029891967773
+disneylandreviews,FNN,1,./data_sets/disneylandreviews/checkpoint_FNN/config_0/fold_1/FNN-May-18-2025_20-38-21.pth,0,{},1,96,47,43,0.02408003807067871
+disneylandreviews,FNN,2,./data_sets/disneylandreviews/checkpoint_FNN/config_0/fold_2/FNN-May-18-2025_20-38-27.pth,0,{},2,90,47,38,0.0243985652923584
+disneylandreviews,FNN,3,./data_sets/disneylandreviews/checkpoint_FNN/config_0/fold_3/FNN-May-18-2025_20-38-33.pth,0,{},3,97,52,49,0.016536951065063477
+disneylandreviews,FNN,4,./data_sets/disneylandreviews/checkpoint_FNN/config_0/fold_4/FNN-May-18-2025_20-38-39.pth,0,{},4,96,52,49,0.025007247924804688
+disneylandreviews,FwFM,0,./data_sets/disneylandreviews/checkpoint_FwFM/config_0/fold_0/FwFM-May-18-2025_20-38-45.pth,0,{},0,93,47,41,0.02072286605834961
+disneylandreviews,FwFM,1,./data_sets/disneylandreviews/checkpoint_FwFM/config_0/fold_1/FwFM-May-18-2025_20-38-50.pth,0,{},1,96,47,43,0.026686668395996094
+disneylandreviews,FwFM,2,./data_sets/disneylandreviews/checkpoint_FwFM/config_0/fold_2/FwFM-May-18-2025_20-38-56.pth,0,{},2,90,47,38,0.019011497497558594
+disneylandreviews,FwFM,3,./data_sets/disneylandreviews/checkpoint_FwFM/config_0/fold_3/FwFM-May-18-2025_20-39-02.pth,0,{},3,97,52,49,0.023514509201049805
+disneylandreviews,FwFM,4,./data_sets/disneylandreviews/checkpoint_FwFM/config_0/fold_4/FwFM-May-18-2025_20-39-07.pth,0,{},4,96,52,49,0.026958942413330078
+disneylandreviews,LR,0,./data_sets/disneylandreviews/checkpoint_LR/config_0/fold_0/LR-May-18-2025_20-32-46.pth,0,{},0,93,47,41,0.014036417007446289
+disneylandreviews,LR,1,./data_sets/disneylandreviews/checkpoint_LR/config_0/fold_1/LR-May-18-2025_20-32-52.pth,0,{},1,96,47,43,0.011629343032836914
+disneylandreviews,LR,2,./data_sets/disneylandreviews/checkpoint_LR/config_0/fold_2/LR-May-18-2025_20-32-58.pth,0,{},2,90,47,38,0.008989095687866211
+disneylandreviews,LR,3,./data_sets/disneylandreviews/checkpoint_LR/config_0/fold_3/LR-May-18-2025_20-33-03.pth,0,{},3,97,52,49,0.014825582504272461
+disneylandreviews,LR,4,./data_sets/disneylandreviews/checkpoint_LR/config_0/fold_4/LR-May-18-2025_20-33-09.pth,0,{},4,96,52,49,0.017471790313720703
+disneylandreviews,NFM,0,./data_sets/disneylandreviews/checkpoint_NFM/config_0/fold_0/NFM-May-18-2025_20-33-15.pth,0,"{'n_factors': 15, 'n_epochs': 10}",0,93,47,41,0.03265523910522461
+disneylandreviews,NFM,1,./data_sets/disneylandreviews/checkpoint_NFM/config_0/fold_1/NFM-May-18-2025_20-33-20.pth,0,"{'n_factors': 15, 'n_epochs': 10}",1,96,47,43,0.03313159942626953
+disneylandreviews,NFM,2,./data_sets/disneylandreviews/checkpoint_NFM/config_0/fold_2/NFM-May-18-2025_20-33-26.pth,0,"{'n_factors': 15, 'n_epochs': 10}",2,90,47,38,0.04110836982727051
+disneylandreviews,NFM,3,./data_sets/disneylandreviews/checkpoint_NFM/config_0/fold_3/NFM-May-18-2025_20-33-32.pth,0,"{'n_factors': 15, 'n_epochs': 10}",3,97,52,49,0.03981781005859375
+disneylandreviews,NFM,4,./data_sets/disneylandreviews/checkpoint_NFM/config_0/fold_4/NFM-May-18-2025_20-33-38.pth,0,"{'n_factors': 15, 'n_epochs': 10}",4,96,52,49,0.031558990478515625
+disneylandreviews,PNN,0,./data_sets/disneylandreviews/checkpoint_PNN/config_0/fold_0/PNN-May-18-2025_20-39-13.pth,0,{},0,93,47,41,0.025269269943237305
+disneylandreviews,PNN,1,./data_sets/disneylandreviews/checkpoint_PNN/config_0/fold_1/PNN-May-18-2025_20-39-18.pth,0,{},1,96,47,43,0.019855022430419922
+disneylandreviews,PNN,2,./data_sets/disneylandreviews/checkpoint_PNN/config_0/fold_2/PNN-May-18-2025_20-39-24.pth,0,{},2,90,47,38,0.025386810302734375
+disneylandreviews,PNN,3,./data_sets/disneylandreviews/checkpoint_PNN/config_0/fold_3/PNN-May-18-2025_20-39-29.pth,0,{},3,97,52,49,0.03180527687072754
+disneylandreviews,PNN,4,./data_sets/disneylandreviews/checkpoint_PNN/config_0/fold_4/PNN-May-18-2025_20-39-35.pth,0,{},4,96,52,49,0.02649712562561035
+disneylandreviews,WideDeep,0,./data_sets/disneylandreviews/checkpoint_WideDeep/config_0/fold_0/WideDeep-May-18-2025_20-39-41.pth,0,{},0,93,47,41,0.02300429344177246
+disneylandreviews,WideDeep,1,./data_sets/disneylandreviews/checkpoint_WideDeep/config_0/fold_1/WideDeep-May-18-2025_20-39-46.pth,0,{},1,96,47,43,0.03347277641296387
+disneylandreviews,WideDeep,2,./data_sets/disneylandreviews/checkpoint_WideDeep/config_0/fold_2/WideDeep-May-18-2025_20-39-52.pth,0,{},2,90,47,38,0.02094101905822754
+disneylandreviews,WideDeep,3,./data_sets/disneylandreviews/checkpoint_WideDeep/config_0/fold_3/WideDeep-May-18-2025_20-39-57.pth,0,{},3,97,52,49,0.030870676040649414
+disneylandreviews,WideDeep,4,./data_sets/disneylandreviews/checkpoint_WideDeep/config_0/fold_4/WideDeep-May-18-2025_20-40-03.pth,0,{},4,96,52,49,0.029668807983398438
+disneylandreviews,xDeepFM,0,./data_sets/disneylandreviews/checkpoint_xDeepFM/config_0/fold_0/xDeepFM-May-18-2025_20-40-08.pth,0,{},0,93,47,41,0.051527976989746094
+disneylandreviews,xDeepFM,1,./data_sets/disneylandreviews/checkpoint_xDeepFM/config_0/fold_1/xDeepFM-May-18-2025_20-40-15.pth,0,{},1,96,47,43,0.061348676681518555
+disneylandreviews,xDeepFM,2,./data_sets/disneylandreviews/checkpoint_xDeepFM/config_0/fold_2/xDeepFM-May-18-2025_20-40-21.pth,0,{},2,90,47,38,0.056944847106933594
+disneylandreviews,xDeepFM,3,./data_sets/disneylandreviews/checkpoint_xDeepFM/config_0/fold_3/xDeepFM-May-18-2025_20-40-27.pth,0,{},3,97,52,49,0.06106877326965332
+disneylandreviews,xDeepFM,4,./data_sets/disneylandreviews/checkpoint_xDeepFM/config_0/fold_4/xDeepFM-May-18-2025_20-40-33.pth,0,{},4,96,52,49,0.06002545356750488
+hotelssecond,AFM,0,./data_sets/hotelssecond/checkpoint_AFM/config_0/fold_0/AFM-May-23-2025_16-23-19.pth,0,{},0,5998,2000,0,0.0
+hotelssecond,AFM,1,./data_sets/hotelssecond/checkpoint_AFM/config_0/fold_1/AFM-May-23-2025_16-23-25.pth,0,{},1,6000,2000,1,0.0029582977294921875
+hotelssecond,AFM,2,./data_sets/hotelssecond/checkpoint_AFM/config_0/fold_2/AFM-May-23-2025_16-23-31.pth,0,{},2,6000,2000,1,0.0
+hotelssecond,AFM,3,./data_sets/hotelssecond/checkpoint_AFM/config_0/fold_3/AFM-May-23-2025_16-23-37.pth,0,{},3,6000,1999,1,0.003800630569458008
+hotelssecond,AFM,4,./data_sets/hotelssecond/checkpoint_AFM/config_0/fold_4/AFM-May-23-2025_16-23-43.pth,0,{},4,5999,2000,1,0.003008604049682617
+hotelssecond,AutoInt,0,./data_sets/hotelssecond/checkpoint_AutoInt/config_0/fold_0/AutoInt-May-23-2025_16-27-27.pth,0,{},0,5998,2000,0,0.0
+hotelssecond,AutoInt,1,./data_sets/hotelssecond/checkpoint_AutoInt/config_0/fold_1/AutoInt-May-23-2025_16-27-35.pth,0,{},1,6000,2000,1,0.005000591278076172
+hotelssecond,AutoInt,2,./data_sets/hotelssecond/checkpoint_AutoInt/config_0/fold_2/AutoInt-May-23-2025_16-27-43.pth,0,{},2,6000,2000,1,0.006000995635986328
+hotelssecond,AutoInt,3,./data_sets/hotelssecond/checkpoint_AutoInt/config_0/fold_3/AutoInt-May-23-2025_16-27-51.pth,0,{},3,6000,1999,1,0.009744882583618164
+hotelssecond,AutoInt,4,./data_sets/hotelssecond/checkpoint_AutoInt/config_0/fold_4/AutoInt-May-23-2025_16-27-59.pth,0,{},4,5999,2000,1,0.006010770797729492
+hotelssecond,DCN,0,./data_sets/hotelssecond/checkpoint_DCN/config_0/fold_0/DCN-May-23-2025_16-23-49.pth,0,{},0,5998,2000,0,0.0
+hotelssecond,DCN,1,./data_sets/hotelssecond/checkpoint_DCN/config_0/fold_1/DCN-May-23-2025_16-23-58.pth,0,{},1,6000,2000,1,0.0053060054779052734
+hotelssecond,DCN,2,./data_sets/hotelssecond/checkpoint_DCN/config_0/fold_2/DCN-May-23-2025_16-24-08.pth,0,{},2,6000,2000,1,0.006629467010498047
+hotelssecond,DCN,3,./data_sets/hotelssecond/checkpoint_DCN/config_0/fold_3/DCN-May-23-2025_16-24-18.pth,0,{},3,6000,1999,1,0.007115840911865234
+hotelssecond,DCN,4,./data_sets/hotelssecond/checkpoint_DCN/config_0/fold_4/DCN-May-23-2025_16-24-27.pth,0,{},4,5999,2000,1,0.005145072937011719
+hotelssecond,DeepFM,0,./data_sets/hotelssecond/checkpoint_DeepFM/config_0/fold_0/DeepFM-May-23-2025_16-24-37.pth,0,{},0,5998,2000,0,0.0
+hotelssecond,DeepFM,1,./data_sets/hotelssecond/checkpoint_DeepFM/config_0/fold_1/DeepFM-May-23-2025_16-24-45.pth,0,{},1,6000,2000,1,0.003000020980834961
+hotelssecond,DeepFM,2,./data_sets/hotelssecond/checkpoint_DeepFM/config_0/fold_2/DeepFM-May-23-2025_16-24-52.pth,0,{},2,6000,2000,1,0.004003047943115234
+hotelssecond,DeepFM,3,./data_sets/hotelssecond/checkpoint_DeepFM/config_0/fold_3/DeepFM-May-23-2025_16-24-59.pth,0,{},3,6000,1999,1,0.003002166748046875
+hotelssecond,DeepFM,4,./data_sets/hotelssecond/checkpoint_DeepFM/config_0/fold_4/DeepFM-May-23-2025_16-25-07.pth,0,{},4,5999,2000,1,0.005148887634277344
+hotelssecond,DSSM,0,./data_sets/hotelssecond/checkpoint_DSSM/config_0/fold_0/DSSM-May-23-2025_16-25-14.pth,0,{},0,5998,2000,0,0.0
+hotelssecond,DSSM,1,./data_sets/hotelssecond/checkpoint_DSSM/config_0/fold_1/DSSM-May-23-2025_16-25-27.pth,0,{},1,6000,2000,1,0.0010001659393310547
+hotelssecond,DSSM,2,./data_sets/hotelssecond/checkpoint_DSSM/config_0/fold_2/DSSM-May-23-2025_16-25-40.pth,0,{},2,6000,2000,1,0.011738061904907227
+hotelssecond,DSSM,3,./data_sets/hotelssecond/checkpoint_DSSM/config_0/fold_3/DSSM-May-23-2025_16-25-53.pth,0,{},3,6000,1999,1,0.007004499435424805
+hotelssecond,DSSM,4,./data_sets/hotelssecond/checkpoint_DSSM/config_0/fold_4/DSSM-May-23-2025_16-26-05.pth,0,{},4,5999,2000,1,0.008004426956176758
+hotelssecond,EulerNet,0,./data_sets/hotelssecond/checkpoint_EulerNet/config_0/fold_0/EulerNet-May-23-2025_16-28-07.pth,0,{},0,5998,2000,0,0.0
+hotelssecond,EulerNet,1,./data_sets/hotelssecond/checkpoint_EulerNet/config_0/fold_1/EulerNet-May-23-2025_16-28-18.pth,0,{},1,6000,2000,1,0.008020639419555664
+hotelssecond,EulerNet,2,./data_sets/hotelssecond/checkpoint_EulerNet/config_0/fold_2/EulerNet-May-23-2025_16-28-28.pth,0,{},2,6000,2000,1,0.008270502090454102
+hotelssecond,EulerNet,3,./data_sets/hotelssecond/checkpoint_EulerNet/config_0/fold_3/EulerNet-May-23-2025_16-28-38.pth,0,{},3,6000,1999,1,0.009113311767578125
+hotelssecond,EulerNet,4,./data_sets/hotelssecond/checkpoint_EulerNet/config_0/fold_4/EulerNet-May-23-2025_16-28-48.pth,0,{},4,5999,2000,1,0.013926982879638672
+hotelssecond,FiGNN,0,./data_sets/hotelssecond/checkpoint_FiGNN/config_0/fold_0/FiGNN-May-23-2025_16-26-47.pth,0,{},0,5998,2000,0,0.0
+hotelssecond,FiGNN,1,./data_sets/hotelssecond/checkpoint_FiGNN/config_0/fold_1/FiGNN-May-23-2025_16-26-55.pth,0,{},1,6000,2000,1,0.006007671356201172
+hotelssecond,FiGNN,2,./data_sets/hotelssecond/checkpoint_FiGNN/config_0/fold_2/FiGNN-May-23-2025_16-27-03.pth,0,{},2,6000,2000,1,0.0060002803802490234
+hotelssecond,FiGNN,3,./data_sets/hotelssecond/checkpoint_FiGNN/config_0/fold_3/FiGNN-May-23-2025_16-27-11.pth,0,{},3,6000,1999,1,0.007459402084350586
+hotelssecond,FiGNN,4,./data_sets/hotelssecond/checkpoint_FiGNN/config_0/fold_4/FiGNN-May-23-2025_16-27-19.pth,0,{},4,5999,2000,1,0.006001710891723633
+hotelssecond,FM,0,./data_sets/hotelssecond/checkpoint_FM/config_0/fold_0/FM-May-23-2025_16-28-58.pth,0,"{'task': 'rating', 'epoch': 10, 'lr': 0.05}",0,5998,2000,0,0.0
+hotelssecond,FM,1,./data_sets/hotelssecond/checkpoint_FM/config_0/fold_1/FM-May-23-2025_16-29-03.pth,0,"{'task': 'rating', 'epoch': 10, 'lr': 0.05}",1,6000,2000,1,0.0
+hotelssecond,FM,2,./data_sets/hotelssecond/checkpoint_FM/config_0/fold_2/FM-May-23-2025_16-29-09.pth,0,"{'task': 'rating', 'epoch': 10, 'lr': 0.05}",2,6000,2000,1,0.0
+hotelssecond,FM,3,./data_sets/hotelssecond/checkpoint_FM/config_0/fold_3/FM-May-23-2025_16-29-15.pth,0,"{'task': 'rating', 'epoch': 10, 'lr': 0.05}",3,6000,1999,1,0.0020017623901367188
+hotelssecond,FM,4,./data_sets/hotelssecond/checkpoint_FM/config_0/fold_4/FM-May-23-2025_16-29-20.pth,0,"{'task': 'rating', 'epoch': 10, 'lr': 0.05}",4,5999,2000,1,0.0
+hotelssecond,FNN,0,./data_sets/hotelssecond/checkpoint_FNN/config_0/fold_0/FNN-May-23-2025_16-29-26.pth,0,{},0,5998,2000,0,0.0
+hotelssecond,FNN,1,./data_sets/hotelssecond/checkpoint_FNN/config_0/fold_1/FNN-May-23-2025_16-29-35.pth,0,{},1,6000,2000,1,0.006010532379150391
+hotelssecond,FNN,2,./data_sets/hotelssecond/checkpoint_FNN/config_0/fold_2/FNN-May-23-2025_16-29-44.pth,0,{},2,6000,2000,1,0.0020029544830322266
+hotelssecond,FNN,3,./data_sets/hotelssecond/checkpoint_FNN/config_0/fold_3/FNN-May-23-2025_16-29-52.pth,0,{},3,6000,1999,1,0.005002260208129883
+hotelssecond,FNN,4,./data_sets/hotelssecond/checkpoint_FNN/config_0/fold_4/FNN-May-23-2025_16-30-01.pth,0,{},4,5999,2000,1,0.004003286361694336
+hotelssecond,FwFM,0,./data_sets/hotelssecond/checkpoint_FwFM/config_0/fold_0/FwFM-May-23-2025_16-30-10.pth,0,{},0,5998,2000,0,0.0
+hotelssecond,FwFM,1,./data_sets/hotelssecond/checkpoint_FwFM/config_0/fold_1/FwFM-May-23-2025_16-30-16.pth,0,{},1,6000,2000,1,0.002000093460083008
+hotelssecond,FwFM,2,./data_sets/hotelssecond/checkpoint_FwFM/config_0/fold_2/FwFM-May-23-2025_16-30-21.pth,0,{},2,6000,2000,1,0.0019998550415039062
+hotelssecond,FwFM,3,./data_sets/hotelssecond/checkpoint_FwFM/config_0/fold_3/FwFM-May-23-2025_16-30-27.pth,0,{},3,6000,1999,1,0.0015842914581298828
+hotelssecond,FwFM,4,./data_sets/hotelssecond/checkpoint_FwFM/config_0/fold_4/FwFM-May-23-2025_16-30-33.pth,0,{},4,5999,2000,1,0.0019998550415039062
+hotelssecond,LR,0,./data_sets/hotelssecond/checkpoint_LR/config_0/fold_0/LR-May-23-2025_16-22-21.pth,0,{},0,5998,2000,0,0.0
+hotelssecond,LR,1,./data_sets/hotelssecond/checkpoint_LR/config_0/fold_1/LR-May-23-2025_16-22-27.pth,0,{},1,6000,2000,1,0.0009999275207519531
+hotelssecond,LR,2,./data_sets/hotelssecond/checkpoint_LR/config_0/fold_2/LR-May-23-2025_16-22-32.pth,0,{},2,6000,2000,1,0.0009999275207519531
+hotelssecond,LR,3,./data_sets/hotelssecond/checkpoint_LR/config_0/fold_3/LR-May-23-2025_16-22-37.pth,0,{},3,6000,1999,1,0.0009996891021728516
+hotelssecond,LR,4,./data_sets/hotelssecond/checkpoint_LR/config_0/fold_4/LR-May-23-2025_16-22-43.pth,0,{},4,5999,2000,1,0.0020079612731933594
+hotelssecond,NFM,0,./data_sets/hotelssecond/checkpoint_NFM/config_0/fold_0/NFM-May-23-2025_16-22-48.pth,0,"{'n_factors': 15, 'n_epochs': 10}",0,5998,2000,0,0.0
+hotelssecond,NFM,1,./data_sets/hotelssecond/checkpoint_NFM/config_0/fold_1/NFM-May-23-2025_16-22-54.pth,0,"{'n_factors': 15, 'n_epochs': 10}",1,6000,2000,1,0.003000497817993164
+hotelssecond,NFM,2,./data_sets/hotelssecond/checkpoint_NFM/config_0/fold_2/NFM-May-23-2025_16-23-01.pth,0,"{'n_factors': 15, 'n_epochs': 10}",2,6000,2000,1,0.003013134002685547
+hotelssecond,NFM,3,./data_sets/hotelssecond/checkpoint_NFM/config_0/fold_3/NFM-May-23-2025_16-23-07.pth,0,"{'n_factors': 15, 'n_epochs': 10}",3,6000,1999,1,0.003000974655151367
+hotelssecond,NFM,4,./data_sets/hotelssecond/checkpoint_NFM/config_0/fold_4/NFM-May-23-2025_16-23-13.pth,0,"{'n_factors': 15, 'n_epochs': 10}",4,5999,2000,1,0.003008604049682617
+hotelssecond,PNN,0,./data_sets/hotelssecond/checkpoint_PNN/config_0/fold_0/PNN-May-23-2025_16-30-38.pth,0,{},0,5998,2000,0,0.0
+hotelssecond,PNN,1,./data_sets/hotelssecond/checkpoint_PNN/config_0/fold_1/PNN-May-23-2025_16-30-45.pth,0,{},1,6000,2000,1,0.003197908401489258
+hotelssecond,PNN,2,./data_sets/hotelssecond/checkpoint_PNN/config_0/fold_2/PNN-May-23-2025_16-30-51.pth,0,{},2,6000,2000,1,0.0049991607666015625
+hotelssecond,PNN,3,./data_sets/hotelssecond/checkpoint_PNN/config_0/fold_3/PNN-May-23-2025_16-30-58.pth,0,{},3,6000,1999,1,0.0
+hotelssecond,PNN,4,./data_sets/hotelssecond/checkpoint_PNN/config_0/fold_4/PNN-May-23-2025_16-31-05.pth,0,{},4,5999,2000,1,0.003011941909790039
+hotelssecond,WideDeep,0,./data_sets/hotelssecond/checkpoint_WideDeep/config_0/fold_0/WideDeep-May-23-2025_16-31-12.pth,0,{},0,5998,2000,0,0.0
+hotelssecond,WideDeep,1,./data_sets/hotelssecond/checkpoint_WideDeep/config_0/fold_1/WideDeep-May-23-2025_16-31-18.pth,0,{},1,6000,2000,1,0.002000570297241211
+hotelssecond,WideDeep,2,./data_sets/hotelssecond/checkpoint_WideDeep/config_0/fold_2/WideDeep-May-23-2025_16-31-24.pth,0,{},2,6000,2000,1,0.0017430782318115234
+hotelssecond,WideDeep,3,./data_sets/hotelssecond/checkpoint_WideDeep/config_0/fold_3/WideDeep-May-23-2025_16-31-30.pth,0,{},3,6000,1999,1,0.0
+hotelssecond,WideDeep,4,./data_sets/hotelssecond/checkpoint_WideDeep/config_0/fold_4/WideDeep-May-23-2025_16-31-36.pth,0,{},4,5999,2000,1,0.0010056495666503906
+hotelssecond,xDeepFM,0,./data_sets/hotelssecond/checkpoint_xDeepFM/config_0/fold_0/xDeepFM-May-23-2025_16-31-42.pth,0,{},0,5998,2000,0,0.0
+hotelssecond,xDeepFM,1,./data_sets/hotelssecond/checkpoint_xDeepFM/config_0/fold_1/xDeepFM-May-23-2025_16-31-56.pth,0,{},1,6000,2000,1,0.018131017684936523
+hotelssecond,xDeepFM,2,./data_sets/hotelssecond/checkpoint_xDeepFM/config_0/fold_2/xDeepFM-May-23-2025_16-32-11.pth,0,{},2,6000,2000,1,0.024095535278320312
+hotelssecond,xDeepFM,3,./data_sets/hotelssecond/checkpoint_xDeepFM/config_0/fold_3/xDeepFM-May-23-2025_16-32-25.pth,0,{},3,6000,1999,1,0.023914098739624023
+hotelssecond,xDeepFM,4,./data_sets/hotelssecond/checkpoint_xDeepFM/config_0/fold_4/xDeepFM-May-23-2025_16-32-39.pth,0,{},4,5999,2000,1,0.020232677459716797
+iphone,AFM,0,./data_sets/iphone/checkpoint_AFM/config_0/fold_0/AFM-May-23-2025_16-33-44.pth,0,{},0,1836,613,1,0.00275421142578125
+iphone,AFM,1,./data_sets/iphone/checkpoint_AFM/config_0/fold_1/AFM-May-23-2025_16-33-49.pth,0,{},1,1836,613,1,0.0028810501098632812
+iphone,AFM,2,./data_sets/iphone/checkpoint_AFM/config_0/fold_2/AFM-May-23-2025_16-33-54.pth,0,{},2,1837,612,0,0.0
+iphone,AFM,3,./data_sets/iphone/checkpoint_AFM/config_0/fold_3/AFM-May-23-2025_16-33-59.pth,0,{},3,1837,612,0,0.0
+iphone,AFM,4,./data_sets/iphone/checkpoint_AFM/config_0/fold_4/AFM-May-23-2025_16-34-04.pth,0,{},4,1837,612,0,0.0
+iphone,AutoInt,0,./data_sets/iphone/checkpoint_AutoInt/config_0/fold_0/AutoInt-May-23-2025_16-36-42.pth,0,{},0,1836,613,1,0.0040073394775390625
+iphone,AutoInt,1,./data_sets/iphone/checkpoint_AutoInt/config_0/fold_1/AutoInt-May-23-2025_16-36-48.pth,0,{},1,1836,613,1,0.004999637603759766
+iphone,AutoInt,2,./data_sets/iphone/checkpoint_AutoInt/config_0/fold_2/AutoInt-May-23-2025_16-36-54.pth,0,{},2,1837,612,0,0.0
+iphone,AutoInt,3,./data_sets/iphone/checkpoint_AutoInt/config_0/fold_3/AutoInt-May-23-2025_16-37-00.pth,0,{},3,1837,612,0,0.0
+iphone,AutoInt,4,./data_sets/iphone/checkpoint_AutoInt/config_0/fold_4/AutoInt-May-23-2025_16-37-05.pth,0,{},4,1837,612,0,0.0
+iphone,DCN,0,./data_sets/iphone/checkpoint_DCN/config_0/fold_0/DCN-May-23-2025_16-34-09.pth,0,{},0,1836,613,1,0.002000093460083008
+iphone,DCN,1,./data_sets/iphone/checkpoint_DCN/config_0/fold_1/DCN-May-23-2025_16-34-16.pth,0,{},1,1836,613,1,0.0
+iphone,DCN,2,./data_sets/iphone/checkpoint_DCN/config_0/fold_2/DCN-May-23-2025_16-34-23.pth,0,{},2,1837,612,0,0.0
+iphone,DCN,3,./data_sets/iphone/checkpoint_DCN/config_0/fold_3/DCN-May-23-2025_16-34-29.pth,0,{},3,1837,612,0,0.0
+iphone,DCN,4,./data_sets/iphone/checkpoint_DCN/config_0/fold_4/DCN-May-23-2025_16-34-36.pth,0,{},4,1837,612,0,0.0
+iphone,DeepFM,0,./data_sets/iphone/checkpoint_DeepFM/config_0/fold_0/DeepFM-May-23-2025_16-34-42.pth,0,{},0,1836,613,1,0.003008127212524414
+iphone,DeepFM,1,./data_sets/iphone/checkpoint_DeepFM/config_0/fold_1/DeepFM-May-23-2025_16-34-48.pth,0,{},1,1836,613,1,0.0
+iphone,DeepFM,2,./data_sets/iphone/checkpoint_DeepFM/config_0/fold_2/DeepFM-May-23-2025_16-34-53.pth,0,{},2,1837,612,0,0.0
+iphone,DeepFM,3,./data_sets/iphone/checkpoint_DeepFM/config_0/fold_3/DeepFM-May-23-2025_16-34-59.pth,0,{},3,1837,612,0,0.0
+iphone,DeepFM,4,./data_sets/iphone/checkpoint_DeepFM/config_0/fold_4/DeepFM-May-23-2025_16-35-04.pth,0,{},4,1837,612,0,0.0
+iphone,DSSM,0,./data_sets/iphone/checkpoint_DSSM/config_0/fold_0/DSSM-May-23-2025_16-35-10.pth,0,{},0,1836,613,1,0.007016181945800781
+iphone,DSSM,1,./data_sets/iphone/checkpoint_DSSM/config_0/fold_1/DSSM-May-23-2025_16-35-17.pth,0,{},1,1836,613,1,0.002000093460083008
+iphone,DSSM,2,./data_sets/iphone/checkpoint_DSSM/config_0/fold_2/DSSM-May-23-2025_16-35-25.pth,0,{},2,1837,612,0,0.0
+iphone,DSSM,3,./data_sets/iphone/checkpoint_DSSM/config_0/fold_3/DSSM-May-23-2025_16-35-33.pth,0,{},3,1837,612,0,0.0
+iphone,DSSM,4,./data_sets/iphone/checkpoint_DSSM/config_0/fold_4/DSSM-May-23-2025_16-35-41.pth,0,{},4,1837,612,0,0.0
+iphone,EulerNet,0,./data_sets/iphone/checkpoint_EulerNet/config_0/fold_0/EulerNet-May-23-2025_16-37-11.pth,0,{},0,1836,613,1,0.0
+iphone,EulerNet,1,./data_sets/iphone/checkpoint_EulerNet/config_0/fold_1/EulerNet-May-23-2025_16-37-18.pth,0,{},1,1836,613,1,0.0030007362365722656
+iphone,EulerNet,2,./data_sets/iphone/checkpoint_EulerNet/config_0/fold_2/EulerNet-May-23-2025_16-37-25.pth,0,{},2,1837,612,0,0.0
+iphone,EulerNet,3,./data_sets/iphone/checkpoint_EulerNet/config_0/fold_3/EulerNet-May-23-2025_16-37-31.pth,0,{},3,1837,612,0,0.0
+iphone,EulerNet,4,./data_sets/iphone/checkpoint_EulerNet/config_0/fold_4/EulerNet-May-23-2025_16-37-38.pth,0,{},4,1837,612,0,0.0
+iphone,FiGNN,0,./data_sets/iphone/checkpoint_FiGNN/config_0/fold_0/FiGNN-May-23-2025_16-36-14.pth,0,{},0,1836,613,1,0.0
+iphone,FiGNN,1,./data_sets/iphone/checkpoint_FiGNN/config_0/fold_1/FiGNN-May-23-2025_16-36-19.pth,0,{},1,1836,613,1,0.0049326419830322266
+iphone,FiGNN,2,./data_sets/iphone/checkpoint_FiGNN/config_0/fold_2/FiGNN-May-23-2025_16-36-25.pth,0,{},2,1837,612,0,0.0
+iphone,FiGNN,3,./data_sets/iphone/checkpoint_FiGNN/config_0/fold_3/FiGNN-May-23-2025_16-36-31.pth,0,{},3,1837,612,0,0.0
+iphone,FiGNN,4,./data_sets/iphone/checkpoint_FiGNN/config_0/fold_4/FiGNN-May-23-2025_16-36-36.pth,0,{},4,1837,612,0,0.0
+iphone,FM,0,./data_sets/iphone/checkpoint_FM/config_0/fold_0/FM-May-23-2025_16-37-45.pth,0,"{'task': 'rating', 'epoch': 10, 'lr': 0.05}",0,1836,613,1,0.0008754730224609375
+iphone,FM,1,./data_sets/iphone/checkpoint_FM/config_0/fold_1/FM-May-23-2025_16-37-49.pth,0,"{'task': 'rating', 'epoch': 10, 'lr': 0.05}",1,1836,613,1,0.0020008087158203125
+iphone,FM,2,./data_sets/iphone/checkpoint_FM/config_0/fold_2/FM-May-23-2025_16-37-54.pth,0,"{'task': 'rating', 'epoch': 10, 'lr': 0.05}",2,1837,612,0,0.0
+iphone,FM,3,./data_sets/iphone/checkpoint_FM/config_0/fold_3/FM-May-23-2025_16-37-59.pth,0,"{'task': 'rating', 'epoch': 10, 'lr': 0.05}",3,1837,612,0,0.0
+iphone,FM,4,./data_sets/iphone/checkpoint_FM/config_0/fold_4/FM-May-23-2025_16-38-04.pth,0,"{'task': 'rating', 'epoch': 10, 'lr': 0.05}",4,1837,612,0,0.0
+iphone,FNN,0,./data_sets/iphone/checkpoint_FNN/config_0/fold_0/FNN-May-23-2025_16-38-09.pth,0,{},0,1836,613,1,0.002092599868774414
+iphone,FNN,1,./data_sets/iphone/checkpoint_FNN/config_0/fold_1/FNN-May-23-2025_16-38-15.pth,0,{},1,1836,613,1,0.0
+iphone,FNN,2,./data_sets/iphone/checkpoint_FNN/config_0/fold_2/FNN-May-23-2025_16-38-21.pth,0,{},2,1837,612,0,0.0
+iphone,FNN,3,./data_sets/iphone/checkpoint_FNN/config_0/fold_3/FNN-May-23-2025_16-38-28.pth,0,{},3,1837,612,0,0.0
+iphone,FNN,4,./data_sets/iphone/checkpoint_FNN/config_0/fold_4/FNN-May-23-2025_16-38-34.pth,0,{},4,1837,612,0,0.0
+iphone,FwFM,0,./data_sets/iphone/checkpoint_FwFM/config_0/fold_0/FwFM-May-23-2025_16-38-40.pth,0,{},0,1836,613,1,0.0
+iphone,FwFM,1,./data_sets/iphone/checkpoint_FwFM/config_0/fold_1/FwFM-May-23-2025_16-38-45.pth,0,{},1,1836,613,1,0.007112979888916016
+iphone,FwFM,2,./data_sets/iphone/checkpoint_FwFM/config_0/fold_2/FwFM-May-23-2025_16-38-50.pth,0,{},2,1837,612,0,0.0
+iphone,FwFM,3,./data_sets/iphone/checkpoint_FwFM/config_0/fold_3/FwFM-May-23-2025_16-38-55.pth,0,{},3,1837,612,0,0.0
+iphone,FwFM,4,./data_sets/iphone/checkpoint_FwFM/config_0/fold_4/FwFM-May-23-2025_16-39-00.pth,0,{},4,1837,612,0,0.0
+iphone,LR,0,./data_sets/iphone/checkpoint_LR/config_0/fold_0/LR-May-23-2025_16-32-53.pth,0,{},0,1836,613,1,0.0009999275207519531
+iphone,LR,1,./data_sets/iphone/checkpoint_LR/config_0/fold_1/LR-May-23-2025_16-32-58.pth,0,{},1,1836,613,1,0.0019991397857666016
+iphone,LR,2,./data_sets/iphone/checkpoint_LR/config_0/fold_2/LR-May-23-2025_16-33-03.pth,0,{},2,1837,612,0,0.0
+iphone,LR,3,./data_sets/iphone/checkpoint_LR/config_0/fold_3/LR-May-23-2025_16-33-08.pth,0,{},3,1837,612,0,0.0
+iphone,LR,4,./data_sets/iphone/checkpoint_LR/config_0/fold_4/LR-May-23-2025_16-33-13.pth,0,{},4,1837,612,0,0.0
+iphone,NFM,0,./data_sets/iphone/checkpoint_NFM/config_0/fold_0/NFM-May-23-2025_16-33-18.pth,0,"{'n_factors': 15, 'n_epochs': 10}",0,1836,613,1,0.003011941909790039
+iphone,NFM,1,./data_sets/iphone/checkpoint_NFM/config_0/fold_1/NFM-May-23-2025_16-33-23.pth,0,"{'n_factors': 15, 'n_epochs': 10}",1,1836,613,1,0.003011465072631836
+iphone,NFM,2,./data_sets/iphone/checkpoint_NFM/config_0/fold_2/NFM-May-23-2025_16-33-29.pth,0,"{'n_factors': 15, 'n_epochs': 10}",2,1837,612,0,0.0
+iphone,NFM,3,./data_sets/iphone/checkpoint_NFM/config_0/fold_3/NFM-May-23-2025_16-33-34.pth,0,"{'n_factors': 15, 'n_epochs': 10}",3,1837,612,0,0.0
+iphone,NFM,4,./data_sets/iphone/checkpoint_NFM/config_0/fold_4/NFM-May-23-2025_16-33-39.pth,0,"{'n_factors': 15, 'n_epochs': 10}",4,1837,612,0,0.0
+iphone,PNN,0,./data_sets/iphone/checkpoint_PNN/config_0/fold_0/PNN-May-23-2025_16-39-05.pth,0,{},0,1836,613,1,0.003589630126953125
+iphone,PNN,1,./data_sets/iphone/checkpoint_PNN/config_0/fold_1/PNN-May-23-2025_16-39-10.pth,0,{},1,1836,613,1,0.003106832504272461
+iphone,PNN,2,./data_sets/iphone/checkpoint_PNN/config_0/fold_2/PNN-May-23-2025_16-39-16.pth,0,{},2,1837,612,0,0.0
+iphone,PNN,3,./data_sets/iphone/checkpoint_PNN/config_0/fold_3/PNN-May-23-2025_16-39-21.pth,0,{},3,1837,612,0,0.0
+iphone,PNN,4,./data_sets/iphone/checkpoint_PNN/config_0/fold_4/PNN-May-23-2025_16-39-27.pth,0,{},4,1837,612,0,0.0
+iphone,WideDeep,0,./data_sets/iphone/checkpoint_WideDeep/config_0/fold_0/WideDeep-May-23-2025_16-39-32.pth,0,{},0,1836,613,1,0.002636432647705078
+iphone,WideDeep,1,./data_sets/iphone/checkpoint_WideDeep/config_0/fold_1/WideDeep-May-23-2025_16-39-37.pth,0,{},1,1836,613,1,0.0
+iphone,WideDeep,2,./data_sets/iphone/checkpoint_WideDeep/config_0/fold_2/WideDeep-May-23-2025_16-39-43.pth,0,{},2,1837,612,0,0.0
+iphone,WideDeep,3,./data_sets/iphone/checkpoint_WideDeep/config_0/fold_3/WideDeep-May-23-2025_16-39-48.pth,0,{},3,1837,612,0,0.0
+iphone,WideDeep,4,./data_sets/iphone/checkpoint_WideDeep/config_0/fold_4/WideDeep-May-23-2025_16-39-53.pth,0,{},4,1837,612,0,0.0
+iphone,xDeepFM,0,./data_sets/iphone/checkpoint_xDeepFM/config_0/fold_0/xDeepFM-May-23-2025_16-39-58.pth,0,{},0,1836,613,1,0.009055852890014648
+iphone,xDeepFM,1,./data_sets/iphone/checkpoint_xDeepFM/config_0/fold_1/xDeepFM-May-23-2025_16-40-07.pth,0,{},1,1836,613,1,0.00648808479309082
+iphone,xDeepFM,2,./data_sets/iphone/checkpoint_xDeepFM/config_0/fold_2/xDeepFM-May-23-2025_16-40-15.pth,0,{},2,1837,612,0,0.0
+iphone,xDeepFM,3,./data_sets/iphone/checkpoint_xDeepFM/config_0/fold_3/xDeepFM-May-23-2025_16-40-23.pth,0,{},3,1837,612,0,0.0
+iphone,xDeepFM,4,./data_sets/iphone/checkpoint_xDeepFM/config_0/fold_4/xDeepFM-May-23-2025_16-40-31.pth,0,{},4,1837,612,0,0.0
+laptops,AFM,0,./data_sets/laptops/checkpoint_AFM/config_0/fold_0/AFM-May-23-2025_16-41-52.pth,0,{},0,14454,4822,9,0.007034778594970703
+laptops,AFM,1,./data_sets/laptops/checkpoint_AFM/config_0/fold_1/AFM-May-23-2025_16-42-00.pth,0,{},1,14457,4820,11,0.019338607788085938
+laptops,AFM,2,./data_sets/laptops/checkpoint_AFM/config_0/fold_2/AFM-May-23-2025_16-42-07.pth,0,{},2,14455,4823,7,0.0060002803802490234
+laptops,AFM,3,./data_sets/laptops/checkpoint_AFM/config_0/fold_3/AFM-May-23-2025_16-42-15.pth,0,{},3,14452,4821,4,0.004294395446777344
+laptops,AFM,4,./data_sets/laptops/checkpoint_AFM/config_0/fold_4/AFM-May-23-2025_16-42-23.pth,0,{},4,14452,4820,5,0.005260467529296875
+laptops,AutoInt,0,./data_sets/laptops/checkpoint_AutoInt/config_0/fold_0/AutoInt-May-23-2025_16-48-14.pth,0,{},0,14454,4822,9,0.012480974197387695
+laptops,AutoInt,1,./data_sets/laptops/checkpoint_AutoInt/config_0/fold_1/AutoInt-May-23-2025_16-48-26.pth,0,{},1,14457,4820,11,0.02033257484436035
+laptops,AutoInt,2,./data_sets/laptops/checkpoint_AutoInt/config_0/fold_2/AutoInt-May-23-2025_16-48-39.pth,0,{},2,14455,4823,7,0.009000301361083984
+laptops,AutoInt,3,./data_sets/laptops/checkpoint_AutoInt/config_0/fold_3/AutoInt-May-23-2025_16-48-51.pth,0,{},3,14452,4821,4,0.009209156036376953
+laptops,AutoInt,4,./data_sets/laptops/checkpoint_AutoInt/config_0/fold_4/AutoInt-May-23-2025_16-49-03.pth,0,{},4,14452,4820,5,0.0
+laptops,DCN,0,./data_sets/laptops/checkpoint_DCN/config_0/fold_0/DCN-May-23-2025_16-42-30.pth,0,{},0,14454,4822,9,0.01328277587890625
+laptops,DCN,1,./data_sets/laptops/checkpoint_DCN/config_0/fold_1/DCN-May-23-2025_16-42-46.pth,0,{},1,14457,4820,11,0.007913351058959961
+laptops,DCN,2,./data_sets/laptops/checkpoint_DCN/config_0/fold_2/DCN-May-23-2025_16-43-02.pth,0,{},2,14455,4823,7,0.0060541629791259766
+laptops,DCN,3,./data_sets/laptops/checkpoint_DCN/config_0/fold_3/DCN-May-23-2025_16-43-17.pth,0,{},3,14452,4821,4,0.017242431640625
+laptops,DCN,4,./data_sets/laptops/checkpoint_DCN/config_0/fold_4/DCN-May-23-2025_16-43-33.pth,0,{},4,14452,4820,5,0.015765905380249023
+laptops,DeepFM,0,./data_sets/laptops/checkpoint_DeepFM/config_0/fold_0/DeepFM-May-23-2025_16-43-49.pth,0,{},0,14454,4822,9,0.002000093460083008
+laptops,DeepFM,1,./data_sets/laptops/checkpoint_DeepFM/config_0/fold_1/DeepFM-May-23-2025_16-43-59.pth,0,{},1,14457,4820,11,0.008820772171020508
+laptops,DeepFM,2,./data_sets/laptops/checkpoint_DeepFM/config_0/fold_2/DeepFM-May-23-2025_16-44-10.pth,0,{},2,14455,4823,7,0.010863780975341797
+laptops,DeepFM,3,./data_sets/laptops/checkpoint_DeepFM/config_0/fold_3/DeepFM-May-23-2025_16-44-21.pth,0,{},3,14452,4821,4,0.00500035285949707
+laptops,DeepFM,4,./data_sets/laptops/checkpoint_DeepFM/config_0/fold_4/DeepFM-May-23-2025_16-44-32.pth,0,{},4,14452,4820,5,0.0
+laptops,DSSM,0,./data_sets/laptops/checkpoint_DSSM/config_0/fold_0/DSSM-May-23-2025_16-44-42.pth,0,{},0,14454,4822,9,0.02961897850036621
+laptops,DSSM,1,./data_sets/laptops/checkpoint_DSSM/config_0/fold_1/DSSM-May-23-2025_16-45-05.pth,0,{},1,14457,4820,11,0.021502017974853516
+laptops,DSSM,2,./data_sets/laptops/checkpoint_DSSM/config_0/fold_2/DSSM-May-23-2025_16-45-29.pth,0,{},2,14455,4823,7,0.005052804946899414
+laptops,DSSM,3,./data_sets/laptops/checkpoint_DSSM/config_0/fold_3/DSSM-May-23-2025_16-45-52.pth,0,{},3,14452,4821,4,0.007964611053466797
+laptops,DSSM,4,./data_sets/laptops/checkpoint_DSSM/config_0/fold_4/DSSM-May-23-2025_16-46-15.pth,0,{},4,14452,4820,5,0.006933450698852539
+laptops,EulerNet,0,./data_sets/laptops/checkpoint_EulerNet/config_0/fold_0/EulerNet-May-23-2025_16-49-15.pth,0,{},0,14454,4822,9,0.019376754760742188
+laptops,EulerNet,1,./data_sets/laptops/checkpoint_EulerNet/config_0/fold_1/EulerNet-May-23-2025_16-49-32.pth,0,{},1,14457,4820,11,0.01954793930053711
+laptops,EulerNet,2,./data_sets/laptops/checkpoint_EulerNet/config_0/fold_2/EulerNet-May-23-2025_16-49-50.pth,0,{},2,14455,4823,7,0.009868144989013672
+laptops,EulerNet,3,./data_sets/laptops/checkpoint_EulerNet/config_0/fold_3/EulerNet-May-23-2025_16-50-07.pth,0,{},3,14452,4821,4,0.008000612258911133
+laptops,EulerNet,4,./data_sets/laptops/checkpoint_EulerNet/config_0/fold_4/EulerNet-May-23-2025_16-50-24.pth,0,{},4,14452,4820,5,0.010291576385498047
+laptops,FiGNN,0,./data_sets/laptops/checkpoint_FiGNN/config_0/fold_0/FiGNN-May-23-2025_16-47-17.pth,0,{},0,14454,4822,9,0.01613306999206543
+laptops,FiGNN,1,./data_sets/laptops/checkpoint_FiGNN/config_0/fold_1/FiGNN-May-23-2025_16-47-29.pth,0,{},1,14457,4820,11,0.004000663757324219
+laptops,FiGNN,2,./data_sets/laptops/checkpoint_FiGNN/config_0/fold_2/FiGNN-May-23-2025_16-47-40.pth,0,{},2,14455,4823,7,0.0040013790130615234
+laptops,FiGNN,3,./data_sets/laptops/checkpoint_FiGNN/config_0/fold_3/FiGNN-May-23-2025_16-47-52.pth,0,{},3,14452,4821,4,0.0030379295349121094
+laptops,FiGNN,4,./data_sets/laptops/checkpoint_FiGNN/config_0/fold_4/FiGNN-May-23-2025_16-48-03.pth,0,{},4,14452,4820,5,0.0089569091796875
+laptops,FM,0,./data_sets/laptops/checkpoint_FM/config_0/fold_0/FM-May-23-2025_16-50-41.pth,0,"{'task': 'rating', 'epoch': 10, 'lr': 0.05}",0,14454,4822,9,0.010501384735107422
+laptops,FM,1,./data_sets/laptops/checkpoint_FM/config_0/fold_1/FM-May-23-2025_16-50-48.pth,0,"{'task': 'rating', 'epoch': 10, 'lr': 0.05}",1,14457,4820,11,0.007999897003173828
+laptops,FM,2,./data_sets/laptops/checkpoint_FM/config_0/fold_2/FM-May-23-2025_16-50-55.pth,0,"{'task': 'rating', 'epoch': 10, 'lr': 0.05}",2,14455,4823,7,0.005432605743408203
+laptops,FM,3,./data_sets/laptops/checkpoint_FM/config_0/fold_3/FM-May-23-2025_16-51-02.pth,0,"{'task': 'rating', 'epoch': 10, 'lr': 0.05}",3,14452,4821,4,0.0029997825622558594
+laptops,FM,4,./data_sets/laptops/checkpoint_FM/config_0/fold_4/FM-May-23-2025_16-51-09.pth,0,"{'task': 'rating', 'epoch': 10, 'lr': 0.05}",4,14452,4820,5,0.004050493240356445
+laptops,FNN,0,./data_sets/laptops/checkpoint_FNN/config_0/fold_0/FNN-May-23-2025_16-51-16.pth,0,{},0,14454,4822,9,0.012356996536254883
+laptops,FNN,1,./data_sets/laptops/checkpoint_FNN/config_0/fold_1/FNN-May-23-2025_16-51-30.pth,0,{},1,14457,4820,11,0.0050013065338134766
+laptops,FNN,2,./data_sets/laptops/checkpoint_FNN/config_0/fold_2/FNN-May-23-2025_16-51-44.pth,0,{},2,14455,4823,7,0.004196882247924805
+laptops,FNN,3,./data_sets/laptops/checkpoint_FNN/config_0/fold_3/FNN-May-23-2025_16-51-58.pth,0,{},3,14452,4821,4,0.005997896194458008
+laptops,FNN,4,./data_sets/laptops/checkpoint_FNN/config_0/fold_4/FNN-May-23-2025_16-52-11.pth,0,{},4,14452,4820,5,0.006000995635986328
+laptops,FwFM,0,./data_sets/laptops/checkpoint_FwFM/config_0/fold_0/FwFM-May-23-2025_16-52-25.pth,0,{},0,14454,4822,9,0.0064296722412109375
+laptops,FwFM,1,./data_sets/laptops/checkpoint_FwFM/config_0/fold_1/FwFM-May-23-2025_16-52-33.pth,0,{},1,14457,4820,11,0.006013154983520508
+laptops,FwFM,2,./data_sets/laptops/checkpoint_FwFM/config_0/fold_2/FwFM-May-23-2025_16-52-40.pth,0,{},2,14455,4823,7,0.011587142944335938
+laptops,FwFM,3,./data_sets/laptops/checkpoint_FwFM/config_0/fold_3/FwFM-May-23-2025_16-52-48.pth,0,{},3,14452,4821,4,0.003679513931274414
+laptops,FwFM,4,./data_sets/laptops/checkpoint_FwFM/config_0/fold_4/FwFM-May-23-2025_16-52-56.pth,0,{},4,14452,4820,5,0.002999544143676758
+laptops,LR,0,./data_sets/laptops/checkpoint_LR/config_0/fold_0/LR-May-23-2025_16-40-40.pth,0,{},0,14454,4822,9,0.0050508975982666016
+laptops,LR,1,./data_sets/laptops/checkpoint_LR/config_0/fold_1/LR-May-23-2025_16-40-46.pth,0,{},1,14457,4820,11,0.0
+laptops,LR,2,./data_sets/laptops/checkpoint_LR/config_0/fold_2/LR-May-23-2025_16-40-52.pth,0,{},2,14455,4823,7,0.004002571105957031
+laptops,LR,3,./data_sets/laptops/checkpoint_LR/config_0/fold_3/LR-May-23-2025_16-40-58.pth,0,{},3,14452,4821,4,0.002000093460083008
+laptops,LR,4,./data_sets/laptops/checkpoint_LR/config_0/fold_4/LR-May-23-2025_16-41-05.pth,0,{},4,14452,4820,5,0.002276897430419922
+laptops,NFM,0,./data_sets/laptops/checkpoint_NFM/config_0/fold_0/NFM-May-23-2025_16-41-11.pth,0,"{'n_factors': 15, 'n_epochs': 10}",0,14454,4822,9,0.010218620300292969
+laptops,NFM,1,./data_sets/laptops/checkpoint_NFM/config_0/fold_1/NFM-May-23-2025_16-41-19.pth,0,"{'n_factors': 15, 'n_epochs': 10}",1,14457,4820,11,0.012006044387817383
+laptops,NFM,2,./data_sets/laptops/checkpoint_NFM/config_0/fold_2/NFM-May-23-2025_16-41-27.pth,0,"{'n_factors': 15, 'n_epochs': 10}",2,14455,4823,7,0.006235837936401367
+laptops,NFM,3,./data_sets/laptops/checkpoint_NFM/config_0/fold_3/NFM-May-23-2025_16-41-36.pth,0,"{'n_factors': 15, 'n_epochs': 10}",3,14452,4821,4,0.005667209625244141
+laptops,NFM,4,./data_sets/laptops/checkpoint_NFM/config_0/fold_4/NFM-May-23-2025_16-41-44.pth,0,"{'n_factors': 15, 'n_epochs': 10}",4,14452,4820,5,0.00603175163269043
+laptops,PNN,0,./data_sets/laptops/checkpoint_PNN/config_0/fold_0/PNN-May-23-2025_16-53-03.pth,0,{},0,14454,4822,9,0.00863504409790039
+laptops,PNN,1,./data_sets/laptops/checkpoint_PNN/config_0/fold_1/PNN-May-23-2025_16-53-12.pth,0,{},1,14457,4820,11,0.005001068115234375
+laptops,PNN,2,./data_sets/laptops/checkpoint_PNN/config_0/fold_2/PNN-May-23-2025_16-53-21.pth,0,{},2,14455,4823,7,0.0071065425872802734
+laptops,PNN,3,./data_sets/laptops/checkpoint_PNN/config_0/fold_3/PNN-May-23-2025_16-53-30.pth,0,{},3,14452,4821,4,0.006015300750732422
+laptops,PNN,4,./data_sets/laptops/checkpoint_PNN/config_0/fold_4/PNN-May-23-2025_16-53-40.pth,0,{},4,14452,4820,5,0.005998373031616211
+laptops,WideDeep,0,./data_sets/laptops/checkpoint_WideDeep/config_0/fold_0/WideDeep-May-23-2025_16-53-49.pth,0,{},0,14454,4822,9,0.0028269290924072266
+laptops,WideDeep,1,./data_sets/laptops/checkpoint_WideDeep/config_0/fold_1/WideDeep-May-23-2025_16-53-57.pth,0,{},1,14457,4820,11,0.00812387466430664
+laptops,WideDeep,2,./data_sets/laptops/checkpoint_WideDeep/config_0/fold_2/WideDeep-May-23-2025_16-54-05.pth,0,{},2,14455,4823,7,0.0060002803802490234
+laptops,WideDeep,3,./data_sets/laptops/checkpoint_WideDeep/config_0/fold_3/WideDeep-May-23-2025_16-54-13.pth,0,{},3,14452,4821,4,0.0
+laptops,WideDeep,4,./data_sets/laptops/checkpoint_WideDeep/config_0/fold_4/WideDeep-May-23-2025_16-54-21.pth,0,{},4,14452,4820,5,0.00400233268737793
+laptops,xDeepFM,0,./data_sets/laptops/checkpoint_xDeepFM/config_0/fold_0/xDeepFM-May-23-2025_16-54-29.pth,0,{},0,14454,4822,9,0.026014328002929688
+laptops,xDeepFM,1,./data_sets/laptops/checkpoint_xDeepFM/config_0/fold_1/xDeepFM-May-23-2025_16-54-56.pth,0,{},1,14457,4820,11,0.03247189521789551
+laptops,xDeepFM,2,./data_sets/laptops/checkpoint_xDeepFM/config_0/fold_2/xDeepFM-May-23-2025_16-55-23.pth,0,{},2,14455,4823,7,0.03093242645263672
+laptops,xDeepFM,3,./data_sets/laptops/checkpoint_xDeepFM/config_0/fold_3/xDeepFM-May-23-2025_16-55-50.pth,0,{},3,14452,4821,4,0.008046388626098633
+laptops,xDeepFM,4,./data_sets/laptops/checkpoint_xDeepFM/config_0/fold_4/xDeepFM-May-23-2025_16-56-17.pth,0,{},4,14452,4820,5,0.0293881893157959
+products,AFM,0,./data_sets/products/checkpoint_AFM/config_0/fold_0/AFM-May-23-2025_17-18-38.pth,0,{},0,42480,14187,59,0.046700239181518555
+products,AFM,1,./data_sets/products/checkpoint_AFM/config_0/fold_1/AFM-May-23-2025_17-18-52.pth,0,{},1,42485,14185,61,0.04331254959106445
+products,AFM,2,./data_sets/products/checkpoint_AFM/config_0/fold_2/AFM-May-23-2025_17-19-06.pth,0,{},2,42483,14185,69,0.06160545349121094
+products,AFM,3,./data_sets/products/checkpoint_AFM/config_0/fold_3/AFM-May-23-2025_17-19-21.pth,0,{},3,42499,14179,74,0.04866385459899902
+products,AFM,4,./data_sets/products/checkpoint_AFM/config_0/fold_4/AFM-May-23-2025_17-19-35.pth,0,{},4,42477,14186,59,0.042868614196777344
+products,AutoInt,0,./data_sets/products/checkpoint_AutoInt/config_0/fold_0/AutoInt-May-23-2025_17-32-58.pth,0,{},0,42480,14187,59,0.11569881439208984
+products,AutoInt,1,./data_sets/products/checkpoint_AutoInt/config_0/fold_1/AutoInt-May-23-2025_17-33-24.pth,0,{},1,42485,14185,61,0.11104178428649902
+products,AutoInt,2,./data_sets/products/checkpoint_AutoInt/config_0/fold_2/AutoInt-May-23-2025_17-33-50.pth,0,{},2,42483,14185,69,0.13411307334899902
+products,AutoInt,3,./data_sets/products/checkpoint_AutoInt/config_0/fold_3/AutoInt-May-23-2025_17-34-17.pth,0,{},3,42499,14179,74,0.14399051666259766
+products,AutoInt,4,./data_sets/products/checkpoint_AutoInt/config_0/fold_4/AutoInt-May-23-2025_17-34-42.pth,0,{},4,42477,14186,59,0.1271648406982422
+products,DCN,0,./data_sets/products/checkpoint_DCN/config_0/fold_0/DCN-May-23-2025_17-19-49.pth,0,{},0,42480,14187,59,0.10620331764221191
+products,DCN,1,./data_sets/products/checkpoint_DCN/config_0/fold_1/DCN-May-23-2025_17-20-25.pth,0,{},1,42485,14185,61,0.11504006385803223
+products,DCN,2,./data_sets/products/checkpoint_DCN/config_0/fold_2/DCN-May-23-2025_17-21-02.pth,0,{},2,42483,14185,69,0.13135147094726562
+products,DCN,3,./data_sets/products/checkpoint_DCN/config_0/fold_3/DCN-May-23-2025_17-21-39.pth,0,{},3,42499,14179,74,0.12355589866638184
+products,DCN,4,./data_sets/products/checkpoint_DCN/config_0/fold_4/DCN-May-23-2025_17-22-18.pth,0,{},4,42477,14186,59,0.10686182975769043
+products,DeepFM,0,./data_sets/products/checkpoint_DeepFM/config_0/fold_0/DeepFM-May-23-2025_17-22-57.pth,0,{},0,42480,14187,59,0.047907114028930664
+products,DeepFM,1,./data_sets/products/checkpoint_DeepFM/config_0/fold_1/DeepFM-May-23-2025_17-23-19.pth,0,{},1,42485,14185,61,0.0723867416381836
+products,DeepFM,2,./data_sets/products/checkpoint_DeepFM/config_0/fold_2/DeepFM-May-23-2025_17-23-42.pth,0,{},2,42483,14185,69,0.09864616394042969
+products,DeepFM,3,./data_sets/products/checkpoint_DeepFM/config_0/fold_3/DeepFM-May-23-2025_17-24-05.pth,0,{},3,42499,14179,74,0.08781123161315918
+products,DeepFM,4,./data_sets/products/checkpoint_DeepFM/config_0/fold_4/DeepFM-May-23-2025_17-24-27.pth,0,{},4,42477,14186,59,0.056545257568359375
+products,DSSM,0,./data_sets/products/checkpoint_DSSM/config_0/fold_0/DSSM-May-23-2025_17-24-50.pth,0,{},0,42480,14187,59,0.1257948875427246
+products,DSSM,1,./data_sets/products/checkpoint_DSSM/config_0/fold_1/DSSM-May-23-2025_17-25-49.pth,0,{},1,42485,14185,61,0.13849639892578125
+products,DSSM,2,./data_sets/products/checkpoint_DSSM/config_0/fold_2/DSSM-May-23-2025_17-26-48.pth,0,{},2,42483,14185,69,0.13887786865234375
+products,DSSM,3,./data_sets/products/checkpoint_DSSM/config_0/fold_3/DSSM-May-23-2025_17-27-48.pth,0,{},3,42499,14179,74,0.16597938537597656
+products,DSSM,4,./data_sets/products/checkpoint_DSSM/config_0/fold_4/DSSM-May-23-2025_17-28-47.pth,0,{},4,42477,14186,59,0.14969921112060547
+products,EulerNet,0,./data_sets/products/checkpoint_EulerNet/config_0/fold_0/EulerNet-May-23-2025_17-35-09.pth,0,{},0,42480,14187,59,0.10753607749938965
+products,EulerNet,1,./data_sets/products/checkpoint_EulerNet/config_0/fold_1/EulerNet-May-23-2025_17-35-51.pth,0,{},1,42485,14185,61,0.11510038375854492
+products,EulerNet,2,./data_sets/products/checkpoint_EulerNet/config_0/fold_2/EulerNet-May-23-2025_17-36-31.pth,0,{},2,42483,14185,69,0.12572860717773438
+products,EulerNet,3,./data_sets/products/checkpoint_EulerNet/config_0/fold_3/EulerNet-May-23-2025_17-37-13.pth,0,{},3,42499,14179,74,0.1419062614440918
+products,EulerNet,4,./data_sets/products/checkpoint_EulerNet/config_0/fold_4/EulerNet-May-23-2025_17-37-55.pth,0,{},4,42477,14186,59,0.11641263961791992
+products,FiGNN,0,./data_sets/products/checkpoint_FiGNN/config_0/fold_0/FiGNN-May-23-2025_17-31-04.pth,0,{},0,42480,14187,59,0.09430170059204102
+products,FiGNN,1,./data_sets/products/checkpoint_FiGNN/config_0/fold_1/FiGNN-May-23-2025_17-31-26.pth,0,{},1,42485,14185,61,0.10406494140625
+products,FiGNN,2,./data_sets/products/checkpoint_FiGNN/config_0/fold_2/FiGNN-May-23-2025_17-31-49.pth,0,{},2,42483,14185,69,0.11017489433288574
+products,FiGNN,3,./data_sets/products/checkpoint_FiGNN/config_0/fold_3/FiGNN-May-23-2025_17-32-11.pth,0,{},3,42499,14179,74,0.19243860244750977
+products,FiGNN,4,./data_sets/products/checkpoint_FiGNN/config_0/fold_4/FiGNN-May-23-2025_17-32-34.pth,0,{},4,42477,14186,59,0.10652899742126465
+products,FM,0,./data_sets/products/checkpoint_FM/config_0/fold_0/FM-May-23-2025_17-38-40.pth,0,"{'task': 'rating', 'epoch': 10, 'lr': 0.05}",0,42480,14187,59,0.04139375686645508
+products,FM,1,./data_sets/products/checkpoint_FM/config_0/fold_1/FM-May-23-2025_17-38-54.pth,0,"{'task': 'rating', 'epoch': 10, 'lr': 0.05}",1,42485,14185,61,0.04074573516845703
+products,FM,2,./data_sets/products/checkpoint_FM/config_0/fold_2/FM-May-23-2025_17-39-07.pth,0,"{'task': 'rating', 'epoch': 10, 'lr': 0.05}",2,42483,14185,69,0.04867839813232422
+products,FM,3,./data_sets/products/checkpoint_FM/config_0/fold_3/FM-May-23-2025_17-39-20.pth,0,"{'task': 'rating', 'epoch': 10, 'lr': 0.05}",3,42499,14179,74,0.04716300964355469
+products,FM,4,./data_sets/products/checkpoint_FM/config_0/fold_4/FM-May-23-2025_17-39-33.pth,0,"{'task': 'rating', 'epoch': 10, 'lr': 0.05}",4,42477,14186,59,0.04500746726989746
+products,FNN,0,./data_sets/products/checkpoint_FNN/config_0/fold_0/FNN-May-23-2025_17-39-46.pth,0,{},0,42480,14187,59,0.06307864189147949
+products,FNN,1,./data_sets/products/checkpoint_FNN/config_0/fold_1/FNN-May-23-2025_17-40-21.pth,0,{},1,42485,14185,61,0.08037972450256348
+products,FNN,2,./data_sets/products/checkpoint_FNN/config_0/fold_2/FNN-May-23-2025_17-40-56.pth,0,{},2,42483,14185,69,0.07846498489379883
+products,FNN,3,./data_sets/products/checkpoint_FNN/config_0/fold_3/FNN-May-23-2025_17-41-28.pth,0,{},3,42499,14179,74,0.09629082679748535
+products,FNN,4,./data_sets/products/checkpoint_FNN/config_0/fold_4/FNN-May-23-2025_17-42-01.pth,0,{},4,42477,14186,59,0.06731438636779785
+products,FwFM,0,./data_sets/products/checkpoint_FwFM/config_0/fold_0/FwFM-May-23-2025_17-42-33.pth,0,{},0,42480,14187,59,0.03149890899658203
+products,FwFM,1,./data_sets/products/checkpoint_FwFM/config_0/fold_1/FwFM-May-23-2025_17-42-46.pth,0,{},1,42485,14185,61,0.03561544418334961
+products,FwFM,2,./data_sets/products/checkpoint_FwFM/config_0/fold_2/FwFM-May-23-2025_17-42-59.pth,0,{},2,42483,14185,69,0.04887080192565918
+products,FwFM,3,./data_sets/products/checkpoint_FwFM/config_0/fold_3/FwFM-May-23-2025_17-43-13.pth,0,{},3,42499,14179,74,0.04472017288208008
+products,FwFM,4,./data_sets/products/checkpoint_FwFM/config_0/fold_4/FwFM-May-23-2025_17-43-26.pth,0,{},4,42477,14186,59,0.032982587814331055
+products,LR,0,./data_sets/products/checkpoint_LR/config_0/fold_0/LR-May-23-2025_17-16-33.pth,0,{},0,42480,14187,59,0.02087259292602539
+products,LR,1,./data_sets/products/checkpoint_LR/config_0/fold_1/LR-May-23-2025_17-16-42.pth,0,{},1,42485,14185,61,0.031771183013916016
+products,LR,2,./data_sets/products/checkpoint_LR/config_0/fold_2/LR-May-23-2025_17-16-52.pth,0,{},2,42483,14185,69,0.027972698211669922
+products,LR,3,./data_sets/products/checkpoint_LR/config_0/fold_3/LR-May-23-2025_17-17-01.pth,0,{},3,42499,14179,74,0.03139996528625488
+products,LR,4,./data_sets/products/checkpoint_LR/config_0/fold_4/LR-May-23-2025_17-17-10.pth,0,{},4,42477,14186,59,0.027680158615112305
+products,NFM,0,./data_sets/products/checkpoint_NFM/config_0/fold_0/NFM-May-23-2025_17-17-19.pth,0,"{'n_factors': 15, 'n_epochs': 10}",0,42480,14187,59,0.0616452693939209
+products,NFM,1,./data_sets/products/checkpoint_NFM/config_0/fold_1/NFM-May-23-2025_17-17-34.pth,0,"{'n_factors': 15, 'n_epochs': 10}",1,42485,14185,61,0.06537199020385742
+products,NFM,2,./data_sets/products/checkpoint_NFM/config_0/fold_2/NFM-May-23-2025_17-17-51.pth,0,"{'n_factors': 15, 'n_epochs': 10}",2,42483,14185,69,0.07301688194274902
+products,NFM,3,./data_sets/products/checkpoint_NFM/config_0/fold_3/NFM-May-23-2025_17-18-07.pth,0,"{'n_factors': 15, 'n_epochs': 10}",3,42499,14179,74,0.07892966270446777
+products,NFM,4,./data_sets/products/checkpoint_NFM/config_0/fold_4/NFM-May-23-2025_17-18-22.pth,0,"{'n_factors': 15, 'n_epochs': 10}",4,42477,14186,59,0.05909013748168945
+products,PNN,0,./data_sets/products/checkpoint_PNN/config_0/fold_0/PNN-May-23-2025_17-43-40.pth,0,{},0,42480,14187,59,0.05029630661010742
+products,PNN,1,./data_sets/products/checkpoint_PNN/config_0/fold_1/PNN-May-23-2025_17-43-58.pth,0,{},1,42485,14185,61,0.048229217529296875
+products,PNN,2,./data_sets/products/checkpoint_PNN/config_0/fold_2/PNN-May-23-2025_17-44-16.pth,0,{},2,42483,14185,69,0.0561373233795166
+products,PNN,3,./data_sets/products/checkpoint_PNN/config_0/fold_3/PNN-May-23-2025_17-44-34.pth,0,{},3,42499,14179,74,0.0625302791595459
+products,PNN,4,./data_sets/products/checkpoint_PNN/config_0/fold_4/PNN-May-23-2025_17-44-53.pth,0,{},4,42477,14186,59,0.055925846099853516
+products,WideDeep,0,./data_sets/products/checkpoint_WideDeep/config_0/fold_0/WideDeep-May-23-2025_17-45-11.pth,0,{},0,42480,14187,59,0.03175163269042969
+products,WideDeep,1,./data_sets/products/checkpoint_WideDeep/config_0/fold_1/WideDeep-May-23-2025_17-45-27.pth,0,{},1,42485,14185,61,0.030179738998413086
+products,WideDeep,2,./data_sets/products/checkpoint_WideDeep/config_0/fold_2/WideDeep-May-23-2025_17-45-42.pth,0,{},2,42483,14185,69,0.047280311584472656
+products,WideDeep,3,./data_sets/products/checkpoint_WideDeep/config_0/fold_3/WideDeep-May-23-2025_17-45-57.pth,0,{},3,42499,14179,74,0.0420985221862793
+products,WideDeep,4,./data_sets/products/checkpoint_WideDeep/config_0/fold_4/WideDeep-May-23-2025_17-46-12.pth,0,{},4,42477,14186,59,0.04072403907775879
+products,xDeepFM,0,./data_sets/products/checkpoint_xDeepFM/config_0/fold_0/xDeepFM-May-23-2025_17-46-27.pth,0,{},0,42480,14187,59,0.2679433822631836
+products,xDeepFM,1,./data_sets/products/checkpoint_xDeepFM/config_0/fold_1/xDeepFM-May-23-2025_17-47-39.pth,0,{},1,42485,14185,61,0.2770576477050781
+products,xDeepFM,2,./data_sets/products/checkpoint_xDeepFM/config_0/fold_2/xDeepFM-May-23-2025_17-48-52.pth,0,{},2,42483,14185,69,0.3321089744567871
+products,xDeepFM,3,./data_sets/products/checkpoint_xDeepFM/config_0/fold_3/xDeepFM-May-23-2025_17-50-05.pth,0,{},3,42499,14179,74,0.3388855457305908
+products,xDeepFM,4,./data_sets/products/checkpoint_xDeepFM/config_0/fold_4/xDeepFM-May-23-2025_17-51-17.pth,0,{},4,42477,14186,59,0.26985740661621094
+productssecond,AFM,0,./data_sets/productssecond/checkpoint_AFM/config_0/fold_0/AFM-May-24-2025_00-47-45.pth,0,{},0,8597,2866,1,0.0020079612731933594
+productssecond,AFM,1,./data_sets/productssecond/checkpoint_AFM/config_0/fold_1/AFM-May-24-2025_00-47-52.pth,0,{},1,8599,2867,2,0.0019888877868652344
+productssecond,AFM,2,./data_sets/productssecond/checkpoint_AFM/config_0/fold_2/AFM-May-24-2025_00-47-59.pth,0,{},2,8599,2867,2,0.0019996166229248047
+productssecond,AFM,3,./data_sets/productssecond/checkpoint_AFM/config_0/fold_3/AFM-May-24-2025_00-48-05.pth,0,{},3,8597,2867,2,0.0030002593994140625
+productssecond,AFM,4,./data_sets/productssecond/checkpoint_AFM/config_0/fold_4/AFM-May-24-2025_00-48-12.pth,0,{},4,8599,2866,2,0.002019643783569336
+productssecond,AutoInt,0,./data_sets/productssecond/checkpoint_AutoInt/config_0/fold_0/AutoInt-May-24-2025_00-52-37.pth,0,{},0,8597,2866,1,0.010703563690185547
+productssecond,AutoInt,1,./data_sets/productssecond/checkpoint_AutoInt/config_0/fold_1/AutoInt-May-24-2025_00-52-46.pth,0,{},1,8599,2867,2,0.003816843032836914
+productssecond,AutoInt,2,./data_sets/productssecond/checkpoint_AutoInt/config_0/fold_2/AutoInt-May-24-2025_00-52-56.pth,0,{},2,8599,2867,2,0.004376888275146484
+productssecond,AutoInt,3,./data_sets/productssecond/checkpoint_AutoInt/config_0/fold_3/AutoInt-May-24-2025_00-53-05.pth,0,{},3,8597,2867,2,0.0039975643157958984
+productssecond,AutoInt,4,./data_sets/productssecond/checkpoint_AutoInt/config_0/fold_4/AutoInt-May-24-2025_00-53-15.pth,0,{},4,8599,2866,2,0.004000186920166016
+productssecond,DCN,0,./data_sets/productssecond/checkpoint_DCN/config_0/fold_0/DCN-May-24-2025_00-48-18.pth,0,{},0,8597,2866,1,0.0032799243927001953
+productssecond,DCN,1,./data_sets/productssecond/checkpoint_DCN/config_0/fold_1/DCN-May-24-2025_00-48-30.pth,0,{},1,8599,2867,2,0.0030045509338378906
+productssecond,DCN,2,./data_sets/productssecond/checkpoint_DCN/config_0/fold_2/DCN-May-24-2025_00-48-42.pth,0,{},2,8599,2867,2,0.0029997825622558594
+productssecond,DCN,3,./data_sets/productssecond/checkpoint_DCN/config_0/fold_3/DCN-May-24-2025_00-48-54.pth,0,{},3,8597,2867,2,0.003000974655151367
+productssecond,DCN,4,./data_sets/productssecond/checkpoint_DCN/config_0/fold_4/DCN-May-24-2025_00-49-05.pth,0,{},4,8599,2866,2,0.00814056396484375
+productssecond,DeepFM,0,./data_sets/productssecond/checkpoint_DeepFM/config_0/fold_0/DeepFM-May-24-2025_00-49-17.pth,0,{},0,8597,2866,1,0.0019996166229248047
+productssecond,DeepFM,1,./data_sets/productssecond/checkpoint_DeepFM/config_0/fold_1/DeepFM-May-24-2025_00-49-25.pth,0,{},1,8599,2867,2,0.0030400753021240234
+productssecond,DeepFM,2,./data_sets/productssecond/checkpoint_DeepFM/config_0/fold_2/DeepFM-May-24-2025_00-49-34.pth,0,{},2,8599,2867,2,0.0032019615173339844
+productssecond,DeepFM,3,./data_sets/productssecond/checkpoint_DeepFM/config_0/fold_3/DeepFM-May-24-2025_00-49-42.pth,0,{},3,8597,2867,2,0.002000093460083008
+productssecond,DeepFM,4,./data_sets/productssecond/checkpoint_DeepFM/config_0/fold_4/DeepFM-May-24-2025_00-49-51.pth,0,{},4,8599,2866,2,0.0020003318786621094
+productssecond,DSSM,0,./data_sets/productssecond/checkpoint_DSSM/config_0/fold_0/DSSM-May-24-2025_00-50-00.pth,0,{},0,8597,2866,1,0.003001689910888672
+productssecond,DSSM,1,./data_sets/productssecond/checkpoint_DSSM/config_0/fold_1/DSSM-May-24-2025_00-50-16.pth,0,{},1,8599,2867,2,0.005769252777099609
+productssecond,DSSM,2,./data_sets/productssecond/checkpoint_DSSM/config_0/fold_2/DSSM-May-24-2025_00-50-32.pth,0,{},2,8599,2867,2,0.005001068115234375
+productssecond,DSSM,3,./data_sets/productssecond/checkpoint_DSSM/config_0/fold_3/DSSM-May-24-2025_00-50-48.pth,0,{},3,8597,2867,2,0.0040051937103271484
+productssecond,DSSM,4,./data_sets/productssecond/checkpoint_DSSM/config_0/fold_4/DSSM-May-24-2025_00-51-04.pth,0,{},4,8599,2866,2,0.004024028778076172
+productssecond,EulerNet,0,./data_sets/productssecond/checkpoint_EulerNet/config_0/fold_0/EulerNet-May-24-2025_00-53-24.pth,0,{},0,8597,2866,1,0.0030014514923095703
+productssecond,EulerNet,1,./data_sets/productssecond/checkpoint_EulerNet/config_0/fold_1/EulerNet-May-24-2025_00-53-36.pth,0,{},1,8599,2867,2,0.004324674606323242
+productssecond,EulerNet,2,./data_sets/productssecond/checkpoint_EulerNet/config_0/fold_2/EulerNet-May-24-2025_00-53-49.pth,0,{},2,8599,2867,2,0.004007101058959961
+productssecond,EulerNet,3,./data_sets/productssecond/checkpoint_EulerNet/config_0/fold_3/EulerNet-May-24-2025_00-54-01.pth,0,{},3,8597,2867,2,0.003621339797973633
+productssecond,EulerNet,4,./data_sets/productssecond/checkpoint_EulerNet/config_0/fold_4/EulerNet-May-24-2025_00-54-13.pth,0,{},4,8599,2866,2,0.003856658935546875
+productssecond,FiGNN,0,./data_sets/productssecond/checkpoint_FiGNN/config_0/fold_0/FiGNN-May-24-2025_00-51-53.pth,0,{},0,8597,2866,1,0.004167079925537109
+productssecond,FiGNN,1,./data_sets/productssecond/checkpoint_FiGNN/config_0/fold_1/FiGNN-May-24-2025_00-52-01.pth,0,{},1,8599,2867,2,0.0
+productssecond,FiGNN,2,./data_sets/productssecond/checkpoint_FiGNN/config_0/fold_2/FiGNN-May-24-2025_00-52-10.pth,0,{},2,8599,2867,2,0.004113435745239258
+productssecond,FiGNN,3,./data_sets/productssecond/checkpoint_FiGNN/config_0/fold_3/FiGNN-May-24-2025_00-52-19.pth,0,{},3,8597,2867,2,0.004000186920166016
+productssecond,FiGNN,4,./data_sets/productssecond/checkpoint_FiGNN/config_0/fold_4/FiGNN-May-24-2025_00-52-28.pth,0,{},4,8599,2866,2,0.004014730453491211
+productssecond,FM,0,./data_sets/productssecond/checkpoint_FM/config_0/fold_0/FM-May-24-2025_00-54-25.pth,0,"{'task': 'rating', 'epoch': 10, 'lr': 0.05}",0,8597,2866,1,0.0021681785583496094
+productssecond,FM,1,./data_sets/productssecond/checkpoint_FM/config_0/fold_1/FM-May-24-2025_00-54-32.pth,0,"{'task': 'rating', 'epoch': 10, 'lr': 0.05}",1,8599,2867,2,0.0022194385528564453
+productssecond,FM,2,./data_sets/productssecond/checkpoint_FM/config_0/fold_2/FM-May-24-2025_00-54-38.pth,0,"{'task': 'rating', 'epoch': 10, 'lr': 0.05}",2,8599,2867,2,0.0019996166229248047
+productssecond,FM,3,./data_sets/productssecond/checkpoint_FM/config_0/fold_3/FM-May-24-2025_00-54-44.pth,0,"{'task': 'rating', 'epoch': 10, 'lr': 0.05}",3,8597,2867,2,0.0019998550415039062
+productssecond,FM,4,./data_sets/productssecond/checkpoint_FM/config_0/fold_4/FM-May-24-2025_00-54-50.pth,0,"{'task': 'rating', 'epoch': 10, 'lr': 0.05}",4,8599,2866,2,0.003081083297729492
+productssecond,FNN,0,./data_sets/productssecond/checkpoint_FNN/config_0/fold_0/FNN-May-24-2025_00-54-56.pth,0,{},0,8597,2866,1,0.0021736621856689453
+productssecond,FNN,1,./data_sets/productssecond/checkpoint_FNN/config_0/fold_1/FNN-May-24-2025_00-55-06.pth,0,{},1,8599,2867,2,0.0030078887939453125
+productssecond,FNN,2,./data_sets/productssecond/checkpoint_FNN/config_0/fold_2/FNN-May-24-2025_00-55-17.pth,0,{},2,8599,2867,2,0.0
+productssecond,FNN,3,./data_sets/productssecond/checkpoint_FNN/config_0/fold_3/FNN-May-24-2025_00-55-27.pth,0,{},3,8597,2867,2,0.002934694290161133
+productssecond,FNN,4,./data_sets/productssecond/checkpoint_FNN/config_0/fold_4/FNN-May-24-2025_00-55-38.pth,0,{},4,8599,2866,2,0.0020008087158203125
+productssecond,FwFM,0,./data_sets/productssecond/checkpoint_FwFM/config_0/fold_0/FwFM-May-24-2025_00-55-49.pth,0,{},0,8597,2866,1,0.0010395050048828125
+productssecond,FwFM,1,./data_sets/productssecond/checkpoint_FwFM/config_0/fold_1/FwFM-May-24-2025_00-55-55.pth,0,{},1,8599,2867,2,0.0019998550415039062
+productssecond,FwFM,2,./data_sets/productssecond/checkpoint_FwFM/config_0/fold_2/FwFM-May-24-2025_00-56-01.pth,0,{},2,8599,2867,2,0.0019996166229248047
+productssecond,FwFM,3,./data_sets/productssecond/checkpoint_FwFM/config_0/fold_3/FwFM-May-24-2025_00-56-07.pth,0,{},3,8597,2867,2,0.0019998550415039062
+productssecond,FwFM,4,./data_sets/productssecond/checkpoint_FwFM/config_0/fold_4/FwFM-May-24-2025_00-56-13.pth,0,{},4,8599,2866,2,0.0029108524322509766
+productssecond,LR,0,./data_sets/productssecond/checkpoint_LR/config_0/fold_0/LR-May-24-2025_00-46-41.pth,0,{},0,8597,2866,1,0.0009999275207519531
+productssecond,LR,1,./data_sets/productssecond/checkpoint_LR/config_0/fold_1/LR-May-24-2025_00-46-47.pth,0,{},1,8599,2867,2,0.0009999275207519531
+productssecond,LR,2,./data_sets/productssecond/checkpoint_LR/config_0/fold_2/LR-May-24-2025_00-46-53.pth,0,{},2,8599,2867,2,0.0022385120391845703
+productssecond,LR,3,./data_sets/productssecond/checkpoint_LR/config_0/fold_3/LR-May-24-2025_00-46-59.pth,0,{},3,8597,2867,2,0.0030059814453125
+productssecond,LR,4,./data_sets/productssecond/checkpoint_LR/config_0/fold_4/LR-May-24-2025_00-47-04.pth,0,{},4,8599,2866,2,0.002374887466430664
+productssecond,NFM,0,./data_sets/productssecond/checkpoint_NFM/config_0/fold_0/NFM-May-24-2025_00-47-10.pth,0,"{'n_factors': 15, 'n_epochs': 10}",0,8597,2866,1,0.0019998550415039062
+productssecond,NFM,1,./data_sets/productssecond/checkpoint_NFM/config_0/fold_1/NFM-May-24-2025_00-47-17.pth,0,"{'n_factors': 15, 'n_epochs': 10}",1,8599,2867,2,0.0030088424682617188
+productssecond,NFM,2,./data_sets/productssecond/checkpoint_NFM/config_0/fold_2/NFM-May-24-2025_00-47-24.pth,0,"{'n_factors': 15, 'n_epochs': 10}",2,8599,2867,2,0.0030241012573242188
+productssecond,NFM,3,./data_sets/productssecond/checkpoint_NFM/config_0/fold_3/NFM-May-24-2025_00-47-31.pth,0,"{'n_factors': 15, 'n_epochs': 10}",3,8597,2867,2,0.003999948501586914
+productssecond,NFM,4,./data_sets/productssecond/checkpoint_NFM/config_0/fold_4/NFM-May-24-2025_00-47-38.pth,0,"{'n_factors': 15, 'n_epochs': 10}",4,8599,2866,2,0.003045797348022461
+productssecond,PNN,0,./data_sets/productssecond/checkpoint_PNN/config_0/fold_0/PNN-May-24-2025_00-56-19.pth,0,{},0,8597,2866,1,0.0020003318786621094
+productssecond,PNN,1,./data_sets/productssecond/checkpoint_PNN/config_0/fold_1/PNN-May-24-2025_00-56-27.pth,0,{},1,8599,2867,2,0.004225492477416992
+productssecond,PNN,2,./data_sets/productssecond/checkpoint_PNN/config_0/fold_2/PNN-May-24-2025_00-56-34.pth,0,{},2,8599,2867,2,0.0039997100830078125
+productssecond,PNN,3,./data_sets/productssecond/checkpoint_PNN/config_0/fold_3/PNN-May-24-2025_00-56-42.pth,0,{},3,8597,2867,2,0.0019998550415039062
+productssecond,PNN,4,./data_sets/productssecond/checkpoint_PNN/config_0/fold_4/PNN-May-24-2025_00-56-50.pth,0,{},4,8599,2866,2,0.0020029544830322266
+productssecond,WideDeep,0,./data_sets/productssecond/checkpoint_WideDeep/config_0/fold_0/WideDeep-May-24-2025_00-56-57.pth,0,{},0,8597,2866,1,0.0
+productssecond,WideDeep,1,./data_sets/productssecond/checkpoint_WideDeep/config_0/fold_1/WideDeep-May-24-2025_00-57-04.pth,0,{},1,8599,2867,2,0.0030019283294677734
+productssecond,WideDeep,2,./data_sets/productssecond/checkpoint_WideDeep/config_0/fold_2/WideDeep-May-24-2025_00-57-11.pth,0,{},2,8599,2867,2,0.002001047134399414
+productssecond,WideDeep,3,./data_sets/productssecond/checkpoint_WideDeep/config_0/fold_3/WideDeep-May-24-2025_00-57-18.pth,0,{},3,8597,2867,2,0.0020003318786621094
+productssecond,WideDeep,4,./data_sets/productssecond/checkpoint_WideDeep/config_0/fold_4/WideDeep-May-24-2025_00-57-25.pth,0,{},4,8599,2866,2,0.0029850006103515625
+productssecond,xDeepFM,0,./data_sets/productssecond/checkpoint_xDeepFM/config_0/fold_0/xDeepFM-May-24-2025_00-57-31.pth,0,{},0,8597,2866,1,0.005015850067138672
+productssecond,xDeepFM,1,./data_sets/productssecond/checkpoint_xDeepFM/config_0/fold_1/xDeepFM-May-24-2025_00-57-50.pth,0,{},1,8599,2867,2,0.006000041961669922
+productssecond,xDeepFM,2,./data_sets/productssecond/checkpoint_xDeepFM/config_0/fold_2/xDeepFM-May-24-2025_00-58-09.pth,0,{},2,8599,2867,2,0.007555484771728516
+productssecond,xDeepFM,3,./data_sets/productssecond/checkpoint_xDeepFM/config_0/fold_3/xDeepFM-May-24-2025_00-58-28.pth,0,{},3,8597,2867,2,0.007998228073120117
+productssecond,xDeepFM,4,./data_sets/productssecond/checkpoint_xDeepFM/config_0/fold_4/xDeepFM-May-24-2025_00-58-46.pth,0,{},4,8599,2866,2,0.006166219711303711
+rottentomatoesmovies,AFM,0,./data_sets/rottentomatoesmovies/checkpoint_AFM/config_0/fold_0/AFM-May-18-2025_21-39-08.pth,0,{},0,100,100,100,0.2654438018798828
+rottentomatoesmovies,AFM,1,./data_sets/rottentomatoesmovies/checkpoint_AFM/config_0/fold_1/AFM-May-18-2025_21-39-16.pth,0,{},1,100,100,100,0.2776002883911133
+rottentomatoesmovies,AFM,2,./data_sets/rottentomatoesmovies/checkpoint_AFM/config_0/fold_2/AFM-May-18-2025_21-39-23.pth,0,{},2,100,100,100,0.3436470031738281
+rottentomatoesmovies,AFM,3,./data_sets/rottentomatoesmovies/checkpoint_AFM/config_0/fold_3/AFM-May-18-2025_21-39-31.pth,0,{},3,100,100,100,0.2485823631286621
+rottentomatoesmovies,AFM,4,./data_sets/rottentomatoesmovies/checkpoint_AFM/config_0/fold_4/AFM-May-18-2025_21-39-38.pth,0,{},4,100,100,100,0.2702212333679199
+rottentomatoesmovies,AutoInt,0,./data_sets/rottentomatoesmovies/checkpoint_AutoInt/config_0/fold_0/AutoInt-May-18-2025_21-45-02.pth,0,{},0,100,100,100,1.4872493743896484
+rottentomatoesmovies,AutoInt,1,./data_sets/rottentomatoesmovies/checkpoint_AutoInt/config_0/fold_1/AutoInt-May-18-2025_21-45-13.pth,0,{},1,100,100,100,1.4545021057128906
+rottentomatoesmovies,AutoInt,2,./data_sets/rottentomatoesmovies/checkpoint_AutoInt/config_0/fold_2/AutoInt-May-18-2025_21-45-24.pth,0,{},2,100,100,100,1.4994571208953857
+rottentomatoesmovies,AutoInt,3,./data_sets/rottentomatoesmovies/checkpoint_AutoInt/config_0/fold_3/AutoInt-May-18-2025_21-45-36.pth,0,{},3,100,100,100,1.5349040031433105
+rottentomatoesmovies,AutoInt,4,./data_sets/rottentomatoesmovies/checkpoint_AutoInt/config_0/fold_4/AutoInt-May-18-2025_21-45-47.pth,0,{},4,100,100,100,1.5308547019958496
+rottentomatoesmovies,DCN,0,./data_sets/rottentomatoesmovies/checkpoint_DCN/config_0/fold_0/DCN-May-18-2025_21-39-45.pth,0,{},0,100,100,100,2.8152520656585693
+rottentomatoesmovies,DCN,1,./data_sets/rottentomatoesmovies/checkpoint_DCN/config_0/fold_1/DCN-May-18-2025_21-40-00.pth,0,{},1,100,100,100,2.881666898727417
+rottentomatoesmovies,DCN,2,./data_sets/rottentomatoesmovies/checkpoint_DCN/config_0/fold_2/DCN-May-18-2025_21-40-15.pth,0,{},2,100,100,100,2.8530311584472656
+rottentomatoesmovies,DCN,3,./data_sets/rottentomatoesmovies/checkpoint_DCN/config_0/fold_3/DCN-May-18-2025_21-40-29.pth,0,{},3,100,100,100,2.745924711227417
+rottentomatoesmovies,DCN,4,./data_sets/rottentomatoesmovies/checkpoint_DCN/config_0/fold_4/DCN-May-18-2025_21-40-43.pth,0,{},4,100,100,100,3.0289833545684814
+rottentomatoesmovies,DeepFM,0,./data_sets/rottentomatoesmovies/checkpoint_DeepFM/config_0/fold_0/DeepFM-May-18-2025_21-40-58.pth,0,{},0,100,100,100,0.8064975738525391
+rottentomatoesmovies,DeepFM,1,./data_sets/rottentomatoesmovies/checkpoint_DeepFM/config_0/fold_1/DeepFM-May-18-2025_21-41-08.pth,0,{},1,100,100,100,0.8787713050842285
+rottentomatoesmovies,DeepFM,2,./data_sets/rottentomatoesmovies/checkpoint_DeepFM/config_0/fold_2/DeepFM-May-18-2025_21-41-18.pth,0,{},2,100,100,100,0.9025356769561768
+rottentomatoesmovies,DeepFM,3,./data_sets/rottentomatoesmovies/checkpoint_DeepFM/config_0/fold_3/DeepFM-May-18-2025_21-41-28.pth,0,{},3,100,100,100,0.8219892978668213
+rottentomatoesmovies,DeepFM,4,./data_sets/rottentomatoesmovies/checkpoint_DeepFM/config_0/fold_4/DeepFM-May-18-2025_21-41-38.pth,0,{},4,100,100,100,0.8082640171051025
+rottentomatoesmovies,DSSM,0,./data_sets/rottentomatoesmovies/checkpoint_DSSM/config_0/fold_0/DSSM-May-18-2025_21-41-48.pth,0,{},0,100,100,100,5.566145896911621
+rottentomatoesmovies,DSSM,1,./data_sets/rottentomatoesmovies/checkpoint_DSSM/config_0/fold_1/DSSM-May-18-2025_21-42-09.pth,0,{},1,100,100,100,5.510307312011719
+rottentomatoesmovies,DSSM,2,./data_sets/rottentomatoesmovies/checkpoint_DSSM/config_0/fold_2/DSSM-May-18-2025_21-42-30.pth,0,{},2,100,100,100,5.563910245895386
+rottentomatoesmovies,DSSM,3,./data_sets/rottentomatoesmovies/checkpoint_DSSM/config_0/fold_3/DSSM-May-18-2025_21-42-51.pth,0,{},3,100,100,100,5.693619251251221
+rottentomatoesmovies,DSSM,4,./data_sets/rottentomatoesmovies/checkpoint_DSSM/config_0/fold_4/DSSM-May-18-2025_21-43-11.pth,0,{},4,100,100,100,5.6967933177948
+rottentomatoesmovies,EulerNet,0,./data_sets/rottentomatoesmovies/checkpoint_EulerNet/config_0/fold_0/EulerNet-May-18-2025_21-45-58.pth,0,{},0,100,100,100,6.466844081878662
+rottentomatoesmovies,EulerNet,1,./data_sets/rottentomatoesmovies/checkpoint_EulerNet/config_0/fold_1/EulerNet-May-18-2025_21-46-14.pth,0,{},1,100,100,100,6.796794414520264
+rottentomatoesmovies,EulerNet,2,./data_sets/rottentomatoesmovies/checkpoint_EulerNet/config_0/fold_2/EulerNet-May-18-2025_21-46-29.pth,0,{},2,100,100,100,6.794529914855957
+rottentomatoesmovies,EulerNet,3,./data_sets/rottentomatoesmovies/checkpoint_EulerNet/config_0/fold_3/EulerNet-May-18-2025_21-46-44.pth,0,{},3,100,100,100,6.510455369949341
+rottentomatoesmovies,EulerNet,4,./data_sets/rottentomatoesmovies/checkpoint_EulerNet/config_0/fold_4/EulerNet-May-18-2025_21-46-59.pth,0,{},4,100,100,100,6.609264135360718
+rottentomatoesmovies,FiGNN,0,./data_sets/rottentomatoesmovies/checkpoint_FiGNN/config_0/fold_0/FiGNN-May-18-2025_21-44-09.pth,0,{},0,100,100,100,1.9980249404907227
+rottentomatoesmovies,FiGNN,1,./data_sets/rottentomatoesmovies/checkpoint_FiGNN/config_0/fold_1/FiGNN-May-18-2025_21-44-20.pth,0,{},1,100,100,100,1.9460563659667969
+rottentomatoesmovies,FiGNN,2,./data_sets/rottentomatoesmovies/checkpoint_FiGNN/config_0/fold_2/FiGNN-May-18-2025_21-44-30.pth,0,{},2,100,100,100,1.9603750705718994
+rottentomatoesmovies,FiGNN,3,./data_sets/rottentomatoesmovies/checkpoint_FiGNN/config_0/fold_3/FiGNN-May-18-2025_21-44-41.pth,0,{},3,100,100,100,1.907050371170044
+rottentomatoesmovies,FiGNN,4,./data_sets/rottentomatoesmovies/checkpoint_FiGNN/config_0/fold_4/FiGNN-May-18-2025_21-44-51.pth,0,{},4,100,100,100,1.889775037765503
+rottentomatoesmovies,FM,0,./data_sets/rottentomatoesmovies/checkpoint_FM/config_0/fold_0/FM-May-18-2025_21-47-15.pth,0,"{'task': 'rating', 'epoch': 10, 'lr': 0.05}",0,100,100,100,0.20390653610229492
+rottentomatoesmovies,FM,1,./data_sets/rottentomatoesmovies/checkpoint_FM/config_0/fold_1/FM-May-18-2025_21-47-22.pth,0,"{'task': 'rating', 'epoch': 10, 'lr': 0.05}",1,100,100,100,0.22521376609802246
+rottentomatoesmovies,FM,2,./data_sets/rottentomatoesmovies/checkpoint_FM/config_0/fold_2/FM-May-18-2025_21-47-29.pth,0,"{'task': 'rating', 'epoch': 10, 'lr': 0.05}",2,100,100,100,0.22751998901367188
+rottentomatoesmovies,FM,3,./data_sets/rottentomatoesmovies/checkpoint_FM/config_0/fold_3/FM-May-18-2025_21-47-36.pth,0,"{'task': 'rating', 'epoch': 10, 'lr': 0.05}",3,100,100,100,0.21282267570495605
+rottentomatoesmovies,FM,4,./data_sets/rottentomatoesmovies/checkpoint_FM/config_0/fold_4/FM-May-18-2025_21-47-43.pth,0,"{'task': 'rating', 'epoch': 10, 'lr': 0.05}",4,100,100,100,0.19913601875305176
+rottentomatoesmovies,FNN,0,./data_sets/rottentomatoesmovies/checkpoint_FNN/config_0/fold_0/FNN-May-18-2025_21-47-50.pth,0,{},0,100,100,100,2.278648614883423
+rottentomatoesmovies,FNN,1,./data_sets/rottentomatoesmovies/checkpoint_FNN/config_0/fold_1/FNN-May-18-2025_21-48-03.pth,0,{},1,100,100,100,2.302933931350708
+rottentomatoesmovies,FNN,2,./data_sets/rottentomatoesmovies/checkpoint_FNN/config_0/fold_2/FNN-May-18-2025_21-48-16.pth,0,{},2,100,100,100,2.19126558303833
+rottentomatoesmovies,FNN,3,./data_sets/rottentomatoesmovies/checkpoint_FNN/config_0/fold_3/FNN-May-18-2025_21-48-29.pth,0,{},3,100,100,100,2.2767364978790283
+rottentomatoesmovies,FNN,4,./data_sets/rottentomatoesmovies/checkpoint_FNN/config_0/fold_4/FNN-May-18-2025_21-48-42.pth,0,{},4,100,100,100,2.3399436473846436
+rottentomatoesmovies,FwFM,0,./data_sets/rottentomatoesmovies/checkpoint_FwFM/config_0/fold_0/FwFM-May-18-2025_21-48-55.pth,0,{},0,100,100,100,0.25932812690734863
+rottentomatoesmovies,FwFM,1,./data_sets/rottentomatoesmovies/checkpoint_FwFM/config_0/fold_1/FwFM-May-18-2025_21-49-02.pth,0,{},1,100,100,100,0.2663285732269287
+rottentomatoesmovies,FwFM,2,./data_sets/rottentomatoesmovies/checkpoint_FwFM/config_0/fold_2/FwFM-May-18-2025_21-49-09.pth,0,{},2,100,100,100,0.18053579330444336
+rottentomatoesmovies,FwFM,3,./data_sets/rottentomatoesmovies/checkpoint_FwFM/config_0/fold_3/FwFM-May-18-2025_21-49-16.pth,0,{},3,100,100,100,0.1937563419342041
+rottentomatoesmovies,FwFM,4,./data_sets/rottentomatoesmovies/checkpoint_FwFM/config_0/fold_4/FwFM-May-18-2025_21-49-23.pth,0,{},4,100,100,100,0.16355538368225098
+rottentomatoesmovies,LR,0,./data_sets/rottentomatoesmovies/checkpoint_LR/config_0/fold_0/LR-May-18-2025_21-37-55.pth,0,{},0,100,100,100,0.10971903800964355
+rottentomatoesmovies,LR,1,./data_sets/rottentomatoesmovies/checkpoint_LR/config_0/fold_1/LR-May-18-2025_21-38-01.pth,0,{},1,100,100,100,0.10353279113769531
+rottentomatoesmovies,LR,2,./data_sets/rottentomatoesmovies/checkpoint_LR/config_0/fold_2/LR-May-18-2025_21-38-08.pth,0,{},2,100,100,100,0.10493946075439453
+rottentomatoesmovies,LR,3,./data_sets/rottentomatoesmovies/checkpoint_LR/config_0/fold_3/LR-May-18-2025_21-38-14.pth,0,{},3,100,100,100,0.1098642349243164
+rottentomatoesmovies,LR,4,./data_sets/rottentomatoesmovies/checkpoint_LR/config_0/fold_4/LR-May-18-2025_21-38-21.pth,0,{},4,100,100,100,0.10129475593566895
+rottentomatoesmovies,NFM,0,./data_sets/rottentomatoesmovies/checkpoint_NFM/config_0/fold_0/NFM-May-18-2025_21-38-27.pth,0,"{'n_factors': 15, 'n_epochs': 10}",0,100,100,100,0.5233502388000488
+rottentomatoesmovies,NFM,1,./data_sets/rottentomatoesmovies/checkpoint_NFM/config_0/fold_1/NFM-May-18-2025_21-38-36.pth,0,"{'n_factors': 15, 'n_epochs': 10}",1,100,100,100,0.4732975959777832
+rottentomatoesmovies,NFM,2,./data_sets/rottentomatoesmovies/checkpoint_NFM/config_0/fold_2/NFM-May-18-2025_21-38-44.pth,0,"{'n_factors': 15, 'n_epochs': 10}",2,100,100,100,0.45333003997802734
+rottentomatoesmovies,NFM,3,./data_sets/rottentomatoesmovies/checkpoint_NFM/config_0/fold_3/NFM-May-18-2025_21-38-52.pth,0,"{'n_factors': 15, 'n_epochs': 10}",3,100,100,100,0.45934391021728516
+rottentomatoesmovies,NFM,4,./data_sets/rottentomatoesmovies/checkpoint_NFM/config_0/fold_4/NFM-May-18-2025_21-39-00.pth,0,"{'n_factors': 15, 'n_epochs': 10}",4,100,100,100,0.47969985008239746
+rottentomatoesmovies,PNN,0,./data_sets/rottentomatoesmovies/checkpoint_PNN/config_0/fold_0/PNN-May-18-2025_21-49-30.pth,0,{},0,100,100,100,1.3890407085418701
+rottentomatoesmovies,PNN,1,./data_sets/rottentomatoesmovies/checkpoint_PNN/config_0/fold_1/PNN-May-18-2025_21-49-39.pth,0,{},1,100,100,100,1.397956132888794
+rottentomatoesmovies,PNN,2,./data_sets/rottentomatoesmovies/checkpoint_PNN/config_0/fold_2/PNN-May-18-2025_21-49-48.pth,0,{},2,100,100,100,1.3876585960388184
+rottentomatoesmovies,PNN,3,./data_sets/rottentomatoesmovies/checkpoint_PNN/config_0/fold_3/PNN-May-18-2025_21-49-57.pth,0,{},3,100,100,100,1.3930394649505615
+rottentomatoesmovies,PNN,4,./data_sets/rottentomatoesmovies/checkpoint_PNN/config_0/fold_4/PNN-May-18-2025_21-50-06.pth,0,{},4,100,100,100,1.3905587196350098
+rottentomatoesmovies,WideDeep,0,./data_sets/rottentomatoesmovies/checkpoint_WideDeep/config_0/fold_0/WideDeep-May-18-2025_21-50-15.pth,0,{},0,100,100,100,0.22187519073486328
+rottentomatoesmovies,WideDeep,1,./data_sets/rottentomatoesmovies/checkpoint_WideDeep/config_0/fold_1/WideDeep-May-18-2025_21-50-22.pth,0,{},1,100,100,100,0.23461103439331055
+rottentomatoesmovies,WideDeep,2,./data_sets/rottentomatoesmovies/checkpoint_WideDeep/config_0/fold_2/WideDeep-May-18-2025_21-50-30.pth,0,{},2,100,100,100,0.23906612396240234
+rottentomatoesmovies,WideDeep,3,./data_sets/rottentomatoesmovies/checkpoint_WideDeep/config_0/fold_3/WideDeep-May-18-2025_21-50-38.pth,0,{},3,100,100,100,0.23805546760559082
+rottentomatoesmovies,WideDeep,4,./data_sets/rottentomatoesmovies/checkpoint_WideDeep/config_0/fold_4/WideDeep-May-18-2025_21-50-45.pth,0,{},4,100,100,100,0.2254195213317871
+rottentomatoesmovies,xDeepFM,0,./data_sets/rottentomatoesmovies/checkpoint_xDeepFM/config_0/fold_0/xDeepFM-May-18-2025_21-50-53.pth,0,{},0,100,100,100,13.37474274635315
+rottentomatoesmovies,xDeepFM,1,./data_sets/rottentomatoesmovies/checkpoint_xDeepFM/config_0/fold_1/xDeepFM-May-18-2025_21-51-19.pth,0,{},1,100,100,100,13.450694799423218
+rottentomatoesmovies,xDeepFM,2,./data_sets/rottentomatoesmovies/checkpoint_xDeepFM/config_0/fold_2/xDeepFM-May-18-2025_21-51-44.pth,0,{},2,100,100,100,13.025949478149414
+rottentomatoesmovies,xDeepFM,3,./data_sets/rottentomatoesmovies/checkpoint_xDeepFM/config_0/fold_3/xDeepFM-May-18-2025_21-52-10.pth,0,{},3,100,100,100,13.122868061065674
+rottentomatoesmovies,xDeepFM,4,./data_sets/rottentomatoesmovies/checkpoint_xDeepFM/config_0/fold_4/xDeepFM-May-18-2025_21-52-35.pth,0,{},4,100,100,100,13.098399639129639
+ryanairreviews,AFM,0,./data_sets/ryanairreviews/checkpoint_AFM/config_0/fold_0/AFM-May-18-2025_21-53-59.pth,0,{},0,99,65,64,0.039613962173461914
+ryanairreviews,AFM,1,./data_sets/ryanairreviews/checkpoint_AFM/config_0/fold_1/AFM-May-18-2025_21-54-04.pth,0,{},1,99,63,62,0.03659868240356445
+ryanairreviews,AFM,2,./data_sets/ryanairreviews/checkpoint_AFM/config_0/fold_2/AFM-May-18-2025_21-54-10.pth,0,{},2,99,60,59,0.022893905639648438
+ryanairreviews,AFM,3,./data_sets/ryanairreviews/checkpoint_AFM/config_0/fold_3/AFM-May-18-2025_21-54-16.pth,0,{},3,97,62,59,0.033294677734375
+ryanairreviews,AFM,4,./data_sets/ryanairreviews/checkpoint_AFM/config_0/fold_4/AFM-May-18-2025_21-54-21.pth,0,{},4,100,66,66,0.03489208221435547
+ryanairreviews,AutoInt,0,./data_sets/ryanairreviews/checkpoint_AutoInt/config_0/fold_0/AutoInt-May-18-2025_21-57-00.pth,0,{},0,99,65,64,0.07108783721923828
+ryanairreviews,AutoInt,1,./data_sets/ryanairreviews/checkpoint_AutoInt/config_0/fold_1/AutoInt-May-18-2025_21-57-06.pth,0,{},1,99,63,62,0.07152414321899414
+ryanairreviews,AutoInt,2,./data_sets/ryanairreviews/checkpoint_AutoInt/config_0/fold_2/AutoInt-May-18-2025_21-57-12.pth,0,{},2,99,60,59,0.06967997550964355
+ryanairreviews,AutoInt,3,./data_sets/ryanairreviews/checkpoint_AutoInt/config_0/fold_3/AutoInt-May-18-2025_21-57-19.pth,0,{},3,97,62,59,0.06769704818725586
+ryanairreviews,AutoInt,4,./data_sets/ryanairreviews/checkpoint_AutoInt/config_0/fold_4/AutoInt-May-18-2025_21-57-25.pth,0,{},4,100,66,66,0.08526778221130371
+ryanairreviews,DCN,0,./data_sets/ryanairreviews/checkpoint_DCN/config_0/fold_0/DCN-May-18-2025_21-54-27.pth,0,{},0,99,65,64,0.0436246395111084
+ryanairreviews,DCN,1,./data_sets/ryanairreviews/checkpoint_DCN/config_0/fold_1/DCN-May-18-2025_21-54-33.pth,0,{},1,99,63,62,0.04950428009033203
+ryanairreviews,DCN,2,./data_sets/ryanairreviews/checkpoint_DCN/config_0/fold_2/DCN-May-18-2025_21-54-40.pth,0,{},2,99,60,59,0.04113173484802246
+ryanairreviews,DCN,3,./data_sets/ryanairreviews/checkpoint_DCN/config_0/fold_3/DCN-May-18-2025_21-54-46.pth,0,{},3,97,62,59,0.0464022159576416
+ryanairreviews,DCN,4,./data_sets/ryanairreviews/checkpoint_DCN/config_0/fold_4/DCN-May-18-2025_21-54-53.pth,0,{},4,100,66,66,0.060369014739990234
+ryanairreviews,DeepFM,0,./data_sets/ryanairreviews/checkpoint_DeepFM/config_0/fold_0/DeepFM-May-18-2025_21-54-59.pth,0,{},0,99,65,64,0.06698298454284668
+ryanairreviews,DeepFM,1,./data_sets/ryanairreviews/checkpoint_DeepFM/config_0/fold_1/DeepFM-May-18-2025_21-55-05.pth,0,{},1,99,63,62,0.03398585319519043
+ryanairreviews,DeepFM,2,./data_sets/ryanairreviews/checkpoint_DeepFM/config_0/fold_2/DeepFM-May-18-2025_21-55-11.pth,0,{},2,99,60,59,0.03883481025695801
+ryanairreviews,DeepFM,3,./data_sets/ryanairreviews/checkpoint_DeepFM/config_0/fold_3/DeepFM-May-18-2025_21-55-17.pth,0,{},3,97,62,59,0.043172597885131836
+ryanairreviews,DeepFM,4,./data_sets/ryanairreviews/checkpoint_DeepFM/config_0/fold_4/DeepFM-May-18-2025_21-55-23.pth,0,{},4,100,66,66,0.04950237274169922
+ryanairreviews,DSSM,0,./data_sets/ryanairreviews/checkpoint_DSSM/config_0/fold_0/DSSM-May-18-2025_21-55-29.pth,0,{},0,99,65,64,0.05359792709350586
+ryanairreviews,DSSM,1,./data_sets/ryanairreviews/checkpoint_DSSM/config_0/fold_1/DSSM-May-18-2025_21-55-35.pth,0,{},1,99,63,62,0.04226064682006836
+ryanairreviews,DSSM,2,./data_sets/ryanairreviews/checkpoint_DSSM/config_0/fold_2/DSSM-May-18-2025_21-55-42.pth,0,{},2,99,60,59,0.06269621849060059
+ryanairreviews,DSSM,3,./data_sets/ryanairreviews/checkpoint_DSSM/config_0/fold_3/DSSM-May-18-2025_21-55-48.pth,0,{},3,97,62,59,0.054186105728149414
+ryanairreviews,DSSM,4,./data_sets/ryanairreviews/checkpoint_DSSM/config_0/fold_4/DSSM-May-18-2025_21-55-55.pth,0,{},4,100,66,66,0.07732105255126953
+ryanairreviews,EulerNet,0,./data_sets/ryanairreviews/checkpoint_EulerNet/config_0/fold_0/EulerNet-May-18-2025_21-57-31.pth,0,{},0,99,65,64,0.05301833152770996
+ryanairreviews,EulerNet,1,./data_sets/ryanairreviews/checkpoint_EulerNet/config_0/fold_1/EulerNet-May-18-2025_21-57-37.pth,0,{},1,99,63,62,0.03575015068054199
+ryanairreviews,EulerNet,2,./data_sets/ryanairreviews/checkpoint_EulerNet/config_0/fold_2/EulerNet-May-18-2025_21-57-43.pth,0,{},2,99,60,59,0.04390764236450195
+ryanairreviews,EulerNet,3,./data_sets/ryanairreviews/checkpoint_EulerNet/config_0/fold_3/EulerNet-May-18-2025_21-57-49.pth,0,{},3,97,62,59,0.03250551223754883
+ryanairreviews,EulerNet,4,./data_sets/ryanairreviews/checkpoint_EulerNet/config_0/fold_4/EulerNet-May-18-2025_21-57-55.pth,0,{},4,100,66,66,0.04956793785095215
+ryanairreviews,FiGNN,0,./data_sets/ryanairreviews/checkpoint_FiGNN/config_0/fold_0/FiGNN-May-18-2025_21-56-30.pth,0,{},0,99,65,64,0.057726383209228516
+ryanairreviews,FiGNN,1,./data_sets/ryanairreviews/checkpoint_FiGNN/config_0/fold_1/FiGNN-May-18-2025_21-56-36.pth,0,{},1,99,63,62,0.0626370906829834
+ryanairreviews,FiGNN,2,./data_sets/ryanairreviews/checkpoint_FiGNN/config_0/fold_2/FiGNN-May-18-2025_21-56-42.pth,0,{},2,99,60,59,0.043857574462890625
+ryanairreviews,FiGNN,3,./data_sets/ryanairreviews/checkpoint_FiGNN/config_0/fold_3/FiGNN-May-18-2025_21-56-48.pth,0,{},3,97,62,59,0.07291722297668457
+ryanairreviews,FiGNN,4,./data_sets/ryanairreviews/checkpoint_FiGNN/config_0/fold_4/FiGNN-May-18-2025_21-56-54.pth,0,{},4,100,66,66,0.049651384353637695
+ryanairreviews,FM,0,./data_sets/ryanairreviews/checkpoint_FM/config_0/fold_0/FM-May-18-2025_21-58-01.pth,0,"{'task': 'rating', 'epoch': 10, 'lr': 0.05}",0,99,65,64,0.02830648422241211
+ryanairreviews,FM,1,./data_sets/ryanairreviews/checkpoint_FM/config_0/fold_1/FM-May-18-2025_21-58-06.pth,0,"{'task': 'rating', 'epoch': 10, 'lr': 0.05}",1,99,63,62,0.01841902732849121
+ryanairreviews,FM,2,./data_sets/ryanairreviews/checkpoint_FM/config_0/fold_2/FM-May-18-2025_21-58-12.pth,0,"{'task': 'rating', 'epoch': 10, 'lr': 0.05}",2,99,60,59,0.028075456619262695
+ryanairreviews,FM,3,./data_sets/ryanairreviews/checkpoint_FM/config_0/fold_3/FM-May-18-2025_21-58-17.pth,0,"{'task': 'rating', 'epoch': 10, 'lr': 0.05}",3,97,62,59,0.015337228775024414
+ryanairreviews,FM,4,./data_sets/ryanairreviews/checkpoint_FM/config_0/fold_4/FM-May-18-2025_21-58-23.pth,0,"{'task': 'rating', 'epoch': 10, 'lr': 0.05}",4,100,66,66,0.015015125274658203
+ryanairreviews,FNN,0,./data_sets/ryanairreviews/checkpoint_FNN/config_0/fold_0/FNN-May-18-2025_21-58-28.pth,0,{},0,99,65,64,0.03320479393005371
+ryanairreviews,FNN,1,./data_sets/ryanairreviews/checkpoint_FNN/config_0/fold_1/FNN-May-18-2025_21-58-34.pth,0,{},1,99,63,62,0.026798009872436523
+ryanairreviews,FNN,2,./data_sets/ryanairreviews/checkpoint_FNN/config_0/fold_2/FNN-May-18-2025_21-58-40.pth,0,{},2,99,60,59,0.019936323165893555
+ryanairreviews,FNN,3,./data_sets/ryanairreviews/checkpoint_FNN/config_0/fold_3/FNN-May-18-2025_21-58-46.pth,0,{},3,97,62,59,0.03275465965270996
+ryanairreviews,FNN,4,./data_sets/ryanairreviews/checkpoint_FNN/config_0/fold_4/FNN-May-18-2025_21-58-52.pth,0,{},4,100,66,66,0.039758920669555664
+ryanairreviews,FwFM,0,./data_sets/ryanairreviews/checkpoint_FwFM/config_0/fold_0/FwFM-May-18-2025_21-58-58.pth,0,{},0,99,65,64,0.021062850952148438
+ryanairreviews,FwFM,1,./data_sets/ryanairreviews/checkpoint_FwFM/config_0/fold_1/FwFM-May-18-2025_21-59-03.pth,0,{},1,99,63,62,0.0324862003326416
+ryanairreviews,FwFM,2,./data_sets/ryanairreviews/checkpoint_FwFM/config_0/fold_2/FwFM-May-18-2025_21-59-09.pth,0,{},2,99,60,59,0.029096126556396484
+ryanairreviews,FwFM,3,./data_sets/ryanairreviews/checkpoint_FwFM/config_0/fold_3/FwFM-May-18-2025_21-59-14.pth,0,{},3,97,62,59,0.021802425384521484
+ryanairreviews,FwFM,4,./data_sets/ryanairreviews/checkpoint_FwFM/config_0/fold_4/FwFM-May-18-2025_21-59-20.pth,0,{},4,100,66,66,0.0327146053314209
+ryanairreviews,LR,0,./data_sets/ryanairreviews/checkpoint_LR/config_0/fold_0/LR-May-18-2025_21-53-00.pth,0,{},0,99,65,64,0.012790203094482422
+ryanairreviews,LR,1,./data_sets/ryanairreviews/checkpoint_LR/config_0/fold_1/LR-May-18-2025_21-53-06.pth,0,{},1,99,63,62,0.022616147994995117
+ryanairreviews,LR,2,./data_sets/ryanairreviews/checkpoint_LR/config_0/fold_2/LR-May-18-2025_21-53-11.pth,0,{},2,99,60,59,0.02105259895324707
+ryanairreviews,LR,3,./data_sets/ryanairreviews/checkpoint_LR/config_0/fold_3/LR-May-18-2025_21-53-17.pth,0,{},3,97,62,59,0.02406787872314453
+ryanairreviews,LR,4,./data_sets/ryanairreviews/checkpoint_LR/config_0/fold_4/LR-May-18-2025_21-53-23.pth,0,{},4,100,66,66,0.02240467071533203
+ryanairreviews,NFM,0,./data_sets/ryanairreviews/checkpoint_NFM/config_0/fold_0/NFM-May-18-2025_21-53-29.pth,0,"{'n_factors': 15, 'n_epochs': 10}",0,99,65,64,0.04944467544555664
+ryanairreviews,NFM,1,./data_sets/ryanairreviews/checkpoint_NFM/config_0/fold_1/NFM-May-18-2025_21-53-35.pth,0,"{'n_factors': 15, 'n_epochs': 10}",1,99,63,62,0.031929969787597656
+ryanairreviews,NFM,2,./data_sets/ryanairreviews/checkpoint_NFM/config_0/fold_2/NFM-May-18-2025_21-53-41.pth,0,"{'n_factors': 15, 'n_epochs': 10}",2,99,60,59,0.0447080135345459
+ryanairreviews,NFM,3,./data_sets/ryanairreviews/checkpoint_NFM/config_0/fold_3/NFM-May-18-2025_21-53-47.pth,0,"{'n_factors': 15, 'n_epochs': 10}",3,97,62,59,0.0438838005065918
+ryanairreviews,NFM,4,./data_sets/ryanairreviews/checkpoint_NFM/config_0/fold_4/NFM-May-18-2025_21-53-53.pth,0,"{'n_factors': 15, 'n_epochs': 10}",4,100,66,66,0.04041600227355957
+ryanairreviews,PNN,0,./data_sets/ryanairreviews/checkpoint_PNN/config_0/fold_0/PNN-May-18-2025_21-59-25.pth,0,{},0,99,65,64,0.03333330154418945
+ryanairreviews,PNN,1,./data_sets/ryanairreviews/checkpoint_PNN/config_0/fold_1/PNN-May-18-2025_21-59-31.pth,0,{},1,99,63,62,0.0360255241394043
+ryanairreviews,PNN,2,./data_sets/ryanairreviews/checkpoint_PNN/config_0/fold_2/PNN-May-18-2025_21-59-37.pth,0,{},2,99,60,59,0.0422816276550293
+ryanairreviews,PNN,3,./data_sets/ryanairreviews/checkpoint_PNN/config_0/fold_3/PNN-May-18-2025_21-59-42.pth,0,{},3,97,62,59,0.03083062171936035
+ryanairreviews,PNN,4,./data_sets/ryanairreviews/checkpoint_PNN/config_0/fold_4/PNN-May-18-2025_21-59-48.pth,0,{},4,100,66,66,0.050450801849365234
+ryanairreviews,WideDeep,0,./data_sets/ryanairreviews/checkpoint_WideDeep/config_0/fold_0/WideDeep-May-18-2025_21-59-54.pth,0,{},0,99,65,64,0.03641223907470703
+ryanairreviews,WideDeep,1,./data_sets/ryanairreviews/checkpoint_WideDeep/config_0/fold_1/WideDeep-May-18-2025_22-00-00.pth,0,{},1,99,63,62,0.03596305847167969
+ryanairreviews,WideDeep,2,./data_sets/ryanairreviews/checkpoint_WideDeep/config_0/fold_2/WideDeep-May-18-2025_22-00-05.pth,0,{},2,99,60,59,0.042144060134887695
+ryanairreviews,WideDeep,3,./data_sets/ryanairreviews/checkpoint_WideDeep/config_0/fold_3/WideDeep-May-18-2025_22-00-11.pth,0,{},3,97,62,59,0.035590410232543945
+ryanairreviews,WideDeep,4,./data_sets/ryanairreviews/checkpoint_WideDeep/config_0/fold_4/WideDeep-May-18-2025_22-00-17.pth,0,{},4,100,66,66,0.03729391098022461
+ryanairreviews,xDeepFM,0,./data_sets/ryanairreviews/checkpoint_xDeepFM/config_0/fold_0/xDeepFM-May-18-2025_22-00-22.pth,0,{},0,99,65,64,0.08914661407470703
+ryanairreviews,xDeepFM,1,./data_sets/ryanairreviews/checkpoint_xDeepFM/config_0/fold_1/xDeepFM-May-18-2025_22-00-29.pth,0,{},1,99,63,62,0.07474851608276367
+ryanairreviews,xDeepFM,2,./data_sets/ryanairreviews/checkpoint_xDeepFM/config_0/fold_2/xDeepFM-May-18-2025_22-00-35.pth,0,{},2,99,60,59,0.07477283477783203
+ryanairreviews,xDeepFM,3,./data_sets/ryanairreviews/checkpoint_xDeepFM/config_0/fold_3/xDeepFM-May-18-2025_22-00-42.pth,0,{},3,97,62,59,0.11836981773376465
+ryanairreviews,xDeepFM,4,./data_sets/ryanairreviews/checkpoint_xDeepFM/config_0/fold_4/xDeepFM-May-18-2025_22-00-48.pth,0,{},4,100,66,66,0.07636070251464844
+starbucks,AFM,0,./data_sets/starbucks/checkpoint_AFM/config_0/fold_0/AFM-May-24-2025_01-28-35.pth,0,{},0,342,135,35,0.029127836227416992
+starbucks,AFM,1,./data_sets/starbucks/checkpoint_AFM/config_0/fold_1/AFM-May-24-2025_01-28-40.pth,0,{},1,339,133,46,0.028898954391479492
+starbucks,AFM,2,./data_sets/starbucks/checkpoint_AFM/config_0/fold_2/AFM-May-24-2025_01-28-45.pth,0,{},2,343,130,40,0.033603668212890625
+starbucks,AFM,3,./data_sets/starbucks/checkpoint_AFM/config_0/fold_3/AFM-May-24-2025_01-28-50.pth,0,{},3,344,128,29,0.023465394973754883
+starbucks,AFM,4,./data_sets/starbucks/checkpoint_AFM/config_0/fold_4/AFM-May-24-2025_01-28-55.pth,0,{},4,347,128,39,0.03181886672973633
+starbucks,AutoInt,0,./data_sets/starbucks/checkpoint_AutoInt/config_0/fold_0/AutoInt-May-24-2025_01-31-16.pth,0,{},0,342,135,35,0.0659036636352539
+starbucks,AutoInt,1,./data_sets/starbucks/checkpoint_AutoInt/config_0/fold_1/AutoInt-May-24-2025_01-31-21.pth,0,{},1,339,133,46,0.09160923957824707
+starbucks,AutoInt,2,./data_sets/starbucks/checkpoint_AutoInt/config_0/fold_2/AutoInt-May-24-2025_01-31-27.pth,0,{},2,343,130,40,0.08589577674865723
+starbucks,AutoInt,3,./data_sets/starbucks/checkpoint_AutoInt/config_0/fold_3/AutoInt-May-24-2025_01-31-32.pth,0,{},3,344,128,29,0.05512833595275879
+starbucks,AutoInt,4,./data_sets/starbucks/checkpoint_AutoInt/config_0/fold_4/AutoInt-May-24-2025_01-31-38.pth,0,{},4,347,128,39,0.08737993240356445
+starbucks,DCN,0,./data_sets/starbucks/checkpoint_DCN/config_0/fold_0/DCN-May-24-2025_01-29-00.pth,0,{},0,342,135,35,0.06446695327758789
+starbucks,DCN,1,./data_sets/starbucks/checkpoint_DCN/config_0/fold_1/DCN-May-24-2025_01-29-06.pth,0,{},1,339,133,46,0.10111236572265625
+starbucks,DCN,2,./data_sets/starbucks/checkpoint_DCN/config_0/fold_2/DCN-May-24-2025_01-29-11.pth,0,{},2,343,130,40,0.0674443244934082
+starbucks,DCN,3,./data_sets/starbucks/checkpoint_DCN/config_0/fold_3/DCN-May-24-2025_01-29-17.pth,0,{},3,344,128,29,0.046561479568481445
+starbucks,DCN,4,./data_sets/starbucks/checkpoint_DCN/config_0/fold_4/DCN-May-24-2025_01-29-23.pth,0,{},4,347,128,39,0.05874204635620117
+starbucks,DeepFM,0,./data_sets/starbucks/checkpoint_DeepFM/config_0/fold_0/DeepFM-May-24-2025_01-29-28.pth,0,{},0,342,135,35,0.036394596099853516
+starbucks,DeepFM,1,./data_sets/starbucks/checkpoint_DeepFM/config_0/fold_1/DeepFM-May-24-2025_01-29-34.pth,0,{},1,339,133,46,0.047635793685913086
+starbucks,DeepFM,2,./data_sets/starbucks/checkpoint_DeepFM/config_0/fold_2/DeepFM-May-24-2025_01-29-39.pth,0,{},2,343,130,40,0.04550981521606445
+starbucks,DeepFM,3,./data_sets/starbucks/checkpoint_DeepFM/config_0/fold_3/DeepFM-May-24-2025_01-29-44.pth,0,{},3,344,128,29,0.03435683250427246
+starbucks,DeepFM,4,./data_sets/starbucks/checkpoint_DeepFM/config_0/fold_4/DeepFM-May-24-2025_01-29-49.pth,0,{},4,347,128,39,0.03627133369445801
+starbucks,DSSM,0,./data_sets/starbucks/checkpoint_DSSM/config_0/fold_0/DSSM-May-24-2025_01-29-54.pth,0,{},0,342,135,35,0.10025215148925781
+starbucks,DSSM,1,./data_sets/starbucks/checkpoint_DSSM/config_0/fold_1/DSSM-May-24-2025_01-30-00.pth,0,{},1,339,133,46,0.10447192192077637
+starbucks,DSSM,2,./data_sets/starbucks/checkpoint_DSSM/config_0/fold_2/DSSM-May-24-2025_01-30-06.pth,0,{},2,343,130,40,0.07749581336975098
+starbucks,DSSM,3,./data_sets/starbucks/checkpoint_DSSM/config_0/fold_3/DSSM-May-24-2025_01-30-12.pth,0,{},3,344,128,29,0.04991292953491211
+starbucks,DSSM,4,./data_sets/starbucks/checkpoint_DSSM/config_0/fold_4/DSSM-May-24-2025_01-30-18.pth,0,{},4,347,128,39,0.08974432945251465
+starbucks,EulerNet,0,./data_sets/starbucks/checkpoint_EulerNet/config_0/fold_0/EulerNet-May-24-2025_01-31-44.pth,0,{},0,342,135,35,0.060480594635009766
+starbucks,EulerNet,1,./data_sets/starbucks/checkpoint_EulerNet/config_0/fold_1/EulerNet-May-24-2025_01-31-49.pth,0,{},1,339,133,46,0.07343435287475586
+starbucks,EulerNet,2,./data_sets/starbucks/checkpoint_EulerNet/config_0/fold_2/EulerNet-May-24-2025_01-31-55.pth,0,{},2,343,130,40,0.05945706367492676
+starbucks,EulerNet,3,./data_sets/starbucks/checkpoint_EulerNet/config_0/fold_3/EulerNet-May-24-2025_01-32-00.pth,0,{},3,344,128,29,0.05330371856689453
+starbucks,EulerNet,4,./data_sets/starbucks/checkpoint_EulerNet/config_0/fold_4/EulerNet-May-24-2025_01-32-06.pth,0,{},4,347,128,39,0.07599925994873047
+starbucks,FiGNN,0,./data_sets/starbucks/checkpoint_FiGNN/config_0/fold_0/FiGNN-May-24-2025_01-30-49.pth,0,{},0,342,135,35,0.07463645935058594
+starbucks,FiGNN,1,./data_sets/starbucks/checkpoint_FiGNN/config_0/fold_1/FiGNN-May-24-2025_01-30-54.pth,0,{},1,339,133,46,0.09572315216064453
+starbucks,FiGNN,2,./data_sets/starbucks/checkpoint_FiGNN/config_0/fold_2/FiGNN-May-24-2025_01-31-00.pth,0,{},2,343,130,40,0.07321357727050781
+starbucks,FiGNN,3,./data_sets/starbucks/checkpoint_FiGNN/config_0/fold_3/FiGNN-May-24-2025_01-31-05.pth,0,{},3,344,128,29,0.05040717124938965
+starbucks,FiGNN,4,./data_sets/starbucks/checkpoint_FiGNN/config_0/fold_4/FiGNN-May-24-2025_01-31-10.pth,0,{},4,347,128,39,0.13472247123718262
+starbucks,FM,0,./data_sets/starbucks/checkpoint_FM/config_0/fold_0/FM-May-24-2025_01-32-11.pth,0,"{'task': 'rating', 'epoch': 10, 'lr': 0.05}",0,342,135,35,0.02324366569519043
+starbucks,FM,1,./data_sets/starbucks/checkpoint_FM/config_0/fold_1/FM-May-24-2025_01-32-16.pth,0,"{'task': 'rating', 'epoch': 10, 'lr': 0.05}",1,339,133,46,0.030076265335083008
+starbucks,FM,2,./data_sets/starbucks/checkpoint_FM/config_0/fold_2/FM-May-24-2025_01-32-21.pth,0,"{'task': 'rating', 'epoch': 10, 'lr': 0.05}",2,343,130,40,0.024872779846191406
+starbucks,FM,3,./data_sets/starbucks/checkpoint_FM/config_0/fold_3/FM-May-24-2025_01-32-26.pth,0,"{'task': 'rating', 'epoch': 10, 'lr': 0.05}",3,344,128,29,0.01629924774169922
+starbucks,FM,4,./data_sets/starbucks/checkpoint_FM/config_0/fold_4/FM-May-24-2025_01-32-31.pth,0,"{'task': 'rating', 'epoch': 10, 'lr': 0.05}",4,347,128,39,0.02639150619506836
+starbucks,FNN,0,./data_sets/starbucks/checkpoint_FNN/config_0/fold_0/FNN-May-24-2025_01-32-36.pth,0,{},0,342,135,35,0.04551506042480469
+starbucks,FNN,1,./data_sets/starbucks/checkpoint_FNN/config_0/fold_1/FNN-May-24-2025_01-32-41.pth,0,{},1,339,133,46,0.05723738670349121
+starbucks,FNN,2,./data_sets/starbucks/checkpoint_FNN/config_0/fold_2/FNN-May-24-2025_01-32-46.pth,0,{},2,343,130,40,0.05627155303955078
+starbucks,FNN,3,./data_sets/starbucks/checkpoint_FNN/config_0/fold_3/FNN-May-24-2025_01-32-52.pth,0,{},3,344,128,29,0.03348064422607422
+starbucks,FNN,4,./data_sets/starbucks/checkpoint_FNN/config_0/fold_4/FNN-May-24-2025_01-32-57.pth,0,{},4,347,128,39,0.043265581130981445
+starbucks,FwFM,0,./data_sets/starbucks/checkpoint_FwFM/config_0/fold_0/FwFM-May-24-2025_01-33-02.pth,0,{},0,342,135,35,0.025363683700561523
+starbucks,FwFM,1,./data_sets/starbucks/checkpoint_FwFM/config_0/fold_1/FwFM-May-24-2025_01-33-07.pth,0,{},1,339,133,46,0.03066873550415039
+starbucks,FwFM,2,./data_sets/starbucks/checkpoint_FwFM/config_0/fold_2/FwFM-May-24-2025_01-33-12.pth,0,{},2,343,130,40,0.024968624114990234
+starbucks,FwFM,3,./data_sets/starbucks/checkpoint_FwFM/config_0/fold_3/FwFM-May-24-2025_01-33-17.pth,0,{},3,344,128,29,0.009147167205810547
+starbucks,FwFM,4,./data_sets/starbucks/checkpoint_FwFM/config_0/fold_4/FwFM-May-24-2025_01-33-22.pth,0,{},4,347,128,39,0.008998870849609375
+starbucks,LR,0,./data_sets/starbucks/checkpoint_LR/config_0/fold_0/LR-May-24-2025_01-27-44.pth,0,{},0,342,135,35,0.013938665390014648
+starbucks,LR,1,./data_sets/starbucks/checkpoint_LR/config_0/fold_1/LR-May-24-2025_01-27-49.pth,0,{},1,339,133,46,0.01804804801940918
+starbucks,LR,2,./data_sets/starbucks/checkpoint_LR/config_0/fold_2/LR-May-24-2025_01-27-54.pth,0,{},2,343,130,40,0.020790815353393555
+starbucks,LR,3,./data_sets/starbucks/checkpoint_LR/config_0/fold_3/LR-May-24-2025_01-27-59.pth,0,{},3,344,128,29,0.012121438980102539
+starbucks,LR,4,./data_sets/starbucks/checkpoint_LR/config_0/fold_4/LR-May-24-2025_01-28-04.pth,0,{},4,347,128,39,0.015895366668701172
+starbucks,NFM,0,./data_sets/starbucks/checkpoint_NFM/config_0/fold_0/NFM-May-24-2025_01-28-09.pth,0,"{'n_factors': 15, 'n_epochs': 10}",0,342,135,35,0.03467845916748047
+starbucks,NFM,1,./data_sets/starbucks/checkpoint_NFM/config_0/fold_1/NFM-May-24-2025_01-28-14.pth,0,"{'n_factors': 15, 'n_epochs': 10}",1,339,133,46,0.04443526268005371
+starbucks,NFM,2,./data_sets/starbucks/checkpoint_NFM/config_0/fold_2/NFM-May-24-2025_01-28-19.pth,0,"{'n_factors': 15, 'n_epochs': 10}",2,343,130,40,0.06258940696716309
+starbucks,NFM,3,./data_sets/starbucks/checkpoint_NFM/config_0/fold_3/NFM-May-24-2025_01-28-25.pth,0,"{'n_factors': 15, 'n_epochs': 10}",3,344,128,29,0.03867697715759277
+starbucks,NFM,4,./data_sets/starbucks/checkpoint_NFM/config_0/fold_4/NFM-May-24-2025_01-28-30.pth,0,"{'n_factors': 15, 'n_epochs': 10}",4,347,128,39,0.04738306999206543
+starbucks,PNN,0,./data_sets/starbucks/checkpoint_PNN/config_0/fold_0/PNN-May-24-2025_01-33-27.pth,0,{},0,342,135,35,0.03485822677612305
+starbucks,PNN,1,./data_sets/starbucks/checkpoint_PNN/config_0/fold_1/PNN-May-24-2025_01-33-32.pth,0,{},1,339,133,46,0.045900583267211914
+starbucks,PNN,2,./data_sets/starbucks/checkpoint_PNN/config_0/fold_2/PNN-May-24-2025_01-33-37.pth,0,{},2,343,130,40,0.03367471694946289
+starbucks,PNN,3,./data_sets/starbucks/checkpoint_PNN/config_0/fold_3/PNN-May-24-2025_01-33-42.pth,0,{},3,344,128,29,0.03204536437988281
+starbucks,PNN,4,./data_sets/starbucks/checkpoint_PNN/config_0/fold_4/PNN-May-24-2025_01-33-47.pth,0,{},4,347,128,39,0.04002070426940918
+starbucks,WideDeep,0,./data_sets/starbucks/checkpoint_WideDeep/config_0/fold_0/WideDeep-May-24-2025_01-33-52.pth,0,{},0,342,135,35,0.028209924697875977
+starbucks,WideDeep,1,./data_sets/starbucks/checkpoint_WideDeep/config_0/fold_1/WideDeep-May-24-2025_01-33-58.pth,0,{},1,339,133,46,0.03946852684020996
+starbucks,WideDeep,2,./data_sets/starbucks/checkpoint_WideDeep/config_0/fold_2/WideDeep-May-24-2025_01-34-03.pth,0,{},2,343,130,40,0.02933645248413086
+starbucks,WideDeep,3,./data_sets/starbucks/checkpoint_WideDeep/config_0/fold_3/WideDeep-May-24-2025_01-34-08.pth,0,{},3,344,128,29,0.01569986343383789
+starbucks,WideDeep,4,./data_sets/starbucks/checkpoint_WideDeep/config_0/fold_4/WideDeep-May-24-2025_01-34-13.pth,0,{},4,347,128,39,0.02935051918029785
+starbucks,xDeepFM,0,./data_sets/starbucks/checkpoint_xDeepFM/config_0/fold_0/xDeepFM-May-24-2025_01-34-18.pth,0,{},0,342,135,35,0.17525792121887207
+starbucks,xDeepFM,1,./data_sets/starbucks/checkpoint_xDeepFM/config_0/fold_1/xDeepFM-May-24-2025_01-34-24.pth,0,{},1,339,133,46,0.30785155296325684
+starbucks,xDeepFM,2,./data_sets/starbucks/checkpoint_xDeepFM/config_0/fold_2/xDeepFM-May-24-2025_01-34-30.pth,0,{},2,343,130,40,0.1844327449798584
+starbucks,xDeepFM,3,./data_sets/starbucks/checkpoint_xDeepFM/config_0/fold_3/xDeepFM-May-24-2025_01-34-35.pth,0,{},3,344,128,29,0.1798536777496338
+starbucks,xDeepFM,4,./data_sets/starbucks/checkpoint_xDeepFM/config_0/fold_4/xDeepFM-May-24-2025_01-34-41.pth,0,{},4,347,128,39,0.23161101341247559
+videogamessecond,AFM,0,./data_sets/videogamessecond/checkpoint_AFM/config_0/fold_0/AFM-May-24-2025_01-55-29.pth,0,{},0,28624,9551,20,0.027100563049316406
+videogamessecond,AFM,1,./data_sets/videogamessecond/checkpoint_AFM/config_0/fold_1/AFM-May-24-2025_01-55-40.pth,0,{},1,28627,9549,28,0.01690530776977539
+videogamessecond,AFM,2,./data_sets/videogamessecond/checkpoint_AFM/config_0/fold_2/AFM-May-24-2025_01-55-51.pth,0,{},2,28629,9547,26,0.02846217155456543
+videogamessecond,AFM,3,./data_sets/videogamessecond/checkpoint_AFM/config_0/fold_3/AFM-May-24-2025_01-56-01.pth,0,{},3,28619,9551,27,0.016315221786499023
+videogamessecond,AFM,4,./data_sets/videogamessecond/checkpoint_AFM/config_0/fold_4/AFM-May-24-2025_01-56-12.pth,0,{},4,28622,9551,29,0.017798662185668945
+videogamessecond,AutoInt,0,./data_sets/videogamessecond/checkpoint_AutoInt/config_0/fold_0/AutoInt-May-24-2025_02-05-41.pth,0,{},0,28624,9551,20,0.027568340301513672
+videogamessecond,AutoInt,1,./data_sets/videogamessecond/checkpoint_AutoInt/config_0/fold_1/AutoInt-May-24-2025_02-06-01.pth,0,{},1,28627,9549,28,0.04092836380004883
+videogamessecond,AutoInt,2,./data_sets/videogamessecond/checkpoint_AutoInt/config_0/fold_2/AutoInt-May-24-2025_02-06-20.pth,0,{},2,28629,9547,26,0.062093496322631836
+videogamessecond,AutoInt,3,./data_sets/videogamessecond/checkpoint_AutoInt/config_0/fold_3/AutoInt-May-24-2025_02-06-39.pth,0,{},3,28619,9551,27,0.036966562271118164
+videogamessecond,AutoInt,4,./data_sets/videogamessecond/checkpoint_AutoInt/config_0/fold_4/AutoInt-May-24-2025_02-06-59.pth,0,{},4,28622,9551,29,0.04638934135437012
+videogamessecond,DCN,0,./data_sets/videogamessecond/checkpoint_DCN/config_0/fold_0/DCN-May-24-2025_01-56-23.pth,0,{},0,28624,9551,20,0.023771286010742188
+videogamessecond,DCN,1,./data_sets/videogamessecond/checkpoint_DCN/config_0/fold_1/DCN-May-24-2025_01-56-49.pth,0,{},1,28627,9549,28,0.015007257461547852
+videogamessecond,DCN,2,./data_sets/videogamessecond/checkpoint_DCN/config_0/fold_2/DCN-May-24-2025_01-57-16.pth,0,{},2,28629,9547,26,0.024701595306396484
+videogamessecond,DCN,3,./data_sets/videogamessecond/checkpoint_DCN/config_0/fold_3/DCN-May-24-2025_01-57-42.pth,0,{},3,28619,9551,27,0.03671407699584961
+videogamessecond,DCN,4,./data_sets/videogamessecond/checkpoint_DCN/config_0/fold_4/DCN-May-24-2025_01-58-08.pth,0,{},4,28622,9551,29,0.028588533401489258
+videogamessecond,DeepFM,0,./data_sets/videogamessecond/checkpoint_DeepFM/config_0/fold_0/DeepFM-May-24-2025_01-58-35.pth,0,{},0,28624,9551,20,0.01636981964111328
+videogamessecond,DeepFM,1,./data_sets/videogamessecond/checkpoint_DeepFM/config_0/fold_1/DeepFM-May-24-2025_01-58-51.pth,0,{},1,28627,9549,28,0.032668113708496094
+videogamessecond,DeepFM,2,./data_sets/videogamessecond/checkpoint_DeepFM/config_0/fold_2/DeepFM-May-24-2025_01-59-08.pth,0,{},2,28629,9547,26,0.016892433166503906
+videogamessecond,DeepFM,3,./data_sets/videogamessecond/checkpoint_DeepFM/config_0/fold_3/DeepFM-May-24-2025_01-59-25.pth,0,{},3,28619,9551,27,0.019259929656982422
+videogamessecond,DeepFM,4,./data_sets/videogamessecond/checkpoint_DeepFM/config_0/fold_4/DeepFM-May-24-2025_01-59-42.pth,0,{},4,28622,9551,29,0.03445768356323242
+videogamessecond,DSSM,0,./data_sets/videogamessecond/checkpoint_DSSM/config_0/fold_0/DSSM-May-24-2025_01-59-59.pth,0,{},0,28624,9551,20,0.02180957794189453
+videogamessecond,DSSM,1,./data_sets/videogamessecond/checkpoint_DSSM/config_0/fold_1/DSSM-May-24-2025_02-00-39.pth,0,{},1,28627,9549,28,0.03148055076599121
+videogamessecond,DSSM,2,./data_sets/videogamessecond/checkpoint_DSSM/config_0/fold_2/DSSM-May-24-2025_02-01-19.pth,0,{},2,28629,9547,26,0.01564311981201172
+videogamessecond,DSSM,3,./data_sets/videogamessecond/checkpoint_DSSM/config_0/fold_3/DSSM-May-24-2025_02-01-59.pth,0,{},3,28619,9551,27,0.03134775161743164
+videogamessecond,DSSM,4,./data_sets/videogamessecond/checkpoint_DSSM/config_0/fold_4/DSSM-May-24-2025_02-02-40.pth,0,{},4,28622,9551,29,0.03712344169616699
+videogamessecond,EulerNet,0,./data_sets/videogamessecond/checkpoint_EulerNet/config_0/fold_0/EulerNet-May-24-2025_02-07-18.pth,0,{},0,28624,9551,20,0.017110586166381836
+videogamessecond,EulerNet,1,./data_sets/videogamessecond/checkpoint_EulerNet/config_0/fold_1/EulerNet-May-24-2025_02-07-48.pth,0,{},1,28627,9549,28,0.027554750442504883
+videogamessecond,EulerNet,2,./data_sets/videogamessecond/checkpoint_EulerNet/config_0/fold_2/EulerNet-May-24-2025_02-08-18.pth,0,{},2,28629,9547,26,0.019672155380249023
+videogamessecond,EulerNet,3,./data_sets/videogamessecond/checkpoint_EulerNet/config_0/fold_3/EulerNet-May-24-2025_02-08-47.pth,0,{},3,28619,9551,27,0.03167724609375
+videogamessecond,EulerNet,4,./data_sets/videogamessecond/checkpoint_EulerNet/config_0/fold_4/EulerNet-May-24-2025_02-09-16.pth,0,{},4,28622,9551,29,0.028654813766479492
+videogamessecond,FiGNN,0,./data_sets/videogamessecond/checkpoint_FiGNN/config_0/fold_0/FiGNN-May-24-2025_02-04-16.pth,0,{},0,28624,9551,20,0.02298903465270996
+videogamessecond,FiGNN,1,./data_sets/videogamessecond/checkpoint_FiGNN/config_0/fold_1/FiGNN-May-24-2025_02-04-33.pth,0,{},1,28627,9549,28,0.024433135986328125
+videogamessecond,FiGNN,2,./data_sets/videogamessecond/checkpoint_FiGNN/config_0/fold_2/FiGNN-May-24-2025_02-04-50.pth,0,{},2,28629,9547,26,0.02845597267150879
+videogamessecond,FiGNN,3,./data_sets/videogamessecond/checkpoint_FiGNN/config_0/fold_3/FiGNN-May-24-2025_02-05-07.pth,0,{},3,28619,9551,27,0.031519412994384766
+videogamessecond,FiGNN,4,./data_sets/videogamessecond/checkpoint_FiGNN/config_0/fold_4/FiGNN-May-24-2025_02-05-24.pth,0,{},4,28622,9551,29,0.030779600143432617
+videogamessecond,FM,0,./data_sets/videogamessecond/checkpoint_FM/config_0/fold_0/FM-May-24-2025_02-09-46.pth,0,"{'task': 'rating', 'epoch': 10, 'lr': 0.05}",0,28624,9551,20,0.011000394821166992
+videogamessecond,FM,1,./data_sets/videogamessecond/checkpoint_FM/config_0/fold_1/FM-May-24-2025_02-09-56.pth,0,"{'task': 'rating', 'epoch': 10, 'lr': 0.05}",1,28627,9549,28,0.031113624572753906
+videogamessecond,FM,2,./data_sets/videogamessecond/checkpoint_FM/config_0/fold_2/FM-May-24-2025_02-10-05.pth,0,"{'task': 'rating', 'epoch': 10, 'lr': 0.05}",2,28629,9547,26,0.015694141387939453
+videogamessecond,FM,3,./data_sets/videogamessecond/checkpoint_FM/config_0/fold_3/FM-May-24-2025_02-10-15.pth,0,"{'task': 'rating', 'epoch': 10, 'lr': 0.05}",3,28619,9551,27,0.01092386245727539
+videogamessecond,FM,4,./data_sets/videogamessecond/checkpoint_FM/config_0/fold_4/FM-May-24-2025_02-10-25.pth,0,"{'task': 'rating', 'epoch': 10, 'lr': 0.05}",4,28622,9551,29,0.0019996166229248047
+videogamessecond,FNN,0,./data_sets/videogamessecond/checkpoint_FNN/config_0/fold_0/FNN-May-24-2025_02-10-34.pth,0,{},0,28624,9551,20,0.014256954193115234
+videogamessecond,FNN,1,./data_sets/videogamessecond/checkpoint_FNN/config_0/fold_1/FNN-May-24-2025_02-10-57.pth,0,{},1,28627,9549,28,0.02112269401550293
+videogamessecond,FNN,2,./data_sets/videogamessecond/checkpoint_FNN/config_0/fold_2/FNN-May-24-2025_02-11-20.pth,0,{},2,28629,9547,26,0.0070002079010009766
+videogamessecond,FNN,3,./data_sets/videogamessecond/checkpoint_FNN/config_0/fold_3/FNN-May-24-2025_02-11-44.pth,0,{},3,28619,9551,27,0.01877284049987793
+videogamessecond,FNN,4,./data_sets/videogamessecond/checkpoint_FNN/config_0/fold_4/FNN-May-24-2025_02-12-07.pth,0,{},4,28622,9551,29,0.021379470825195312
+videogamessecond,FwFM,0,./data_sets/videogamessecond/checkpoint_FwFM/config_0/fold_0/FwFM-May-24-2025_02-12-30.pth,0,{},0,28624,9551,20,0.007224559783935547
+videogamessecond,FwFM,1,./data_sets/videogamessecond/checkpoint_FwFM/config_0/fold_1/FwFM-May-24-2025_02-12-40.pth,0,{},1,28627,9549,28,0.024790525436401367
+videogamessecond,FwFM,2,./data_sets/videogamessecond/checkpoint_FwFM/config_0/fold_2/FwFM-May-24-2025_02-12-50.pth,0,{},2,28629,9547,26,0.013588905334472656
+videogamessecond,FwFM,3,./data_sets/videogamessecond/checkpoint_FwFM/config_0/fold_3/FwFM-May-24-2025_02-13-00.pth,0,{},3,28619,9551,27,0.017899036407470703
+videogamessecond,FwFM,4,./data_sets/videogamessecond/checkpoint_FwFM/config_0/fold_4/FwFM-May-24-2025_02-13-09.pth,0,{},4,28622,9551,29,0.016102313995361328
+videogamessecond,LR,0,./data_sets/videogamessecond/checkpoint_LR/config_0/fold_0/LR-May-24-2025_01-53-50.pth,0,{},0,28624,9551,20,0.00843358039855957
+videogamessecond,LR,1,./data_sets/videogamessecond/checkpoint_LR/config_0/fold_1/LR-May-24-2025_01-53-58.pth,0,{},1,28627,9549,28,0.0
+videogamessecond,LR,2,./data_sets/videogamessecond/checkpoint_LR/config_0/fold_2/LR-May-24-2025_01-54-06.pth,0,{},2,28629,9547,26,0.016238689422607422
+videogamessecond,LR,3,./data_sets/videogamessecond/checkpoint_LR/config_0/fold_3/LR-May-24-2025_01-54-13.pth,0,{},3,28619,9551,27,0.014506340026855469
+videogamessecond,LR,4,./data_sets/videogamessecond/checkpoint_LR/config_0/fold_4/LR-May-24-2025_01-54-21.pth,0,{},4,28622,9551,29,0.016234397888183594
+videogamessecond,NFM,0,./data_sets/videogamessecond/checkpoint_NFM/config_0/fold_0/NFM-May-24-2025_01-54-29.pth,0,"{'n_factors': 15, 'n_epochs': 10}",0,28624,9551,20,0.010009765625
+videogamessecond,NFM,1,./data_sets/videogamessecond/checkpoint_NFM/config_0/fold_1/NFM-May-24-2025_01-54-41.pth,0,"{'n_factors': 15, 'n_epochs': 10}",1,28627,9549,28,0.02917647361755371
+videogamessecond,NFM,2,./data_sets/videogamessecond/checkpoint_NFM/config_0/fold_2/NFM-May-24-2025_01-54-53.pth,0,"{'n_factors': 15, 'n_epochs': 10}",2,28629,9547,26,0.01503443717956543
+videogamessecond,NFM,3,./data_sets/videogamessecond/checkpoint_NFM/config_0/fold_3/NFM-May-24-2025_01-55-05.pth,0,"{'n_factors': 15, 'n_epochs': 10}",3,28619,9551,27,0.017116069793701172
+videogamessecond,NFM,4,./data_sets/videogamessecond/checkpoint_NFM/config_0/fold_4/NFM-May-24-2025_01-55-17.pth,0,"{'n_factors': 15, 'n_epochs': 10}",4,28622,9551,29,0.036603689193725586
+videogamessecond,PNN,0,./data_sets/videogamessecond/checkpoint_PNN/config_0/fold_0/PNN-May-24-2025_02-13-19.pth,0,{},0,28624,9551,20,0.017884016036987305
+videogamessecond,PNN,1,./data_sets/videogamessecond/checkpoint_PNN/config_0/fold_1/PNN-May-24-2025_02-13-32.pth,0,{},1,28627,9549,28,0.040963172912597656
+videogamessecond,PNN,2,./data_sets/videogamessecond/checkpoint_PNN/config_0/fold_2/PNN-May-24-2025_02-13-46.pth,0,{},2,28629,9547,26,0.018133878707885742
+videogamessecond,PNN,3,./data_sets/videogamessecond/checkpoint_PNN/config_0/fold_3/PNN-May-24-2025_02-13-59.pth,0,{},3,28619,9551,27,0.018425703048706055
+videogamessecond,PNN,4,./data_sets/videogamessecond/checkpoint_PNN/config_0/fold_4/PNN-May-24-2025_02-14-12.pth,0,{},4,28622,9551,29,0.015006303787231445
+videogamessecond,WideDeep,0,./data_sets/videogamessecond/checkpoint_WideDeep/config_0/fold_0/WideDeep-May-24-2025_02-14-26.pth,0,{},0,28624,9551,20,0.015005350112915039
+videogamessecond,WideDeep,1,./data_sets/videogamessecond/checkpoint_WideDeep/config_0/fold_1/WideDeep-May-24-2025_02-14-37.pth,0,{},1,28627,9549,28,0.020463943481445312
+videogamessecond,WideDeep,2,./data_sets/videogamessecond/checkpoint_WideDeep/config_0/fold_2/WideDeep-May-24-2025_02-14-49.pth,0,{},2,28629,9547,26,0.015008687973022461
+videogamessecond,WideDeep,3,./data_sets/videogamessecond/checkpoint_WideDeep/config_0/fold_3/WideDeep-May-24-2025_02-15-00.pth,0,{},3,28619,9551,27,0.015683889389038086
+videogamessecond,WideDeep,4,./data_sets/videogamessecond/checkpoint_WideDeep/config_0/fold_4/WideDeep-May-24-2025_02-15-11.pth,0,{},4,28622,9551,29,0.03545069694519043
+videogamessecond,xDeepFM,0,./data_sets/videogamessecond/checkpoint_xDeepFM/config_0/fold_0/xDeepFM-May-24-2025_02-15-23.pth,0,{},0,28624,9551,20,0.02817702293395996
+videogamessecond,xDeepFM,1,./data_sets/videogamessecond/checkpoint_xDeepFM/config_0/fold_1/xDeepFM-May-24-2025_02-16-12.pth,0,{},1,28627,9549,28,0.04414725303649902
+videogamessecond,xDeepFM,2,./data_sets/videogamessecond/checkpoint_xDeepFM/config_0/fold_2/xDeepFM-May-24-2025_02-17-01.pth,0,{},2,28629,9547,26,0.05744528770446777
+videogamessecond,xDeepFM,3,./data_sets/videogamessecond/checkpoint_xDeepFM/config_0/fold_3/xDeepFM-May-24-2025_02-17-57.pth,0,{},3,28619,9551,27,0.04877662658691406
+videogamessecond,xDeepFM,4,./data_sets/videogamessecond/checkpoint_xDeepFM/config_0/fold_4/xDeepFM-May-24-2025_02-18-46.pth,0,{},4,28622,9551,29,0.0625295639038086
+winesspa,AFM,0,./data_sets/winesspa/checkpoint_AFM/config_0/fold_0/AFM-May-18-2025_20-59-05.pth,0,{},0,100,100,100,0.08153295516967773
+winesspa,AFM,1,./data_sets/winesspa/checkpoint_AFM/config_0/fold_1/AFM-May-18-2025_20-59-11.pth,0,{},1,100,100,100,0.08243918418884277
+winesspa,AFM,2,./data_sets/winesspa/checkpoint_AFM/config_0/fold_2/AFM-May-18-2025_20-59-17.pth,0,{},2,100,100,100,0.10303616523742676
+winesspa,AFM,3,./data_sets/winesspa/checkpoint_AFM/config_0/fold_3/AFM-May-18-2025_20-59-23.pth,0,{},3,100,100,100,0.0678400993347168
+winesspa,AFM,4,./data_sets/winesspa/checkpoint_AFM/config_0/fold_4/AFM-May-18-2025_20-59-29.pth,0,{},4,100,100,100,0.06962132453918457
+winesspa,AutoInt,0,./data_sets/winesspa/checkpoint_AutoInt/config_0/fold_0/AutoInt-May-18-2025_21-02-41.pth,0,{},0,100,100,100,0.2152092456817627
+winesspa,AutoInt,1,./data_sets/winesspa/checkpoint_AutoInt/config_0/fold_1/AutoInt-May-18-2025_21-02-48.pth,0,{},1,100,100,100,0.21509218215942383
+winesspa,AutoInt,2,./data_sets/winesspa/checkpoint_AutoInt/config_0/fold_2/AutoInt-May-18-2025_21-02-55.pth,0,{},2,100,100,100,0.2224574089050293
+winesspa,AutoInt,3,./data_sets/winesspa/checkpoint_AutoInt/config_0/fold_3/AutoInt-May-18-2025_21-03-02.pth,0,{},3,100,100,100,0.21800613403320312
+winesspa,AutoInt,4,./data_sets/winesspa/checkpoint_AutoInt/config_0/fold_4/AutoInt-May-18-2025_21-03-09.pth,0,{},4,100,100,100,0.21713995933532715
+winesspa,DCN,0,./data_sets/winesspa/checkpoint_DCN/config_0/fold_0/DCN-May-18-2025_20-59-35.pth,0,{},0,100,100,100,0.18741703033447266
+winesspa,DCN,1,./data_sets/winesspa/checkpoint_DCN/config_0/fold_1/DCN-May-18-2025_20-59-44.pth,0,{},1,100,100,100,0.17700791358947754
+winesspa,DCN,2,./data_sets/winesspa/checkpoint_DCN/config_0/fold_2/DCN-May-18-2025_20-59-52.pth,0,{},2,100,100,100,0.23713350296020508
+winesspa,DCN,3,./data_sets/winesspa/checkpoint_DCN/config_0/fold_3/DCN-May-18-2025_21-00-01.pth,0,{},3,100,100,100,0.18696856498718262
+winesspa,DCN,4,./data_sets/winesspa/checkpoint_DCN/config_0/fold_4/DCN-May-18-2025_21-00-09.pth,0,{},4,100,100,100,0.18087100982666016
+winesspa,DeepFM,0,./data_sets/winesspa/checkpoint_DeepFM/config_0/fold_0/DeepFM-May-18-2025_21-00-17.pth,0,{},0,100,100,100,0.12081027030944824
+winesspa,DeepFM,1,./data_sets/winesspa/checkpoint_DeepFM/config_0/fold_1/DeepFM-May-18-2025_21-00-23.pth,0,{},1,100,100,100,0.11348366737365723
+winesspa,DeepFM,2,./data_sets/winesspa/checkpoint_DeepFM/config_0/fold_2/DeepFM-May-18-2025_21-00-30.pth,0,{},2,100,100,100,0.18106913566589355
+winesspa,DeepFM,3,./data_sets/winesspa/checkpoint_DeepFM/config_0/fold_3/DeepFM-May-18-2025_21-00-37.pth,0,{},3,100,100,100,0.12046933174133301
+winesspa,DeepFM,4,./data_sets/winesspa/checkpoint_DeepFM/config_0/fold_4/DeepFM-May-18-2025_21-00-43.pth,0,{},4,100,100,100,0.11388993263244629
+winesspa,DSSM,0,./data_sets/winesspa/checkpoint_DSSM/config_0/fold_0/DSSM-May-18-2025_21-00-50.pth,0,{},0,100,100,100,0.25841856002807617
+winesspa,DSSM,1,./data_sets/winesspa/checkpoint_DSSM/config_0/fold_1/DSSM-May-18-2025_21-00-59.pth,0,{},1,100,100,100,0.2555873394012451
+winesspa,DSSM,2,./data_sets/winesspa/checkpoint_DSSM/config_0/fold_2/DSSM-May-18-2025_21-01-09.pth,0,{},2,100,100,100,0.2630596160888672
+winesspa,DSSM,3,./data_sets/winesspa/checkpoint_DSSM/config_0/fold_3/DSSM-May-18-2025_21-01-19.pth,0,{},3,100,100,100,0.3553605079650879
+winesspa,DSSM,4,./data_sets/winesspa/checkpoint_DSSM/config_0/fold_4/DSSM-May-18-2025_21-01-28.pth,0,{},4,100,100,100,0.2669072151184082
+winesspa,EulerNet,0,./data_sets/winesspa/checkpoint_EulerNet/config_0/fold_0/EulerNet-May-18-2025_21-03-17.pth,0,{},0,100,100,100,0.24313759803771973
+winesspa,EulerNet,1,./data_sets/winesspa/checkpoint_EulerNet/config_0/fold_1/EulerNet-May-18-2025_21-03-25.pth,0,{},1,100,100,100,0.25516629219055176
+winesspa,EulerNet,2,./data_sets/winesspa/checkpoint_EulerNet/config_0/fold_2/EulerNet-May-18-2025_21-03-33.pth,0,{},2,100,100,100,0.24448466300964355
+winesspa,EulerNet,3,./data_sets/winesspa/checkpoint_EulerNet/config_0/fold_3/EulerNet-May-18-2025_21-03-41.pth,0,{},3,100,100,100,0.3224813938140869
+winesspa,EulerNet,4,./data_sets/winesspa/checkpoint_EulerNet/config_0/fold_4/EulerNet-May-18-2025_21-03-50.pth,0,{},4,100,100,100,0.23342013359069824
+winesspa,FiGNN,0,./data_sets/winesspa/checkpoint_FiGNN/config_0/fold_0/FiGNN-May-18-2025_21-02-07.pth,0,{},0,100,100,100,0.19099116325378418
+winesspa,FiGNN,1,./data_sets/winesspa/checkpoint_FiGNN/config_0/fold_1/FiGNN-May-18-2025_21-02-14.pth,0,{},1,100,100,100,0.19203996658325195
+winesspa,FiGNN,2,./data_sets/winesspa/checkpoint_FiGNN/config_0/fold_2/FiGNN-May-18-2025_21-02-21.pth,0,{},2,100,100,100,0.259458065032959
+winesspa,FiGNN,3,./data_sets/winesspa/checkpoint_FiGNN/config_0/fold_3/FiGNN-May-18-2025_21-02-27.pth,0,{},3,100,100,100,0.19635653495788574
+winesspa,FiGNN,4,./data_sets/winesspa/checkpoint_FiGNN/config_0/fold_4/FiGNN-May-18-2025_21-02-34.pth,0,{},4,100,100,100,0.19310832023620605
+winesspa,FM,0,./data_sets/winesspa/checkpoint_FM/config_0/fold_0/FM-May-18-2025_21-03-58.pth,0,"{'task': 'rating', 'epoch': 10, 'lr': 0.05}",0,100,100,100,0.05878162384033203
+winesspa,FM,1,./data_sets/winesspa/checkpoint_FM/config_0/fold_1/FM-May-18-2025_21-04-04.pth,0,"{'task': 'rating', 'epoch': 10, 'lr': 0.05}",1,100,100,100,0.06862306594848633
+winesspa,FM,2,./data_sets/winesspa/checkpoint_FM/config_0/fold_2/FM-May-18-2025_21-04-10.pth,0,"{'task': 'rating', 'epoch': 10, 'lr': 0.05}",2,100,100,100,0.05567002296447754
+winesspa,FM,3,./data_sets/winesspa/checkpoint_FM/config_0/fold_3/FM-May-18-2025_21-04-15.pth,0,"{'task': 'rating', 'epoch': 10, 'lr': 0.05}",3,100,100,100,0.06324911117553711
+winesspa,FM,4,./data_sets/winesspa/checkpoint_FM/config_0/fold_4/FM-May-18-2025_21-04-21.pth,0,"{'task': 'rating', 'epoch': 10, 'lr': 0.05}",4,100,100,100,0.06838464736938477
+winesspa,FNN,0,./data_sets/winesspa/checkpoint_FNN/config_0/fold_0/FNN-May-18-2025_21-04-27.pth,0,{},0,100,100,100,0.12894535064697266
+winesspa,FNN,1,./data_sets/winesspa/checkpoint_FNN/config_0/fold_1/FNN-May-18-2025_21-04-35.pth,0,{},1,100,100,100,0.1361711025238037
+winesspa,FNN,2,./data_sets/winesspa/checkpoint_FNN/config_0/fold_2/FNN-May-18-2025_21-04-42.pth,0,{},2,100,100,100,0.15062308311462402
+winesspa,FNN,3,./data_sets/winesspa/checkpoint_FNN/config_0/fold_3/FNN-May-18-2025_21-04-49.pth,0,{},3,100,100,100,0.14150786399841309
+winesspa,FNN,4,./data_sets/winesspa/checkpoint_FNN/config_0/fold_4/FNN-May-18-2025_21-04-57.pth,0,{},4,100,100,100,0.13956284523010254
+winesspa,FwFM,0,./data_sets/winesspa/checkpoint_FwFM/config_0/fold_0/FwFM-May-18-2025_21-05-04.pth,0,{},0,100,100,100,0.05143570899963379
+winesspa,FwFM,1,./data_sets/winesspa/checkpoint_FwFM/config_0/fold_1/FwFM-May-18-2025_21-05-10.pth,0,{},1,100,100,100,0.06061911582946777
+winesspa,FwFM,2,./data_sets/winesspa/checkpoint_FwFM/config_0/fold_2/FwFM-May-18-2025_21-05-15.pth,0,{},2,100,100,100,0.0715177059173584
+winesspa,FwFM,3,./data_sets/winesspa/checkpoint_FwFM/config_0/fold_3/FwFM-May-18-2025_21-05-21.pth,0,{},3,100,100,100,0.06331992149353027
+winesspa,FwFM,4,./data_sets/winesspa/checkpoint_FwFM/config_0/fold_4/FwFM-May-18-2025_21-05-27.pth,0,{},4,100,100,100,0.060714006423950195
+winesspa,LR,0,./data_sets/winesspa/checkpoint_LR/config_0/fold_0/LR-May-18-2025_20-58-05.pth,0,{},0,100,100,100,0.051522254943847656
+winesspa,LR,1,./data_sets/winesspa/checkpoint_LR/config_0/fold_1/LR-May-18-2025_20-58-11.pth,0,{},1,100,100,100,0.03609466552734375
+winesspa,LR,2,./data_sets/winesspa/checkpoint_LR/config_0/fold_2/LR-May-18-2025_20-58-17.pth,0,{},2,100,100,100,0.032877206802368164
+winesspa,LR,3,./data_sets/winesspa/checkpoint_LR/config_0/fold_3/LR-May-18-2025_20-58-23.pth,0,{},3,100,100,100,0.03848099708557129
+winesspa,LR,4,./data_sets/winesspa/checkpoint_LR/config_0/fold_4/LR-May-18-2025_20-58-29.pth,0,{},4,100,100,100,0.024898290634155273
+winesspa,NFM,0,./data_sets/winesspa/checkpoint_NFM/config_0/fold_0/NFM-May-18-2025_20-58-34.pth,0,"{'n_factors': 15, 'n_epochs': 10}",0,100,100,100,0.11634016036987305
+winesspa,NFM,1,./data_sets/winesspa/checkpoint_NFM/config_0/fold_1/NFM-May-18-2025_20-58-40.pth,0,"{'n_factors': 15, 'n_epochs': 10}",1,100,100,100,0.15378069877624512
+winesspa,NFM,2,./data_sets/winesspa/checkpoint_NFM/config_0/fold_2/NFM-May-18-2025_20-58-47.pth,0,"{'n_factors': 15, 'n_epochs': 10}",2,100,100,100,0.132645845413208
+winesspa,NFM,3,./data_sets/winesspa/checkpoint_NFM/config_0/fold_3/NFM-May-18-2025_20-58-53.pth,0,"{'n_factors': 15, 'n_epochs': 10}",3,100,100,100,0.11978459358215332
+winesspa,NFM,4,./data_sets/winesspa/checkpoint_NFM/config_0/fold_4/NFM-May-18-2025_20-58-59.pth,0,"{'n_factors': 15, 'n_epochs': 10}",4,100,100,100,0.11532378196716309
+winesspa,PNN,0,./data_sets/winesspa/checkpoint_PNN/config_0/fold_0/PNN-May-18-2025_21-05-32.pth,0,{},0,100,100,100,0.099334716796875
+winesspa,PNN,1,./data_sets/winesspa/checkpoint_PNN/config_0/fold_1/PNN-May-18-2025_21-05-39.pth,0,{},1,100,100,100,0.10752081871032715
+winesspa,PNN,2,./data_sets/winesspa/checkpoint_PNN/config_0/fold_2/PNN-May-18-2025_21-05-45.pth,0,{},2,100,100,100,0.11025881767272949
+winesspa,PNN,3,./data_sets/winesspa/checkpoint_PNN/config_0/fold_3/PNN-May-18-2025_21-05-52.pth,0,{},3,100,100,100,0.1033928394317627
+winesspa,PNN,4,./data_sets/winesspa/checkpoint_PNN/config_0/fold_4/PNN-May-18-2025_21-05-58.pth,0,{},4,100,100,100,0.10504364967346191
+winesspa,WideDeep,0,./data_sets/winesspa/checkpoint_WideDeep/config_0/fold_0/WideDeep-May-18-2025_21-06-05.pth,0,{},0,100,100,100,0.06065940856933594
+winesspa,WideDeep,1,./data_sets/winesspa/checkpoint_WideDeep/config_0/fold_1/WideDeep-May-18-2025_21-06-11.pth,0,{},1,100,100,100,0.06918787956237793
+winesspa,WideDeep,2,./data_sets/winesspa/checkpoint_WideDeep/config_0/fold_2/WideDeep-May-18-2025_21-06-17.pth,0,{},2,100,100,100,0.06962347030639648
+winesspa,WideDeep,3,./data_sets/winesspa/checkpoint_WideDeep/config_0/fold_3/WideDeep-May-18-2025_21-06-23.pth,0,{},3,100,100,100,0.07203006744384766
+winesspa,WideDeep,4,./data_sets/winesspa/checkpoint_WideDeep/config_0/fold_4/WideDeep-May-18-2025_21-06-29.pth,0,{},4,100,100,100,0.0733029842376709
+winesspa,xDeepFM,0,./data_sets/winesspa/checkpoint_xDeepFM/config_0/fold_0/xDeepFM-May-18-2025_21-06-35.pth,0,{},0,100,100,100,0.7004003524780273
+winesspa,xDeepFM,1,./data_sets/winesspa/checkpoint_xDeepFM/config_0/fold_1/xDeepFM-May-18-2025_21-06-46.pth,0,{},1,100,100,100,0.6860320568084717
+winesspa,xDeepFM,2,./data_sets/winesspa/checkpoint_xDeepFM/config_0/fold_2/xDeepFM-May-18-2025_21-06-56.pth,0,{},2,100,100,100,0.7174391746520996
+winesspa,xDeepFM,3,./data_sets/winesspa/checkpoint_xDeepFM/config_0/fold_3/xDeepFM-May-18-2025_21-07-07.pth,0,{},3,100,100,100,0.7487277984619141
+winesspa,xDeepFM,4,./data_sets/winesspa/checkpoint_xDeepFM/config_0/fold_4/xDeepFM-May-18-2025_21-07-17.pth,0,{},4,100,100,100,0.7014405727386475
