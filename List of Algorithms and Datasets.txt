@@ -1,8 +1,8 @@
 Datasets:
- ["adidasvsnike","airlinesreviews","books","disneylandreviews","hashedwabreviews","rottentomatoesmovies","ryanairreviews","winesspa"]
+['adidasvsnike','airlinesreviews','airlines','animes','books','clothes','disneylandreviews','hotelssecond','iphone','laptops','products','productssecond','rottentomatoesmovies','ryanairreviews','starbucks','videogamessecond','winesspa']
+
 
 Algoritms:
-LR,NFM,AFM,DCN,DeepFM,DSSM,FFM,FiGNN,AutoInt,EulerNet,FM,FNN,FwFM,PNN,WideDeep,xDeepFM
+LR,NFM,AFM,DCN,DeepFM,DSSM,FiGNN,AutoInt,EulerNet,FM,FNN,FwFM,PNN,WideDeep,xDeepFM
 
 
-hotels,workouts,
