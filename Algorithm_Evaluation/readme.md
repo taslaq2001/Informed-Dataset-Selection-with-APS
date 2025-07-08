@@ -29,7 +29,7 @@ only the algorithm selection results.
     1. To run on HPC: run `hpc_convert_processed_to_atomic.py`.
     2. To run locally: run `run_convert_processed_to_atomic.py --data_set_name <data_set_name>` for each `data_set_name`
        in `hpc_data_set_names.data_set_names`.
-    3. 3. To run it for all the datasets with one command: run `python local_convert_processed_to_atomic.py`  
+    3. To run it for all the datasets with one command: run `python local_convert_processed_to_atomic.py`  
 3. Train all algorithms on all datasets.
     1. To run on HPC: run `hpc_recbole_fit.py`.
     2. To run locally:
